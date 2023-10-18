@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="cordova-plugin-BibleDataFromDBPlugin" version="1.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>BibleDataFromDBPlugin</name>
+    <engines>
+        <engine name="cordova" version=">=3.4.0"/>
+    </engines>
+    <js-module name="BibleDataFromDBPlugin" src="www/BibleDataFromDBPlugin.js">
+        <clobbers target="cordova.plugins.BibleDataFromDBPlugin" />
+    </js-module>
+    <platform name="ios">
+        <config-file parent="/*" target="config.xml">
+            <feature name="BibleDataFromDBPlugin">
+                <param name="ios-package" value="BibleDataFromDBPlugin" />
+            </feature>
+        </config-file>
+
+        <source-file src="src/ios/Plugin/Frameworks/ObjectMapper-iOS.xcframework" target-dir="lib" framework="true" />
+        <framework src="src/ios/Plugin/Frameworks/ObjectMapper-iOS.xcframework" embed="true" custom="true" />
+        <source-file src="src/ios/Plugin/Frameworks/Realm.xcframework" target-dir="lib" framework="true" />
+        <framework src="src/ios/Plugin/Frameworks/Realm.xcframework" embed="true" custom="true" />
+        <source-file src="src/ios/Plugin/Frameworks/RealmSwift.xcframework" target-dir="lib" framework="true" />
+        <framework src="src/ios/Plugin/Frameworks/RealmSwift.xcframework" embed="true" custom="true" />
+
+        <source-file src="src/ios/Plugin/Manager/BibleDataFromDB.swift" />
+        <source-file src="src/ios/Plugin/Manager/NetworkManager.swift" />
+        <source-file src="src/ios/Plugin/Manager/Reachability.swift" />
+        <source-file src="src/ios/Plugin/Manager/DocumentsManager.swift" />
+        <source-file src="src/ios/Plugin/Models/RealmObjectMapper.swift" />
+        <source-file src="src/ios/Plugin/Models/Chapter.swift" />
+        <source-file src="src/ios/Plugin/Models/Book.swift" />
+        <source-file src="src/ios/Plugin/Models/JSONableModels.swift" />
+        <source-file src="src/ios/Plugin/Models/Verse.swift" />
+        <source-file src="src/ios/Plugin/Cordova/BibleDataFromDBPlugin.swift" />
+        <resource-file src="src/ios/Plugin/Resources/mp3/299886_UKR_TTB_0059_02092013_Matthew_1_17_Matthew_1_25_MM_.mp3" />
+        <resource-file src="src/ios/Plugin/Resources/mp3/299885_UKR_TTB_0058_30082013_Matthew_1_1_Matthew_1_16_MM_.mp3" />
+        <resource-file src="src/ios/Plugin/Resources/mp3/B01___01_Matthew_____UKRO95N2DA.mp3" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/1chr.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/1cor.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/1john.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/1kgs.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/1pet.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/1sam.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/1thess.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/1tim.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/2chr.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/2cor.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/2john.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/2kgs.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/2pet.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/2sam.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/2thess.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/2tim.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/3john.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/acts.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/amos.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/col.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/dan.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/deut.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/eccl.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/eph.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/esth.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/exod.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/ezek.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/ezra.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/gal.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/gen.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/hab.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/hag.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/heb.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/hos.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/isa.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/jas.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/jer.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/job.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/joel.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/john.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/jonah.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/josh.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/jude.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/judg.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/lam.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/lev.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/luke.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/mal.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/mark.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/matt.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/mic.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/nah.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/neh.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/num.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/obad.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/phil.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/phlm.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/prov.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/ps.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/rev.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/rom.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/ruth.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/song.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/titus.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/zech.json" />
+        <resource-file src="src/ios/Plugin/Resources/jsons/zeph.json" />
+
+    </platform>
+</plugin>
