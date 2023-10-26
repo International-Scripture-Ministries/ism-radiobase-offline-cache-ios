@@ -1,0 +1,21 @@
+{"data": [
+    {
+        "next": {
+            "id": "JON.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "AMO.9",
+            "number": "9"
+        },
+        "bibleId": "14b06ff3b2cf5e97-01",
+        "id": "OBA.1",
+        "bookId": "OBA",
+        "copyright": "Biblica® Bayibuli Entukuvu, Endagaano Enkadde nʼEndagaano Empya ekwatiddwa ku katambi™, Audio Edition Obwannannyini ℗ 2016 bwa Biblica, Inc. Biblica® Bayibuli Entukuvu, Endagaano Enkadde nʼEndagaano Empya ekwatiddwa ku katambi™ Obwannannyini © 1984, 1986, 1993, 2014 bwa Biblica, Inc. Biblica® Open Luganda Contemporary Bible™, Audio Edition Copyright © 2016 by Biblica, Inc. Biblica® Open Luganda Contemporary Bible™ Copyright © 1984, 1986, 1993, 2014 by Biblica, Inc. “Biblica” Linnya ery’obwannannyini eryawandiisibwa Biblica mu Amerika era nga balina n’ekkakkalabozo, Inc. Bwaweebwa olukusa okulikozesa. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-03-15T23:44:44.640Z",
+        "number": "1",
+        "reference": "Obadiya 1",
+        "updatedAt": "2023-03-15T23:44:44.640Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/14b06ff3b2cf5e97-01/OBA/OBA.1.mp3"
+    }
+]}
