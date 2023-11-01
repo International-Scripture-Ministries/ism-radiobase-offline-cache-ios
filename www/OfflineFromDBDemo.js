@@ -3,7 +3,7 @@ var exec = require('cordova/exec');
 
 module.exports = {
     initOfflineFromDBPlugin: function (input, successCallback, errorCallback) {
-        cordova.exec(successCallback, errorCallback, "OfflineFromDBPlugin", "initBibleDataFromDBPlugin", [input]);
+        cordova.exec(successCallback, errorCallback, "OfflineFromDBPlugin", "initOfflineFromDBPlugin", [input]);
     },
     getAllBooks: function (input, successCallback, errorCallback) {
         cordova.exec(successCallback, errorCallback, "OfflineFromDBPlugin", "getAllBooks", [input]);
