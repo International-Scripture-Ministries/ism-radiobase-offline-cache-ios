@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="cordova-plugin-OfflineFromDBDemo" version="1.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
-    <name>OfflineFromDBDemo</name>
+<plugin id="cordova-plugin-OfflineFromDBPlugin" version="1.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>OfflineFromDBPlugin</name>
     <engines>
         <engine name="cordova" version=">=3.4.0"/>
     </engines>
-    <js-module name="OfflineFromDBDemo" src="www/OfflineFromDBDemo.js">
-        <clobbers target="cordova.plugins.OfflineFromDBDemo" />
+    <js-module name="OfflineFromDBPlugin" src="www/OfflineFromDBPlugin.js">
+        <clobbers target="cordova.plugins.OfflineFromDBPlugin" />
     </js-module>
     <platform name="ios">
         <config-file parent="/*" target="config.xml">
-            <feature name="OfflineFromDBDemo">
-                <param name="ios-package" value="OfflineFromDBDemo" />
+            <feature name="OfflineFromDBPlugin">
+                <param name="ios-package" value="OfflineFromDBPlugin" />
             </feature>
         </config-file>
 

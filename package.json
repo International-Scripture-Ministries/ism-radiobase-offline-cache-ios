@@ -1,10 +1,10 @@
 {
-  "name": "OfflineFromDBDemo",
+  "name": "OfflineFromDBPlugin",
   "version": "1.0.0",
   "description": "testing offline cashe sdk",
   "main": "index.js",
   "cordova": {
-    "id": "cordova-plugin-OfflineFromDBDemo",
+    "id": "cordova-plugin-OfflineFromDBPlugin",
     "platforms": [
         "ios"
     ]
@@ -13,7 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "OfflineFromDBDemo"
+    "OfflineFromDBPlugin"
   ],
   "author": "Fahid Attique",
   "license": "ISC"

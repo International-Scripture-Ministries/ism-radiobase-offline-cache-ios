@@ -1,6 +1,6 @@
 //
 //  OfflineFromDBPlugin.swift
-//  OfflineFromDBDemo
+//  OfflineFromDBPlugin
 //
 //  Created by fahid
 //
