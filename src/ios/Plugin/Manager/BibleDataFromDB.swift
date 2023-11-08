@@ -16,11 +16,19 @@ protocol BibleDataManagerRepresentable {
     func getBookTeaching(bookId: String) -> Array<[String:Any]>
     func getTeaching(bookId: String, teachingUUID: String) -> [String:Any]
     func getTeachings(bibleBook: String, chapterNumber: Int, verseNumber: String) -> Array<[String:Any]>
+    func getTotalDownloads() -> Array<[String:Any]>
+    func getDownloadList(bookId: String, fileType: String) -> Array<[String:Any]> // fileType --> chapter/teaching
+    func getPercentage(bookId: String, fileType: String) -> [String:Any] // fileType --> chapter/teaching
+    func getBookPercentage(fileType: String) -> Array<[String:Any]> // fileType --> chapter/teaching
+    func updateDownload(fileName: String, localPath: String) -> [String:Any]  // file_name format {{bookID_type_UUID/CHAP}} example: GEN_chapter_5    OR   GEN_teaching_678687-798798-890. local_path will be the audio_path
+    func deleteDownloads(bookId: String, fileType: String) -> [String:Any]
+    func delete(bookId: String, fileType: String, chapterNumber: String, uuid: String) -> [String:Any]
+    func getBookDownloads(bookId: String) -> [String:Any]
 }
 
-class BibleDataManager {
+class BibleDataManager: BibleDataManagerRepresentable {
     
-    static let shared = BibleDataManager()
+    static let shared: BibleDataManagerRepresentable = BibleDataManager()
     private let defaults = UserDefaults.standard
     private let fileManager = FileManager.default
     private var bundle: Bundle {
@@ -138,7 +146,7 @@ class BibleDataManager {
             guard let teaching = verse.teaching else {
                 return false
             }
-            return teaching.bible_book == bibleBook &&
+            return teaching.bible_book.uppercased() == bibleBook &&
                    verse.chapterNumber == chapterNumber &&
                    verse.verseNumber == verseNumber
         })
@@ -148,6 +156,216 @@ class BibleDataManager {
             jsons.append($0.toJson())
         }
         return jsons
+    }
+    
+    func getTotalDownloads() -> Array<[String:Any]> {
+        let chapterAudios = realm.objects(Audio.self)
+        let teachings = realm.objects(Teaching.self)
+        let books = realm.objects(Book.self).filter({ book in
+            let isChapterAudioDownloaded = chapterAudios.contains { audio in
+                return audio.bookId == book.id && !audio.audio_path.isEmpty
+            }
+            let isTeachingAudioDownloaded = teachings.contains { teaching in
+                return teaching.bible_book.uppercased() == book.id && !teaching.audio_path.isEmpty
+            }
+            return isChapterAudioDownloaded || isTeachingAudioDownloaded
+        })
+        var jsons = Array<[String:Any]>()
+        books.forEach{
+            jsons.append($0.toTotalDownloadsJson())
+        }
+        return jsons
+    }
+    
+    func getDownloadList(bookId: String, fileType: String) -> Array<[String:Any]> {
+        var jsons = Array<[String:Any]>()
+        if fileType == "chapter" {
+            let chapterAudios = realm.objects(Audio.self).filter { audio in
+                return audio.bookId == bookId && audio.audio_path.isEmpty
+            }
+            chapterAudios.forEach{
+                jsons.append($0.toGetDownloadListJson())
+            }
+        } else if fileType == "teaching" {
+            let teachings = realm.objects(Teaching.self).filter { teaching in
+                return teaching.bible_book.uppercased() == bookId && teaching.audio_path.isEmpty
+            }
+            teachings.forEach{
+                jsons.append($0.toGetDownloadListJson())
+            }
+        }
+        return jsons
+    }
+    
+    func getPercentage(bookId: String, fileType: String) -> [String:Any] {
+        var json = [String:Any]()
+        if fileType == "chapter" {
+            let chapterAudios = realm.objects(Audio.self).filter { audio in
+                return audio.bookId == bookId
+            }
+            let downloaded = chapterAudios.filter { item in
+                return !item.audio_path.isEmpty
+            }
+            if !chapterAudios.isEmpty {
+                let percentage = downloaded.count / chapterAudios.count * 100
+                json = ["message": "success",
+                        "status": "true",
+                        "download_percentage": "\(percentage)"]
+            }
+        } else if fileType == "teaching" {
+            let teachings = realm.objects(Teaching.self).filter { teaching in
+                return teaching.bible_book.uppercased() == bookId
+            }
+            let downloaded = teachings.filter { item in
+                return !item.audio_path.isEmpty
+            }
+            if !teachings.isEmpty {
+                let percentage = downloaded.count / teachings.count * 100
+                json = ["message": "success",
+                        "status": "true",
+                        "download_percentage": "\(percentage)"]
+            }
+        }
+        return json
+    }
+    
+    func getBookPercentage(fileType: String) -> Array<[String:Any]> {
+        var jsons = Array<[String:Any]>()
+        let chapterAudios = realm.objects(Audio.self)
+        let teachings = realm.objects(Teaching.self)
+        let books = realm.objects(Book.self)
+        books.forEach({ book in
+            if fileType == "chapter" {
+                let total = chapterAudios.filter { item in
+                    return item.bookId == book.id
+                }
+                let downloaded = total.filter { item in
+                    return !item.audio_path.isEmpty
+                }
+                if !total.isEmpty {
+                    let percentage = downloaded.count / total.count * 100
+                    let json = ["book_id": book.id,
+                            "download_percentage": "\(percentage)"]
+                    jsons.append(json)
+                }
+            } else if fileType == "teaching" {
+                let total = teachings.filter { item in
+                    return item.bible_book.uppercased() == book.id
+                }
+                let downloaded = total.filter { item in
+                    return !item.audio_path.isEmpty
+                }
+                if !total.isEmpty {
+                    let percentage = downloaded.count / total.count * 100
+                    let json = ["book_id": book.id,
+                            "download_percentage": "\(percentage)"]
+                    jsons.append(json)
+                }
+            }
+        })
+        return jsons
+    }
+    
+    func updateDownload(fileName: String, localPath: String) -> [String:Any] {
+        var json = [String:Any]()
+        let components = fileName.components(separatedBy: "_")
+        if components.count != 3 { return json }
+        let bookID = components[0] 
+        let type = components[1]
+        let chapterOrUUID = components[2]
+        if type == "chapter" {
+            realm.objects(Audio.self).forEach({ audio in
+                if audio.bookId == bookID && audio.number == chapterOrUUID {
+                    try! self.realm.write {
+                        audio.audio_path = localPath
+                    }
+                }
+            })
+        } else if type == "teaching" {
+            realm.objects(Teaching.self).forEach({ teaching in
+                if teaching.bible_book.uppercased() == bookID && teaching.uuid == chapterOrUUID {
+                    try! self.realm.write {
+                        teaching.audio_path = localPath
+                    }
+                }
+            })
+        }
+        json = ["message": "success",
+                "status": "true"]
+        return json
+    }
+    
+    func deleteDownloads(bookId: String, fileType: String) -> [String:Any] {
+
+        var json = [String:Any]()
+        if fileType == "chapter" {
+            realm.objects(Audio.self).forEach({ audio in
+                if audio.bookId == bookId {
+                    try! self.realm.write {
+                        audio.audio_path = ""
+                    }
+                }
+            })
+        } else if fileType == "teaching" {
+            realm.objects(Teaching.self).forEach({ teaching in
+                if teaching.bible_book.uppercased() == bookId {
+                    try! self.realm.write {
+                        teaching.audio_path = ""
+                    }
+                }
+            })
+        }
+        json = ["message": "success",
+                "status": "true"]
+        return json
+    }
+    
+    func delete(bookId: String, fileType: String, chapterNumber: String, uuid: String) -> [String:Any] {
+        
+        var json = [String:Any]()
+        if fileType == "chapter" {
+            realm.objects(Audio.self).forEach({ audio in
+                if audio.bookId == bookId && audio.number == chapterNumber {
+                    try! self.realm.write {
+                        audio.audio_path = ""
+                    }
+                }
+            })
+        } else if fileType == "teaching" {
+            realm.objects(Teaching.self).forEach({ teaching in
+                if teaching.bible_book.uppercased() == bookId && teaching.uuid == uuid {
+                    try! self.realm.write {
+                        teaching.audio_path = ""
+                    }
+                }
+            })
+        }
+        json = ["message": "success",
+                "status": "true"]
+        return json
+    }
+    
+    func getBookDownloads(bookId: String) -> [String:Any] {
+        
+        var json = [String:Any]()
+        var chapters = Array<[String:Any]>()
+        var teachings = Array<[String:Any]>()
+
+        realm.objects(Audio.self).forEach({ audio in
+            if audio.bookId == bookId && !audio.audio_path.isEmpty {
+                chapters.append(audio.toGetBookDownloadsJson())
+            }
+        })
+
+        realm.objects(Teaching.self).forEach({ teaching in
+            if teaching.bible_book.uppercased() == bookId && !teaching.audio_path.isEmpty {
+                teachings.append(teaching.toGetBookDownloadsJson())
+            }
+        })
+
+        json = ["chapter": chapters,
+                "teaching": teachings]
+        return json
     }
 }
 

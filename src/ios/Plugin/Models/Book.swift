@@ -73,4 +73,11 @@ extension Book {
         dicto[CodingKeys.image_path.rawValue] = image_path
         return dicto
     }
+    
+    func toTotalDownloadsJson() -> [String:Any] {
+        var dicto = [String : Any]()
+        dicto["book_id"] = self.id
+        dicto["book_name"] = self.name
+        return dicto
+    }
 }

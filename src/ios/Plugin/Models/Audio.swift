@@ -57,3 +57,20 @@ class Audio: Object, Mappable {
         audio_path <- map[CodingKeys.audio_path.rawValue]
     }
 }
+
+extension Audio {
+    
+    func toGetDownloadListJson() -> [String:Any] {
+        var dicto = [String : Any]()
+        dicto["remoteUrl"] = url
+        dicto["id"] = number
+        return dicto
+    }
+    
+    func toGetBookDownloadsJson() -> [String:Any] {
+        var dicto = [String : Any]()
+        dicto["chapterNumber"] = number
+        dicto["audio_path"] = audio_path
+        return dicto
+    }
+}

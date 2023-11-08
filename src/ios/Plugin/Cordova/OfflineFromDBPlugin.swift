@@ -1,6 +1,6 @@
 //
 //  OfflineFromDBPlugin.swift
-//  OfflineFromDBPlugin
+//  OfflineFromDBDemo
 //
 //  Created by fahid
 //
@@ -31,9 +31,9 @@ import Foundation
     @objc(getVerses:) func getVerses(command: CDVInvokedUrlCommand) {
         print("command.arguments : \(command.arguments)")
         guard let arg = command.arguments.first as? [String:Any] else { return }
-        guard let bookID = arg["bookID"] as? String else { return }
-        guard let bibleId = arg["bibleId"] as? String else { return }
-        guard let chapterNumber = arg["chapterNumber"] as? Int else { return }
+        guard let bookID = arg["book_id"] as? String else { return }
+        guard let bibleId = arg["bible_id"] as? String else { return }
+        guard let chapterNumber = arg["chapter_number"] as? Int else { return }
         let json = BibleDataManager.shared.getVerses(bookId: bookID, bibleId: bibleId, chapterNumber: chapterNumber)
         let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
         self.commandDelegate!.send(pluginResult,callbackId: command.callbackId)
@@ -42,7 +42,7 @@ import Foundation
     @objc(getBookTeaching:) func getBookTeaching(command: CDVInvokedUrlCommand) {
         print("command.arguments : \(command.arguments)")
         guard let arg = command.arguments.first as? [String:Any] else { return }
-        guard let bookID = arg["bookID"] as? String else { return }
+        guard let bookID = arg["book_id"] as? String else { return }
         let json = BibleDataManager.shared.getBookTeaching(bookId: bookID)
         let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
         self.commandDelegate!.send(pluginResult,callbackId: command.callbackId)
@@ -51,9 +51,9 @@ import Foundation
     @objc(getTeachings:) func getTeachings(command: CDVInvokedUrlCommand) {
         print("command.arguments : \(command.arguments)")
         guard let arg = command.arguments.first as? [String:Any] else { return }
-        guard let bibleBook = arg["bibleBook"] as? String else { return }
-        guard let chapterNumber = arg["chapterNumber"] as? Int else { return }
-        guard let verseNumber = arg["verseNumber"] as? String else { return }
+        guard let bibleBook = arg["bible_book"] as? String else { return }
+        guard let chapterNumber = arg["chapter_number"] as? Int else { return }
+        guard let verseNumber = arg["verse_number"] as? String else { return }
         let json = BibleDataManager.shared.getTeachings(bibleBook: bibleBook, chapterNumber: chapterNumber, verseNumber: verseNumber)
         let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
         self.commandDelegate!.send(pluginResult,callbackId: command.callbackId)
@@ -62,9 +62,79 @@ import Foundation
     @objc(getTeaching:) func getTeaching(command: CDVInvokedUrlCommand) {
         print("command.arguments : \(command.arguments)")
         guard let arg = command.arguments.first as? [String:Any] else { return }
-        guard let bookID = arg["bookID"] as? String else { return }
-        guard let teachingUUID = arg["teachingUUID"] as? String else { return }
+        guard let bookID = arg["book_id"] as? String else { return }
+        guard let teachingUUID = arg["teaching_uuid"] as? String else { return }
         let json = BibleDataManager.shared.getTeaching(bookId: bookID, teachingUUID: teachingUUID)
+        let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
+        self.commandDelegate!.send(pluginResult,callbackId: command.callbackId)
+    }
+    
+    @objc(getTotalDownloads:) func getTotalDownloads(command: CDVInvokedUrlCommand) {
+        print("command.arguments : \(command.arguments)")
+        let json = BibleDataManager.shared.getTotalDownloads()
+        let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
+        self.commandDelegate!.send(pluginResult,callbackId: command.callbackId)
+    }
+
+    @objc(getDownloadList:) func getDownloadList(command: CDVInvokedUrlCommand) {
+        print("command.arguments : \(command.arguments)")
+        guard let bookID = arg["book_id"] as? String else { return }
+        guard let fileType = arg["file_type"] as? String else { return }
+        let json = BibleDataManager.shared.getDownloadList(bookId: bookID, fileType: fileType)
+        let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
+        self.commandDelegate!.send(pluginResult,callbackId: command.callbackId)
+    }
+
+    @objc(getPercentage:) func getPercentage(command: CDVInvokedUrlCommand) {
+        print("command.arguments : \(command.arguments)")
+        guard let bookID = arg["book_id"] as? String else { return }
+        guard let fileType = arg["file_type"] as? String else { return }
+        let json = BibleDataManager.shared.getPercentage(bookId: bookID, fileType: fileType)
+        let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
+        self.commandDelegate!.send(pluginResult,callbackId: command.callbackId)
+    }
+
+    @objc(getBookPercentage:) func getBookPercentage(command: CDVInvokedUrlCommand) {
+        print("command.arguments : \(command.arguments)")
+        guard let fileType = arg["file_type"] as? String else { return }
+        let json = BibleDataManager.shared.getBookPercentage(fileType: fileType)
+        let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
+        self.commandDelegate!.send(pluginResult,callbackId: command.callbackId)
+    }
+
+    @objc(updateDownload:) func updateDownload(command: CDVInvokedUrlCommand) {
+        print("command.arguments : \(command.arguments)")
+        guard let fileName = arg["file_name"] as? String else { return }
+        guard let localPath = arg["local_path"] as? String else { return }
+        let json = BibleDataManager.shared.updateDownload(fileName: fileName, localPath: localPath)
+        let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
+        self.commandDelegate!.send(pluginResult,callbackId: command.callbackId)
+    }
+
+    @objc(deleteDownloads:) func deleteDownloads(command: CDVInvokedUrlCommand) {
+        print("command.arguments : \(command.arguments)")
+        guard let bookID = arg["book_id"] as? String else { return }
+        guard let fileType = arg["file_type"] as? String else { return }
+        let json = BibleDataManager.shared.deleteDownloads(bookId: bookID, fileType: fileType)
+        let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
+        self.commandDelegate!.send(pluginResult,callbackId: command.callbackId)
+    }
+
+    @objc(delete:) func delete(command: CDVInvokedUrlCommand) {
+        print("command.arguments : \(command.arguments)")
+        guard let bookID = arg["book_id"] as? String else { return }
+        guard let fileType = arg["file_type"] as? String else { return }
+        let chapterNumber = arg["chapter_number"] as? String ?? ""
+        let uuid = arg["uuid"] as? String ?? ""
+        let json = BibleDataManager.shared.delete(bookId: bookID, fileType: fileType, chapterNumber: chapterNumber, uuid: uuid)
+        let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
+        self.commandDelegate!.send(pluginResult,callbackId: command.callbackId)
+    }
+
+    @objc(getBookDownloads:) func getBookDownloads(command: CDVInvokedUrlCommand) {
+        print("command.arguments : \(command.arguments)")
+        guard let bookID = arg["book_id"] as? String else { return }
+        let json = BibleDataManager.shared.getBookDownloads(bookId: bookID)
         let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
         self.commandDelegate!.send(pluginResult,callbackId: command.callbackId)
     }

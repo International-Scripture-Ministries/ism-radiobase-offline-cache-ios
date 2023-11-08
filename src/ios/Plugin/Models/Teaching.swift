@@ -126,4 +126,23 @@ extension Teaching {
         dicto[CodingKeys.audio_path.rawValue] = audio_path
         return dicto
     }
+    
+    func toGetDownloadListJson() -> [String:Any] {
+        var dicto = [String : Any]()
+        dicto["remoteUrl"] = Constants.baseUrlTeachingAudios + uuid
+        dicto["id"] = uuid
+        return dicto
+    }
+    
+    func toGetBookDownloadsJson() -> [String:Any] {
+        var dicto = [String : Any]()
+        dicto["uuid"] = uuid
+        dicto["name"] = name
+        dicto["description"] = _description
+        dicto["audio_duration"] = audio_duration
+        dicto["mime_type"] = mime_type
+        dicto["scheduled_date"] = scheduled_date
+        dicto["audio_path"] = audio_path
+        return dicto
+    }
 }
