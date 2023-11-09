@@ -242,12 +242,14 @@ class BibleDataManager: BibleDataManagerRepresentable {
                 let downloaded = total.filter { item in
                     return !item.audio_path.isEmpty
                 }
+                var json = ["book_id": book.id]
                 if !total.isEmpty {
                     let percentage = downloaded.count / total.count * 100
-                    let json = ["book_id": book.id,
-                            "download_percentage": "\(percentage)"]
-                    jsons.append(json)
+                    json["download_percentage"] = "\(percentage)"
+                } else {
+                    json["download_percentage"] = "0"
                 }
+                jsons.append(json)
             } else if fileType == "teaching" {
                 let total = teachings.filter { item in
                     return item.bible_book.uppercased() == book.id
@@ -255,12 +257,14 @@ class BibleDataManager: BibleDataManagerRepresentable {
                 let downloaded = total.filter { item in
                     return !item.audio_path.isEmpty
                 }
+                var json = ["book_id": book.id]
                 if !total.isEmpty {
                     let percentage = downloaded.count / total.count * 100
-                    let json = ["book_id": book.id,
-                            "download_percentage": "\(percentage)"]
-                    jsons.append(json)
+                    json["download_percentage"] = "\(percentage)"
+                } else {
+                    json["download_percentage"] = "0"
                 }
+                jsons.append(json)
             }
         })
         return jsons
@@ -268,9 +272,9 @@ class BibleDataManager: BibleDataManagerRepresentable {
     
     func updateDownload(fileName: String, localPath: String) -> [String:Any] {
         var json = [String:Any]()
-        let components = fileName.components(separatedBy: "_")
+        let components = fileName.components(separatedBy: ".").first?.components(separatedBy: "_") ?? []
         if components.count != 3 { return json }
-        let bookID = components[0] 
+        let bookID = components[0]
         let type = components[1]
         let chapterOrUUID = components[2]
         if type == "chapter" {
