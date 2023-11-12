@@ -31,9 +31,9 @@ import Foundation
     @objc(getVerses:) func getVerses(command: CDVInvokedUrlCommand) {
         print("command.arguments : \(command.arguments)")
         guard let arg = command.arguments.first as? [String:Any] else { return }
-        guard let bookID = arg["book_id"] as? String else { return }
-        guard let bibleId = arg["bible_id"] as? String else { return }
-        guard let chapterNumber = arg["chapter_number"] as? Int else { return }
+        guard let bookID = arg["bookId"] as? String else { return }
+        guard let bibleId = arg["bibleId"] as? String else { return }
+        guard let chapterNumber = arg["chapterNumber"] as? Int else { return }
         let json = BibleDataManager.shared.getVerses(bookId: bookID, bibleId: bibleId, chapterNumber: chapterNumber)
         let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
         self.commandDelegate!.send(pluginResult,callbackId: command.callbackId)
@@ -52,9 +52,7 @@ import Foundation
         print("command.arguments : \(command.arguments)")
         guard let arg = command.arguments.first as? [String:Any] else { return }
         guard let bibleBook = arg["bible_book"] as? String else { return }
-        guard let chapterNumber = arg["chapter_number"] as? Int else { return }
-        guard let verseNumber = arg["verse_number"] as? String else { return }
-        let json = BibleDataManager.shared.getTeachings(bibleBook: bibleBook, chapterNumber: chapterNumber, verseNumber: verseNumber)
+        let json = BibleDataManager.shared.getTeachings(bookId: bibleBook)
         let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
         self.commandDelegate!.send(pluginResult,callbackId: command.callbackId)
     }

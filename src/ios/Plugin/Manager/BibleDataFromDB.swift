@@ -15,7 +15,7 @@ protocol BibleDataManagerRepresentable {
     func getVerses(bookId: String, bibleId: String, chapterNumber: Int) -> Array<[String:Any]>
     func getBookTeaching(bookId: String) -> Array<[String:Any]>
     func getTeaching(bookId: String, teachingUUID: String) -> [String:Any]
-    func getTeachings(bibleBook: String, chapterNumber: Int, verseNumber: String) -> Array<[String:Any]>
+    func getTeachings(bookId: String) -> Array<[String:Any]>
     func getTotalDownloads() -> Array<[String:Any]>
     func getDownloadList(bookId: String, fileType: String) -> Array<[String:Any]> // fileType --> chapter/teaching
     func getPercentage(bookId: String, fileType: String) -> [String:Any] // fileType --> chapter/teaching
@@ -141,19 +141,17 @@ class BibleDataManager: BibleDataManagerRepresentable {
         return json
     }
     
-    func getTeachings(bibleBook: String, chapterNumber: Int, verseNumber: String) -> Array<[String:Any]> {
+    func getTeachings(bookId: String) -> Array<[String:Any]> {
         let verses = realm.objects(Verse.self).filter({ verse in
             guard let teaching = verse.teaching else {
                 return false
             }
-            return teaching.bible_book.uppercased() == bibleBook &&
-                   verse.chapterNumber == chapterNumber &&
-                   verse.verseNumber == verseNumber
+            return teaching.bible_book.uppercased() == bookId
         })
         let teachings = verses.compactMap { $0.teaching }
         var jsons = Array<[String:Any]>()
         teachings.forEach{
-            jsons.append($0.toJson())
+            jsons.append($0.toGetTeachingsJson())
         }
         return jsons
     }
@@ -198,7 +196,8 @@ class BibleDataManager: BibleDataManagerRepresentable {
     }
     
     func getPercentage(bookId: String, fileType: String) -> [String:Any] {
-        var json = [String:Any]()
+        var json = ["message": "success",
+                    "status": "true"]
         if fileType == "chapter" {
             let chapterAudios = realm.objects(Audio.self).filter { audio in
                 return audio.bookId == bookId
@@ -206,11 +205,21 @@ class BibleDataManager: BibleDataManagerRepresentable {
             let downloaded = chapterAudios.filter { item in
                 return !item.audio_path.isEmpty
             }
-            if !chapterAudios.isEmpty {
-                let percentage = downloaded.count / chapterAudios.count * 100
-                json = ["message": "success",
-                        "status": "true",
-                        "download_percentage": "\(percentage)"]
+            if chapterAudios.isEmpty {
+                json["download_percentage"] = "0"
+                json["download_status"] = "NULL"
+            } else {
+                let totalCount = Double(chapterAudios.count)
+                let downloadedCount = Double(downloaded.count)
+                let percentage = Int(downloadedCount / totalCount * 100)
+                json["download_percentage"] = "\(percentage)"
+                if percentage == 0 {
+                    json["download_status"] = "NULL"
+                } else if percentage == 100 {
+                    json["download_status"] = "COMPLETED"
+                } else {
+                    json["download_status"] = "PENDING"
+                }
             }
         } else if fileType == "teaching" {
             let teachings = realm.objects(Teaching.self).filter { teaching in
@@ -219,11 +228,21 @@ class BibleDataManager: BibleDataManagerRepresentable {
             let downloaded = teachings.filter { item in
                 return !item.audio_path.isEmpty
             }
-            if !teachings.isEmpty {
-                let percentage = downloaded.count / teachings.count * 100
-                json = ["message": "success",
-                        "status": "true",
-                        "download_percentage": "\(percentage)"]
+            if teachings.isEmpty {
+                json["download_percentage"] = "0"
+                json["download_status"] = "NULL"
+            } else {
+                let totalCount = Double(teachings.count)
+                let downloadedCount = Double(downloaded.count)
+                let percentage = Int(downloadedCount / totalCount * 100)
+                json["download_percentage"] = "\(percentage)"
+                if percentage == 0 {
+                    json["download_status"] = "NULL"
+                } else if percentage == 100 {
+                    json["download_status"] = "COMPLETED"
+                } else {
+                    json["download_status"] = "PENDING"
+                }
             }
         }
         return json
@@ -243,11 +262,21 @@ class BibleDataManager: BibleDataManagerRepresentable {
                     return !item.audio_path.isEmpty
                 }
                 var json = ["book_id": book.id]
-                if !total.isEmpty {
-                    let percentage = downloaded.count / total.count * 100
-                    json["download_percentage"] = "\(percentage)"
-                } else {
+                if total.isEmpty {
                     json["download_percentage"] = "0"
+                    json["download_status"] = "NULL"
+                } else {
+                    let totalCount = Double(total.count)
+                    let downloadedCount = Double(downloaded.count)
+                    let percentage = Int(downloadedCount / totalCount * 100)
+                    json["download_percentage"] = "\(percentage)"
+                    if percentage == 0 {
+                        json["download_status"] = "NULL"
+                    } else if percentage == 100 {
+                        json["download_status"] = "COMPLETED"
+                    } else {
+                        json["download_status"] = "PENDING"
+                    }
                 }
                 jsons.append(json)
             } else if fileType == "teaching" {
@@ -258,11 +287,21 @@ class BibleDataManager: BibleDataManagerRepresentable {
                     return !item.audio_path.isEmpty
                 }
                 var json = ["book_id": book.id]
-                if !total.isEmpty {
-                    let percentage = downloaded.count / total.count * 100
-                    json["download_percentage"] = "\(percentage)"
-                } else {
+                if total.isEmpty {
                     json["download_percentage"] = "0"
+                    json["download_status"] = "NULL"
+                } else {
+                    let totalCount = Double(total.count)
+                    let downloadedCount = Double(downloaded.count)
+                    let percentage = Int(downloadedCount / totalCount * 100)
+                    json["download_percentage"] = "\(percentage)"
+                    if percentage == 0 {
+                        json["download_status"] = "NULL"
+                    } else if percentage == 100 {
+                        json["download_status"] = "COMPLETED"
+                    } else {
+                        json["download_status"] = "PENDING"
+                    }
                 }
                 jsons.append(json)
             }
@@ -274,7 +313,7 @@ class BibleDataManager: BibleDataManagerRepresentable {
         var json = [String:Any]()
         let components = fileName.components(separatedBy: ".").first?.components(separatedBy: "_") ?? []
         if components.count != 3 { return json }
-        let bookID = components[0]
+        let bookID = components[0] 
         let type = components[1]
         let chapterOrUUID = components[2]
         if type == "chapter" {

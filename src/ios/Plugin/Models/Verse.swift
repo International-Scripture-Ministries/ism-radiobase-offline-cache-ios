@@ -82,4 +82,20 @@ extension Verse {
         
         return dicto
     }
+    
+    func toGetVersesJson() -> [String:Any] {
+        var dicto = [String : Any]()
+        dicto[CodingKeys.bibleId.rawValue] = bibleId
+        dicto[CodingKeys.id.rawValue] = id
+        dicto[CodingKeys.bookId.rawValue] = bookId
+        dicto[CodingKeys.chapterId.rawValue] = chapterId
+        dicto[CodingKeys.content.rawValue] = content
+        dicto[CodingKeys.reference.rawValue] = reference
+        dicto[CodingKeys.verseNumber.rawValue] = verseNumber
+        dicto[CodingKeys.chapterNumber.rawValue] = chapterNumber
+        dicto["audio_path"] = chapterAudioUrl
+        dicto["teachings"] = teaching?.toGetTeachingsJson()
+
+        return dicto
+    }
 }

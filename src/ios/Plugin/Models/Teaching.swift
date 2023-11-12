@@ -145,4 +145,25 @@ extension Teaching {
         dicto["audio_path"] = audio_path
         return dicto
     }
+    
+    func toGetTeachingsJson() -> [String:Any] {
+        var dicto = [String : Any]()
+        dicto[CodingKeys.uuid.rawValue] = uuid
+        dicto[CodingKeys.audio_duration.rawValue] = audio_duration
+        dicto[CodingKeys.audio_format.rawValue] = audio_format
+        dicto[CodingKeys.bible_book.rawValue] = bible_book
+        dicto[CodingKeys.bible_chapter_end.rawValue] = bible_chapter_end
+        dicto[CodingKeys.bible_chapter_start.rawValue] = bible_chapter_start
+        dicto[CodingKeys.bible_verse_end.rawValue] = bible_verse_end
+        dicto[CodingKeys.bible_verse_start.rawValue] = bible_verse_start
+        dicto[CodingKeys.created.rawValue] = created
+        dicto[CodingKeys.created_by.rawValue] = created_by
+        dicto[CodingKeys.description.rawValue] = _description
+        dicto[CodingKeys.language.rawValue] = language
+        dicto[CodingKeys.mime_type.rawValue] = mime_type
+        dicto[CodingKeys.name.rawValue] = name
+        dicto[CodingKeys.scheduled_date.rawValue] = scheduled_date
+        dicto[CodingKeys.audio_path.rawValue] = audio_path
+        return dicto
+    }
 }
