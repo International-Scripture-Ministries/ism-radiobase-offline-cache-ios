@@ -76,6 +76,7 @@ import Foundation
 
     @objc(getDownloadList:) func getDownloadList(command: CDVInvokedUrlCommand) {
         print("command.arguments : \(command.arguments)")
+        guard let arg = command.arguments.first as? [String:Any] else { return }
         guard let bookID = arg["book_id"] as? String else { return }
         guard let fileType = arg["file_type"] as? String else { return }
         let json = BibleDataManager.shared.getDownloadList(bookId: bookID, fileType: fileType)
@@ -85,6 +86,7 @@ import Foundation
 
     @objc(getPercentage:) func getPercentage(command: CDVInvokedUrlCommand) {
         print("command.arguments : \(command.arguments)")
+        guard let arg = command.arguments.first as? [String:Any] else { return }
         guard let bookID = arg["book_id"] as? String else { return }
         guard let fileType = arg["file_type"] as? String else { return }
         let json = BibleDataManager.shared.getPercentage(bookId: bookID, fileType: fileType)
@@ -94,6 +96,7 @@ import Foundation
 
     @objc(getBookPercentage:) func getBookPercentage(command: CDVInvokedUrlCommand) {
         print("command.arguments : \(command.arguments)")
+        guard let arg = command.arguments.first as? [String:Any] else { return }
         guard let fileType = arg["file_type"] as? String else { return }
         let json = BibleDataManager.shared.getBookPercentage(fileType: fileType)
         let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
@@ -102,6 +105,7 @@ import Foundation
 
     @objc(updateDownload:) func updateDownload(command: CDVInvokedUrlCommand) {
         print("command.arguments : \(command.arguments)")
+        guard let arg = command.arguments.first as? [String:Any] else { return }
         guard let fileName = arg["file_name"] as? String else { return }
         guard let localPath = arg["local_path"] as? String else { return }
         let json = BibleDataManager.shared.updateDownload(fileName: fileName, localPath: localPath)
@@ -111,6 +115,7 @@ import Foundation
 
     @objc(deleteDownloads:) func deleteDownloads(command: CDVInvokedUrlCommand) {
         print("command.arguments : \(command.arguments)")
+        guard let arg = command.arguments.first as? [String:Any] else { return }
         guard let bookID = arg["book_id"] as? String else { return }
         guard let fileType = arg["file_type"] as? String else { return }
         let chapterDownloads = arg["chapterDownloads"] as? Bool ?? false
@@ -122,6 +127,7 @@ import Foundation
 
     @objc(delete:) func delete(command: CDVInvokedUrlCommand) {
         print("command.arguments : \(command.arguments)")
+        guard let arg = command.arguments.first as? [String:Any] else { return }
         guard let bookID = arg["book_id"] as? String else { return }
         guard let fileType = arg["file_type"] as? String else { return }
         let chapterNumber = arg["chapter_number"] as? String ?? ""
@@ -133,6 +139,7 @@ import Foundation
 
     @objc(getBookDownloads:) func getBookDownloads(command: CDVInvokedUrlCommand) {
         print("command.arguments : \(command.arguments)")
+        guard let arg = command.arguments.first as? [String:Any] else { return }
         guard let bookID = arg["book_id"] as? String else { return }
         let json = BibleDataManager.shared.getBookDownloads(bookId: bookID)
         let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
