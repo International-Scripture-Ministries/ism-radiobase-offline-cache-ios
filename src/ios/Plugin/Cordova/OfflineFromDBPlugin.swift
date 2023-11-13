@@ -113,6 +113,8 @@ import Foundation
         print("command.arguments : \(command.arguments)")
         guard let bookID = arg["book_id"] as? String else { return }
         guard let fileType = arg["file_type"] as? String else { return }
+        let chapterDownloads = arg["chapterDownloads"] as? Bool ?? false
+        let studyDownloads = arg["studyDownloads"] as? Bool ?? false
         let json = BibleDataManager.shared.deleteDownloads(bookId: bookID, fileType: fileType)
         let pluginResult = CDVPluginResult(status: CDVCommandStatus_OK, messageAs: json)
         self.commandDelegate!.send(pluginResult,callbackId: command.callbackId)

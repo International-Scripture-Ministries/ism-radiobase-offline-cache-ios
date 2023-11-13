@@ -59,6 +59,8 @@ class Verse: Object, Mappable {
         verseNumber <- map[CodingKeys.verseNumber.rawValue]
         chapterNumber <- map[CodingKeys.chapterNumber.rawValue]
         teaching <- map[CodingKeys.teaching.rawValue]
+        //  to create the relation of book with teaching via book id
+        teaching?.bookId = self.bookId
         chapterAudioUrl <- map[CodingKeys.chapterAudioUrl.rawValue]
     }
 }

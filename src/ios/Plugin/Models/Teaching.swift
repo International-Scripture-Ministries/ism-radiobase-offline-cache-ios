@@ -11,12 +11,17 @@ import ObjectMapper
 
 class Teaching: Object, Mappable {
 
+    static func ==(lhs: Teaching, rhs: Teaching) -> Bool {
+        return lhs.uuid == rhs.uuid
+    }
+    
     @objc dynamic var art_url = ""
     @objc dynamic var uuid = ""
     @objc dynamic var audio_duration = 0
     @objc dynamic var audio_format = ""
     @objc dynamic var audio_format_name = ""
     @objc dynamic var bible_book = ""
+    @objc dynamic var bookId = ""
     @objc dynamic var bible_chapter_end = 0
     @objc dynamic var bible_chapter_start = 0
     @objc dynamic var bible_verse_end = 0
@@ -34,7 +39,7 @@ class Teaching: Object, Mappable {
     @objc dynamic var scheduled_date = ""
     @objc dynamic var status = ""
     @objc dynamic var audio_path = ""
-
+    
     enum CodingKeys: String {
         case art_url
         case uuid
@@ -42,6 +47,7 @@ class Teaching: Object, Mappable {
         case audio_format
         case audio_format_name
         case bible_book
+        case bookId
         case bible_chapter_end
         case bible_chapter_start
         case bible_verse_end
@@ -77,6 +83,10 @@ class Teaching: Object, Mappable {
         audio_format <- map[CodingKeys.audio_format.rawValue]
         audio_format_name <- map[CodingKeys.audio_format_name.rawValue]
         bible_book <- map[CodingKeys.bible_book.rawValue]
+        
+        //  nil while creating DB but next iterations of fetch queries will always have it.
+        bookId <- map[CodingKeys.bookId.rawValue]
+        
         bible_chapter_end <- map[CodingKeys.bible_chapter_end.rawValue]
         bible_chapter_start <- map[CodingKeys.bible_chapter_start.rawValue]
         bible_verse_end <- map[CodingKeys.bible_verse_end.rawValue]
