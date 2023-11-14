@@ -35,6 +35,7 @@ class BibleDataManager: BibleDataManagerRepresentable {
         return Bundle(for: type(of: self))
     }
     private var realm: Realm!
+    private var uniqueTeachings = [Teaching]()
     
     init() { }
 
@@ -45,6 +46,7 @@ class BibleDataManager: BibleDataManagerRepresentable {
             print("Pre-populated DB PATH: \(String(describing: Realm.Configuration.defaultConfiguration.fileURL))")
             print("-----------")
             self.realm = try! Realm()
+            self.loadUniqueTeachings()
             return true
         }
         
@@ -70,6 +72,7 @@ class BibleDataManager: BibleDataManagerRepresentable {
                 print("Pre-populated DB PATH: \(String(describing: Realm.Configuration.defaultConfiguration.fileURL))")
                 print("-----------")
                 self.realm = try! Realm()
+                self.loadUniqueTeachings()
                 return true
             } catch {
                 fatalError("Error copying pre-populated Realm \(error)")
@@ -77,6 +80,19 @@ class BibleDataManager: BibleDataManagerRepresentable {
         }
 
         fatalError("Another Realm file exists already.")
+    }
+    
+    private func loadUniqueTeachings() {
+
+        let teachings = realm.objects(Teaching.self)
+        //  Remove duplicated teachings
+        teachings.forEach { teaching in
+            if !uniqueTeachings.contains(where: { uTeaching in
+                return uTeaching.uuid == teaching.uuid
+            }) {
+                uniqueTeachings.append(teaching)
+            }
+        }
     }
     
     func getAllBooks() -> [String:Any] {
@@ -115,10 +131,9 @@ class BibleDataManager: BibleDataManagerRepresentable {
     }
     
     func getBookTeaching(bookId: String) -> Array<[String:Any]> {
-        let verses = realm.objects(Verse.self).filter({ verse in
-            return verse.bookId == bookId
-        })
-        let teachings = verses.compactMap { $0.teaching }
+        let teachings = uniqueTeachings.filter { teaching in
+            return teaching.bookId == bookId
+        }
         var jsons = Array<[String:Any]>()
         teachings.forEach{
             jsons.append($0.toJson())
@@ -127,14 +142,11 @@ class BibleDataManager: BibleDataManagerRepresentable {
     }
     
     func getTeaching(bookId: String, teachingUUID: String) -> [String:Any] {
-        let verse = realm.objects(Verse.self).first(where: { verse in
-            guard let teaching = verse.teaching else {
-                return false
-            }
-            return verse.bookId == bookId && teaching.uuid == teachingUUID
-        })
         
-        guard let teaching = verse?.teaching else {
+        let teaching = uniqueTeachings.first { teaching in
+            return teaching.bookId == bookId && teaching.uuid == teachingUUID
+        }
+        guard let teaching = teaching else {
             return [String:Any]()
         }
         let json = teaching.toJson()
@@ -142,13 +154,9 @@ class BibleDataManager: BibleDataManagerRepresentable {
     }
     
     func getTeachings(bookId: String) -> Array<[String:Any]> {
-        let verses = realm.objects(Verse.self).filter({ verse in
-            guard let teaching = verse.teaching else {
-                return false
-            }
-            return teaching.bookId.uppercased() == bookId
-        })
-        let teachings = verses.compactMap { $0.teaching }
+        let teachings = uniqueTeachings.filter { teaching in
+            return teaching.bookId == bookId
+        }
         var jsons = Array<[String:Any]>()
         teachings.forEach{
             jsons.append($0.toGetTeachingsJson())
@@ -158,12 +166,11 @@ class BibleDataManager: BibleDataManagerRepresentable {
     
     func getTotalDownloads() -> Array<[String:Any]> {
         let chapterAudios = realm.objects(Audio.self)
-        let teachings = realm.objects(Teaching.self)
         let books = realm.objects(Book.self).filter({ book in
             let isChapterAudioDownloaded = chapterAudios.contains { audio in
                 return audio.bookId == book.id && !audio.audio_path.isEmpty
             }
-            let isTeachingAudioDownloaded = teachings.contains { teaching in
+            let isTeachingAudioDownloaded = self.uniqueTeachings.contains { teaching in
                 return teaching.bookId.uppercased() == book.id && !teaching.audio_path.isEmpty
             }
             return isChapterAudioDownloaded || isTeachingAudioDownloaded
@@ -185,20 +192,10 @@ class BibleDataManager: BibleDataManagerRepresentable {
                 jsons.append($0.toGetDownloadListJson())
             }
         } else if fileType == "teaching" {
-            let teachings = realm.objects(Teaching.self).filter { teaching in
-                return teaching.bookId.uppercased() == bookId && teaching.audio_path.isEmpty
+            let teachings = uniqueTeachings.filter { teaching in
+                return teaching.bookId == bookId && teaching.audio_path.isEmpty
             }
-            
-            //  Remove duplicated teachings
-            var unique = [Teaching]()
-            teachings.forEach { teaching in
-                if !unique.contains(where: { uTeaching in
-                    return uTeaching.uuid == teaching.uuid
-                }) {
-                    unique.append(teaching)
-                }
-            }
-            unique.forEach{
+            teachings.forEach{
                 jsons.append($0.toGetDownloadListJson())
             }
         }
@@ -232,27 +229,19 @@ class BibleDataManager: BibleDataManagerRepresentable {
                 }
             }
         } else if fileType == "teaching" {
-            let teachings = realm.objects(Teaching.self).filter { teaching in
-                return teaching.bookId.uppercased() == bookId
+            
+            let teachings = uniqueTeachings.filter { teaching in
+                return teaching.bookId == bookId
             }
-            //  Remove duplicated teachings
-            var unique = [Teaching]()
-            teachings.forEach { teaching in
-                if !unique.contains(where: { uTeaching in
-                    return uTeaching.uuid == teaching.uuid
-                }) {
-                    unique.append(teaching)
-                }
-            }
-            let downloaded = unique.filter { item in
+            let downloaded = teachings.filter { item in
                 return !item.audio_path.isEmpty
             }
 
-            if unique.isEmpty {
+            if teachings.isEmpty {
                 json["download_percentage"] = "0"
                 json["download_status"] = "NULL"
             } else {
-                let totalCount = Double(unique.count)
+                let totalCount = Double(teachings.count)
                 let downloadedCount = Double(downloaded.count)
                 let percentage = Int(downloadedCount / totalCount * 100)
                 json["download_percentage"] = "\(percentage)"
@@ -271,15 +260,6 @@ class BibleDataManager: BibleDataManagerRepresentable {
     func getBookPercentage(fileType: String) -> Array<[String:Any]> {
         var jsons = Array<[String:Any]>()
         let chapterAudios = realm.objects(Audio.self)
-        let teachings = realm.objects(Teaching.self)
-        var unique = [Teaching]()
-        teachings.forEach { teaching in
-            if !unique.contains(where: { uTeaching in
-                return uTeaching.uuid == teaching.uuid
-            }) {
-                unique.append(teaching)
-            }
-        }
 
         let books = realm.objects(Book.self)
         books.forEach({ book in
@@ -309,7 +289,7 @@ class BibleDataManager: BibleDataManagerRepresentable {
                 }
                 jsons.append(json)
             } else if fileType == "teaching" {
-                let total = unique.filter { item in
+                let total = uniqueTeachings.filter { item in
                     return item.bookId.uppercased() == book.id
                 }
                 let downloaded = total.filter { item in
@@ -342,7 +322,7 @@ class BibleDataManager: BibleDataManagerRepresentable {
         var json = [String:Any]()
         let components = fileName.components(separatedBy: ".").first?.components(separatedBy: "_") ?? []
         if components.count != 3 { return json }
-        let bookID = components[0] 
+        let bookID = components[0]
         let type = components[1]
         let chapterOrUUID = components[2]
         if type == "chapter" {
@@ -372,35 +352,47 @@ class BibleDataManager: BibleDataManagerRepresentable {
         var json = [String:Any]()
         if fileType == "single" {
             if chapterDownloads {
-                realm.objects(Audio.self).forEach({ audio in
-                    if audio.bookId == bookId {
+                let downloaded = realm.objects(Audio.self).filter { item in
+                    return !item.audio_path.isEmpty
+                }
+                downloaded.forEach({ item in
+                    if item.bookId == bookId {
                         try! self.realm.write {
-                            audio.audio_path = ""
+                            item.audio_path = ""
                         }
                     }
                 })
             }
             if studyDownloads {
-                realm.objects(Teaching.self).forEach({ teaching in
-                    if teaching.bookId.uppercased() == bookId {
+                let downloaded = realm.objects(Teaching.self).filter { item in
+                    return !item.audio_path.isEmpty
+                }
+                downloaded.forEach({ item in
+                    if item.bookId == bookId {
                         try! self.realm.write {
-                            teaching.audio_path = ""
+                            item.audio_path = ""
                         }
                     }
                 })
             }
         } else if fileType == "all" {
             if chapterDownloads {
-                realm.objects(Audio.self).forEach({ audio in
+                let downloaded = realm.objects(Audio.self).filter { item in
+                    return !item.audio_path.isEmpty
+                }
+                downloaded.forEach({ item in
                     try! self.realm.write {
-                        audio.audio_path = ""
+                        item.audio_path = ""
                     }
                 })
             }
             if studyDownloads {
-                realm.objects(Teaching.self).forEach({ teaching in
+                let downloaded = realm.objects(Teaching.self).filter { item in
+                    return !item.audio_path.isEmpty
+                }
+                downloaded.forEach({ item in
                     try! self.realm.write {
-                        teaching.audio_path = ""
+                        item.audio_path = ""
                     }
                 })
             }
@@ -422,11 +414,12 @@ class BibleDataManager: BibleDataManagerRepresentable {
                 }
             })
         } else if fileType == "teaching" {
-            realm.objects(Teaching.self).forEach({ teaching in
-                if teaching.bookId.uppercased() == bookId && teaching.uuid == uuid {
-                    try! self.realm.write {
-                        teaching.audio_path = ""
-                    }
+            let teachings = realm.objects(Teaching.self).filter { teaching in
+                return teaching.bookId.uppercased() == bookId && teaching.uuid == uuid && !teaching.audio_path.isEmpty
+            }
+            teachings.forEach({ teaching in
+                try! self.realm.write {
+                    teaching.audio_path = ""
                 }
             })
         }
@@ -437,6 +430,9 @@ class BibleDataManager: BibleDataManagerRepresentable {
     
     func getBookDownloads(bookId: String) -> [String:Any] {
         
+        let start = Date()
+        print("Start Time: \(start)")
+
         var json = [String:Any]()
         var chaptersJsons = Array<[String:Any]>()
         var teachingsJsons = Array<[String:Any]>()
@@ -447,21 +443,7 @@ class BibleDataManager: BibleDataManagerRepresentable {
             }
         })
 
-        let teachings = realm.objects(Teaching.self)
-        //  Remove duplicated teachings
-        var unique = [Teaching]()
-        teachings.forEach { teaching in
-            if !unique.contains(where: { uTeaching in
-                return uTeaching.uuid == teaching.uuid
-            }) {
-                unique.append(teaching)
-            }
-        }
-
-        unique.forEach({ teaching in
-            if teaching.bookId == "1CH" {
-                print("asd")
-            }
+        uniqueTeachings.forEach({ teaching in
             if teaching.bookId.uppercased() == bookId && !teaching.audio_path.isEmpty {
                 teachingsJsons.append(teaching.toGetBookDownloadsJson())
             }
@@ -469,6 +451,11 @@ class BibleDataManager: BibleDataManagerRepresentable {
 
         json = ["chapter": chaptersJsons,
                 "teaching": teachingsJsons]
+        
+        let end = Date()
+        print("End Time: \(end)")
+        print("Difference: \(end.timeIntervalSince(start)) seconds")
+
         return json
     }
 }
