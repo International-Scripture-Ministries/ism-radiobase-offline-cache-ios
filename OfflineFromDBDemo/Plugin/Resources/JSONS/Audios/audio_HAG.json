@@ -5,36 +5,38 @@
             "number": "2"
         },
         "previous": {
-            "id": "HAB.3",
+            "id": "ZEP.3",
             "number": "3"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "HAG.1",
         "bookId": "HAG",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:37:16.116Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:46:02.954Z",
         "number": "1",
-        "reference": "Hagai 1",
-        "updatedAt": "2022-07-14T19:37:16.116Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/HAG/HAG.1.mp3"
+        "reference": "Haggai 1",
+        "updatedAt": "2022-06-02T15:46:02.954Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/HAG/HAG.1.mp3"
     },
     {
         "next": {
-            "id": "HEB.1",
+            "id": "ZEC.1",
             "number": "1"
         },
         "previous": {
             "id": "HAG.1",
             "number": "1"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "HAG.2",
         "bookId": "HAG",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:37:16.543Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:46:03.204Z",
         "number": "2",
-        "reference": "Hagai 2",
-        "updatedAt": "2022-07-14T19:37:16.543Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/HAG/HAG.2.mp3"
+        "reference": "Haggai 2",
+        "updatedAt": "2022-06-02T15:46:03.204Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/HAG/HAG.2.mp3"
     }
 ]

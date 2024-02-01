@@ -5,18 +5,19 @@
             "number": "2"
         },
         "previous": {
-            "id": "JOB.42",
-            "number": "42"
+            "id": "HOS.14",
+            "number": "14"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "JOL.1",
         "bookId": "JOL",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:38:58.701Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:45:52.568Z",
         "number": "1",
-        "reference": "Yoeli 1",
-        "updatedAt": "2022-07-14T19:38:58.701Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/JOL/JOL.1.mp3"
+        "reference": "Joel 1",
+        "updatedAt": "2022-06-02T15:45:52.568Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOL/JOL.1.mp3"
     },
     {
         "next": {
@@ -27,33 +28,35 @@
             "id": "JOL.1",
             "number": "1"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "JOL.2",
         "bookId": "JOL",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:38:59.117Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:45:52.903Z",
         "number": "2",
-        "reference": "Yoeli 2",
-        "updatedAt": "2022-07-14T19:38:59.117Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/JOL/JOL.2.mp3"
+        "reference": "Joel 2",
+        "updatedAt": "2022-06-02T15:45:52.903Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOL/JOL.2.mp3"
     },
     {
         "next": {
-            "id": "JON.1",
+            "id": "AMO.1",
             "number": "1"
         },
         "previous": {
             "id": "JOL.2",
             "number": "2"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "JOL.3",
         "bookId": "JOL",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:38:59.561Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:45:53.124Z",
         "number": "3",
-        "reference": "Yoeli 3",
-        "updatedAt": "2022-07-14T19:38:59.561Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/JOL/JOL.3.mp3"
+        "reference": "Joel 3",
+        "updatedAt": "2022-06-02T15:45:53.124Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOL/JOL.3.mp3"
     }
 ]

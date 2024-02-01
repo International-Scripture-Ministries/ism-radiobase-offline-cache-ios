@@ -5,18 +5,19 @@
             "number": "2"
         },
         "previous": {
-            "id": "PHP.4",
-            "number": "4"
+            "id": "PSA.150",
+            "number": "150"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.1",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:30.336Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:36.509Z",
         "number": "1",
-        "reference": "Mithali 1",
-        "updatedAt": "2022-07-14T19:40:30.336Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.1.mp3"
+        "reference": "Prov. 1",
+        "updatedAt": "2022-06-02T15:44:36.509Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.1.mp3"
     },
     {
         "next": {
@@ -27,15 +28,16 @@
             "id": "PRO.9",
             "number": "9"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.10",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:34.306Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:42.758Z",
         "number": "10",
-        "reference": "Mithali 10",
-        "updatedAt": "2022-07-14T19:40:34.306Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.10.mp3"
+        "reference": "Prov. 10",
+        "updatedAt": "2022-06-02T15:44:42.758Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.10.mp3"
     },
     {
         "next": {
@@ -46,15 +48,16 @@
             "id": "PRO.10",
             "number": "10"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.11",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:34.751Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:43.317Z",
         "number": "11",
-        "reference": "Mithali 11",
-        "updatedAt": "2022-07-14T19:40:34.751Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.11.mp3"
+        "reference": "Prov. 11",
+        "updatedAt": "2022-06-02T15:44:43.318Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.11.mp3"
     },
     {
         "next": {
@@ -65,15 +68,16 @@
             "id": "PRO.11",
             "number": "11"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.12",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:35.191Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:44.010Z",
         "number": "12",
-        "reference": "Mithali 12",
-        "updatedAt": "2022-07-14T19:40:35.191Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.12.mp3"
+        "reference": "Prov. 12",
+        "updatedAt": "2022-06-02T15:44:44.010Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.12.mp3"
     },
     {
         "next": {
@@ -84,15 +88,16 @@
             "id": "PRO.12",
             "number": "12"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.13",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:35.637Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:44.319Z",
         "number": "13",
-        "reference": "Mithali 13",
-        "updatedAt": "2022-07-14T19:40:35.637Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.13.mp3"
+        "reference": "Prov. 13",
+        "updatedAt": "2022-06-02T15:44:44.319Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.13.mp3"
     },
     {
         "next": {
@@ -103,15 +108,16 @@
             "id": "PRO.13",
             "number": "13"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.14",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:36.039Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:45.701Z",
         "number": "14",
-        "reference": "Mithali 14",
-        "updatedAt": "2022-07-14T19:40:36.039Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.14.mp3"
+        "reference": "Prov. 14",
+        "updatedAt": "2022-06-02T15:44:45.701Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.14.mp3"
     },
     {
         "next": {
@@ -122,15 +128,16 @@
             "id": "PRO.14",
             "number": "14"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.15",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:36.480Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:46.049Z",
         "number": "15",
-        "reference": "Mithali 15",
-        "updatedAt": "2022-07-14T19:40:36.480Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.15.mp3"
+        "reference": "Prov. 15",
+        "updatedAt": "2022-06-02T15:44:46.049Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.15.mp3"
     },
     {
         "next": {
@@ -141,15 +148,16 @@
             "id": "PRO.15",
             "number": "15"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.16",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:36.908Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:46.382Z",
         "number": "16",
-        "reference": "Mithali 16",
-        "updatedAt": "2022-07-14T19:40:36.908Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.16.mp3"
+        "reference": "Prov. 16",
+        "updatedAt": "2022-06-02T15:44:46.382Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.16.mp3"
     },
     {
         "next": {
@@ -160,15 +168,16 @@
             "id": "PRO.16",
             "number": "16"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.17",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:37.314Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:46.683Z",
         "number": "17",
-        "reference": "Mithali 17",
-        "updatedAt": "2022-07-14T19:40:37.314Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.17.mp3"
+        "reference": "Prov. 17",
+        "updatedAt": "2022-06-02T15:44:46.683Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.17.mp3"
     },
     {
         "next": {
@@ -179,15 +188,16 @@
             "id": "PRO.17",
             "number": "17"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.18",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:37.712Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:47.464Z",
         "number": "18",
-        "reference": "Mithali 18",
-        "updatedAt": "2022-07-14T19:40:37.712Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.18.mp3"
+        "reference": "Prov. 18",
+        "updatedAt": "2022-06-02T15:44:47.464Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.18.mp3"
     },
     {
         "next": {
@@ -198,15 +208,16 @@
             "id": "PRO.18",
             "number": "18"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.19",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:38.124Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:48.198Z",
         "number": "19",
-        "reference": "Mithali 19",
-        "updatedAt": "2022-07-14T19:40:38.124Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.19.mp3"
+        "reference": "Prov. 19",
+        "updatedAt": "2022-06-02T15:44:48.198Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.19.mp3"
     },
     {
         "next": {
@@ -217,15 +228,16 @@
             "id": "PRO.1",
             "number": "1"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.2",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:30.779Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:37.928Z",
         "number": "2",
-        "reference": "Mithali 2",
-        "updatedAt": "2022-07-14T19:40:30.779Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.2.mp3"
+        "reference": "Prov. 2",
+        "updatedAt": "2022-06-02T15:44:37.928Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.2.mp3"
     },
     {
         "next": {
@@ -236,15 +248,16 @@
             "id": "PRO.19",
             "number": "19"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.20",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:38.553Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:50.366Z",
         "number": "20",
-        "reference": "Mithali 20",
-        "updatedAt": "2022-07-14T19:40:38.553Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.20.mp3"
+        "reference": "Prov. 20",
+        "updatedAt": "2022-06-02T15:44:50.368Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.20.mp3"
     },
     {
         "next": {
@@ -255,15 +268,16 @@
             "id": "PRO.20",
             "number": "20"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.21",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:39.008Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:50.689Z",
         "number": "21",
-        "reference": "Mithali 21",
-        "updatedAt": "2022-07-14T19:40:39.008Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.21.mp3"
+        "reference": "Prov. 21",
+        "updatedAt": "2022-06-02T15:44:50.689Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.21.mp3"
     },
     {
         "next": {
@@ -274,15 +288,16 @@
             "id": "PRO.21",
             "number": "21"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.22",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:39.423Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:51.012Z",
         "number": "22",
-        "reference": "Mithali 22",
-        "updatedAt": "2022-07-14T19:40:39.423Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.22.mp3"
+        "reference": "Prov. 22",
+        "updatedAt": "2022-06-02T15:44:51.012Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.22.mp3"
     },
     {
         "next": {
@@ -293,15 +308,16 @@
             "id": "PRO.22",
             "number": "22"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.23",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:39.830Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:51.268Z",
         "number": "23",
-        "reference": "Mithali 23",
-        "updatedAt": "2022-07-14T19:40:39.830Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.23.mp3"
+        "reference": "Prov. 23",
+        "updatedAt": "2022-06-02T15:44:51.268Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.23.mp3"
     },
     {
         "next": {
@@ -312,15 +328,16 @@
             "id": "PRO.23",
             "number": "23"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.24",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:40.271Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:51.872Z",
         "number": "24",
-        "reference": "Mithali 24",
-        "updatedAt": "2022-07-14T19:40:40.271Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.24.mp3"
+        "reference": "Prov. 24",
+        "updatedAt": "2022-06-02T15:44:51.872Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.24.mp3"
     },
     {
         "next": {
@@ -331,15 +348,16 @@
             "id": "PRO.24",
             "number": "24"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.25",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:40.712Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:52.167Z",
         "number": "25",
-        "reference": "Mithali 25",
-        "updatedAt": "2022-07-14T19:40:40.712Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.25.mp3"
+        "reference": "Prov. 25",
+        "updatedAt": "2022-06-02T15:44:52.167Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.25.mp3"
     },
     {
         "next": {
@@ -350,15 +368,16 @@
             "id": "PRO.25",
             "number": "25"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.26",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:41.121Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:52.427Z",
         "number": "26",
-        "reference": "Mithali 26",
-        "updatedAt": "2022-07-14T19:40:41.121Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.26.mp3"
+        "reference": "Prov. 26",
+        "updatedAt": "2022-06-02T15:44:52.427Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.26.mp3"
     },
     {
         "next": {
@@ -369,15 +388,16 @@
             "id": "PRO.26",
             "number": "26"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.27",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:41.545Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:52.694Z",
         "number": "27",
-        "reference": "Mithali 27",
-        "updatedAt": "2022-07-14T19:40:41.545Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.27.mp3"
+        "reference": "Prov. 27",
+        "updatedAt": "2022-06-02T15:44:52.694Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.27.mp3"
     },
     {
         "next": {
@@ -388,15 +408,16 @@
             "id": "PRO.27",
             "number": "27"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.28",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:41.960Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:52.955Z",
         "number": "28",
-        "reference": "Mithali 28",
-        "updatedAt": "2022-07-14T19:40:41.960Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.28.mp3"
+        "reference": "Prov. 28",
+        "updatedAt": "2022-06-02T15:44:52.955Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.28.mp3"
     },
     {
         "next": {
@@ -407,15 +428,16 @@
             "id": "PRO.28",
             "number": "28"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.29",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:42.337Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:53.219Z",
         "number": "29",
-        "reference": "Mithali 29",
-        "updatedAt": "2022-07-14T19:40:42.337Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.29.mp3"
+        "reference": "Prov. 29",
+        "updatedAt": "2022-06-02T15:44:53.219Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.29.mp3"
     },
     {
         "next": {
@@ -426,15 +448,16 @@
             "id": "PRO.2",
             "number": "2"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.3",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:31.228Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:38.339Z",
         "number": "3",
-        "reference": "Mithali 3",
-        "updatedAt": "2022-07-14T19:40:31.228Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.3.mp3"
+        "reference": "Prov. 3",
+        "updatedAt": "2022-06-02T15:44:38.339Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.3.mp3"
     },
     {
         "next": {
@@ -445,34 +468,36 @@
             "id": "PRO.29",
             "number": "29"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.30",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:42.789Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:53.459Z",
         "number": "30",
-        "reference": "Mithali 30",
-        "updatedAt": "2022-07-14T19:40:42.789Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.30.mp3"
+        "reference": "Prov. 30",
+        "updatedAt": "2022-06-02T15:44:53.459Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.30.mp3"
     },
     {
         "next": {
-            "id": "PSA.1",
+            "id": "ECC.1",
             "number": "1"
         },
         "previous": {
             "id": "PRO.30",
             "number": "30"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.31",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:43.196Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:53.698Z",
         "number": "31",
-        "reference": "Mithali 31",
-        "updatedAt": "2022-07-14T19:40:43.196Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.31.mp3"
+        "reference": "Prov. 31",
+        "updatedAt": "2022-06-02T15:44:53.698Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.31.mp3"
     },
     {
         "next": {
@@ -483,15 +508,16 @@
             "id": "PRO.3",
             "number": "3"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.4",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:31.698Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:38.905Z",
         "number": "4",
-        "reference": "Mithali 4",
-        "updatedAt": "2022-07-14T19:40:31.698Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.4.mp3"
+        "reference": "Prov. 4",
+        "updatedAt": "2022-06-02T15:44:38.905Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.4.mp3"
     },
     {
         "next": {
@@ -502,15 +528,16 @@
             "id": "PRO.4",
             "number": "4"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.5",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:32.145Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:39.612Z",
         "number": "5",
-        "reference": "Mithali 5",
-        "updatedAt": "2022-07-14T19:40:32.145Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.5.mp3"
+        "reference": "Prov. 5",
+        "updatedAt": "2022-06-02T15:44:39.612Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.5.mp3"
     },
     {
         "next": {
@@ -521,15 +548,16 @@
             "id": "PRO.5",
             "number": "5"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.6",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:32.564Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:40.303Z",
         "number": "6",
-        "reference": "Mithali 6",
-        "updatedAt": "2022-07-14T19:40:32.564Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.6.mp3"
+        "reference": "Prov. 6",
+        "updatedAt": "2022-06-02T15:44:40.303Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.6.mp3"
     },
     {
         "next": {
@@ -540,15 +568,16 @@
             "id": "PRO.6",
             "number": "6"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.7",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:32.997Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:40.565Z",
         "number": "7",
-        "reference": "Mithali 7",
-        "updatedAt": "2022-07-14T19:40:32.997Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.7.mp3"
+        "reference": "Prov. 7",
+        "updatedAt": "2022-06-02T15:44:40.565Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.7.mp3"
     },
     {
         "next": {
@@ -559,15 +588,16 @@
             "id": "PRO.7",
             "number": "7"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.8",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:33.388Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:41.713Z",
         "number": "8",
-        "reference": "Mithali 8",
-        "updatedAt": "2022-07-14T19:40:33.388Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.8.mp3"
+        "reference": "Prov. 8",
+        "updatedAt": "2022-06-02T15:44:41.713Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.8.mp3"
     },
     {
         "next": {
@@ -578,14 +608,15 @@
             "id": "PRO.8",
             "number": "8"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "PRO.9",
         "bookId": "PRO",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:33.843Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:44:42.478Z",
         "number": "9",
-        "reference": "Mithali 9",
-        "updatedAt": "2022-07-14T19:40:33.843Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PRO/PRO.9.mp3"
+        "reference": "Prov. 9",
+        "updatedAt": "2022-06-02T15:44:42.478Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.9.mp3"
     }
 ]

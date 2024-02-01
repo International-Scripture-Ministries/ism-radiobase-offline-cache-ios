@@ -5,18 +5,19 @@
             "number": "2"
         },
         "previous": {
-            "id": "MRK.16",
-            "number": "16"
+            "id": "MIC.7",
+            "number": "7"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "NAM.1",
         "bookId": "NAM",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:02.993Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:46:00.067Z",
         "number": "1",
-        "reference": "Nahumu 1",
-        "updatedAt": "2022-07-14T19:40:02.993Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/NAM/NAM.1.mp3"
+        "reference": "Nahum 1",
+        "updatedAt": "2022-06-02T15:46:00.067Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/NAM/NAM.1.mp3"
     },
     {
         "next": {
@@ -27,33 +28,35 @@
             "id": "NAM.1",
             "number": "1"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "NAM.2",
         "bookId": "NAM",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:03.617Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:46:00.313Z",
         "number": "2",
-        "reference": "Nahumu 2",
-        "updatedAt": "2022-07-14T19:40:03.617Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/NAM/NAM.2.mp3"
+        "reference": "Nahum 2",
+        "updatedAt": "2022-06-02T15:46:00.313Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/NAM/NAM.2.mp3"
     },
     {
         "next": {
-            "id": "NEH.1",
+            "id": "HAB.1",
             "number": "1"
         },
         "previous": {
             "id": "NAM.2",
             "number": "2"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "NAM.3",
         "bookId": "NAM",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:04.060Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:46:00.560Z",
         "number": "3",
-        "reference": "Nahumu 3",
-        "updatedAt": "2022-07-14T19:40:04.060Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/NAM/NAM.3.mp3"
+        "reference": "Nahum 3",
+        "updatedAt": "2022-06-02T15:46:00.560Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/NAM/NAM.3.mp3"
     }
 ]

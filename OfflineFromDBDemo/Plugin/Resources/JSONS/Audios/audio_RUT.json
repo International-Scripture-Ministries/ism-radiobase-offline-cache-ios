@@ -5,18 +5,19 @@
             "number": "2"
         },
         "previous": {
-            "id": "ROM.16",
-            "number": "16"
+            "id": "JDG.21",
+            "number": "21"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "RUT.1",
         "bookId": "RUT",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:42:05.081Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:42:42.702Z",
         "number": "1",
-        "reference": "Ruthu 1",
-        "updatedAt": "2022-07-14T19:42:05.081Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/RUT/RUT.1.mp3"
+        "reference": "Ruth 1",
+        "updatedAt": "2022-06-02T15:42:42.702Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/RUT/RUT.1.mp3"
     },
     {
         "next": {
@@ -27,15 +28,16 @@
             "id": "RUT.1",
             "number": "1"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "RUT.2",
         "bookId": "RUT",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:42:05.518Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:42:42.991Z",
         "number": "2",
-        "reference": "Ruthu 2",
-        "updatedAt": "2022-07-14T19:42:05.518Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/RUT/RUT.2.mp3"
+        "reference": "Ruth 2",
+        "updatedAt": "2022-06-02T15:42:42.991Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/RUT/RUT.2.mp3"
     },
     {
         "next": {
@@ -46,33 +48,35 @@
             "id": "RUT.2",
             "number": "2"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "RUT.3",
         "bookId": "RUT",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:42:05.966Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:42:43.242Z",
         "number": "3",
-        "reference": "Ruthu 3",
-        "updatedAt": "2022-07-14T19:42:05.966Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/RUT/RUT.3.mp3"
+        "reference": "Ruth 3",
+        "updatedAt": "2022-06-02T15:42:43.242Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/RUT/RUT.3.mp3"
     },
     {
         "next": {
-            "id": "SNG.1",
+            "id": "1SA.1",
             "number": "1"
         },
         "previous": {
             "id": "RUT.3",
             "number": "3"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "RUT.4",
         "bookId": "RUT",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:42:06.381Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:42:43.474Z",
         "number": "4",
-        "reference": "Ruthu 4",
-        "updatedAt": "2022-07-14T19:42:06.381Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/RUT/RUT.4.mp3"
+        "reference": "Ruth 4",
+        "updatedAt": "2022-06-02T15:42:43.474Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/RUT/RUT.4.mp3"
     }
 ]

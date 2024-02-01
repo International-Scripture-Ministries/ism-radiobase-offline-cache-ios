@@ -1,21 +1,22 @@
 [
     {
         "next": {
-            "id": "PHM.1",
+            "id": "JON.1",
             "number": "1"
         },
         "previous": {
-            "id": "NUM.36",
-            "number": "36"
+            "id": "AMO.9",
+            "number": "9"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "OBA.1",
         "bookId": "OBA",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:40:26.737Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:45:56.448Z",
         "number": "1",
-        "reference": "Obadia 1",
-        "updatedAt": "2022-07-14T19:40:26.737Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/OBA/OBA.1.mp3"
+        "reference": "Obadiah 1",
+        "updatedAt": "2022-06-02T15:45:56.448Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/OBA/OBA.1.mp3"
     }
 ]
