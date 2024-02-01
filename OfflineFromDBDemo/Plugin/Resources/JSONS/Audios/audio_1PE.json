@@ -1,0 +1,97 @@
+[
+    {
+        "next": {
+            "id": "1PE.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "1KI.22",
+            "number": "22"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "1PE.1",
+        "bookId": "1PE",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:34:04.282Z",
+        "number": "1",
+        "reference": "1 Petro 1",
+        "updatedAt": "2022-07-14T19:34:04.282Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/1PE/1PE.1.mp3"
+    },
+    {
+        "next": {
+            "id": "1PE.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "1PE.1",
+            "number": "1"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "1PE.2",
+        "bookId": "1PE",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:34:04.717Z",
+        "number": "2",
+        "reference": "1 Petro 2",
+        "updatedAt": "2022-07-14T19:34:04.718Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/1PE/1PE.2.mp3"
+    },
+    {
+        "next": {
+            "id": "1PE.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "1PE.2",
+            "number": "2"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "1PE.3",
+        "bookId": "1PE",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:34:05.154Z",
+        "number": "3",
+        "reference": "1 Petro 3",
+        "updatedAt": "2022-07-14T19:34:05.154Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/1PE/1PE.3.mp3"
+    },
+    {
+        "next": {
+            "id": "1PE.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "1PE.3",
+            "number": "3"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "1PE.4",
+        "bookId": "1PE",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:34:05.539Z",
+        "number": "4",
+        "reference": "1 Petro 4",
+        "updatedAt": "2022-07-14T19:34:05.539Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/1PE/1PE.4.mp3"
+    },
+    {
+        "next": {
+            "id": "1SA.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "1PE.4",
+            "number": "4"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "1PE.5",
+        "bookId": "1PE",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:34:05.954Z",
+        "number": "5",
+        "reference": "1 Petro 5",
+        "updatedAt": "2022-07-14T19:34:05.954Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/1PE/1PE.5.mp3"
+    }
+]

@@ -1,0 +1,534 @@
+[
+    {
+        "next": {
+            "id": "ACT.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "3JN.1",
+            "number": "1"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.1",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:15.752Z",
+        "number": "1",
+        "reference": "Matendo 1",
+        "updatedAt": "2022-07-14T19:35:15.752Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.1.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "ACT.9",
+            "number": "9"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.10",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:19.516Z",
+        "number": "10",
+        "reference": "Matendo 10",
+        "updatedAt": "2022-07-14T19:35:19.516Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.10.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "ACT.10",
+            "number": "10"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.11",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:19.921Z",
+        "number": "11",
+        "reference": "Matendo 11",
+        "updatedAt": "2022-07-14T19:35:19.921Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.11.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.13",
+            "number": "13"
+        },
+        "previous": {
+            "id": "ACT.11",
+            "number": "11"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.12",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:20.364Z",
+        "number": "12",
+        "reference": "Matendo 12",
+        "updatedAt": "2022-07-14T19:35:20.364Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.12.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.14",
+            "number": "14"
+        },
+        "previous": {
+            "id": "ACT.12",
+            "number": "12"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.13",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:20.783Z",
+        "number": "13",
+        "reference": "Matendo 13",
+        "updatedAt": "2022-07-14T19:35:20.783Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.13.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.15",
+            "number": "15"
+        },
+        "previous": {
+            "id": "ACT.13",
+            "number": "13"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.14",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:21.193Z",
+        "number": "14",
+        "reference": "Matendo 14",
+        "updatedAt": "2022-07-14T19:35:21.193Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.14.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.16",
+            "number": "16"
+        },
+        "previous": {
+            "id": "ACT.14",
+            "number": "14"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.15",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:21.582Z",
+        "number": "15",
+        "reference": "Matendo 15",
+        "updatedAt": "2022-07-14T19:35:21.582Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.15.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.17",
+            "number": "17"
+        },
+        "previous": {
+            "id": "ACT.15",
+            "number": "15"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.16",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:21.995Z",
+        "number": "16",
+        "reference": "Matendo 16",
+        "updatedAt": "2022-07-14T19:35:21.995Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.16.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.18",
+            "number": "18"
+        },
+        "previous": {
+            "id": "ACT.16",
+            "number": "16"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.17",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:22.407Z",
+        "number": "17",
+        "reference": "Matendo 17",
+        "updatedAt": "2022-07-14T19:35:22.407Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.17.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.19",
+            "number": "19"
+        },
+        "previous": {
+            "id": "ACT.17",
+            "number": "17"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.18",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:22.847Z",
+        "number": "18",
+        "reference": "Matendo 18",
+        "updatedAt": "2022-07-14T19:35:22.847Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.18.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.20",
+            "number": "20"
+        },
+        "previous": {
+            "id": "ACT.18",
+            "number": "18"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.19",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:23.256Z",
+        "number": "19",
+        "reference": "Matendo 19",
+        "updatedAt": "2022-07-14T19:35:23.256Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.19.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "ACT.1",
+            "number": "1"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.2",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:16.182Z",
+        "number": "2",
+        "reference": "Matendo 2",
+        "updatedAt": "2022-07-14T19:35:16.182Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.2.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.21",
+            "number": "21"
+        },
+        "previous": {
+            "id": "ACT.19",
+            "number": "19"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.20",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:23.694Z",
+        "number": "20",
+        "reference": "Matendo 20",
+        "updatedAt": "2022-07-14T19:35:23.694Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.20.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.22",
+            "number": "22"
+        },
+        "previous": {
+            "id": "ACT.20",
+            "number": "20"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.21",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:24.164Z",
+        "number": "21",
+        "reference": "Matendo 21",
+        "updatedAt": "2022-07-14T19:35:24.164Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.21.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.23",
+            "number": "23"
+        },
+        "previous": {
+            "id": "ACT.21",
+            "number": "21"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.22",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:24.560Z",
+        "number": "22",
+        "reference": "Matendo 22",
+        "updatedAt": "2022-07-14T19:35:24.560Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.22.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.24",
+            "number": "24"
+        },
+        "previous": {
+            "id": "ACT.22",
+            "number": "22"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.23",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:24.995Z",
+        "number": "23",
+        "reference": "Matendo 23",
+        "updatedAt": "2022-07-14T19:35:24.995Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.23.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.25",
+            "number": "25"
+        },
+        "previous": {
+            "id": "ACT.23",
+            "number": "23"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.24",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:25.432Z",
+        "number": "24",
+        "reference": "Matendo 24",
+        "updatedAt": "2022-07-14T19:35:25.432Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.24.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.26",
+            "number": "26"
+        },
+        "previous": {
+            "id": "ACT.24",
+            "number": "24"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.25",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:25.859Z",
+        "number": "25",
+        "reference": "Matendo 25",
+        "updatedAt": "2022-07-14T19:35:25.859Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.25.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.27",
+            "number": "27"
+        },
+        "previous": {
+            "id": "ACT.25",
+            "number": "25"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.26",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:26.308Z",
+        "number": "26",
+        "reference": "Matendo 26",
+        "updatedAt": "2022-07-14T19:35:26.308Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.26.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.28",
+            "number": "28"
+        },
+        "previous": {
+            "id": "ACT.26",
+            "number": "26"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.27",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:26.675Z",
+        "number": "27",
+        "reference": "Matendo 27",
+        "updatedAt": "2022-07-14T19:35:26.675Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.27.mp3"
+    },
+    {
+        "next": {
+            "id": "AMO.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "ACT.27",
+            "number": "27"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.28",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:27.107Z",
+        "number": "28",
+        "reference": "Matendo 28",
+        "updatedAt": "2022-07-14T19:35:27.107Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.28.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "ACT.2",
+            "number": "2"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.3",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:16.592Z",
+        "number": "3",
+        "reference": "Matendo 3",
+        "updatedAt": "2022-07-14T19:35:16.592Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.3.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "ACT.3",
+            "number": "3"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.4",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:17.042Z",
+        "number": "4",
+        "reference": "Matendo 4",
+        "updatedAt": "2022-07-14T19:35:17.042Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.4.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "ACT.4",
+            "number": "4"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.5",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:17.432Z",
+        "number": "5",
+        "reference": "Matendo 5",
+        "updatedAt": "2022-07-14T19:35:17.432Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.5.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "ACT.5",
+            "number": "5"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.6",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:17.860Z",
+        "number": "6",
+        "reference": "Matendo 6",
+        "updatedAt": "2022-07-14T19:35:17.860Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.6.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "ACT.6",
+            "number": "6"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.7",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:18.247Z",
+        "number": "7",
+        "reference": "Matendo 7",
+        "updatedAt": "2022-07-14T19:35:18.247Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.7.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "ACT.7",
+            "number": "7"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.8",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:18.694Z",
+        "number": "8",
+        "reference": "Matendo 8",
+        "updatedAt": "2022-07-14T19:35:18.694Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.8.mp3"
+    },
+    {
+        "next": {
+            "id": "ACT.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "ACT.8",
+            "number": "8"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "ACT.9",
+        "bookId": "ACT",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:19.123Z",
+        "number": "9",
+        "reference": "Matendo 9",
+        "updatedAt": "2022-07-14T19:35:19.123Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/ACT/ACT.9.mp3"
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "next": {
+            "id": "EST.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "EPH.6",
+            "number": "6"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "EST.1",
+        "bookId": "EST",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:36:02.978Z",
+        "number": "1",
+        "reference": "Esta 1",
+        "updatedAt": "2022-07-14T19:36:02.978Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/EST/EST.1.mp3"
+    },
+    {
+        "next": {
+            "id": "EXO.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "EST.9",
+            "number": "9"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "EST.10",
+        "bookId": "EST",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:36:06.655Z",
+        "number": "10",
+        "reference": "Esta 10",
+        "updatedAt": "2022-07-14T19:36:06.655Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/EST/EST.10.mp3"
+    },
+    {
+        "next": {
+            "id": "EST.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "EST.1",
+            "number": "1"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "EST.2",
+        "bookId": "EST",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:36:03.480Z",
+        "number": "2",
+        "reference": "Esta 2",
+        "updatedAt": "2022-07-14T19:36:03.480Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/EST/EST.2.mp3"
+    },
+    {
+        "next": {
+            "id": "EST.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "EST.2",
+            "number": "2"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "EST.3",
+        "bookId": "EST",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:36:03.900Z",
+        "number": "3",
+        "reference": "Esta 3",
+        "updatedAt": "2022-07-14T19:36:03.900Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/EST/EST.3.mp3"
+    },
+    {
+        "next": {
+            "id": "EST.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "EST.3",
+            "number": "3"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "EST.4",
+        "bookId": "EST",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:36:04.299Z",
+        "number": "4",
+        "reference": "Esta 4",
+        "updatedAt": "2022-07-14T19:36:04.299Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/EST/EST.4.mp3"
+    },
+    {
+        "next": {
+            "id": "EST.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "EST.4",
+            "number": "4"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "EST.5",
+        "bookId": "EST",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:36:04.732Z",
+        "number": "5",
+        "reference": "Esta 5",
+        "updatedAt": "2022-07-14T19:36:04.732Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/EST/EST.5.mp3"
+    },
+    {
+        "next": {
+            "id": "EST.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "EST.5",
+            "number": "5"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "EST.6",
+        "bookId": "EST",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:36:05.104Z",
+        "number": "6",
+        "reference": "Esta 6",
+        "updatedAt": "2022-07-14T19:36:05.104Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/EST/EST.6.mp3"
+    },
+    {
+        "next": {
+            "id": "EST.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "EST.6",
+            "number": "6"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "EST.7",
+        "bookId": "EST",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:36:05.499Z",
+        "number": "7",
+        "reference": "Esta 7",
+        "updatedAt": "2022-07-14T19:36:05.499Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/EST/EST.7.mp3"
+    },
+    {
+        "next": {
+            "id": "EST.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "EST.7",
+            "number": "7"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "EST.8",
+        "bookId": "EST",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:36:05.852Z",
+        "number": "8",
+        "reference": "Esta 8",
+        "updatedAt": "2022-07-14T19:36:05.852Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/EST/EST.8.mp3"
+    },
+    {
+        "next": {
+            "id": "EST.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "EST.8",
+            "number": "8"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "EST.9",
+        "bookId": "EST",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:36:06.241Z",
+        "number": "9",
+        "reference": "Esta 9",
+        "updatedAt": "2022-07-14T19:36:06.241Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/EST/EST.9.mp3"
+    }
+]

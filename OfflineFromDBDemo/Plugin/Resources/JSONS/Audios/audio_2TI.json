@@ -1,0 +1,78 @@
+[
+    {
+        "next": {
+            "id": "2TI.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "2TH.3",
+            "number": "3"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "2TI.1",
+        "bookId": "2TI",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:12.907Z",
+        "number": "1",
+        "reference": "2 Timotheo 1",
+        "updatedAt": "2022-07-14T19:35:12.907Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/2TI/2TI.1.mp3"
+    },
+    {
+        "next": {
+            "id": "2TI.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "2TI.1",
+            "number": "1"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "2TI.2",
+        "bookId": "2TI",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:13.406Z",
+        "number": "2",
+        "reference": "2 Timotheo 2",
+        "updatedAt": "2022-07-14T19:35:13.406Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/2TI/2TI.2.mp3"
+    },
+    {
+        "next": {
+            "id": "2TI.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "2TI.2",
+            "number": "2"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "2TI.3",
+        "bookId": "2TI",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:13.824Z",
+        "number": "3",
+        "reference": "2 Timotheo 3",
+        "updatedAt": "2022-07-14T19:35:13.824Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/2TI/2TI.3.mp3"
+    },
+    {
+        "next": {
+            "id": "3JN.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "2TI.3",
+            "number": "3"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "2TI.4",
+        "bookId": "2TI",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:14.209Z",
+        "number": "4",
+        "reference": "2 Timotheo 4",
+        "updatedAt": "2022-07-14T19:35:14.209Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/2TI/2TI.4.mp3"
+    }
+]

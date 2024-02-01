@@ -1,0 +1,420 @@
+[
+    {
+        "next": {
+            "id": "REV.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "PSA.150",
+            "number": "150"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.1",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:48.276Z",
+        "number": "1",
+        "reference": "Ufunuo 1",
+        "updatedAt": "2022-07-14T19:41:48.276Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.1.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "REV.9",
+            "number": "9"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.10",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:52.098Z",
+        "number": "10",
+        "reference": "Ufunuo 10",
+        "updatedAt": "2022-07-14T19:41:52.098Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.10.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "REV.10",
+            "number": "10"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.11",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:52.524Z",
+        "number": "11",
+        "reference": "Ufunuo 11",
+        "updatedAt": "2022-07-14T19:41:52.524Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.11.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.13",
+            "number": "13"
+        },
+        "previous": {
+            "id": "REV.11",
+            "number": "11"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.12",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:52.940Z",
+        "number": "12",
+        "reference": "Ufunuo 12",
+        "updatedAt": "2022-07-14T19:41:52.940Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.12.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.14",
+            "number": "14"
+        },
+        "previous": {
+            "id": "REV.12",
+            "number": "12"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.13",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:53.376Z",
+        "number": "13",
+        "reference": "Ufunuo 13",
+        "updatedAt": "2022-07-14T19:41:53.376Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.13.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.15",
+            "number": "15"
+        },
+        "previous": {
+            "id": "REV.13",
+            "number": "13"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.14",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:53.798Z",
+        "number": "14",
+        "reference": "Ufunuo 14",
+        "updatedAt": "2022-07-14T19:41:53.798Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.14.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.16",
+            "number": "16"
+        },
+        "previous": {
+            "id": "REV.14",
+            "number": "14"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.15",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:54.194Z",
+        "number": "15",
+        "reference": "Ufunuo 15",
+        "updatedAt": "2022-07-14T19:41:54.194Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.15.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.17",
+            "number": "17"
+        },
+        "previous": {
+            "id": "REV.15",
+            "number": "15"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.16",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:54.622Z",
+        "number": "16",
+        "reference": "Ufunuo 16",
+        "updatedAt": "2022-07-14T19:41:54.622Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.16.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.18",
+            "number": "18"
+        },
+        "previous": {
+            "id": "REV.16",
+            "number": "16"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.17",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:55.058Z",
+        "number": "17",
+        "reference": "Ufunuo 17",
+        "updatedAt": "2022-07-14T19:41:55.058Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.17.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.19",
+            "number": "19"
+        },
+        "previous": {
+            "id": "REV.17",
+            "number": "17"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.18",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:55.436Z",
+        "number": "18",
+        "reference": "Ufunuo 18",
+        "updatedAt": "2022-07-14T19:41:55.436Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.18.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.20",
+            "number": "20"
+        },
+        "previous": {
+            "id": "REV.18",
+            "number": "18"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.19",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:55.846Z",
+        "number": "19",
+        "reference": "Ufunuo 19",
+        "updatedAt": "2022-07-14T19:41:55.846Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.19.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "REV.1",
+            "number": "1"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.2",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:48.688Z",
+        "number": "2",
+        "reference": "Ufunuo 2",
+        "updatedAt": "2022-07-14T19:41:48.688Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.2.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.21",
+            "number": "21"
+        },
+        "previous": {
+            "id": "REV.19",
+            "number": "19"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.20",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:56.284Z",
+        "number": "20",
+        "reference": "Ufunuo 20",
+        "updatedAt": "2022-07-14T19:41:56.284Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.20.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.22",
+            "number": "22"
+        },
+        "previous": {
+            "id": "REV.20",
+            "number": "20"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.21",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:56.669Z",
+        "number": "21",
+        "reference": "Ufunuo 21",
+        "updatedAt": "2022-07-14T19:41:56.669Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.21.mp3"
+    },
+    {
+        "next": {
+            "id": "ROM.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "REV.21",
+            "number": "21"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.22",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:57.047Z",
+        "number": "22",
+        "reference": "Ufunuo 22",
+        "updatedAt": "2022-07-14T19:41:57.047Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.22.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "REV.2",
+            "number": "2"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.3",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:49.119Z",
+        "number": "3",
+        "reference": "Ufunuo 3",
+        "updatedAt": "2022-07-14T19:41:49.119Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.3.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "REV.3",
+            "number": "3"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.4",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:49.548Z",
+        "number": "4",
+        "reference": "Ufunuo 4",
+        "updatedAt": "2022-07-14T19:41:49.548Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.4.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "REV.4",
+            "number": "4"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.5",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:49.983Z",
+        "number": "5",
+        "reference": "Ufunuo 5",
+        "updatedAt": "2022-07-14T19:41:49.983Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.5.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "REV.5",
+            "number": "5"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.6",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:50.439Z",
+        "number": "6",
+        "reference": "Ufunuo 6",
+        "updatedAt": "2022-07-14T19:41:50.439Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.6.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "REV.6",
+            "number": "6"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.7",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:50.866Z",
+        "number": "7",
+        "reference": "Ufunuo 7",
+        "updatedAt": "2022-07-14T19:41:50.866Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.7.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "REV.7",
+            "number": "7"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.8",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:51.323Z",
+        "number": "8",
+        "reference": "Ufunuo 8",
+        "updatedAt": "2022-07-14T19:41:51.323Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.8.mp3"
+    },
+    {
+        "next": {
+            "id": "REV.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "REV.8",
+            "number": "8"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "REV.9",
+        "bookId": "REV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:41:51.706Z",
+        "number": "9",
+        "reference": "Ufunuo 9",
+        "updatedAt": "2022-07-14T19:41:51.706Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/REV/REV.9.mp3"
+    }
+]

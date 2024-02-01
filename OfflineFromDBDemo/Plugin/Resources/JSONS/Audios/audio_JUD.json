@@ -1,0 +1,21 @@
+[
+    {
+        "next": {
+            "id": "LAM.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "JOS.24",
+            "number": "24"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "JUD.1",
+        "bookId": "JUD",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:13.079Z",
+        "number": "1",
+        "reference": "Yuda 1",
+        "updatedAt": "2022-07-14T19:39:13.079Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/JUD/JUD.1.mp3"
+    }
+]

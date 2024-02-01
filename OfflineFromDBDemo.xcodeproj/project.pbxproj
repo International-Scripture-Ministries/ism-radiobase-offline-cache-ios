@@ -1,0 +1,1044 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		295F1C532B6A56ED0003024E /* audio_PSA.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C112B6A56ED0003024E /* audio_PSA.json */; };
+		295F1C542B6A56ED0003024E /* audio_1PE.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C122B6A56ED0003024E /* audio_1PE.json */; };
+		295F1C552B6A56ED0003024E /* audio_LUK.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C132B6A56ED0003024E /* audio_LUK.json */; };
+		295F1C562B6A56ED0003024E /* audio_LEV.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C142B6A56ED0003024E /* audio_LEV.json */; };
+		295F1C572B6A56ED0003024E /* audio_1TH.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C152B6A56ED0003024E /* audio_1TH.json */; };
+		295F1C582B6A56ED0003024E /* audio_PHM.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C162B6A56ED0003024E /* audio_PHM.json */; };
+		295F1C592B6A56ED0003024E /* audio_OBA.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C172B6A56ED0003024E /* audio_OBA.json */; };
+		295F1C5A2B6A56ED0003024E /* audio_1KI.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C182B6A56ED0003024E /* audio_1KI.json */; };
+		295F1C5B2B6A56ED0003024E /* audio_3JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C192B6A56ED0003024E /* audio_3JN.json */; };
+		295F1C5C2B6A56ED0003024E /* audio_GAL.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C1A2B6A56ED0003024E /* audio_GAL.json */; };
+		295F1C5D2B6A56ED0003024E /* audio_HOS.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C1B2B6A56ED0003024E /* audio_HOS.json */; };
+		295F1C5E2B6A56ED0003024E /* audio_RUT.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C1C2B6A56ED0003024E /* audio_RUT.json */; };
+		295F1C5F2B6A56ED0003024E /* audio_JOS.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C1D2B6A56ED0003024E /* audio_JOS.json */; };
+		295F1C602B6A56ED0003024E /* audio_2CO.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C1E2B6A56ED0003024E /* audio_2CO.json */; };
+		295F1C612B6A56ED0003024E /* audio_1JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C1F2B6A56ED0003024E /* audio_1JN.json */; };
+		295F1C622B6A56ED0003024E /* audio_1TI.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C202B6A56ED0003024E /* audio_1TI.json */; };
+		295F1C632B6A56ED0003024E /* audio_TIT.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C212B6A56ED0003024E /* audio_TIT.json */; };
+		295F1C642B6A56ED0003024E /* audio_ZEC.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C222B6A56ED0003024E /* audio_ZEC.json */; };
+		295F1C652B6A56ED0003024E /* audio_EZK.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C232B6A56ED0003024E /* audio_EZK.json */; };
+		295F1C662B6A56ED0003024E /* audio_2CH.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C242B6A56ED0003024E /* audio_2CH.json */; };
+		295F1C672B6A56ED0003024E /* audio_MAL.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C252B6A56ED0003024E /* audio_MAL.json */; };
+		295F1C682B6A56ED0003024E /* audio_AMO.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C262B6A56ED0003024E /* audio_AMO.json */; };
+		295F1C692B6A56ED0003024E /* audio_NEH.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C272B6A56ED0003024E /* audio_NEH.json */; };
+		295F1C6A2B6A56ED0003024E /* audio_HEB.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C282B6A56ED0003024E /* audio_HEB.json */; };
+		295F1C6B2B6A56ED0003024E /* audio_ROM.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C292B6A56ED0003024E /* audio_ROM.json */; };
+		295F1C6C2B6A56ED0003024E /* audio_EZR.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C2A2B6A56ED0003024E /* audio_EZR.json */; };
+		295F1C6D2B6A56ED0003024E /* audio_REV.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C2B2B6A56ED0003024E /* audio_REV.json */; };
+		295F1C6E2B6A56ED0003024E /* audio_MIC.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C2C2B6A56ED0003024E /* audio_MIC.json */; };
+		295F1C6F2B6A56ED0003024E /* audio_NUM.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C2D2B6A56ED0003024E /* audio_NUM.json */; };
+		295F1C702B6A56ED0003024E /* audio_MAT.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C2E2B6A56ED0003024E /* audio_MAT.json */; };
+		295F1C712B6A56ED0003024E /* audio_ZEP.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C2F2B6A56ED0003024E /* audio_ZEP.json */; };
+		295F1C722B6A56ED0003024E /* audio_JOL.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C302B6A56ED0003024E /* audio_JOL.json */; };
+		295F1C732B6A56ED0003024E /* audio_EPH.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C312B6A56ED0003024E /* audio_EPH.json */; };
+		295F1C742B6A56ED0003024E /* audio_HAB.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C322B6A56ED0003024E /* audio_HAB.json */; };
+		295F1C752B6A56ED0003024E /* audio_DAN.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C332B6A56ED0003024E /* audio_DAN.json */; };
+		295F1C762B6A56ED0003024E /* audio_2SA.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C342B6A56ED0003024E /* audio_2SA.json */; };
+		295F1C772B6A56ED0003024E /* audio_ACT.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C352B6A56ED0003024E /* audio_ACT.json */; };
+		295F1C782B6A56ED0003024E /* audio_1CO.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C362B6A56ED0003024E /* audio_1CO.json */; };
+		295F1C792B6A56ED0003024E /* audio_2TI.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C372B6A56ED0003024E /* audio_2TI.json */; };
+		295F1C7A2B6A56ED0003024E /* audio_2JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C382B6A56ED0003024E /* audio_2JN.json */; };
+		295F1C7B2B6A56ED0003024E /* audio_PRO.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C392B6A56ED0003024E /* audio_PRO.json */; };
+		295F1C7C2B6A56ED0003024E /* audio_DEU.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C3A2B6A56ED0003024E /* audio_DEU.json */; };
+		295F1C7D2B6A56ED0003024E /* audio_PHP.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C3B2B6A56ED0003024E /* audio_PHP.json */; };
+		295F1C7E2B6A56ED0003024E /* audio_JDG.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C3C2B6A56ED0003024E /* audio_JDG.json */; };
+		295F1C7F2B6A56ED0003024E /* audio_ISA.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C3D2B6A56ED0003024E /* audio_ISA.json */; };
+		295F1C802B6A56ED0003024E /* audio_COL.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C3E2B6A56ED0003024E /* audio_COL.json */; };
+		295F1C812B6A56ED0003024E /* audio_EST.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C3F2B6A56ED0003024E /* audio_EST.json */; };
+		295F1C822B6A56ED0003024E /* audio_JON.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C402B6A56ED0003024E /* audio_JON.json */; };
+		295F1C832B6A56ED0003024E /* audio_2PE.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C412B6A56ED0003024E /* audio_2PE.json */; };
+		295F1C842B6A56ED0003024E /* audio_JOB.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C422B6A56ED0003024E /* audio_JOB.json */; };
+		295F1C852B6A56ED0003024E /* audio_2KI.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C432B6A56ED0003024E /* audio_2KI.json */; };
+		295F1C862B6A56ED0003024E /* audio_JUD.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C442B6A56ED0003024E /* audio_JUD.json */; };
+		295F1C872B6A56ED0003024E /* audio_2TH.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C452B6A56ED0003024E /* audio_2TH.json */; };
+		295F1C882B6A56ED0003024E /* audio_EXO.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C462B6A56ED0003024E /* audio_EXO.json */; };
+		295F1C892B6A56ED0003024E /* audio_JAS.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C472B6A56ED0003024E /* audio_JAS.json */; };
+		295F1C8A2B6A56ED0003024E /* audio_HAG.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C482B6A56ED0003024E /* audio_HAG.json */; };
+		295F1C8B2B6A56ED0003024E /* audio_JER.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C492B6A56ED0003024E /* audio_JER.json */; };
+		295F1C8C2B6A56ED0003024E /* audio_ECC.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C4A2B6A56ED0003024E /* audio_ECC.json */; };
+		295F1C8D2B6A56ED0003024E /* audio_1SA.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C4B2B6A56ED0003024E /* audio_1SA.json */; };
+		295F1C8E2B6A56ED0003024E /* audio_NAM.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C4C2B6A56ED0003024E /* audio_NAM.json */; };
+		295F1C8F2B6A56ED0003024E /* audio_JHN.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C4D2B6A56ED0003024E /* audio_JHN.json */; };
+		295F1C902B6A56ED0003024E /* audio_SNG.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C4E2B6A56ED0003024E /* audio_SNG.json */; };
+		295F1C912B6A56ED0003024E /* audio_LAM.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C4F2B6A56ED0003024E /* audio_LAM.json */; };
+		295F1C922B6A56ED0003024E /* audio_MRK.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C502B6A56ED0003024E /* audio_MRK.json */; };
+		295F1C932B6A56ED0003024E /* audio_GEN.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C512B6A56ED0003024E /* audio_GEN.json */; };
+		295F1C942B6A56ED0003024E /* audio_1CH.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C522B6A56ED0003024E /* audio_1CH.json */; };
+		295F1C972B6A57450003024E /* books.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C962B6A57450003024E /* books.json */; };
+		295F1CDB2B6A57860003024E /* PHM.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C992B6A57860003024E /* PHM.json */; };
+		295F1CDC2B6A57860003024E /* 1TH.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C9A2B6A57860003024E /* 1TH.json */; };
+		295F1CDD2B6A57860003024E /* 1KI.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C9B2B6A57860003024E /* 1KI.json */; };
+		295F1CDE2B6A57860003024E /* OBA.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C9C2B6A57860003024E /* OBA.json */; };
+		295F1CDF2B6A57860003024E /* GAL.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C9D2B6A57860003024E /* GAL.json */; };
+		295F1CE02B6A57860003024E /* 3JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C9E2B6A57860003024E /* 3JN.json */; };
+		295F1CE12B6A57860003024E /* RUT.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1C9F2B6A57860003024E /* RUT.json */; };
+		295F1CE22B6A57860003024E /* HOS.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CA02B6A57860003024E /* HOS.json */; };
+		295F1CE32B6A57860003024E /* PSA.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CA12B6A57860003024E /* PSA.json */; };
+		295F1CE42B6A57860003024E /* LUK.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CA22B6A57860003024E /* LUK.json */; };
+		295F1CE52B6A57860003024E /* 1PE.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CA32B6A57860003024E /* 1PE.json */; };
+		295F1CE62B6A57860003024E /* LEV.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CA42B6A57860003024E /* LEV.json */; };
+		295F1CE72B6A57860003024E /* TIT.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CA52B6A57860003024E /* TIT.json */; };
+		295F1CE82B6A57860003024E /* ZEC.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CA62B6A57860003024E /* ZEC.json */; };
+		295F1CE92B6A57860003024E /* JOS.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CA72B6A57860003024E /* JOS.json */; };
+		295F1CEA2B6A57860003024E /* 1TI.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CA82B6A57860003024E /* 1TI.json */; };
+		295F1CEB2B6A57860003024E /* 1JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CA92B6A57860003024E /* 1JN.json */; };
+		295F1CEC2B6A57860003024E /* 2CO.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CAA2B6A57860003024E /* 2CO.json */; };
+		295F1CED2B6A57860003024E /* HEB.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CAB2B6A57860003024E /* HEB.json */; };
+		295F1CEE2B6A57860003024E /* ROM.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CAC2B6A57860003024E /* ROM.json */; };
+		295F1CEF2B6A57860003024E /* REV.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CAD2B6A57860003024E /* REV.json */; };
+		295F1CF02B6A57860003024E /* EZR.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CAE2B6A57860003024E /* EZR.json */; };
+		295F1CF12B6A57860003024E /* 2CH.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CAF2B6A57860003024E /* 2CH.json */; };
+		295F1CF22B6A57860003024E /* EZK.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CB02B6A57860003024E /* EZK.json */; };
+		295F1CF32B6A57860003024E /* MAL.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CB12B6A57860003024E /* MAL.json */; };
+		295F1CF42B6A57860003024E /* NEH.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CB22B6A57860003024E /* NEH.json */; };
+		295F1CF52B6A57860003024E /* AMO.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CB32B6A57860003024E /* AMO.json */; };
+		295F1CF62B6A57860003024E /* DAN.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CB42B6A57860003024E /* DAN.json */; };
+		295F1CF72B6A57860003024E /* ACT.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CB52B6A57860003024E /* ACT.json */; };
+		295F1CF82B6A57860003024E /* 2SA.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CB62B6A57860003024E /* 2SA.json */; };
+		295F1CF92B6A57860003024E /* MIC.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CB72B6A57860003024E /* MIC.json */; };
+		295F1CFA2B6A57860003024E /* NUM.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CB82B6A57860003024E /* NUM.json */; };
+		295F1CFB2B6A57860003024E /* JOL.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CB92B6A57860003024E /* JOL.json */; };
+		295F1CFC2B6A57860003024E /* ZEP.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CBA2B6A57860003024E /* ZEP.json */; };
+		295F1CFD2B6A57860003024E /* MAT.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CBB2B6A57860003024E /* MAT.json */; };
+		295F1CFE2B6A57860003024E /* EPH.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CBC2B6A57860003024E /* EPH.json */; };
+		295F1CFF2B6A57860003024E /* HAB.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CBD2B6A57860003024E /* HAB.json */; };
+		295F1D002B6A57860003024E /* PHP.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CBE2B6A57860003024E /* PHP.json */; };
+		295F1D012B6A57860003024E /* DEU.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CBF2B6A57860003024E /* DEU.json */; };
+		295F1D022B6A57860003024E /* ISA.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CC02B6A57860003024E /* ISA.json */; };
+		295F1D032B6A57860003024E /* COL.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CC12B6A57860003024E /* COL.json */; };
+		295F1D042B6A57860003024E /* JDG.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CC22B6A57860003024E /* JDG.json */; };
+		295F1D052B6A57860003024E /* EST.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CC32B6A57860003024E /* EST.json */; };
+		295F1D062B6A57860003024E /* 2JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CC42B6A57860003024E /* 2JN.json */; };
+		295F1D072B6A57860003024E /* 2TI.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CC52B6A57860003024E /* 2TI.json */; };
+		295F1D082B6A57860003024E /* 1CO.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CC62B6A57860003024E /* 1CO.json */; };
+		295F1D092B6A57860003024E /* PRO.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CC72B6A57860003024E /* PRO.json */; };
+		295F1D0A2B6A57860003024E /* 2KI.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CC82B6A57860003024E /* 2KI.json */; };
+		295F1D0B2B6A57860003024E /* JOB.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CC92B6A57860003024E /* JOB.json */; };
+		295F1D0C2B6A57860003024E /* 2TH.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CCA2B6A57860003024E /* 2TH.json */; };
+		295F1D0D2B6A57860003024E /* JUD.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CCB2B6A57860003024E /* JUD.json */; };
+		295F1D0E2B6A57860003024E /* JON.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CCC2B6A57860003024E /* JON.json */; };
+		295F1D0F2B6A57860003024E /* 2PE.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CCD2B6A57860003024E /* 2PE.json */; };
+		295F1D102B6A57860003024E /* ECC.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CCE2B6A57860003024E /* ECC.json */; };
+		295F1D112B6A57860003024E /* 1SA.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CCF2B6A57860003024E /* 1SA.json */; };
+		295F1D122B6A57860003024E /* NAM.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CD02B6A57860003024E /* NAM.json */; };
+		295F1D132B6A57860003024E /* SNG.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CD12B6A57860003024E /* SNG.json */; };
+		295F1D142B6A57860003024E /* JHN.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CD22B6A57860003024E /* JHN.json */; };
+		295F1D152B6A57860003024E /* EXO.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CD32B6A57860003024E /* EXO.json */; };
+		295F1D162B6A57860003024E /* JAS.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CD42B6A57860003024E /* JAS.json */; };
+		295F1D172B6A57860003024E /* JER.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CD52B6A57860003024E /* JER.json */; };
+		295F1D182B6A57860003024E /* HAG.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CD62B6A57860003024E /* HAG.json */; };
+		295F1D192B6A57860003024E /* LAM.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CD72B6A57860003024E /* LAM.json */; };
+		295F1D1A2B6A57860003024E /* 1CH.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CD82B6A57860003024E /* 1CH.json */; };
+		295F1D1B2B6A57860003024E /* GEN.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CD92B6A57860003024E /* GEN.json */; };
+		295F1D1C2B6A57860003024E /* MRK.json in Resources */ = {isa = PBXBuildFile; fileRef = 295F1CDA2B6A57860003024E /* MRK.json */; };
+		295F1D1E2B6A5A910003024E /* default.realm in Resources */ = {isa = PBXBuildFile; fileRef = 295F1D1D2B6A5A910003024E /* default.realm */; };
+		29CCD2062AE589B5002F6570 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CCD2052AE589B5002F6570 /* AppDelegate.swift */; };
+		29CCD2082AE589B5002F6570 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CCD2072AE589B5002F6570 /* SceneDelegate.swift */; };
+		29CCD20A2AE589B5002F6570 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CCD2092AE589B5002F6570 /* ViewController.swift */; };
+		29CCD20D2AE589B5002F6570 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29CCD20B2AE589B5002F6570 /* Main.storyboard */; };
+		29CCD20F2AE589B6002F6570 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29CCD20E2AE589B6002F6570 /* Assets.xcassets */; };
+		29CCD2122AE589B6002F6570 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29CCD2102AE589B6002F6570 /* LaunchScreen.storyboard */; };
+		29CCD2B82AE58A18002F6570 /* DocumentsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CCD2632AE58A17002F6570 /* DocumentsManager.swift */; };
+		29CCD2BA2AE58A18002F6570 /* BibleDataFromDB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CCD2652AE58A17002F6570 /* BibleDataFromDB.swift */; };
+		29CCD2BC2AE58A18002F6570 /* OfflineFromDBPlugin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CCD2682AE58A17002F6570 /* OfflineFromDBPlugin.swift */; };
+		29CCD2BF2AE58A18002F6570 /* ObjectMapper-iOS.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29CCD26C2AE58A18002F6570 /* ObjectMapper-iOS.xcframework */; };
+		29CCD2C02AE58A18002F6570 /* Verse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CCD26E2AE58A18002F6570 /* Verse.swift */; };
+		29CCD2C22AE58A18002F6570 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CCD2702AE58A18002F6570 /* Book.swift */; };
+		29CCD2C42AE58A18002F6570 /* RealmObjectMapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CCD2722AE58A18002F6570 /* RealmObjectMapper.swift */; };
+		29CCD2C72AE58BB4002F6570 /* Realm.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29CCD2C52AE58BB4002F6570 /* Realm.xcframework */; };
+		29CCD2C82AE58BB4002F6570 /* RealmSwift.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29CCD2C62AE58BB4002F6570 /* RealmSwift.xcframework */; };
+		29CCD45E2AE84F2D002F6570 /* Teaching.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CCD45D2AE84F2D002F6570 /* Teaching.swift */; };
+		29CCD4602AE84F37002F6570 /* Chapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CCD45F2AE84F37002F6570 /* Chapter.swift */; };
+		29CCD4622AE85A5D002F6570 /* Audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CCD4612AE85A5D002F6570 /* Audio.swift */; };
+		29CCD4672AE9A132002F6570 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CCD4662AE9A132002F6570 /* Constants.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		295F1C112B6A56ED0003024E /* audio_PSA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_PSA.json; sourceTree = "<group>"; };
+		295F1C122B6A56ED0003024E /* audio_1PE.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1PE.json; sourceTree = "<group>"; };
+		295F1C132B6A56ED0003024E /* audio_LUK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_LUK.json; sourceTree = "<group>"; };
+		295F1C142B6A56ED0003024E /* audio_LEV.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_LEV.json; sourceTree = "<group>"; };
+		295F1C152B6A56ED0003024E /* audio_1TH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1TH.json; sourceTree = "<group>"; };
+		295F1C162B6A56ED0003024E /* audio_PHM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_PHM.json; sourceTree = "<group>"; };
+		295F1C172B6A56ED0003024E /* audio_OBA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_OBA.json; sourceTree = "<group>"; };
+		295F1C182B6A56ED0003024E /* audio_1KI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1KI.json; sourceTree = "<group>"; };
+		295F1C192B6A56ED0003024E /* audio_3JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_3JN.json; sourceTree = "<group>"; };
+		295F1C1A2B6A56ED0003024E /* audio_GAL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_GAL.json; sourceTree = "<group>"; };
+		295F1C1B2B6A56ED0003024E /* audio_HOS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_HOS.json; sourceTree = "<group>"; };
+		295F1C1C2B6A56ED0003024E /* audio_RUT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_RUT.json; sourceTree = "<group>"; };
+		295F1C1D2B6A56ED0003024E /* audio_JOS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JOS.json; sourceTree = "<group>"; };
+		295F1C1E2B6A56ED0003024E /* audio_2CO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2CO.json; sourceTree = "<group>"; };
+		295F1C1F2B6A56ED0003024E /* audio_1JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1JN.json; sourceTree = "<group>"; };
+		295F1C202B6A56ED0003024E /* audio_1TI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1TI.json; sourceTree = "<group>"; };
+		295F1C212B6A56ED0003024E /* audio_TIT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_TIT.json; sourceTree = "<group>"; };
+		295F1C222B6A56ED0003024E /* audio_ZEC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ZEC.json; sourceTree = "<group>"; };
+		295F1C232B6A56ED0003024E /* audio_EZK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_EZK.json; sourceTree = "<group>"; };
+		295F1C242B6A56ED0003024E /* audio_2CH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2CH.json; sourceTree = "<group>"; };
+		295F1C252B6A56ED0003024E /* audio_MAL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_MAL.json; sourceTree = "<group>"; };
+		295F1C262B6A56ED0003024E /* audio_AMO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_AMO.json; sourceTree = "<group>"; };
+		295F1C272B6A56ED0003024E /* audio_NEH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_NEH.json; sourceTree = "<group>"; };
+		295F1C282B6A56ED0003024E /* audio_HEB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_HEB.json; sourceTree = "<group>"; };
+		295F1C292B6A56ED0003024E /* audio_ROM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ROM.json; sourceTree = "<group>"; };
+		295F1C2A2B6A56ED0003024E /* audio_EZR.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_EZR.json; sourceTree = "<group>"; };
+		295F1C2B2B6A56ED0003024E /* audio_REV.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_REV.json; sourceTree = "<group>"; };
+		295F1C2C2B6A56ED0003024E /* audio_MIC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_MIC.json; sourceTree = "<group>"; };
+		295F1C2D2B6A56ED0003024E /* audio_NUM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_NUM.json; sourceTree = "<group>"; };
+		295F1C2E2B6A56ED0003024E /* audio_MAT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_MAT.json; sourceTree = "<group>"; };
+		295F1C2F2B6A56ED0003024E /* audio_ZEP.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ZEP.json; sourceTree = "<group>"; };
+		295F1C302B6A56ED0003024E /* audio_JOL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JOL.json; sourceTree = "<group>"; };
+		295F1C312B6A56ED0003024E /* audio_EPH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_EPH.json; sourceTree = "<group>"; };
+		295F1C322B6A56ED0003024E /* audio_HAB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_HAB.json; sourceTree = "<group>"; };
+		295F1C332B6A56ED0003024E /* audio_DAN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_DAN.json; sourceTree = "<group>"; };
+		295F1C342B6A56ED0003024E /* audio_2SA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2SA.json; sourceTree = "<group>"; };
+		295F1C352B6A56ED0003024E /* audio_ACT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ACT.json; sourceTree = "<group>"; };
+		295F1C362B6A56ED0003024E /* audio_1CO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1CO.json; sourceTree = "<group>"; };
+		295F1C372B6A56ED0003024E /* audio_2TI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2TI.json; sourceTree = "<group>"; };
+		295F1C382B6A56ED0003024E /* audio_2JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2JN.json; sourceTree = "<group>"; };
+		295F1C392B6A56ED0003024E /* audio_PRO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_PRO.json; sourceTree = "<group>"; };
+		295F1C3A2B6A56ED0003024E /* audio_DEU.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_DEU.json; sourceTree = "<group>"; };
+		295F1C3B2B6A56ED0003024E /* audio_PHP.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_PHP.json; sourceTree = "<group>"; };
+		295F1C3C2B6A56ED0003024E /* audio_JDG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JDG.json; sourceTree = "<group>"; };
+		295F1C3D2B6A56ED0003024E /* audio_ISA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ISA.json; sourceTree = "<group>"; };
+		295F1C3E2B6A56ED0003024E /* audio_COL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_COL.json; sourceTree = "<group>"; };
+		295F1C3F2B6A56ED0003024E /* audio_EST.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_EST.json; sourceTree = "<group>"; };
+		295F1C402B6A56ED0003024E /* audio_JON.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JON.json; sourceTree = "<group>"; };
+		295F1C412B6A56ED0003024E /* audio_2PE.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2PE.json; sourceTree = "<group>"; };
+		295F1C422B6A56ED0003024E /* audio_JOB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JOB.json; sourceTree = "<group>"; };
+		295F1C432B6A56ED0003024E /* audio_2KI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2KI.json; sourceTree = "<group>"; };
+		295F1C442B6A56ED0003024E /* audio_JUD.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JUD.json; sourceTree = "<group>"; };
+		295F1C452B6A56ED0003024E /* audio_2TH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2TH.json; sourceTree = "<group>"; };
+		295F1C462B6A56ED0003024E /* audio_EXO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_EXO.json; sourceTree = "<group>"; };
+		295F1C472B6A56ED0003024E /* audio_JAS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JAS.json; sourceTree = "<group>"; };
+		295F1C482B6A56ED0003024E /* audio_HAG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_HAG.json; sourceTree = "<group>"; };
+		295F1C492B6A56ED0003024E /* audio_JER.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JER.json; sourceTree = "<group>"; };
+		295F1C4A2B6A56ED0003024E /* audio_ECC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ECC.json; sourceTree = "<group>"; };
+		295F1C4B2B6A56ED0003024E /* audio_1SA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1SA.json; sourceTree = "<group>"; };
+		295F1C4C2B6A56ED0003024E /* audio_NAM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_NAM.json; sourceTree = "<group>"; };
+		295F1C4D2B6A56ED0003024E /* audio_JHN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JHN.json; sourceTree = "<group>"; };
+		295F1C4E2B6A56ED0003024E /* audio_SNG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_SNG.json; sourceTree = "<group>"; };
+		295F1C4F2B6A56ED0003024E /* audio_LAM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_LAM.json; sourceTree = "<group>"; };
+		295F1C502B6A56ED0003024E /* audio_MRK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_MRK.json; sourceTree = "<group>"; };
+		295F1C512B6A56ED0003024E /* audio_GEN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_GEN.json; sourceTree = "<group>"; };
+		295F1C522B6A56ED0003024E /* audio_1CH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1CH.json; sourceTree = "<group>"; };
+		295F1C962B6A57450003024E /* books.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = books.json; sourceTree = "<group>"; };
+		295F1C992B6A57860003024E /* PHM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PHM.json; sourceTree = "<group>"; };
+		295F1C9A2B6A57860003024E /* 1TH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1TH.json; sourceTree = "<group>"; };
+		295F1C9B2B6A57860003024E /* 1KI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1KI.json; sourceTree = "<group>"; };
+		295F1C9C2B6A57860003024E /* OBA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = OBA.json; sourceTree = "<group>"; };
+		295F1C9D2B6A57860003024E /* GAL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = GAL.json; sourceTree = "<group>"; };
+		295F1C9E2B6A57860003024E /* 3JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 3JN.json; sourceTree = "<group>"; };
+		295F1C9F2B6A57860003024E /* RUT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = RUT.json; sourceTree = "<group>"; };
+		295F1CA02B6A57860003024E /* HOS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = HOS.json; sourceTree = "<group>"; };
+		295F1CA12B6A57860003024E /* PSA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PSA.json; sourceTree = "<group>"; };
+		295F1CA22B6A57860003024E /* LUK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LUK.json; sourceTree = "<group>"; };
+		295F1CA32B6A57860003024E /* 1PE.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1PE.json; sourceTree = "<group>"; };
+		295F1CA42B6A57860003024E /* LEV.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LEV.json; sourceTree = "<group>"; };
+		295F1CA52B6A57860003024E /* TIT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TIT.json; sourceTree = "<group>"; };
+		295F1CA62B6A57860003024E /* ZEC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ZEC.json; sourceTree = "<group>"; };
+		295F1CA72B6A57860003024E /* JOS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JOS.json; sourceTree = "<group>"; };
+		295F1CA82B6A57860003024E /* 1TI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1TI.json; sourceTree = "<group>"; };
+		295F1CA92B6A57860003024E /* 1JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1JN.json; sourceTree = "<group>"; };
+		295F1CAA2B6A57860003024E /* 2CO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2CO.json; sourceTree = "<group>"; };
+		295F1CAB2B6A57860003024E /* HEB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = HEB.json; sourceTree = "<group>"; };
+		295F1CAC2B6A57860003024E /* ROM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ROM.json; sourceTree = "<group>"; };
+		295F1CAD2B6A57860003024E /* REV.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = REV.json; sourceTree = "<group>"; };
+		295F1CAE2B6A57860003024E /* EZR.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EZR.json; sourceTree = "<group>"; };
+		295F1CAF2B6A57860003024E /* 2CH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2CH.json; sourceTree = "<group>"; };
+		295F1CB02B6A57860003024E /* EZK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EZK.json; sourceTree = "<group>"; };
+		295F1CB12B6A57860003024E /* MAL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MAL.json; sourceTree = "<group>"; };
+		295F1CB22B6A57860003024E /* NEH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = NEH.json; sourceTree = "<group>"; };
+		295F1CB32B6A57860003024E /* AMO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AMO.json; sourceTree = "<group>"; };
+		295F1CB42B6A57860003024E /* DAN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DAN.json; sourceTree = "<group>"; };
+		295F1CB52B6A57860003024E /* ACT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ACT.json; sourceTree = "<group>"; };
+		295F1CB62B6A57860003024E /* 2SA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2SA.json; sourceTree = "<group>"; };
+		295F1CB72B6A57860003024E /* MIC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MIC.json; sourceTree = "<group>"; };
+		295F1CB82B6A57860003024E /* NUM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = NUM.json; sourceTree = "<group>"; };
+		295F1CB92B6A57860003024E /* JOL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JOL.json; sourceTree = "<group>"; };
+		295F1CBA2B6A57860003024E /* ZEP.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ZEP.json; sourceTree = "<group>"; };
+		295F1CBB2B6A57860003024E /* MAT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MAT.json; sourceTree = "<group>"; };
+		295F1CBC2B6A57860003024E /* EPH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EPH.json; sourceTree = "<group>"; };
+		295F1CBD2B6A57860003024E /* HAB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = HAB.json; sourceTree = "<group>"; };
+		295F1CBE2B6A57860003024E /* PHP.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PHP.json; sourceTree = "<group>"; };
+		295F1CBF2B6A57860003024E /* DEU.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DEU.json; sourceTree = "<group>"; };
+		295F1CC02B6A57860003024E /* ISA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ISA.json; sourceTree = "<group>"; };
+		295F1CC12B6A57860003024E /* COL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = COL.json; sourceTree = "<group>"; };
+		295F1CC22B6A57860003024E /* JDG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JDG.json; sourceTree = "<group>"; };
+		295F1CC32B6A57860003024E /* EST.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EST.json; sourceTree = "<group>"; };
+		295F1CC42B6A57860003024E /* 2JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2JN.json; sourceTree = "<group>"; };
+		295F1CC52B6A57860003024E /* 2TI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2TI.json; sourceTree = "<group>"; };
+		295F1CC62B6A57860003024E /* 1CO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1CO.json; sourceTree = "<group>"; };
+		295F1CC72B6A57860003024E /* PRO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PRO.json; sourceTree = "<group>"; };
+		295F1CC82B6A57860003024E /* 2KI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2KI.json; sourceTree = "<group>"; };
+		295F1CC92B6A57860003024E /* JOB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JOB.json; sourceTree = "<group>"; };
+		295F1CCA2B6A57860003024E /* 2TH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2TH.json; sourceTree = "<group>"; };
+		295F1CCB2B6A57860003024E /* JUD.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JUD.json; sourceTree = "<group>"; };
+		295F1CCC2B6A57860003024E /* JON.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JON.json; sourceTree = "<group>"; };
+		295F1CCD2B6A57860003024E /* 2PE.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2PE.json; sourceTree = "<group>"; };
+		295F1CCE2B6A57860003024E /* ECC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ECC.json; sourceTree = "<group>"; };
+		295F1CCF2B6A57860003024E /* 1SA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1SA.json; sourceTree = "<group>"; };
+		295F1CD02B6A57860003024E /* NAM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = NAM.json; sourceTree = "<group>"; };
+		295F1CD12B6A57860003024E /* SNG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SNG.json; sourceTree = "<group>"; };
+		295F1CD22B6A57860003024E /* JHN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JHN.json; sourceTree = "<group>"; };
+		295F1CD32B6A57860003024E /* EXO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EXO.json; sourceTree = "<group>"; };
+		295F1CD42B6A57860003024E /* JAS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JAS.json; sourceTree = "<group>"; };
+		295F1CD52B6A57860003024E /* JER.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JER.json; sourceTree = "<group>"; };
+		295F1CD62B6A57860003024E /* HAG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = HAG.json; sourceTree = "<group>"; };
+		295F1CD72B6A57860003024E /* LAM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LAM.json; sourceTree = "<group>"; };
+		295F1CD82B6A57860003024E /* 1CH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1CH.json; sourceTree = "<group>"; };
+		295F1CD92B6A57860003024E /* GEN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = GEN.json; sourceTree = "<group>"; };
+		295F1CDA2B6A57860003024E /* MRK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MRK.json; sourceTree = "<group>"; };
+		295F1D1D2B6A5A910003024E /* default.realm */ = {isa = PBXFileReference; lastKnownFileType = file; path = default.realm; sourceTree = "<group>"; };
+		29CCD2022AE589B5002F6570 /* OfflineFromDBDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OfflineFromDBDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		29CCD2052AE589B5002F6570 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		29CCD2072AE589B5002F6570 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		29CCD2092AE589B5002F6570 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		29CCD20C2AE589B5002F6570 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		29CCD20E2AE589B6002F6570 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		29CCD2112AE589B6002F6570 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		29CCD2132AE589B6002F6570 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		29CCD2632AE58A17002F6570 /* DocumentsManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DocumentsManager.swift; sourceTree = "<group>"; };
+		29CCD2652AE58A17002F6570 /* BibleDataFromDB.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BibleDataFromDB.swift; sourceTree = "<group>"; };
+		29CCD2682AE58A17002F6570 /* OfflineFromDBPlugin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OfflineFromDBPlugin.swift; sourceTree = "<group>"; };
+		29CCD26C2AE58A18002F6570 /* ObjectMapper-iOS.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = "ObjectMapper-iOS.xcframework"; sourceTree = "<group>"; };
+		29CCD26E2AE58A18002F6570 /* Verse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Verse.swift; sourceTree = "<group>"; };
+		29CCD2702AE58A18002F6570 /* Book.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
+		29CCD2722AE58A18002F6570 /* RealmObjectMapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RealmObjectMapper.swift; sourceTree = "<group>"; };
+		29CCD2C52AE58BB4002F6570 /* Realm.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Realm.xcframework; sourceTree = "<group>"; };
+		29CCD2C62AE58BB4002F6570 /* RealmSwift.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = RealmSwift.xcframework; sourceTree = "<group>"; };
+		29CCD45D2AE84F2D002F6570 /* Teaching.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Teaching.swift; sourceTree = "<group>"; };
+		29CCD45F2AE84F37002F6570 /* Chapter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter.swift; sourceTree = "<group>"; };
+		29CCD4612AE85A5D002F6570 /* Audio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Audio.swift; sourceTree = "<group>"; };
+		29CCD4662AE9A132002F6570 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		29CCD1FF2AE589B5002F6570 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				29CCD2BF2AE58A18002F6570 /* ObjectMapper-iOS.xcframework in Frameworks */,
+				29CCD2C82AE58BB4002F6570 /* RealmSwift.xcframework in Frameworks */,
+				29CCD2C72AE58BB4002F6570 /* Realm.xcframework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		295F1C102B6A56ED0003024E /* Audios */ = {
+			isa = PBXGroup;
+			children = (
+				295F1C112B6A56ED0003024E /* audio_PSA.json */,
+				295F1C122B6A56ED0003024E /* audio_1PE.json */,
+				295F1C132B6A56ED0003024E /* audio_LUK.json */,
+				295F1C142B6A56ED0003024E /* audio_LEV.json */,
+				295F1C152B6A56ED0003024E /* audio_1TH.json */,
+				295F1C162B6A56ED0003024E /* audio_PHM.json */,
+				295F1C172B6A56ED0003024E /* audio_OBA.json */,
+				295F1C182B6A56ED0003024E /* audio_1KI.json */,
+				295F1C192B6A56ED0003024E /* audio_3JN.json */,
+				295F1C1A2B6A56ED0003024E /* audio_GAL.json */,
+				295F1C1B2B6A56ED0003024E /* audio_HOS.json */,
+				295F1C1C2B6A56ED0003024E /* audio_RUT.json */,
+				295F1C1D2B6A56ED0003024E /* audio_JOS.json */,
+				295F1C1E2B6A56ED0003024E /* audio_2CO.json */,
+				295F1C1F2B6A56ED0003024E /* audio_1JN.json */,
+				295F1C202B6A56ED0003024E /* audio_1TI.json */,
+				295F1C212B6A56ED0003024E /* audio_TIT.json */,
+				295F1C222B6A56ED0003024E /* audio_ZEC.json */,
+				295F1C232B6A56ED0003024E /* audio_EZK.json */,
+				295F1C242B6A56ED0003024E /* audio_2CH.json */,
+				295F1C252B6A56ED0003024E /* audio_MAL.json */,
+				295F1C262B6A56ED0003024E /* audio_AMO.json */,
+				295F1C272B6A56ED0003024E /* audio_NEH.json */,
+				295F1C282B6A56ED0003024E /* audio_HEB.json */,
+				295F1C292B6A56ED0003024E /* audio_ROM.json */,
+				295F1C2A2B6A56ED0003024E /* audio_EZR.json */,
+				295F1C2B2B6A56ED0003024E /* audio_REV.json */,
+				295F1C2C2B6A56ED0003024E /* audio_MIC.json */,
+				295F1C2D2B6A56ED0003024E /* audio_NUM.json */,
+				295F1C2E2B6A56ED0003024E /* audio_MAT.json */,
+				295F1C2F2B6A56ED0003024E /* audio_ZEP.json */,
+				295F1C302B6A56ED0003024E /* audio_JOL.json */,
+				295F1C312B6A56ED0003024E /* audio_EPH.json */,
+				295F1C322B6A56ED0003024E /* audio_HAB.json */,
+				295F1C332B6A56ED0003024E /* audio_DAN.json */,
+				295F1C342B6A56ED0003024E /* audio_2SA.json */,
+				295F1C352B6A56ED0003024E /* audio_ACT.json */,
+				295F1C362B6A56ED0003024E /* audio_1CO.json */,
+				295F1C372B6A56ED0003024E /* audio_2TI.json */,
+				295F1C382B6A56ED0003024E /* audio_2JN.json */,
+				295F1C392B6A56ED0003024E /* audio_PRO.json */,
+				295F1C3A2B6A56ED0003024E /* audio_DEU.json */,
+				295F1C3B2B6A56ED0003024E /* audio_PHP.json */,
+				295F1C3C2B6A56ED0003024E /* audio_JDG.json */,
+				295F1C3D2B6A56ED0003024E /* audio_ISA.json */,
+				295F1C3E2B6A56ED0003024E /* audio_COL.json */,
+				295F1C3F2B6A56ED0003024E /* audio_EST.json */,
+				295F1C402B6A56ED0003024E /* audio_JON.json */,
+				295F1C412B6A56ED0003024E /* audio_2PE.json */,
+				295F1C422B6A56ED0003024E /* audio_JOB.json */,
+				295F1C432B6A56ED0003024E /* audio_2KI.json */,
+				295F1C442B6A56ED0003024E /* audio_JUD.json */,
+				295F1C452B6A56ED0003024E /* audio_2TH.json */,
+				295F1C462B6A56ED0003024E /* audio_EXO.json */,
+				295F1C472B6A56ED0003024E /* audio_JAS.json */,
+				295F1C482B6A56ED0003024E /* audio_HAG.json */,
+				295F1C492B6A56ED0003024E /* audio_JER.json */,
+				295F1C4A2B6A56ED0003024E /* audio_ECC.json */,
+				295F1C4B2B6A56ED0003024E /* audio_1SA.json */,
+				295F1C4C2B6A56ED0003024E /* audio_NAM.json */,
+				295F1C4D2B6A56ED0003024E /* audio_JHN.json */,
+				295F1C4E2B6A56ED0003024E /* audio_SNG.json */,
+				295F1C4F2B6A56ED0003024E /* audio_LAM.json */,
+				295F1C502B6A56ED0003024E /* audio_MRK.json */,
+				295F1C512B6A56ED0003024E /* audio_GEN.json */,
+				295F1C522B6A56ED0003024E /* audio_1CH.json */,
+			);
+			path = Audios;
+			sourceTree = "<group>";
+		};
+		295F1C952B6A57450003024E /* Books */ = {
+			isa = PBXGroup;
+			children = (
+				295F1C962B6A57450003024E /* books.json */,
+			);
+			path = Books;
+			sourceTree = "<group>";
+		};
+		295F1C982B6A57860003024E /* Verses */ = {
+			isa = PBXGroup;
+			children = (
+				295F1C992B6A57860003024E /* PHM.json */,
+				295F1C9A2B6A57860003024E /* 1TH.json */,
+				295F1C9B2B6A57860003024E /* 1KI.json */,
+				295F1C9C2B6A57860003024E /* OBA.json */,
+				295F1C9D2B6A57860003024E /* GAL.json */,
+				295F1C9E2B6A57860003024E /* 3JN.json */,
+				295F1C9F2B6A57860003024E /* RUT.json */,
+				295F1CA02B6A57860003024E /* HOS.json */,
+				295F1CA12B6A57860003024E /* PSA.json */,
+				295F1CA22B6A57860003024E /* LUK.json */,
+				295F1CA32B6A57860003024E /* 1PE.json */,
+				295F1CA42B6A57860003024E /* LEV.json */,
+				295F1CA52B6A57860003024E /* TIT.json */,
+				295F1CA62B6A57860003024E /* ZEC.json */,
+				295F1CA72B6A57860003024E /* JOS.json */,
+				295F1CA82B6A57860003024E /* 1TI.json */,
+				295F1CA92B6A57860003024E /* 1JN.json */,
+				295F1CAA2B6A57860003024E /* 2CO.json */,
+				295F1CAB2B6A57860003024E /* HEB.json */,
+				295F1CAC2B6A57860003024E /* ROM.json */,
+				295F1CAD2B6A57860003024E /* REV.json */,
+				295F1CAE2B6A57860003024E /* EZR.json */,
+				295F1CAF2B6A57860003024E /* 2CH.json */,
+				295F1CB02B6A57860003024E /* EZK.json */,
+				295F1CB12B6A57860003024E /* MAL.json */,
+				295F1CB22B6A57860003024E /* NEH.json */,
+				295F1CB32B6A57860003024E /* AMO.json */,
+				295F1CB42B6A57860003024E /* DAN.json */,
+				295F1CB52B6A57860003024E /* ACT.json */,
+				295F1CB62B6A57860003024E /* 2SA.json */,
+				295F1CB72B6A57860003024E /* MIC.json */,
+				295F1CB82B6A57860003024E /* NUM.json */,
+				295F1CB92B6A57860003024E /* JOL.json */,
+				295F1CBA2B6A57860003024E /* ZEP.json */,
+				295F1CBB2B6A57860003024E /* MAT.json */,
+				295F1CBC2B6A57860003024E /* EPH.json */,
+				295F1CBD2B6A57860003024E /* HAB.json */,
+				295F1CBE2B6A57860003024E /* PHP.json */,
+				295F1CBF2B6A57860003024E /* DEU.json */,
+				295F1CC02B6A57860003024E /* ISA.json */,
+				295F1CC12B6A57860003024E /* COL.json */,
+				295F1CC22B6A57860003024E /* JDG.json */,
+				295F1CC32B6A57860003024E /* EST.json */,
+				295F1CC42B6A57860003024E /* 2JN.json */,
+				295F1CC52B6A57860003024E /* 2TI.json */,
+				295F1CC62B6A57860003024E /* 1CO.json */,
+				295F1CC72B6A57860003024E /* PRO.json */,
+				295F1CC82B6A57860003024E /* 2KI.json */,
+				295F1CC92B6A57860003024E /* JOB.json */,
+				295F1CCA2B6A57860003024E /* 2TH.json */,
+				295F1CCB2B6A57860003024E /* JUD.json */,
+				295F1CCC2B6A57860003024E /* JON.json */,
+				295F1CCD2B6A57860003024E /* 2PE.json */,
+				295F1CCE2B6A57860003024E /* ECC.json */,
+				295F1CCF2B6A57860003024E /* 1SA.json */,
+				295F1CD02B6A57860003024E /* NAM.json */,
+				295F1CD12B6A57860003024E /* SNG.json */,
+				295F1CD22B6A57860003024E /* JHN.json */,
+				295F1CD32B6A57860003024E /* EXO.json */,
+				295F1CD42B6A57860003024E /* JAS.json */,
+				295F1CD52B6A57860003024E /* JER.json */,
+				295F1CD62B6A57860003024E /* HAG.json */,
+				295F1CD72B6A57860003024E /* LAM.json */,
+				295F1CD82B6A57860003024E /* 1CH.json */,
+				295F1CD92B6A57860003024E /* GEN.json */,
+				295F1CDA2B6A57860003024E /* MRK.json */,
+			);
+			path = Verses;
+			sourceTree = "<group>";
+		};
+		29CCD1F92AE589B5002F6570 = {
+			isa = PBXGroup;
+			children = (
+				29CCD2042AE589B5002F6570 /* OfflineFromDBDemo */,
+				29CCD2032AE589B5002F6570 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		29CCD2032AE589B5002F6570 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				29CCD2022AE589B5002F6570 /* OfflineFromDBDemo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29CCD2042AE589B5002F6570 /* OfflineFromDBDemo */ = {
+			isa = PBXGroup;
+			children = (
+				29CCD2192AE58A03002F6570 /* Plugin */,
+				29CCD2052AE589B5002F6570 /* AppDelegate.swift */,
+				29CCD2072AE589B5002F6570 /* SceneDelegate.swift */,
+				29CCD2092AE589B5002F6570 /* ViewController.swift */,
+				29CCD20B2AE589B5002F6570 /* Main.storyboard */,
+				29CCD20E2AE589B6002F6570 /* Assets.xcassets */,
+				29CCD2102AE589B6002F6570 /* LaunchScreen.storyboard */,
+				29CCD2132AE589B6002F6570 /* Info.plist */,
+			);
+			path = OfflineFromDBDemo;
+			sourceTree = "<group>";
+		};
+		29CCD2192AE58A03002F6570 /* Plugin */ = {
+			isa = PBXGroup;
+			children = (
+				29CCD2672AE58A17002F6570 /* Cordova */,
+				29CCD2692AE58A18002F6570 /* Frameworks */,
+				29CCD2622AE58A17002F6570 /* Manager */,
+				29CCD26D2AE58A18002F6570 /* Models */,
+				29CCD21A2AE58A17002F6570 /* Resources */,
+			);
+			path = Plugin;
+			sourceTree = "<group>";
+		};
+		29CCD21A2AE58A17002F6570 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				29CCD4632AE98B43002F6570 /* DB */,
+				29CCD45C2AE71CA6002F6570 /* JSONS */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		29CCD2622AE58A17002F6570 /* Manager */ = {
+			isa = PBXGroup;
+			children = (
+				29CCD2632AE58A17002F6570 /* DocumentsManager.swift */,
+				29CCD2652AE58A17002F6570 /* BibleDataFromDB.swift */,
+				29CCD4662AE9A132002F6570 /* Constants.swift */,
+			);
+			path = Manager;
+			sourceTree = "<group>";
+		};
+		29CCD2672AE58A17002F6570 /* Cordova */ = {
+			isa = PBXGroup;
+			children = (
+				29CCD2682AE58A17002F6570 /* OfflineFromDBPlugin.swift */,
+			);
+			path = Cordova;
+			sourceTree = "<group>";
+		};
+		29CCD2692AE58A18002F6570 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29CCD2C52AE58BB4002F6570 /* Realm.xcframework */,
+				29CCD2C62AE58BB4002F6570 /* RealmSwift.xcframework */,
+				29CCD26C2AE58A18002F6570 /* ObjectMapper-iOS.xcframework */,
+			);
+			path = Frameworks;
+			sourceTree = "<group>";
+		};
+		29CCD26D2AE58A18002F6570 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				29CCD2702AE58A18002F6570 /* Book.swift */,
+				29CCD26E2AE58A18002F6570 /* Verse.swift */,
+				29CCD45D2AE84F2D002F6570 /* Teaching.swift */,
+				29CCD45F2AE84F37002F6570 /* Chapter.swift */,
+				29CCD4612AE85A5D002F6570 /* Audio.swift */,
+				29CCD2722AE58A18002F6570 /* RealmObjectMapper.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		29CCD45C2AE71CA6002F6570 /* JSONS */ = {
+			isa = PBXGroup;
+			children = (
+				295F1C982B6A57860003024E /* Verses */,
+				295F1C952B6A57450003024E /* Books */,
+				295F1C102B6A56ED0003024E /* Audios */,
+			);
+			path = JSONS;
+			sourceTree = "<group>";
+		};
+		29CCD4632AE98B43002F6570 /* DB */ = {
+			isa = PBXGroup;
+			children = (
+				295F1D1D2B6A5A910003024E /* default.realm */,
+			);
+			path = DB;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		29CCD2012AE589B5002F6570 /* OfflineFromDBDemo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 29CCD2162AE589B6002F6570 /* Build configuration list for PBXNativeTarget "OfflineFromDBDemo" */;
+			buildPhases = (
+				29CCD1FE2AE589B5002F6570 /* Sources */,
+				29CCD1FF2AE589B5002F6570 /* Frameworks */,
+				29CCD2002AE589B5002F6570 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = OfflineFromDBDemo;
+			productName = OfflineFromDBDemo;
+			productReference = 29CCD2022AE589B5002F6570 /* OfflineFromDBDemo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29CCD1FA2AE589B5002F6570 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					29CCD2012AE589B5002F6570 = {
+						CreatedOnToolsVersion = 15.0;
+					};
+				};
+			};
+			buildConfigurationList = 29CCD1FD2AE589B5002F6570 /* Build configuration list for PBXProject "OfflineFromDBDemo" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 29CCD1F92AE589B5002F6570;
+			productRefGroup = 29CCD2032AE589B5002F6570 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				29CCD2012AE589B5002F6570 /* OfflineFromDBDemo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		29CCD2002AE589B5002F6570 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				295F1D082B6A57860003024E /* 1CO.json in Resources */,
+				295F1CF62B6A57860003024E /* DAN.json in Resources */,
+				295F1C7A2B6A56ED0003024E /* audio_2JN.json in Resources */,
+				295F1C772B6A56ED0003024E /* audio_ACT.json in Resources */,
+				295F1C562B6A56ED0003024E /* audio_LEV.json in Resources */,
+				295F1CDD2B6A57860003024E /* 1KI.json in Resources */,
+				295F1D142B6A57860003024E /* JHN.json in Resources */,
+				295F1CFB2B6A57860003024E /* JOL.json in Resources */,
+				295F1D052B6A57860003024E /* EST.json in Resources */,
+				295F1CE32B6A57860003024E /* PSA.json in Resources */,
+				295F1C642B6A56ED0003024E /* audio_ZEC.json in Resources */,
+				295F1C822B6A56ED0003024E /* audio_JON.json in Resources */,
+				295F1CE22B6A57860003024E /* HOS.json in Resources */,
+				295F1D122B6A57860003024E /* NAM.json in Resources */,
+				295F1D0C2B6A57860003024E /* 2TH.json in Resources */,
+				295F1C832B6A56ED0003024E /* audio_2PE.json in Resources */,
+				295F1CED2B6A57860003024E /* HEB.json in Resources */,
+				295F1CFD2B6A57860003024E /* MAT.json in Resources */,
+				295F1CEB2B6A57860003024E /* 1JN.json in Resources */,
+				295F1CFA2B6A57860003024E /* NUM.json in Resources */,
+				295F1C8D2B6A56ED0003024E /* audio_1SA.json in Resources */,
+				295F1D042B6A57860003024E /* JDG.json in Resources */,
+				295F1C842B6A56ED0003024E /* audio_JOB.json in Resources */,
+				295F1C762B6A56ED0003024E /* audio_2SA.json in Resources */,
+				295F1C552B6A56ED0003024E /* audio_LUK.json in Resources */,
+				295F1C712B6A56ED0003024E /* audio_ZEP.json in Resources */,
+				295F1D1B2B6A57860003024E /* GEN.json in Resources */,
+				295F1CE52B6A57860003024E /* 1PE.json in Resources */,
+				295F1C6B2B6A56ED0003024E /* audio_ROM.json in Resources */,
+				295F1C732B6A56ED0003024E /* audio_EPH.json in Resources */,
+				295F1D0F2B6A57860003024E /* 2PE.json in Resources */,
+				295F1C8E2B6A56ED0003024E /* audio_NAM.json in Resources */,
+				295F1C692B6A56ED0003024E /* audio_NEH.json in Resources */,
+				295F1CEF2B6A57860003024E /* REV.json in Resources */,
+				295F1C742B6A56ED0003024E /* audio_HAB.json in Resources */,
+				295F1CF52B6A57860003024E /* AMO.json in Resources */,
+				295F1C6A2B6A56ED0003024E /* audio_HEB.json in Resources */,
+				295F1D1E2B6A5A910003024E /* default.realm in Resources */,
+				295F1C602B6A56ED0003024E /* audio_2CO.json in Resources */,
+				295F1C932B6A56ED0003024E /* audio_GEN.json in Resources */,
+				295F1C592B6A56ED0003024E /* audio_OBA.json in Resources */,
+				29CCD2122AE589B6002F6570 /* LaunchScreen.storyboard in Resources */,
+				295F1D192B6A57860003024E /* LAM.json in Resources */,
+				295F1C582B6A56ED0003024E /* audio_PHM.json in Resources */,
+				295F1C722B6A56ED0003024E /* audio_JOL.json in Resources */,
+				295F1CE02B6A57860003024E /* 3JN.json in Resources */,
+				295F1C792B6A56ED0003024E /* audio_2TI.json in Resources */,
+				295F1CF02B6A57860003024E /* EZR.json in Resources */,
+				295F1C6E2B6A56ED0003024E /* audio_MIC.json in Resources */,
+				295F1CFC2B6A57860003024E /* ZEP.json in Resources */,
+				295F1C7C2B6A56ED0003024E /* audio_DEU.json in Resources */,
+				295F1D022B6A57860003024E /* ISA.json in Resources */,
+				295F1C5D2B6A56ED0003024E /* audio_HOS.json in Resources */,
+				295F1C7D2B6A56ED0003024E /* audio_PHP.json in Resources */,
+				295F1C942B6A56ED0003024E /* audio_1CH.json in Resources */,
+				295F1C8A2B6A56ED0003024E /* audio_HAG.json in Resources */,
+				295F1CE92B6A57860003024E /* JOS.json in Resources */,
+				295F1CF82B6A57860003024E /* 2SA.json in Resources */,
+				295F1C5B2B6A56ED0003024E /* audio_3JN.json in Resources */,
+				295F1CF92B6A57860003024E /* MIC.json in Resources */,
+				295F1CF32B6A57860003024E /* MAL.json in Resources */,
+				295F1D062B6A57860003024E /* 2JN.json in Resources */,
+				295F1C6D2B6A56ED0003024E /* audio_REV.json in Resources */,
+				295F1C702B6A56ED0003024E /* audio_MAT.json in Resources */,
+				295F1CF22B6A57860003024E /* EZK.json in Resources */,
+				295F1D182B6A57860003024E /* HAG.json in Resources */,
+				295F1D162B6A57860003024E /* JAS.json in Resources */,
+				295F1C902B6A56ED0003024E /* audio_SNG.json in Resources */,
+				29CCD20F2AE589B6002F6570 /* Assets.xcassets in Resources */,
+				295F1C5A2B6A56ED0003024E /* audio_1KI.json in Resources */,
+				295F1D0D2B6A57860003024E /* JUD.json in Resources */,
+				295F1D1C2B6A57860003024E /* MRK.json in Resources */,
+				295F1C972B6A57450003024E /* books.json in Resources */,
+				295F1D172B6A57860003024E /* JER.json in Resources */,
+				295F1CF42B6A57860003024E /* NEH.json in Resources */,
+				295F1D0A2B6A57860003024E /* 2KI.json in Resources */,
+				295F1CDE2B6A57860003024E /* OBA.json in Resources */,
+				295F1C5F2B6A56ED0003024E /* audio_JOS.json in Resources */,
+				295F1C752B6A56ED0003024E /* audio_DAN.json in Resources */,
+				295F1C912B6A56ED0003024E /* audio_LAM.json in Resources */,
+				295F1C802B6A56ED0003024E /* audio_COL.json in Resources */,
+				295F1CDF2B6A57860003024E /* GAL.json in Resources */,
+				295F1C8B2B6A56ED0003024E /* audio_JER.json in Resources */,
+				295F1C5E2B6A56ED0003024E /* audio_RUT.json in Resources */,
+				295F1C572B6A56ED0003024E /* audio_1TH.json in Resources */,
+				295F1CDB2B6A57860003024E /* PHM.json in Resources */,
+				295F1C542B6A56ED0003024E /* audio_1PE.json in Resources */,
+				295F1CF72B6A57860003024E /* ACT.json in Resources */,
+				295F1C7B2B6A56ED0003024E /* audio_PRO.json in Resources */,
+				295F1CE62B6A57860003024E /* LEV.json in Resources */,
+				295F1C672B6A56ED0003024E /* audio_MAL.json in Resources */,
+				295F1C812B6A56ED0003024E /* audio_EST.json in Resources */,
+				295F1D002B6A57860003024E /* PHP.json in Resources */,
+				295F1C612B6A56ED0003024E /* audio_1JN.json in Resources */,
+				295F1D032B6A57860003024E /* COL.json in Resources */,
+				295F1D132B6A57860003024E /* SNG.json in Resources */,
+				295F1C862B6A56ED0003024E /* audio_JUD.json in Resources */,
+				295F1C782B6A56ED0003024E /* audio_1CO.json in Resources */,
+				295F1D092B6A57860003024E /* PRO.json in Resources */,
+				295F1C652B6A56ED0003024E /* audio_EZK.json in Resources */,
+				29CCD20D2AE589B5002F6570 /* Main.storyboard in Resources */,
+				295F1D1A2B6A57860003024E /* 1CH.json in Resources */,
+				295F1C532B6A56ED0003024E /* audio_PSA.json in Resources */,
+				295F1D072B6A57860003024E /* 2TI.json in Resources */,
+				295F1D102B6A57860003024E /* ECC.json in Resources */,
+				295F1CEC2B6A57860003024E /* 2CO.json in Resources */,
+				295F1C682B6A56ED0003024E /* audio_AMO.json in Resources */,
+				295F1C632B6A56ED0003024E /* audio_TIT.json in Resources */,
+				295F1C892B6A56ED0003024E /* audio_JAS.json in Resources */,
+				295F1D112B6A57860003024E /* 1SA.json in Resources */,
+				295F1CE12B6A57860003024E /* RUT.json in Resources */,
+				295F1D152B6A57860003024E /* EXO.json in Resources */,
+				295F1CEA2B6A57860003024E /* 1TI.json in Resources */,
+				295F1C6C2B6A56ED0003024E /* audio_EZR.json in Resources */,
+				295F1C622B6A56ED0003024E /* audio_1TI.json in Resources */,
+				295F1D0B2B6A57860003024E /* JOB.json in Resources */,
+				295F1C7E2B6A56ED0003024E /* audio_JDG.json in Resources */,
+				295F1CDC2B6A57860003024E /* 1TH.json in Resources */,
+				295F1C8C2B6A56ED0003024E /* audio_ECC.json in Resources */,
+				295F1CFE2B6A57860003024E /* EPH.json in Resources */,
+				295F1D012B6A57860003024E /* DEU.json in Resources */,
+				295F1C852B6A56ED0003024E /* audio_2KI.json in Resources */,
+				295F1D0E2B6A57860003024E /* JON.json in Resources */,
+				295F1CF12B6A57860003024E /* 2CH.json in Resources */,
+				295F1CE42B6A57860003024E /* LUK.json in Resources */,
+				295F1CEE2B6A57860003024E /* ROM.json in Resources */,
+				295F1C8F2B6A56ED0003024E /* audio_JHN.json in Resources */,
+				295F1C6F2B6A56ED0003024E /* audio_NUM.json in Resources */,
+				295F1CFF2B6A57860003024E /* HAB.json in Resources */,
+				295F1C5C2B6A56ED0003024E /* audio_GAL.json in Resources */,
+				295F1C872B6A56ED0003024E /* audio_2TH.json in Resources */,
+				295F1C882B6A56ED0003024E /* audio_EXO.json in Resources */,
+				295F1C922B6A56ED0003024E /* audio_MRK.json in Resources */,
+				295F1CE72B6A57860003024E /* TIT.json in Resources */,
+				295F1C662B6A56ED0003024E /* audio_2CH.json in Resources */,
+				295F1C7F2B6A56ED0003024E /* audio_ISA.json in Resources */,
+				295F1CE82B6A57860003024E /* ZEC.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		29CCD1FE2AE589B5002F6570 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				29CCD20A2AE589B5002F6570 /* ViewController.swift in Sources */,
+				29CCD45E2AE84F2D002F6570 /* Teaching.swift in Sources */,
+				29CCD2C42AE58A18002F6570 /* RealmObjectMapper.swift in Sources */,
+				29CCD2C22AE58A18002F6570 /* Book.swift in Sources */,
+				29CCD2062AE589B5002F6570 /* AppDelegate.swift in Sources */,
+				29CCD4602AE84F37002F6570 /* Chapter.swift in Sources */,
+				29CCD4622AE85A5D002F6570 /* Audio.swift in Sources */,
+				29CCD2C02AE58A18002F6570 /* Verse.swift in Sources */,
+				29CCD2B82AE58A18002F6570 /* DocumentsManager.swift in Sources */,
+				29CCD2BA2AE58A18002F6570 /* BibleDataFromDB.swift in Sources */,
+				29CCD4672AE9A132002F6570 /* Constants.swift in Sources */,
+				29CCD2082AE589B5002F6570 /* SceneDelegate.swift in Sources */,
+				29CCD2BC2AE58A18002F6570 /* OfflineFromDBPlugin.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		29CCD20B2AE589B5002F6570 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				29CCD20C2AE589B5002F6570 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		29CCD2102AE589B6002F6570 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				29CCD2112AE589B6002F6570 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		29CCD2142AE589B6002F6570 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		29CCD2152AE589B6002F6570 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		29CCD2172AE589B6002F6570 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OfflineFromDBDemo/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.techmatetech.OfflineFromDBDemo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		29CCD2182AE589B6002F6570 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = OfflineFromDBDemo/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.techmatetech.OfflineFromDBDemo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		29CCD1FD2AE589B5002F6570 /* Build configuration list for PBXProject "OfflineFromDBDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				29CCD2142AE589B6002F6570 /* Debug */,
+				29CCD2152AE589B6002F6570 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		29CCD2162AE589B6002F6570 /* Build configuration list for PBXNativeTarget "OfflineFromDBDemo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				29CCD2172AE589B6002F6570 /* Debug */,
+				29CCD2182AE589B6002F6570 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29CCD1FA2AE589B5002F6570 /* Project object */;
+}

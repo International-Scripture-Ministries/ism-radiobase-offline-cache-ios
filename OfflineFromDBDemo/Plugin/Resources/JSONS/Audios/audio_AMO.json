@@ -1,0 +1,173 @@
+[
+    {
+        "next": {
+            "id": "AMO.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "ACT.28",
+            "number": "28"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "AMO.1",
+        "bookId": "AMO",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:27.897Z",
+        "number": "1",
+        "reference": "Amosi 1",
+        "updatedAt": "2022-07-14T19:35:27.897Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/AMO/AMO.1.mp3"
+    },
+    {
+        "next": {
+            "id": "AMO.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "AMO.1",
+            "number": "1"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "AMO.2",
+        "bookId": "AMO",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:28.269Z",
+        "number": "2",
+        "reference": "Amosi 2",
+        "updatedAt": "2022-07-14T19:35:28.269Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/AMO/AMO.2.mp3"
+    },
+    {
+        "next": {
+            "id": "AMO.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "AMO.2",
+            "number": "2"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "AMO.3",
+        "bookId": "AMO",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:28.658Z",
+        "number": "3",
+        "reference": "Amosi 3",
+        "updatedAt": "2022-07-14T19:35:28.658Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/AMO/AMO.3.mp3"
+    },
+    {
+        "next": {
+            "id": "AMO.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "AMO.3",
+            "number": "3"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "AMO.4",
+        "bookId": "AMO",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:29.052Z",
+        "number": "4",
+        "reference": "Amosi 4",
+        "updatedAt": "2022-07-14T19:35:29.052Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/AMO/AMO.4.mp3"
+    },
+    {
+        "next": {
+            "id": "AMO.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "AMO.4",
+            "number": "4"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "AMO.5",
+        "bookId": "AMO",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:29.426Z",
+        "number": "5",
+        "reference": "Amosi 5",
+        "updatedAt": "2022-07-14T19:35:29.426Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/AMO/AMO.5.mp3"
+    },
+    {
+        "next": {
+            "id": "AMO.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "AMO.5",
+            "number": "5"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "AMO.6",
+        "bookId": "AMO",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:29.864Z",
+        "number": "6",
+        "reference": "Amosi 6",
+        "updatedAt": "2022-07-14T19:35:29.864Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/AMO/AMO.6.mp3"
+    },
+    {
+        "next": {
+            "id": "AMO.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "AMO.6",
+            "number": "6"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "AMO.7",
+        "bookId": "AMO",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:30.325Z",
+        "number": "7",
+        "reference": "Amosi 7",
+        "updatedAt": "2022-07-14T19:35:30.325Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/AMO/AMO.7.mp3"
+    },
+    {
+        "next": {
+            "id": "AMO.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "AMO.7",
+            "number": "7"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "AMO.8",
+        "bookId": "AMO",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:30.688Z",
+        "number": "8",
+        "reference": "Amosi 8",
+        "updatedAt": "2022-07-14T19:35:30.688Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/AMO/AMO.8.mp3"
+    },
+    {
+        "next": {
+            "id": "COL.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "AMO.8",
+            "number": "8"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "AMO.9",
+        "bookId": "AMO",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:35:31.137Z",
+        "number": "9",
+        "reference": "Amosi 9",
+        "updatedAt": "2022-07-14T19:35:31.137Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/AMO/AMO.9.mp3"
+    }
+]

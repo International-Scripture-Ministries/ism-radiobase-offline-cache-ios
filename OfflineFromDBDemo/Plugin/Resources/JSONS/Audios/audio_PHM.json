@@ -1,0 +1,21 @@
+[
+    {
+        "next": {
+            "id": "PHP.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "OBA.1",
+            "number": "1"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "PHM.1",
+        "bookId": "PHM",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:40:27.518Z",
+        "number": "1",
+        "reference": "Filemoni 1",
+        "updatedAt": "2022-07-14T19:40:27.519Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/PHM/PHM.1.mp3"
+    }
+]

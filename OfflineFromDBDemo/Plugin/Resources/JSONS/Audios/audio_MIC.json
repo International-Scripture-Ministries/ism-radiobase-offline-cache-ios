@@ -1,0 +1,135 @@
+[
+    {
+        "next": {
+            "id": "MIC.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "MAT.28",
+            "number": "28"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "MIC.1",
+        "bookId": "MIC",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:52.593Z",
+        "number": "1",
+        "reference": "Mika 1",
+        "updatedAt": "2022-07-14T19:39:52.593Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/MIC/MIC.1.mp3"
+    },
+    {
+        "next": {
+            "id": "MIC.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "MIC.1",
+            "number": "1"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "MIC.2",
+        "bookId": "MIC",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:53.021Z",
+        "number": "2",
+        "reference": "Mika 2",
+        "updatedAt": "2022-07-14T19:39:53.021Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/MIC/MIC.2.mp3"
+    },
+    {
+        "next": {
+            "id": "MIC.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "MIC.2",
+            "number": "2"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "MIC.3",
+        "bookId": "MIC",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:53.455Z",
+        "number": "3",
+        "reference": "Mika 3",
+        "updatedAt": "2022-07-14T19:39:53.455Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/MIC/MIC.3.mp3"
+    },
+    {
+        "next": {
+            "id": "MIC.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "MIC.3",
+            "number": "3"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "MIC.4",
+        "bookId": "MIC",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:53.882Z",
+        "number": "4",
+        "reference": "Mika 4",
+        "updatedAt": "2022-07-14T19:39:53.882Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/MIC/MIC.4.mp3"
+    },
+    {
+        "next": {
+            "id": "MIC.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "MIC.4",
+            "number": "4"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "MIC.5",
+        "bookId": "MIC",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:54.290Z",
+        "number": "5",
+        "reference": "Mika 5",
+        "updatedAt": "2022-07-14T19:39:54.290Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/MIC/MIC.5.mp3"
+    },
+    {
+        "next": {
+            "id": "MIC.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "MIC.5",
+            "number": "5"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "MIC.6",
+        "bookId": "MIC",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:54.679Z",
+        "number": "6",
+        "reference": "Mika 6",
+        "updatedAt": "2022-07-14T19:39:54.679Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/MIC/MIC.6.mp3"
+    },
+    {
+        "next": {
+            "id": "MRK.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "MIC.6",
+            "number": "6"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "MIC.7",
+        "bookId": "MIC",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:55.111Z",
+        "number": "7",
+        "reference": "Mika 7",
+        "updatedAt": "2022-07-14T19:39:55.111Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/MIC/MIC.7.mp3"
+    }
+]

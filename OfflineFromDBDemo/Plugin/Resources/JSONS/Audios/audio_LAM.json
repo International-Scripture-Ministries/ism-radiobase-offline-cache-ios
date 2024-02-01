@@ -1,0 +1,97 @@
+[
+    {
+        "next": {
+            "id": "LAM.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "JUD.1",
+            "number": "1"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LAM.1",
+        "bookId": "LAM",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:13.798Z",
+        "number": "1",
+        "reference": "Maombolezo 1",
+        "updatedAt": "2022-07-14T19:39:13.798Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LAM/LAM.1.mp3"
+    },
+    {
+        "next": {
+            "id": "LAM.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "LAM.1",
+            "number": "1"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LAM.2",
+        "bookId": "LAM",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:14.244Z",
+        "number": "2",
+        "reference": "Maombolezo 2",
+        "updatedAt": "2022-07-14T19:39:14.244Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LAM/LAM.2.mp3"
+    },
+    {
+        "next": {
+            "id": "LAM.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "LAM.2",
+            "number": "2"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LAM.3",
+        "bookId": "LAM",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:14.694Z",
+        "number": "3",
+        "reference": "Maombolezo 3",
+        "updatedAt": "2022-07-14T19:39:14.694Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LAM/LAM.3.mp3"
+    },
+    {
+        "next": {
+            "id": "LAM.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "LAM.3",
+            "number": "3"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LAM.4",
+        "bookId": "LAM",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:15.150Z",
+        "number": "4",
+        "reference": "Maombolezo 4",
+        "updatedAt": "2022-07-14T19:39:15.150Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LAM/LAM.4.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "LAM.4",
+            "number": "4"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LAM.5",
+        "bookId": "LAM",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:15.625Z",
+        "number": "5",
+        "reference": "Maombolezo 5",
+        "updatedAt": "2022-07-14T19:39:15.625Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LAM/LAM.5.mp3"
+    }
+]

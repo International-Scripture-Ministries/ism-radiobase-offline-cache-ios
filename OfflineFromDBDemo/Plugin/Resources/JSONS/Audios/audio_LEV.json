@@ -1,0 +1,515 @@
+[
+    {
+        "next": {
+            "id": "LEV.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "LAM.5",
+            "number": "5"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.1",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:16.442Z",
+        "number": "1",
+        "reference": "Mambo ya Walawi 1",
+        "updatedAt": "2022-07-14T19:39:16.442Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.1.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "LEV.9",
+            "number": "9"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.10",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:20.257Z",
+        "number": "10",
+        "reference": "Mambo ya Walawi 10",
+        "updatedAt": "2022-07-14T19:39:20.257Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.10.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "LEV.10",
+            "number": "10"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.11",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:20.694Z",
+        "number": "11",
+        "reference": "Mambo ya Walawi 11",
+        "updatedAt": "2022-07-14T19:39:20.694Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.11.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.13",
+            "number": "13"
+        },
+        "previous": {
+            "id": "LEV.11",
+            "number": "11"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.12",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:21.099Z",
+        "number": "12",
+        "reference": "Mambo ya Walawi 12",
+        "updatedAt": "2022-07-14T19:39:21.099Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.12.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.14",
+            "number": "14"
+        },
+        "previous": {
+            "id": "LEV.12",
+            "number": "12"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.13",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:21.524Z",
+        "number": "13",
+        "reference": "Mambo ya Walawi 13",
+        "updatedAt": "2022-07-14T19:39:21.524Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.13.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.15",
+            "number": "15"
+        },
+        "previous": {
+            "id": "LEV.13",
+            "number": "13"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.14",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:21.899Z",
+        "number": "14",
+        "reference": "Mambo ya Walawi 14",
+        "updatedAt": "2022-07-14T19:39:21.899Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.14.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.16",
+            "number": "16"
+        },
+        "previous": {
+            "id": "LEV.14",
+            "number": "14"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.15",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:22.347Z",
+        "number": "15",
+        "reference": "Mambo ya Walawi 15",
+        "updatedAt": "2022-07-14T19:39:22.347Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.15.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.17",
+            "number": "17"
+        },
+        "previous": {
+            "id": "LEV.15",
+            "number": "15"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.16",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:22.765Z",
+        "number": "16",
+        "reference": "Mambo ya Walawi 16",
+        "updatedAt": "2022-07-14T19:39:22.765Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.16.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.18",
+            "number": "18"
+        },
+        "previous": {
+            "id": "LEV.16",
+            "number": "16"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.17",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:23.169Z",
+        "number": "17",
+        "reference": "Mambo ya Walawi 17",
+        "updatedAt": "2022-07-14T19:39:23.169Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.17.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.19",
+            "number": "19"
+        },
+        "previous": {
+            "id": "LEV.17",
+            "number": "17"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.18",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:23.607Z",
+        "number": "18",
+        "reference": "Mambo ya Walawi 18",
+        "updatedAt": "2022-07-14T19:39:23.607Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.18.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.20",
+            "number": "20"
+        },
+        "previous": {
+            "id": "LEV.18",
+            "number": "18"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.19",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:24.030Z",
+        "number": "19",
+        "reference": "Mambo ya Walawi 19",
+        "updatedAt": "2022-07-14T19:39:24.030Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.19.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "LEV.1",
+            "number": "1"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.2",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:16.894Z",
+        "number": "2",
+        "reference": "Mambo ya Walawi 2",
+        "updatedAt": "2022-07-14T19:39:16.894Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.2.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.21",
+            "number": "21"
+        },
+        "previous": {
+            "id": "LEV.19",
+            "number": "19"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.20",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:24.484Z",
+        "number": "20",
+        "reference": "Mambo ya Walawi 20",
+        "updatedAt": "2022-07-14T19:39:24.484Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.20.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.22",
+            "number": "22"
+        },
+        "previous": {
+            "id": "LEV.20",
+            "number": "20"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.21",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:24.906Z",
+        "number": "21",
+        "reference": "Mambo ya Walawi 21",
+        "updatedAt": "2022-07-14T19:39:24.906Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.21.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.23",
+            "number": "23"
+        },
+        "previous": {
+            "id": "LEV.21",
+            "number": "21"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.22",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:25.372Z",
+        "number": "22",
+        "reference": "Mambo ya Walawi 22",
+        "updatedAt": "2022-07-14T19:39:25.372Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.22.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.24",
+            "number": "24"
+        },
+        "previous": {
+            "id": "LEV.22",
+            "number": "22"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.23",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:25.814Z",
+        "number": "23",
+        "reference": "Mambo ya Walawi 23",
+        "updatedAt": "2022-07-14T19:39:25.814Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.23.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.25",
+            "number": "25"
+        },
+        "previous": {
+            "id": "LEV.23",
+            "number": "23"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.24",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:26.254Z",
+        "number": "24",
+        "reference": "Mambo ya Walawi 24",
+        "updatedAt": "2022-07-14T19:39:26.254Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.24.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.26",
+            "number": "26"
+        },
+        "previous": {
+            "id": "LEV.24",
+            "number": "24"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.25",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:26.636Z",
+        "number": "25",
+        "reference": "Mambo ya Walawi 25",
+        "updatedAt": "2022-07-14T19:39:26.636Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.25.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.27",
+            "number": "27"
+        },
+        "previous": {
+            "id": "LEV.25",
+            "number": "25"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.26",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:27.030Z",
+        "number": "26",
+        "reference": "Mambo ya Walawi 26",
+        "updatedAt": "2022-07-14T19:39:27.030Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.26.mp3"
+    },
+    {
+        "next": {
+            "id": "LUK.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "LEV.26",
+            "number": "26"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.27",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:27.469Z",
+        "number": "27",
+        "reference": "Mambo ya Walawi 27",
+        "updatedAt": "2022-07-14T19:39:27.469Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.27.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "LEV.2",
+            "number": "2"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.3",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:17.285Z",
+        "number": "3",
+        "reference": "Mambo ya Walawi 3",
+        "updatedAt": "2022-07-14T19:39:17.285Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.3.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "LEV.3",
+            "number": "3"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.4",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:17.731Z",
+        "number": "4",
+        "reference": "Mambo ya Walawi 4",
+        "updatedAt": "2022-07-14T19:39:17.731Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.4.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "LEV.4",
+            "number": "4"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.5",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:18.145Z",
+        "number": "5",
+        "reference": "Mambo ya Walawi 5",
+        "updatedAt": "2022-07-14T19:39:18.145Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.5.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "LEV.5",
+            "number": "5"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.6",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:18.573Z",
+        "number": "6",
+        "reference": "Mambo ya Walawi 6",
+        "updatedAt": "2022-07-14T19:39:18.573Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.6.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "LEV.6",
+            "number": "6"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.7",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:18.977Z",
+        "number": "7",
+        "reference": "Mambo ya Walawi 7",
+        "updatedAt": "2022-07-14T19:39:18.977Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.7.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "LEV.7",
+            "number": "7"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.8",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:19.406Z",
+        "number": "8",
+        "reference": "Mambo ya Walawi 8",
+        "updatedAt": "2022-07-14T19:39:19.406Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.8.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "LEV.8",
+            "number": "8"
+        },
+        "bibleId": "d31b536a3f01b1d1-01",
+        "id": "LEV.9",
+        "bookId": "LEV",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:39:19.835Z",
+        "number": "9",
+        "reference": "Mambo ya Walawi 9",
+        "updatedAt": "2022-07-14T19:39:19.835Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/LEV/LEV.9.mp3"
+    }
+]
