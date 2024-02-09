@@ -1,1 +1,86 @@
-[]
+[
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "MIC.1",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "MIC",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:17.155Z",
+        "number": "1",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:17.155Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/MIC/MIC.1.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "MIC.2",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "MIC",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:17.492Z",
+        "number": "2",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:17.492Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/MIC/MIC.2.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "MIC.3",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "MIC",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:17.753Z",
+        "number": "3",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:17.753Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/MIC/MIC.3.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "MIC.4",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "MIC",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:18.069Z",
+        "number": "4",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:18.069Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/MIC/MIC.4.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "MIC.5",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "MIC",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:18.363Z",
+        "number": "5",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:18.363Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/MIC/MIC.5.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "MIC.6",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "MIC",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:18.703Z",
+        "number": "6",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:18.703Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/MIC/MIC.6.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "MIC.7",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "MIC",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:18.948Z",
+        "number": "7",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:18.948Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/MIC/MIC.7.mp3"
+    }
+]

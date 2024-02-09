@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "LAM.1",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "LAM",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:31:51.746Z",
+        "number": "1",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:31:51.746Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/LAM/LAM.1.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "LAM.2",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "LAM",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:31:52.029Z",
+        "number": "2",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:31:52.029Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/LAM/LAM.2.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "LAM.3",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "LAM",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:31:52.214Z",
+        "number": "3",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:31:52.214Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/LAM/LAM.3.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "LAM.4",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "LAM",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:31:52.456Z",
+        "number": "4",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:31:52.456Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/LAM/LAM.4.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "LAM.5",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "LAM",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:31:52.643Z",
+        "number": "5",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:31:52.643Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/LAM/LAM.5.mp3"
+    }
+]

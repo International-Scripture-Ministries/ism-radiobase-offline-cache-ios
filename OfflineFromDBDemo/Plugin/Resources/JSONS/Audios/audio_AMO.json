@@ -1,1 +1,110 @@
-[]
+[
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "AMO.1",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "AMO",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:13.539Z",
+        "number": "1",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:13.539Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/AMO/AMO.1.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "AMO.2",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "AMO",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:13.792Z",
+        "number": "2",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:13.792Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/AMO/AMO.2.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "AMO.3",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "AMO",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:14.048Z",
+        "number": "3",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:14.048Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/AMO/AMO.3.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "AMO.4",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "AMO",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:14.291Z",
+        "number": "4",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:14.291Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/AMO/AMO.4.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "AMO.5",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "AMO",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:14.555Z",
+        "number": "5",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:14.555Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/AMO/AMO.5.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "AMO.6",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "AMO",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:14.816Z",
+        "number": "6",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:14.816Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/AMO/AMO.6.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "AMO.7",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "AMO",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:15.059Z",
+        "number": "7",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:15.059Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/AMO/AMO.7.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "AMO.8",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "AMO",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:15.263Z",
+        "number": "8",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:15.263Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/AMO/AMO.8.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "AMO.9",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "AMO",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:15.520Z",
+        "number": "9",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:15.520Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/AMO/AMO.9.mp3"
+    }
+]
