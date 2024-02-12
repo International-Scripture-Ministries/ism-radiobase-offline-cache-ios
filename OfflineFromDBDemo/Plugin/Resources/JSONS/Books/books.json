@@ -10,6 +10,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 50,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png",
         "book_name_eng": "Genesis"
     },
     {
@@ -23,6 +24,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 40,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png",
         "book_name_eng": "Exodus"
     },
     {
@@ -36,6 +38,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 27,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/LEV.png",
         "book_name_eng": "Leviticus"
     },
     {
@@ -49,6 +52,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 36,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/NUM.png",
         "book_name_eng": "Numbers"
     },
     {
@@ -62,6 +66,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 34,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png",
         "book_name_eng": "Deuteronomy"
     },
     {
@@ -75,6 +80,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 24,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOS.png",
         "book_name_eng": "Joshua"
     },
     {
@@ -88,6 +94,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 21,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JDG.png",
         "book_name_eng": "Judges"
     },
     {
@@ -101,6 +108,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 4,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/RUT.png",
         "book_name_eng": "Ruth"
     },
     {
@@ -114,6 +122,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 31,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1SA.png",
         "book_name_eng": "1 Samuel"
     },
     {
@@ -127,6 +136,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 24,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png",
         "book_name_eng": "2 Samuel"
     },
     {
@@ -140,6 +150,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 22,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1KI.png",
         "book_name_eng": "1 Kings"
     },
     {
@@ -153,6 +164,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 25,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2KI.png",
         "book_name_eng": "2 Kings"
     },
     {
@@ -166,6 +178,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 29,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1CH.png",
         "book_name_eng": "1 Chronicles"
     },
     {
@@ -179,6 +192,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 36,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2CH.png",
         "book_name_eng": "2 Chronicles"
     },
     {
@@ -192,6 +206,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 10,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZR.png",
         "book_name_eng": "Ezra"
     },
     {
@@ -205,6 +220,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 13,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/NEH.png",
         "book_name_eng": "Nehemiah"
     },
     {
@@ -218,6 +234,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 10,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EST.png",
         "book_name_eng": "Esther"
     },
     {
@@ -231,6 +248,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 42,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png",
         "book_name_eng": "Job"
     },
     {
@@ -244,6 +262,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 150,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PSA.png",
         "book_name_eng": "Psalms"
     },
     {
@@ -257,6 +276,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 31,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png",
         "book_name_eng": "Proverbs"
     },
     {
@@ -270,6 +290,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 12,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ECC.png",
         "book_name_eng": "Ecclesiastes"
     },
     {
@@ -283,6 +304,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 8,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/SNG.png",
         "book_name_eng": "Song of Solomon"
     },
     {
@@ -296,6 +318,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 66,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ISA.png",
         "book_name_eng": "Isaiah"
     },
     {
@@ -309,6 +332,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 52,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png",
         "book_name_eng": "Jeremiah"
     },
     {
@@ -322,6 +346,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 5,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/LAM.png",
         "book_name_eng": "Lamentations"
     },
     {
@@ -335,6 +360,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 48,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png",
         "book_name_eng": "Ezekiel"
     },
     {
@@ -348,6 +374,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 12,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DAN.png",
         "book_name_eng": "Daniel"
     },
     {
@@ -361,6 +388,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 14,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HOS.png",
         "book_name_eng": "Hosea"
     },
     {
@@ -374,6 +402,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 3,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOL.png",
         "book_name_eng": "Joel"
     },
     {
@@ -387,6 +416,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 9,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/AMO.png",
         "book_name_eng": "Amos"
     },
     {
@@ -400,6 +430,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 1,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/OBA.png",
         "book_name_eng": "Obadiah"
     },
     {
@@ -413,6 +444,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 4,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JON.png",
         "book_name_eng": "Jonah"
     },
     {
@@ -426,6 +458,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 7,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MIC.png",
         "book_name_eng": "Micah"
     },
     {
@@ -439,6 +472,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 3,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/NAM.png",
         "book_name_eng": "Nahum"
     },
     {
@@ -452,6 +486,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 3,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HAB.png",
         "book_name_eng": "Habakkuk"
     },
     {
@@ -465,6 +500,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 3,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ZEP.png",
         "book_name_eng": "Zephaniah"
     },
     {
@@ -478,6 +514,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 2,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HAG.png",
         "book_name_eng": "Haggai"
     },
     {
@@ -491,6 +528,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 14,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ZEC.png",
         "book_name_eng": "Zechariah"
     },
     {
@@ -504,6 +542,7 @@
         "versesCount": [],
         "testament": "O",
         "number_of_chapters": 4,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAL.png",
         "book_name_eng": "Malachi"
     },
     {
@@ -517,6 +556,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 28,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png",
         "book_name_eng": "Matthew"
     },
     {
@@ -530,6 +570,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 16,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MRK.png",
         "book_name_eng": "Mark"
     },
     {
@@ -543,6 +584,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 24,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/LUK.png",
         "book_name_eng": "Luke"
     },
     {
@@ -556,6 +598,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 21,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png",
         "book_name_eng": "John"
     },
     {
@@ -569,6 +612,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 28,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ACT.png",
         "book_name_eng": "Acts"
     },
     {
@@ -582,6 +626,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 16,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png",
         "book_name_eng": "Romans"
     },
     {
@@ -595,6 +640,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 16,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1CO.png",
         "book_name_eng": "1 Corinthians"
     },
     {
@@ -608,6 +654,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 13,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2CO.png",
         "book_name_eng": "2 Corinthians"
     },
     {
@@ -621,6 +668,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 6,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GAL.png",
         "book_name_eng": "Galatians"
     },
     {
@@ -634,6 +682,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 6,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EPH.png",
         "book_name_eng": "Ephesians"
     },
     {
@@ -647,6 +696,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 4,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PHP.png",
         "book_name_eng": "Philippians"
     },
     {
@@ -660,6 +710,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 4,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/COL.png",
         "book_name_eng": "Colossians"
     },
     {
@@ -673,6 +724,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 5,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1TH.png",
         "book_name_eng": "1 Thessalonians"
     },
     {
@@ -686,6 +738,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 3,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2TH.png",
         "book_name_eng": "2 Thessalonians"
     },
     {
@@ -699,6 +752,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 6,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1TI.png",
         "book_name_eng": "1 Timothy"
     },
     {
@@ -712,6 +766,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 4,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2TI.png",
         "book_name_eng": "2 Timothy"
     },
     {
@@ -725,6 +780,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 3,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/TIT.png",
         "book_name_eng": "Titus"
     },
     {
@@ -738,6 +794,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 1,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PHM.png",
         "book_name_eng": "Philemon"
     },
     {
@@ -751,6 +808,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 13,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HEB.png",
         "book_name_eng": "Hebrews"
     },
     {
@@ -764,6 +822,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 5,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JAS.png",
         "book_name_eng": "James"
     },
     {
@@ -777,6 +836,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 5,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1PE.png",
         "book_name_eng": "1 Peter"
     },
     {
@@ -790,6 +850,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 3,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2PE.png",
         "book_name_eng": "2 Peter"
     },
     {
@@ -803,6 +864,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 5,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1JN.png",
         "book_name_eng": "1 John"
     },
     {
@@ -816,6 +878,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 1,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2JN.png",
         "book_name_eng": "2 John"
     },
     {
@@ -829,6 +892,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 1,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/3JN.png",
         "book_name_eng": "3 John"
     },
     {
@@ -842,6 +906,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 1,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JUD.png",
         "book_name_eng": "Jude"
     },
     {
@@ -855,6 +920,7 @@
         "versesCount": [],
         "testament": "N",
         "number_of_chapters": 22,
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png",
         "book_name_eng": "Revelation"
     }
 ]
