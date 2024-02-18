@@ -8,139 +8,139 @@
 
 /* Begin PBXBuildFile section */
 		290D65F22B6D4F9B0026740C /* default.realm in Resources */ = {isa = PBXBuildFile; fileRef = 290D65F12B6D4F9B0026740C /* default.realm */; };
-		29C30D0C2B8264FA001B2E27 /* books.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D0B2B8264FA001B2E27 /* books.json */; };
-		29C30D4F2B826521001B2E27 /* LUK.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D0D2B82651E001B2E27 /* LUK.json */; };
-		29C30D502B826521001B2E27 /* 2CH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D0E2B82651E001B2E27 /* 2CH.json */; };
-		29C30D512B826521001B2E27 /* ZEP.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D0F2B82651E001B2E27 /* ZEP.json */; };
-		29C30D522B826521001B2E27 /* 1PE.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D102B82651E001B2E27 /* 1PE.json */; };
-		29C30D532B826521001B2E27 /* MRK.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D112B82651E001B2E27 /* MRK.json */; };
-		29C30D542B826521001B2E27 /* MAL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D122B82651E001B2E27 /* MAL.json */; };
-		29C30D552B826521001B2E27 /* JHN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D132B82651E001B2E27 /* JHN.json */; };
-		29C30D562B826521001B2E27 /* REV.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D142B82651E001B2E27 /* REV.json */; };
-		29C30D572B826521001B2E27 /* 1CH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D152B82651E001B2E27 /* 1CH.json */; };
-		29C30D582B826521001B2E27 /* 1KI.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D162B82651E001B2E27 /* 1KI.json */; };
-		29C30D592B826521001B2E27 /* PRO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D172B82651E001B2E27 /* PRO.json */; };
-		29C30D5A2B826521001B2E27 /* JUD.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D182B82651E001B2E27 /* JUD.json */; };
-		29C30D5B2B826521001B2E27 /* JON.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D192B82651E001B2E27 /* JON.json */; };
-		29C30D5C2B826521001B2E27 /* MAT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D1A2B82651E001B2E27 /* MAT.json */; };
-		29C30D5D2B826521001B2E27 /* ECC.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D1B2B82651E001B2E27 /* ECC.json */; };
-		29C30D5E2B826521001B2E27 /* 2PE.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D1C2B82651E001B2E27 /* 2PE.json */; };
-		29C30D5F2B826521001B2E27 /* SNG.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D1D2B82651E001B2E27 /* SNG.json */; };
-		29C30D602B826521001B2E27 /* 2TH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D1E2B82651E001B2E27 /* 2TH.json */; };
-		29C30D612B826521001B2E27 /* AMO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D1F2B82651E001B2E27 /* AMO.json */; };
-		29C30D622B826521001B2E27 /* 2CO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D202B82651F001B2E27 /* 2CO.json */; };
-		29C30D632B826521001B2E27 /* 1TI.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D212B82651F001B2E27 /* 1TI.json */; };
-		29C30D642B826521001B2E27 /* EZR.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D222B82651F001B2E27 /* EZR.json */; };
-		29C30D652B826521001B2E27 /* ACT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D232B82651F001B2E27 /* ACT.json */; };
-		29C30D662B826521001B2E27 /* 2KI.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D242B82651F001B2E27 /* 2KI.json */; };
-		29C30D672B826521001B2E27 /* HAB.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D252B82651F001B2E27 /* HAB.json */; };
-		29C30D682B826521001B2E27 /* RUT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D262B82651F001B2E27 /* RUT.json */; };
-		29C30D692B826521001B2E27 /* LAM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D272B82651F001B2E27 /* LAM.json */; };
-		29C30D6A2B826521001B2E27 /* EST.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D282B82651F001B2E27 /* EST.json */; };
-		29C30D6B2B826521001B2E27 /* ZEC.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D292B82651F001B2E27 /* ZEC.json */; };
-		29C30D6C2B826521001B2E27 /* PHM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D2A2B82651F001B2E27 /* PHM.json */; };
-		29C30D6D2B826521001B2E27 /* HOS.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D2B2B82651F001B2E27 /* HOS.json */; };
-		29C30D6E2B826521001B2E27 /* 1JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D2C2B82651F001B2E27 /* 1JN.json */; };
-		29C30D6F2B826521001B2E27 /* EXO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D2D2B82651F001B2E27 /* EXO.json */; };
-		29C30D702B826521001B2E27 /* 2TI.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D2E2B82651F001B2E27 /* 2TI.json */; };
-		29C30D712B826521001B2E27 /* 1SA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D2F2B82651F001B2E27 /* 1SA.json */; };
-		29C30D722B826521001B2E27 /* COL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D302B82651F001B2E27 /* COL.json */; };
-		29C30D732B826521001B2E27 /* GAL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D312B82651F001B2E27 /* GAL.json */; };
-		29C30D742B826521001B2E27 /* DAN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D322B82651F001B2E27 /* DAN.json */; };
-		29C30D752B826521001B2E27 /* JOL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D332B82651F001B2E27 /* JOL.json */; };
-		29C30D762B826521001B2E27 /* 1CO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D342B82651F001B2E27 /* 1CO.json */; };
-		29C30D772B826521001B2E27 /* OBA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D352B82651F001B2E27 /* OBA.json */; };
-		29C30D782B826521001B2E27 /* HEB.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D362B826520001B2E27 /* HEB.json */; };
-		29C30D792B826521001B2E27 /* JDG.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D372B826520001B2E27 /* JDG.json */; };
-		29C30D7A2B826521001B2E27 /* JER.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D382B826520001B2E27 /* JER.json */; };
-		29C30D7B2B826521001B2E27 /* HAG.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D392B826520001B2E27 /* HAG.json */; };
-		29C30D7C2B826521001B2E27 /* PHP.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D3A2B826520001B2E27 /* PHP.json */; };
-		29C30D7D2B826521001B2E27 /* 2SA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D3B2B826520001B2E27 /* 2SA.json */; };
-		29C30D7E2B826521001B2E27 /* MIC.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D3C2B826520001B2E27 /* MIC.json */; };
-		29C30D7F2B826521001B2E27 /* DEU.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D3D2B826520001B2E27 /* DEU.json */; };
-		29C30D802B826521001B2E27 /* NEH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D3E2B826520001B2E27 /* NEH.json */; };
-		29C30D812B826521001B2E27 /* EPH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D3F2B826520001B2E27 /* EPH.json */; };
-		29C30D822B826521001B2E27 /* PSA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D402B826520001B2E27 /* PSA.json */; };
-		29C30D832B826521001B2E27 /* NAM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D412B826520001B2E27 /* NAM.json */; };
-		29C30D842B826521001B2E27 /* 1TH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D422B826520001B2E27 /* 1TH.json */; };
-		29C30D852B826521001B2E27 /* JOS.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D432B826520001B2E27 /* JOS.json */; };
-		29C30D862B826521001B2E27 /* JAS.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D442B826520001B2E27 /* JAS.json */; };
-		29C30D872B826521001B2E27 /* JOB.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D452B826520001B2E27 /* JOB.json */; };
-		29C30D882B826521001B2E27 /* GEN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D462B826520001B2E27 /* GEN.json */; };
-		29C30D892B826521001B2E27 /* EZK.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D472B826520001B2E27 /* EZK.json */; };
-		29C30D8A2B826521001B2E27 /* LEV.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D482B826520001B2E27 /* LEV.json */; };
-		29C30D8B2B826521001B2E27 /* ROM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D492B826520001B2E27 /* ROM.json */; };
-		29C30D8C2B826521001B2E27 /* 2JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D4A2B826520001B2E27 /* 2JN.json */; };
-		29C30D8D2B826521001B2E27 /* ISA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D4B2B826521001B2E27 /* ISA.json */; };
-		29C30D8E2B826521001B2E27 /* TIT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D4C2B826521001B2E27 /* TIT.json */; };
-		29C30D8F2B826521001B2E27 /* 3JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D4D2B826521001B2E27 /* 3JN.json */; };
-		29C30D902B826521001B2E27 /* NUM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D4E2B826521001B2E27 /* NUM.json */; };
-		29C30DD32B826546001B2E27 /* audio_1TH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D912B826542001B2E27 /* audio_1TH.json */; };
-		29C30DD42B826546001B2E27 /* audio_TIT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D922B826542001B2E27 /* audio_TIT.json */; };
-		29C30DD52B826546001B2E27 /* audio_COL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D932B826542001B2E27 /* audio_COL.json */; };
-		29C30DD62B826546001B2E27 /* audio_1KI.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D942B826542001B2E27 /* audio_1KI.json */; };
-		29C30DD72B826546001B2E27 /* audio_ZEC.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D952B826542001B2E27 /* audio_ZEC.json */; };
-		29C30DD82B826546001B2E27 /* audio_2KI.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D962B826542001B2E27 /* audio_2KI.json */; };
-		29C30DD92B826546001B2E27 /* audio_MAL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D972B826543001B2E27 /* audio_MAL.json */; };
-		29C30DDA2B826546001B2E27 /* audio_ROM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D982B826543001B2E27 /* audio_ROM.json */; };
-		29C30DDB2B826546001B2E27 /* audio_1PE.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D992B826543001B2E27 /* audio_1PE.json */; };
-		29C30DDC2B826546001B2E27 /* audio_ZEP.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D9A2B826543001B2E27 /* audio_ZEP.json */; };
-		29C30DDD2B826546001B2E27 /* audio_PSA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D9B2B826543001B2E27 /* audio_PSA.json */; };
-		29C30DDE2B826546001B2E27 /* audio_GAL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D9C2B826543001B2E27 /* audio_GAL.json */; };
-		29C30DDF2B826546001B2E27 /* audio_2CH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D9D2B826543001B2E27 /* audio_2CH.json */; };
-		29C30DE02B826546001B2E27 /* audio_OBA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D9E2B826543001B2E27 /* audio_OBA.json */; };
-		29C30DE12B826546001B2E27 /* audio_NEH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30D9F2B826543001B2E27 /* audio_NEH.json */; };
-		29C30DE22B826546001B2E27 /* audio_PHP.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DA02B826543001B2E27 /* audio_PHP.json */; };
-		29C30DE32B826546001B2E27 /* audio_EST.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DA12B826543001B2E27 /* audio_EST.json */; };
-		29C30DE42B826546001B2E27 /* audio_JOB.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DA22B826543001B2E27 /* audio_JOB.json */; };
-		29C30DE52B826546001B2E27 /* audio_LAM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DA32B826543001B2E27 /* audio_LAM.json */; };
-		29C30DE62B826546001B2E27 /* audio_2PE.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DA42B826543001B2E27 /* audio_2PE.json */; };
-		29C30DE72B826546001B2E27 /* audio_JDG.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DA52B826543001B2E27 /* audio_JDG.json */; };
-		29C30DE82B826546001B2E27 /* audio_JUD.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DA62B826543001B2E27 /* audio_JUD.json */; };
-		29C30DE92B826546001B2E27 /* audio_2SA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DA72B826543001B2E27 /* audio_2SA.json */; };
-		29C30DEA2B826546001B2E27 /* audio_EZK.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DA82B826543001B2E27 /* audio_EZK.json */; };
-		29C30DEB2B826546001B2E27 /* audio_EXO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DA92B826543001B2E27 /* audio_EXO.json */; };
-		29C30DEC2B826546001B2E27 /* audio_HAG.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DAA2B826543001B2E27 /* audio_HAG.json */; };
-		29C30DED2B826546001B2E27 /* audio_HOS.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DAB2B826543001B2E27 /* audio_HOS.json */; };
-		29C30DEE2B826546001B2E27 /* audio_DEU.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DAC2B826543001B2E27 /* audio_DEU.json */; };
-		29C30DEF2B826546001B2E27 /* audio_EPH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DAD2B826543001B2E27 /* audio_EPH.json */; };
-		29C30DF02B826546001B2E27 /* audio_1TI.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DAE2B826543001B2E27 /* audio_1TI.json */; };
-		29C30DF12B826546001B2E27 /* audio_LUK.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DAF2B826543001B2E27 /* audio_LUK.json */; };
-		29C30DF22B826546001B2E27 /* audio_DAN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DB02B826543001B2E27 /* audio_DAN.json */; };
-		29C30DF32B826546001B2E27 /* audio_HAB.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DB12B826544001B2E27 /* audio_HAB.json */; };
-		29C30DF42B826546001B2E27 /* audio_HEB.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DB22B826544001B2E27 /* audio_HEB.json */; };
-		29C30DF52B826546001B2E27 /* audio_ACT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DB32B826544001B2E27 /* audio_ACT.json */; };
-		29C30DF62B826546001B2E27 /* audio_NUM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DB42B826544001B2E27 /* audio_NUM.json */; };
-		29C30DF72B826546001B2E27 /* audio_JOS.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DB52B826544001B2E27 /* audio_JOS.json */; };
-		29C30DF82B826546001B2E27 /* audio_JHN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DB62B826544001B2E27 /* audio_JHN.json */; };
-		29C30DF92B826546001B2E27 /* audio_2TH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DB72B826544001B2E27 /* audio_2TH.json */; };
-		29C30DFA2B826546001B2E27 /* audio_2CO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DB82B826544001B2E27 /* audio_2CO.json */; };
-		29C30DFB2B826546001B2E27 /* audio_2TI.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DB92B826544001B2E27 /* audio_2TI.json */; };
-		29C30DFC2B826546001B2E27 /* audio_2JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DBA2B826544001B2E27 /* audio_2JN.json */; };
-		29C30DFD2B826546001B2E27 /* audio_ECC.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DBB2B826544001B2E27 /* audio_ECC.json */; };
-		29C30DFE2B826546001B2E27 /* audio_1JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DBC2B826544001B2E27 /* audio_1JN.json */; };
-		29C30DFF2B826546001B2E27 /* audio_RUT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DBD2B826544001B2E27 /* audio_RUT.json */; };
-		29C30E002B826546001B2E27 /* audio_NAM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DBE2B826544001B2E27 /* audio_NAM.json */; };
-		29C30E012B826546001B2E27 /* audio_GEN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DBF2B826544001B2E27 /* audio_GEN.json */; };
-		29C30E022B826546001B2E27 /* audio_3JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DC02B826544001B2E27 /* audio_3JN.json */; };
-		29C30E032B826546001B2E27 /* audio_MRK.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DC12B826544001B2E27 /* audio_MRK.json */; };
-		29C30E042B826546001B2E27 /* audio_MAT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DC22B826545001B2E27 /* audio_MAT.json */; };
-		29C30E052B826546001B2E27 /* audio_AMO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DC32B826545001B2E27 /* audio_AMO.json */; };
-		29C30E062B826546001B2E27 /* audio_ISA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DC42B826545001B2E27 /* audio_ISA.json */; };
-		29C30E072B826546001B2E27 /* audio_MIC.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DC52B826545001B2E27 /* audio_MIC.json */; };
-		29C30E082B826546001B2E27 /* audio_EZR.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DC62B826545001B2E27 /* audio_EZR.json */; };
-		29C30E092B826546001B2E27 /* audio_1CO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DC72B826545001B2E27 /* audio_1CO.json */; };
-		29C30E0A2B826546001B2E27 /* audio_JAS.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DC82B826545001B2E27 /* audio_JAS.json */; };
-		29C30E0B2B826546001B2E27 /* audio_LEV.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DC92B826545001B2E27 /* audio_LEV.json */; };
-		29C30E0C2B826546001B2E27 /* audio_1CH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DCA2B826545001B2E27 /* audio_1CH.json */; };
-		29C30E0D2B826546001B2E27 /* audio_JER.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DCB2B826545001B2E27 /* audio_JER.json */; };
-		29C30E0E2B826546001B2E27 /* audio_PHM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DCC2B826545001B2E27 /* audio_PHM.json */; };
-		29C30E0F2B826546001B2E27 /* audio_REV.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DCD2B826545001B2E27 /* audio_REV.json */; };
-		29C30E102B826546001B2E27 /* audio_JON.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DCE2B826545001B2E27 /* audio_JON.json */; };
-		29C30E112B826546001B2E27 /* audio_PRO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DCF2B826545001B2E27 /* audio_PRO.json */; };
-		29C30E122B826546001B2E27 /* audio_1SA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DD02B826545001B2E27 /* audio_1SA.json */; };
-		29C30E132B826546001B2E27 /* audio_SNG.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DD12B826545001B2E27 /* audio_SNG.json */; };
-		29C30E142B826546001B2E27 /* audio_JOL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30DD22B826545001B2E27 /* audio_JOL.json */; };
+		29C30E572B82683E001B2E27 /* GEN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E152B82683B001B2E27 /* GEN.json */; };
+		29C30E582B82683E001B2E27 /* NUM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E162B82683B001B2E27 /* NUM.json */; };
+		29C30E592B82683E001B2E27 /* ZEC.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E172B82683B001B2E27 /* ZEC.json */; };
+		29C30E5A2B82683E001B2E27 /* GAL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E182B82683B001B2E27 /* GAL.json */; };
+		29C30E5B2B82683E001B2E27 /* NEH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E192B82683B001B2E27 /* NEH.json */; };
+		29C30E5C2B82683E001B2E27 /* 2KI.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E1A2B82683B001B2E27 /* 2KI.json */; };
+		29C30E5D2B82683E001B2E27 /* JAS.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E1B2B82683B001B2E27 /* JAS.json */; };
+		29C30E5E2B82683E001B2E27 /* JDG.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E1C2B82683B001B2E27 /* JDG.json */; };
+		29C30E5F2B82683E001B2E27 /* HOS.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E1D2B82683B001B2E27 /* HOS.json */; };
+		29C30E602B82683E001B2E27 /* OBA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E1E2B82683B001B2E27 /* OBA.json */; };
+		29C30E612B82683E001B2E27 /* MRK.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E1F2B82683B001B2E27 /* MRK.json */; };
+		29C30E622B82683E001B2E27 /* ECC.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E202B82683B001B2E27 /* ECC.json */; };
+		29C30E632B82683E001B2E27 /* DEU.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E212B82683B001B2E27 /* DEU.json */; };
+		29C30E642B82683E001B2E27 /* 1TI.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E222B82683B001B2E27 /* 1TI.json */; };
+		29C30E652B82683E001B2E27 /* EST.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E232B82683B001B2E27 /* EST.json */; };
+		29C30E662B82683E001B2E27 /* EXO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E242B82683B001B2E27 /* EXO.json */; };
+		29C30E672B82683E001B2E27 /* 2PE.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E252B82683B001B2E27 /* 2PE.json */; };
+		29C30E682B82683E001B2E27 /* JER.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E262B82683B001B2E27 /* JER.json */; };
+		29C30E692B82683E001B2E27 /* 1CO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E272B82683B001B2E27 /* 1CO.json */; };
+		29C30E6A2B82683E001B2E27 /* SNG.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E282B82683C001B2E27 /* SNG.json */; };
+		29C30E6B2B82683E001B2E27 /* HEB.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E292B82683C001B2E27 /* HEB.json */; };
+		29C30E6C2B82683E001B2E27 /* COL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E2A2B82683C001B2E27 /* COL.json */; };
+		29C30E6D2B82683E001B2E27 /* JON.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E2B2B82683C001B2E27 /* JON.json */; };
+		29C30E6E2B82683E001B2E27 /* MIC.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E2C2B82683C001B2E27 /* MIC.json */; };
+		29C30E6F2B82683E001B2E27 /* PHP.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E2D2B82683C001B2E27 /* PHP.json */; };
+		29C30E702B82683E001B2E27 /* EZK.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E2E2B82683C001B2E27 /* EZK.json */; };
+		29C30E712B82683E001B2E27 /* TIT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E2F2B82683C001B2E27 /* TIT.json */; };
+		29C30E722B82683E001B2E27 /* 2CO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E302B82683C001B2E27 /* 2CO.json */; };
+		29C30E732B82683E001B2E27 /* JUD.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E312B82683C001B2E27 /* JUD.json */; };
+		29C30E742B82683E001B2E27 /* 1SA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E322B82683C001B2E27 /* 1SA.json */; };
+		29C30E752B82683E001B2E27 /* ISA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E332B82683C001B2E27 /* ISA.json */; };
+		29C30E762B82683E001B2E27 /* RUT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E342B82683C001B2E27 /* RUT.json */; };
+		29C30E772B82683E001B2E27 /* NAM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E352B82683C001B2E27 /* NAM.json */; };
+		29C30E782B82683E001B2E27 /* JOS.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E362B82683C001B2E27 /* JOS.json */; };
+		29C30E792B82683E001B2E27 /* PHM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E372B82683C001B2E27 /* PHM.json */; };
+		29C30E7A2B82683E001B2E27 /* 1JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E382B82683C001B2E27 /* 1JN.json */; };
+		29C30E7B2B82683E001B2E27 /* HAB.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E392B82683C001B2E27 /* HAB.json */; };
+		29C30E7C2B82683E001B2E27 /* JHN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E3A2B82683C001B2E27 /* JHN.json */; };
+		29C30E7D2B82683E001B2E27 /* EZR.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E3B2B82683C001B2E27 /* EZR.json */; };
+		29C30E7E2B82683E001B2E27 /* ROM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E3C2B82683C001B2E27 /* ROM.json */; };
+		29C30E7F2B82683E001B2E27 /* LEV.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E3D2B82683C001B2E27 /* LEV.json */; };
+		29C30E802B82683E001B2E27 /* LAM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E3E2B82683C001B2E27 /* LAM.json */; };
+		29C30E812B82683E001B2E27 /* 1TH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E3F2B82683C001B2E27 /* 1TH.json */; };
+		29C30E822B82683E001B2E27 /* DAN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E402B82683D001B2E27 /* DAN.json */; };
+		29C30E832B82683E001B2E27 /* ACT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E412B82683D001B2E27 /* ACT.json */; };
+		29C30E842B82683E001B2E27 /* 2TH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E422B82683D001B2E27 /* 2TH.json */; };
+		29C30E852B82683E001B2E27 /* 3JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E432B82683D001B2E27 /* 3JN.json */; };
+		29C30E862B82683E001B2E27 /* 2TI.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E442B82683D001B2E27 /* 2TI.json */; };
+		29C30E872B82683E001B2E27 /* HAG.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E452B82683D001B2E27 /* HAG.json */; };
+		29C30E882B82683E001B2E27 /* 1CH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E462B82683D001B2E27 /* 1CH.json */; };
+		29C30E892B82683E001B2E27 /* JOL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E472B82683D001B2E27 /* JOL.json */; };
+		29C30E8A2B82683E001B2E27 /* REV.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E482B82683D001B2E27 /* REV.json */; };
+		29C30E8B2B82683E001B2E27 /* AMO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E492B82683D001B2E27 /* AMO.json */; };
+		29C30E8C2B82683E001B2E27 /* EPH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E4A2B82683D001B2E27 /* EPH.json */; };
+		29C30E8D2B82683E001B2E27 /* LUK.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E4B2B82683D001B2E27 /* LUK.json */; };
+		29C30E8E2B82683E001B2E27 /* 2JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E4C2B82683D001B2E27 /* 2JN.json */; };
+		29C30E8F2B82683E001B2E27 /* 2CH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E4D2B82683D001B2E27 /* 2CH.json */; };
+		29C30E902B82683E001B2E27 /* MAT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E4E2B82683D001B2E27 /* MAT.json */; };
+		29C30E912B82683E001B2E27 /* PRO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E4F2B82683D001B2E27 /* PRO.json */; };
+		29C30E922B82683E001B2E27 /* PSA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E502B82683D001B2E27 /* PSA.json */; };
+		29C30E932B82683E001B2E27 /* 1PE.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E512B82683D001B2E27 /* 1PE.json */; };
+		29C30E942B82683E001B2E27 /* MAL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E522B82683D001B2E27 /* MAL.json */; };
+		29C30E952B82683E001B2E27 /* JOB.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E532B82683E001B2E27 /* JOB.json */; };
+		29C30E962B82683E001B2E27 /* 1KI.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E542B82683E001B2E27 /* 1KI.json */; };
+		29C30E972B82683E001B2E27 /* ZEP.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E552B82683E001B2E27 /* ZEP.json */; };
+		29C30E982B82683E001B2E27 /* 2SA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E562B82683E001B2E27 /* 2SA.json */; };
+		29C30E9A2B82684C001B2E27 /* books.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E992B82684C001B2E27 /* books.json */; };
+		29C30EDD2B82686D001B2E27 /* audio_JUD.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E9B2B826869001B2E27 /* audio_JUD.json */; };
+		29C30EDE2B82686D001B2E27 /* audio_NUM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E9C2B826869001B2E27 /* audio_NUM.json */; };
+		29C30EDF2B82686D001B2E27 /* audio_HAB.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E9D2B826869001B2E27 /* audio_HAB.json */; };
+		29C30EE02B82686D001B2E27 /* audio_PHM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E9E2B826869001B2E27 /* audio_PHM.json */; };
+		29C30EE12B82686D001B2E27 /* audio_1TH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30E9F2B826869001B2E27 /* audio_1TH.json */; };
+		29C30EE22B82686D001B2E27 /* audio_LUK.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EA02B826869001B2E27 /* audio_LUK.json */; };
+		29C30EE32B82686D001B2E27 /* audio_DAN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EA12B826869001B2E27 /* audio_DAN.json */; };
+		29C30EE42B82686D001B2E27 /* audio_2TH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EA22B826869001B2E27 /* audio_2TH.json */; };
+		29C30EE52B82686D001B2E27 /* audio_MAL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EA32B826869001B2E27 /* audio_MAL.json */; };
+		29C30EE62B82686D001B2E27 /* audio_1CH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EA42B826869001B2E27 /* audio_1CH.json */; };
+		29C30EE72B82686D001B2E27 /* audio_DEU.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EA52B826869001B2E27 /* audio_DEU.json */; };
+		29C30EE82B82686D001B2E27 /* audio_MAT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EA62B826869001B2E27 /* audio_MAT.json */; };
+		29C30EE92B82686D001B2E27 /* audio_REV.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EA72B82686A001B2E27 /* audio_REV.json */; };
+		29C30EEA2B82686D001B2E27 /* audio_JON.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EA82B82686A001B2E27 /* audio_JON.json */; };
+		29C30EEB2B82686D001B2E27 /* audio_2CO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EA92B82686A001B2E27 /* audio_2CO.json */; };
+		29C30EEC2B82686D001B2E27 /* audio_EXO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EAA2B82686A001B2E27 /* audio_EXO.json */; };
+		29C30EED2B82686D001B2E27 /* audio_RUT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EAB2B82686A001B2E27 /* audio_RUT.json */; };
+		29C30EEE2B82686D001B2E27 /* audio_TIT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EAC2B82686A001B2E27 /* audio_TIT.json */; };
+		29C30EEF2B82686D001B2E27 /* audio_2KI.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EAD2B82686A001B2E27 /* audio_2KI.json */; };
+		29C30EF02B82686D001B2E27 /* audio_ZEP.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EAE2B82686A001B2E27 /* audio_ZEP.json */; };
+		29C30EF12B82686D001B2E27 /* audio_JHN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EAF2B82686A001B2E27 /* audio_JHN.json */; };
+		29C30EF22B82686D001B2E27 /* audio_PSA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EB02B82686A001B2E27 /* audio_PSA.json */; };
+		29C30EF32B82686D001B2E27 /* audio_MIC.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EB12B82686A001B2E27 /* audio_MIC.json */; };
+		29C30EF42B82686D001B2E27 /* audio_SNG.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EB22B82686A001B2E27 /* audio_SNG.json */; };
+		29C30EF52B82686D001B2E27 /* audio_JOL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EB32B82686A001B2E27 /* audio_JOL.json */; };
+		29C30EF62B82686D001B2E27 /* audio_EPH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EB42B82686A001B2E27 /* audio_EPH.json */; };
+		29C30EF72B82686D001B2E27 /* audio_2PE.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EB52B82686A001B2E27 /* audio_2PE.json */; };
+		29C30EF82B82686D001B2E27 /* audio_JER.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EB62B82686A001B2E27 /* audio_JER.json */; };
+		29C30EF92B82686D001B2E27 /* audio_HEB.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EB72B82686A001B2E27 /* audio_HEB.json */; };
+		29C30EFA2B82686D001B2E27 /* audio_EST.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EB82B82686A001B2E27 /* audio_EST.json */; };
+		29C30EFB2B82686D001B2E27 /* audio_ZEC.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EB92B82686A001B2E27 /* audio_ZEC.json */; };
+		29C30EFC2B82686D001B2E27 /* audio_OBA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EBA2B82686A001B2E27 /* audio_OBA.json */; };
+		29C30EFD2B82686D001B2E27 /* audio_ROM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EBB2B82686A001B2E27 /* audio_ROM.json */; };
+		29C30EFE2B82686D001B2E27 /* audio_JDG.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EBC2B82686A001B2E27 /* audio_JDG.json */; };
+		29C30EFF2B82686D001B2E27 /* audio_AMO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EBD2B82686B001B2E27 /* audio_AMO.json */; };
+		29C30F002B82686D001B2E27 /* audio_1PE.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EBE2B82686B001B2E27 /* audio_1PE.json */; };
+		29C30F012B82686D001B2E27 /* audio_ACT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EBF2B82686B001B2E27 /* audio_ACT.json */; };
+		29C30F022B82686D001B2E27 /* audio_PHP.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EC02B82686B001B2E27 /* audio_PHP.json */; };
+		29C30F032B82686D001B2E27 /* audio_LAM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EC12B82686B001B2E27 /* audio_LAM.json */; };
+		29C30F042B82686D001B2E27 /* audio_PRO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EC22B82686B001B2E27 /* audio_PRO.json */; };
+		29C30F052B82686D001B2E27 /* audio_GEN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EC32B82686B001B2E27 /* audio_GEN.json */; };
+		29C30F062B82686D001B2E27 /* audio_JOB.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EC42B82686B001B2E27 /* audio_JOB.json */; };
+		29C30F072B82686D001B2E27 /* audio_NEH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EC52B82686B001B2E27 /* audio_NEH.json */; };
+		29C30F082B82686D001B2E27 /* audio_ECC.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EC62B82686B001B2E27 /* audio_ECC.json */; };
+		29C30F092B82686D001B2E27 /* audio_1SA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EC72B82686B001B2E27 /* audio_1SA.json */; };
+		29C30F0A2B82686D001B2E27 /* audio_2SA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EC82B82686B001B2E27 /* audio_2SA.json */; };
+		29C30F0B2B82686D001B2E27 /* audio_GAL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EC92B82686B001B2E27 /* audio_GAL.json */; };
+		29C30F0C2B82686D001B2E27 /* audio_3JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30ECA2B82686B001B2E27 /* audio_3JN.json */; };
+		29C30F0D2B82686D001B2E27 /* audio_1KI.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30ECB2B82686B001B2E27 /* audio_1KI.json */; };
+		29C30F0E2B82686D001B2E27 /* audio_NAM.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30ECC2B82686C001B2E27 /* audio_NAM.json */; };
+		29C30F0F2B82686D001B2E27 /* audio_HAG.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30ECD2B82686C001B2E27 /* audio_HAG.json */; };
+		29C30F102B82686D001B2E27 /* audio_LEV.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30ECE2B82686C001B2E27 /* audio_LEV.json */; };
+		29C30F112B82686D001B2E27 /* audio_2CH.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30ECF2B82686C001B2E27 /* audio_2CH.json */; };
+		29C30F122B82686D001B2E27 /* audio_JAS.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30ED02B82686C001B2E27 /* audio_JAS.json */; };
+		29C30F132B82686D001B2E27 /* audio_1TI.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30ED12B82686C001B2E27 /* audio_1TI.json */; };
+		29C30F142B82686D001B2E27 /* audio_1JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30ED22B82686C001B2E27 /* audio_1JN.json */; };
+		29C30F152B82686D001B2E27 /* audio_COL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30ED32B82686C001B2E27 /* audio_COL.json */; };
+		29C30F162B82686D001B2E27 /* audio_1CO.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30ED42B82686C001B2E27 /* audio_1CO.json */; };
+		29C30F172B82686D001B2E27 /* audio_JOS.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30ED52B82686C001B2E27 /* audio_JOS.json */; };
+		29C30F182B82686D001B2E27 /* audio_ISA.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30ED62B82686C001B2E27 /* audio_ISA.json */; };
+		29C30F192B82686D001B2E27 /* audio_EZK.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30ED72B82686C001B2E27 /* audio_EZK.json */; };
+		29C30F1A2B82686D001B2E27 /* audio_EZR.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30ED82B82686C001B2E27 /* audio_EZR.json */; };
+		29C30F1B2B82686D001B2E27 /* audio_2JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30ED92B82686C001B2E27 /* audio_2JN.json */; };
+		29C30F1C2B82686D001B2E27 /* audio_2TI.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EDA2B82686C001B2E27 /* audio_2TI.json */; };
+		29C30F1D2B82686D001B2E27 /* audio_HOS.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EDB2B82686C001B2E27 /* audio_HOS.json */; };
+		29C30F1E2B82686D001B2E27 /* audio_MRK.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C30EDC2B82686C001B2E27 /* audio_MRK.json */; };
 		29CCD2062AE589B5002F6570 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CCD2052AE589B5002F6570 /* AppDelegate.swift */; };
 		29CCD2082AE589B5002F6570 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CCD2072AE589B5002F6570 /* SceneDelegate.swift */; };
 		29CCD20A2AE589B5002F6570 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29CCD2092AE589B5002F6570 /* ViewController.swift */; };
@@ -164,139 +164,139 @@
 
 /* Begin PBXFileReference section */
 		290D65F12B6D4F9B0026740C /* default.realm */ = {isa = PBXFileReference; lastKnownFileType = file; path = default.realm; sourceTree = "<group>"; };
-		29C30D0B2B8264FA001B2E27 /* books.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = books.json; sourceTree = "<group>"; };
-		29C30D0D2B82651E001B2E27 /* LUK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LUK.json; sourceTree = "<group>"; };
-		29C30D0E2B82651E001B2E27 /* 2CH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2CH.json; sourceTree = "<group>"; };
-		29C30D0F2B82651E001B2E27 /* ZEP.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ZEP.json; sourceTree = "<group>"; };
-		29C30D102B82651E001B2E27 /* 1PE.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1PE.json; sourceTree = "<group>"; };
-		29C30D112B82651E001B2E27 /* MRK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MRK.json; sourceTree = "<group>"; };
-		29C30D122B82651E001B2E27 /* MAL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MAL.json; sourceTree = "<group>"; };
-		29C30D132B82651E001B2E27 /* JHN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JHN.json; sourceTree = "<group>"; };
-		29C30D142B82651E001B2E27 /* REV.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = REV.json; sourceTree = "<group>"; };
-		29C30D152B82651E001B2E27 /* 1CH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1CH.json; sourceTree = "<group>"; };
-		29C30D162B82651E001B2E27 /* 1KI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1KI.json; sourceTree = "<group>"; };
-		29C30D172B82651E001B2E27 /* PRO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PRO.json; sourceTree = "<group>"; };
-		29C30D182B82651E001B2E27 /* JUD.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JUD.json; sourceTree = "<group>"; };
-		29C30D192B82651E001B2E27 /* JON.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JON.json; sourceTree = "<group>"; };
-		29C30D1A2B82651E001B2E27 /* MAT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MAT.json; sourceTree = "<group>"; };
-		29C30D1B2B82651E001B2E27 /* ECC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ECC.json; sourceTree = "<group>"; };
-		29C30D1C2B82651E001B2E27 /* 2PE.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2PE.json; sourceTree = "<group>"; };
-		29C30D1D2B82651E001B2E27 /* SNG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SNG.json; sourceTree = "<group>"; };
-		29C30D1E2B82651E001B2E27 /* 2TH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2TH.json; sourceTree = "<group>"; };
-		29C30D1F2B82651E001B2E27 /* AMO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AMO.json; sourceTree = "<group>"; };
-		29C30D202B82651F001B2E27 /* 2CO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2CO.json; sourceTree = "<group>"; };
-		29C30D212B82651F001B2E27 /* 1TI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1TI.json; sourceTree = "<group>"; };
-		29C30D222B82651F001B2E27 /* EZR.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EZR.json; sourceTree = "<group>"; };
-		29C30D232B82651F001B2E27 /* ACT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ACT.json; sourceTree = "<group>"; };
-		29C30D242B82651F001B2E27 /* 2KI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2KI.json; sourceTree = "<group>"; };
-		29C30D252B82651F001B2E27 /* HAB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = HAB.json; sourceTree = "<group>"; };
-		29C30D262B82651F001B2E27 /* RUT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = RUT.json; sourceTree = "<group>"; };
-		29C30D272B82651F001B2E27 /* LAM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LAM.json; sourceTree = "<group>"; };
-		29C30D282B82651F001B2E27 /* EST.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EST.json; sourceTree = "<group>"; };
-		29C30D292B82651F001B2E27 /* ZEC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ZEC.json; sourceTree = "<group>"; };
-		29C30D2A2B82651F001B2E27 /* PHM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PHM.json; sourceTree = "<group>"; };
-		29C30D2B2B82651F001B2E27 /* HOS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = HOS.json; sourceTree = "<group>"; };
-		29C30D2C2B82651F001B2E27 /* 1JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1JN.json; sourceTree = "<group>"; };
-		29C30D2D2B82651F001B2E27 /* EXO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EXO.json; sourceTree = "<group>"; };
-		29C30D2E2B82651F001B2E27 /* 2TI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2TI.json; sourceTree = "<group>"; };
-		29C30D2F2B82651F001B2E27 /* 1SA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1SA.json; sourceTree = "<group>"; };
-		29C30D302B82651F001B2E27 /* COL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = COL.json; sourceTree = "<group>"; };
-		29C30D312B82651F001B2E27 /* GAL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = GAL.json; sourceTree = "<group>"; };
-		29C30D322B82651F001B2E27 /* DAN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DAN.json; sourceTree = "<group>"; };
-		29C30D332B82651F001B2E27 /* JOL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JOL.json; sourceTree = "<group>"; };
-		29C30D342B82651F001B2E27 /* 1CO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1CO.json; sourceTree = "<group>"; };
-		29C30D352B82651F001B2E27 /* OBA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = OBA.json; sourceTree = "<group>"; };
-		29C30D362B826520001B2E27 /* HEB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = HEB.json; sourceTree = "<group>"; };
-		29C30D372B826520001B2E27 /* JDG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JDG.json; sourceTree = "<group>"; };
-		29C30D382B826520001B2E27 /* JER.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JER.json; sourceTree = "<group>"; };
-		29C30D392B826520001B2E27 /* HAG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = HAG.json; sourceTree = "<group>"; };
-		29C30D3A2B826520001B2E27 /* PHP.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PHP.json; sourceTree = "<group>"; };
-		29C30D3B2B826520001B2E27 /* 2SA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2SA.json; sourceTree = "<group>"; };
-		29C30D3C2B826520001B2E27 /* MIC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MIC.json; sourceTree = "<group>"; };
-		29C30D3D2B826520001B2E27 /* DEU.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DEU.json; sourceTree = "<group>"; };
-		29C30D3E2B826520001B2E27 /* NEH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = NEH.json; sourceTree = "<group>"; };
-		29C30D3F2B826520001B2E27 /* EPH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EPH.json; sourceTree = "<group>"; };
-		29C30D402B826520001B2E27 /* PSA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PSA.json; sourceTree = "<group>"; };
-		29C30D412B826520001B2E27 /* NAM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = NAM.json; sourceTree = "<group>"; };
-		29C30D422B826520001B2E27 /* 1TH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1TH.json; sourceTree = "<group>"; };
-		29C30D432B826520001B2E27 /* JOS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JOS.json; sourceTree = "<group>"; };
-		29C30D442B826520001B2E27 /* JAS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JAS.json; sourceTree = "<group>"; };
-		29C30D452B826520001B2E27 /* JOB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JOB.json; sourceTree = "<group>"; };
-		29C30D462B826520001B2E27 /* GEN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = GEN.json; sourceTree = "<group>"; };
-		29C30D472B826520001B2E27 /* EZK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EZK.json; sourceTree = "<group>"; };
-		29C30D482B826520001B2E27 /* LEV.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LEV.json; sourceTree = "<group>"; };
-		29C30D492B826520001B2E27 /* ROM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ROM.json; sourceTree = "<group>"; };
-		29C30D4A2B826520001B2E27 /* 2JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2JN.json; sourceTree = "<group>"; };
-		29C30D4B2B826521001B2E27 /* ISA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ISA.json; sourceTree = "<group>"; };
-		29C30D4C2B826521001B2E27 /* TIT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TIT.json; sourceTree = "<group>"; };
-		29C30D4D2B826521001B2E27 /* 3JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 3JN.json; sourceTree = "<group>"; };
-		29C30D4E2B826521001B2E27 /* NUM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = NUM.json; sourceTree = "<group>"; };
-		29C30D912B826542001B2E27 /* audio_1TH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1TH.json; sourceTree = "<group>"; };
-		29C30D922B826542001B2E27 /* audio_TIT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_TIT.json; sourceTree = "<group>"; };
-		29C30D932B826542001B2E27 /* audio_COL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_COL.json; sourceTree = "<group>"; };
-		29C30D942B826542001B2E27 /* audio_1KI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1KI.json; sourceTree = "<group>"; };
-		29C30D952B826542001B2E27 /* audio_ZEC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ZEC.json; sourceTree = "<group>"; };
-		29C30D962B826542001B2E27 /* audio_2KI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2KI.json; sourceTree = "<group>"; };
-		29C30D972B826543001B2E27 /* audio_MAL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_MAL.json; sourceTree = "<group>"; };
-		29C30D982B826543001B2E27 /* audio_ROM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ROM.json; sourceTree = "<group>"; };
-		29C30D992B826543001B2E27 /* audio_1PE.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1PE.json; sourceTree = "<group>"; };
-		29C30D9A2B826543001B2E27 /* audio_ZEP.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ZEP.json; sourceTree = "<group>"; };
-		29C30D9B2B826543001B2E27 /* audio_PSA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_PSA.json; sourceTree = "<group>"; };
-		29C30D9C2B826543001B2E27 /* audio_GAL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_GAL.json; sourceTree = "<group>"; };
-		29C30D9D2B826543001B2E27 /* audio_2CH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2CH.json; sourceTree = "<group>"; };
-		29C30D9E2B826543001B2E27 /* audio_OBA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_OBA.json; sourceTree = "<group>"; };
-		29C30D9F2B826543001B2E27 /* audio_NEH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_NEH.json; sourceTree = "<group>"; };
-		29C30DA02B826543001B2E27 /* audio_PHP.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_PHP.json; sourceTree = "<group>"; };
-		29C30DA12B826543001B2E27 /* audio_EST.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_EST.json; sourceTree = "<group>"; };
-		29C30DA22B826543001B2E27 /* audio_JOB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JOB.json; sourceTree = "<group>"; };
-		29C30DA32B826543001B2E27 /* audio_LAM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_LAM.json; sourceTree = "<group>"; };
-		29C30DA42B826543001B2E27 /* audio_2PE.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2PE.json; sourceTree = "<group>"; };
-		29C30DA52B826543001B2E27 /* audio_JDG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JDG.json; sourceTree = "<group>"; };
-		29C30DA62B826543001B2E27 /* audio_JUD.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JUD.json; sourceTree = "<group>"; };
-		29C30DA72B826543001B2E27 /* audio_2SA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2SA.json; sourceTree = "<group>"; };
-		29C30DA82B826543001B2E27 /* audio_EZK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_EZK.json; sourceTree = "<group>"; };
-		29C30DA92B826543001B2E27 /* audio_EXO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_EXO.json; sourceTree = "<group>"; };
-		29C30DAA2B826543001B2E27 /* audio_HAG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_HAG.json; sourceTree = "<group>"; };
-		29C30DAB2B826543001B2E27 /* audio_HOS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_HOS.json; sourceTree = "<group>"; };
-		29C30DAC2B826543001B2E27 /* audio_DEU.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_DEU.json; sourceTree = "<group>"; };
-		29C30DAD2B826543001B2E27 /* audio_EPH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_EPH.json; sourceTree = "<group>"; };
-		29C30DAE2B826543001B2E27 /* audio_1TI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1TI.json; sourceTree = "<group>"; };
-		29C30DAF2B826543001B2E27 /* audio_LUK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_LUK.json; sourceTree = "<group>"; };
-		29C30DB02B826543001B2E27 /* audio_DAN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_DAN.json; sourceTree = "<group>"; };
-		29C30DB12B826544001B2E27 /* audio_HAB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_HAB.json; sourceTree = "<group>"; };
-		29C30DB22B826544001B2E27 /* audio_HEB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_HEB.json; sourceTree = "<group>"; };
-		29C30DB32B826544001B2E27 /* audio_ACT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ACT.json; sourceTree = "<group>"; };
-		29C30DB42B826544001B2E27 /* audio_NUM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_NUM.json; sourceTree = "<group>"; };
-		29C30DB52B826544001B2E27 /* audio_JOS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JOS.json; sourceTree = "<group>"; };
-		29C30DB62B826544001B2E27 /* audio_JHN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JHN.json; sourceTree = "<group>"; };
-		29C30DB72B826544001B2E27 /* audio_2TH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2TH.json; sourceTree = "<group>"; };
-		29C30DB82B826544001B2E27 /* audio_2CO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2CO.json; sourceTree = "<group>"; };
-		29C30DB92B826544001B2E27 /* audio_2TI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2TI.json; sourceTree = "<group>"; };
-		29C30DBA2B826544001B2E27 /* audio_2JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2JN.json; sourceTree = "<group>"; };
-		29C30DBB2B826544001B2E27 /* audio_ECC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ECC.json; sourceTree = "<group>"; };
-		29C30DBC2B826544001B2E27 /* audio_1JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1JN.json; sourceTree = "<group>"; };
-		29C30DBD2B826544001B2E27 /* audio_RUT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_RUT.json; sourceTree = "<group>"; };
-		29C30DBE2B826544001B2E27 /* audio_NAM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_NAM.json; sourceTree = "<group>"; };
-		29C30DBF2B826544001B2E27 /* audio_GEN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_GEN.json; sourceTree = "<group>"; };
-		29C30DC02B826544001B2E27 /* audio_3JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_3JN.json; sourceTree = "<group>"; };
-		29C30DC12B826544001B2E27 /* audio_MRK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_MRK.json; sourceTree = "<group>"; };
-		29C30DC22B826545001B2E27 /* audio_MAT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_MAT.json; sourceTree = "<group>"; };
-		29C30DC32B826545001B2E27 /* audio_AMO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_AMO.json; sourceTree = "<group>"; };
-		29C30DC42B826545001B2E27 /* audio_ISA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ISA.json; sourceTree = "<group>"; };
-		29C30DC52B826545001B2E27 /* audio_MIC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_MIC.json; sourceTree = "<group>"; };
-		29C30DC62B826545001B2E27 /* audio_EZR.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_EZR.json; sourceTree = "<group>"; };
-		29C30DC72B826545001B2E27 /* audio_1CO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1CO.json; sourceTree = "<group>"; };
-		29C30DC82B826545001B2E27 /* audio_JAS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JAS.json; sourceTree = "<group>"; };
-		29C30DC92B826545001B2E27 /* audio_LEV.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_LEV.json; sourceTree = "<group>"; };
-		29C30DCA2B826545001B2E27 /* audio_1CH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1CH.json; sourceTree = "<group>"; };
-		29C30DCB2B826545001B2E27 /* audio_JER.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JER.json; sourceTree = "<group>"; };
-		29C30DCC2B826545001B2E27 /* audio_PHM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_PHM.json; sourceTree = "<group>"; };
-		29C30DCD2B826545001B2E27 /* audio_REV.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_REV.json; sourceTree = "<group>"; };
-		29C30DCE2B826545001B2E27 /* audio_JON.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JON.json; sourceTree = "<group>"; };
-		29C30DCF2B826545001B2E27 /* audio_PRO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_PRO.json; sourceTree = "<group>"; };
-		29C30DD02B826545001B2E27 /* audio_1SA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1SA.json; sourceTree = "<group>"; };
-		29C30DD12B826545001B2E27 /* audio_SNG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_SNG.json; sourceTree = "<group>"; };
-		29C30DD22B826545001B2E27 /* audio_JOL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JOL.json; sourceTree = "<group>"; };
+		29C30E152B82683B001B2E27 /* GEN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = GEN.json; sourceTree = "<group>"; };
+		29C30E162B82683B001B2E27 /* NUM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = NUM.json; sourceTree = "<group>"; };
+		29C30E172B82683B001B2E27 /* ZEC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ZEC.json; sourceTree = "<group>"; };
+		29C30E182B82683B001B2E27 /* GAL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = GAL.json; sourceTree = "<group>"; };
+		29C30E192B82683B001B2E27 /* NEH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = NEH.json; sourceTree = "<group>"; };
+		29C30E1A2B82683B001B2E27 /* 2KI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2KI.json; sourceTree = "<group>"; };
+		29C30E1B2B82683B001B2E27 /* JAS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JAS.json; sourceTree = "<group>"; };
+		29C30E1C2B82683B001B2E27 /* JDG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JDG.json; sourceTree = "<group>"; };
+		29C30E1D2B82683B001B2E27 /* HOS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = HOS.json; sourceTree = "<group>"; };
+		29C30E1E2B82683B001B2E27 /* OBA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = OBA.json; sourceTree = "<group>"; };
+		29C30E1F2B82683B001B2E27 /* MRK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MRK.json; sourceTree = "<group>"; };
+		29C30E202B82683B001B2E27 /* ECC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ECC.json; sourceTree = "<group>"; };
+		29C30E212B82683B001B2E27 /* DEU.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DEU.json; sourceTree = "<group>"; };
+		29C30E222B82683B001B2E27 /* 1TI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1TI.json; sourceTree = "<group>"; };
+		29C30E232B82683B001B2E27 /* EST.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EST.json; sourceTree = "<group>"; };
+		29C30E242B82683B001B2E27 /* EXO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EXO.json; sourceTree = "<group>"; };
+		29C30E252B82683B001B2E27 /* 2PE.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2PE.json; sourceTree = "<group>"; };
+		29C30E262B82683B001B2E27 /* JER.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JER.json; sourceTree = "<group>"; };
+		29C30E272B82683B001B2E27 /* 1CO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1CO.json; sourceTree = "<group>"; };
+		29C30E282B82683C001B2E27 /* SNG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SNG.json; sourceTree = "<group>"; };
+		29C30E292B82683C001B2E27 /* HEB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = HEB.json; sourceTree = "<group>"; };
+		29C30E2A2B82683C001B2E27 /* COL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = COL.json; sourceTree = "<group>"; };
+		29C30E2B2B82683C001B2E27 /* JON.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JON.json; sourceTree = "<group>"; };
+		29C30E2C2B82683C001B2E27 /* MIC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MIC.json; sourceTree = "<group>"; };
+		29C30E2D2B82683C001B2E27 /* PHP.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PHP.json; sourceTree = "<group>"; };
+		29C30E2E2B82683C001B2E27 /* EZK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EZK.json; sourceTree = "<group>"; };
+		29C30E2F2B82683C001B2E27 /* TIT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TIT.json; sourceTree = "<group>"; };
+		29C30E302B82683C001B2E27 /* 2CO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2CO.json; sourceTree = "<group>"; };
+		29C30E312B82683C001B2E27 /* JUD.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JUD.json; sourceTree = "<group>"; };
+		29C30E322B82683C001B2E27 /* 1SA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1SA.json; sourceTree = "<group>"; };
+		29C30E332B82683C001B2E27 /* ISA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ISA.json; sourceTree = "<group>"; };
+		29C30E342B82683C001B2E27 /* RUT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = RUT.json; sourceTree = "<group>"; };
+		29C30E352B82683C001B2E27 /* NAM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = NAM.json; sourceTree = "<group>"; };
+		29C30E362B82683C001B2E27 /* JOS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JOS.json; sourceTree = "<group>"; };
+		29C30E372B82683C001B2E27 /* PHM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PHM.json; sourceTree = "<group>"; };
+		29C30E382B82683C001B2E27 /* 1JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1JN.json; sourceTree = "<group>"; };
+		29C30E392B82683C001B2E27 /* HAB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = HAB.json; sourceTree = "<group>"; };
+		29C30E3A2B82683C001B2E27 /* JHN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JHN.json; sourceTree = "<group>"; };
+		29C30E3B2B82683C001B2E27 /* EZR.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EZR.json; sourceTree = "<group>"; };
+		29C30E3C2B82683C001B2E27 /* ROM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ROM.json; sourceTree = "<group>"; };
+		29C30E3D2B82683C001B2E27 /* LEV.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LEV.json; sourceTree = "<group>"; };
+		29C30E3E2B82683C001B2E27 /* LAM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LAM.json; sourceTree = "<group>"; };
+		29C30E3F2B82683C001B2E27 /* 1TH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1TH.json; sourceTree = "<group>"; };
+		29C30E402B82683D001B2E27 /* DAN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DAN.json; sourceTree = "<group>"; };
+		29C30E412B82683D001B2E27 /* ACT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ACT.json; sourceTree = "<group>"; };
+		29C30E422B82683D001B2E27 /* 2TH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2TH.json; sourceTree = "<group>"; };
+		29C30E432B82683D001B2E27 /* 3JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 3JN.json; sourceTree = "<group>"; };
+		29C30E442B82683D001B2E27 /* 2TI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2TI.json; sourceTree = "<group>"; };
+		29C30E452B82683D001B2E27 /* HAG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = HAG.json; sourceTree = "<group>"; };
+		29C30E462B82683D001B2E27 /* 1CH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1CH.json; sourceTree = "<group>"; };
+		29C30E472B82683D001B2E27 /* JOL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JOL.json; sourceTree = "<group>"; };
+		29C30E482B82683D001B2E27 /* REV.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = REV.json; sourceTree = "<group>"; };
+		29C30E492B82683D001B2E27 /* AMO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AMO.json; sourceTree = "<group>"; };
+		29C30E4A2B82683D001B2E27 /* EPH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = EPH.json; sourceTree = "<group>"; };
+		29C30E4B2B82683D001B2E27 /* LUK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LUK.json; sourceTree = "<group>"; };
+		29C30E4C2B82683D001B2E27 /* 2JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2JN.json; sourceTree = "<group>"; };
+		29C30E4D2B82683D001B2E27 /* 2CH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2CH.json; sourceTree = "<group>"; };
+		29C30E4E2B82683D001B2E27 /* MAT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MAT.json; sourceTree = "<group>"; };
+		29C30E4F2B82683D001B2E27 /* PRO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PRO.json; sourceTree = "<group>"; };
+		29C30E502B82683D001B2E27 /* PSA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PSA.json; sourceTree = "<group>"; };
+		29C30E512B82683D001B2E27 /* 1PE.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1PE.json; sourceTree = "<group>"; };
+		29C30E522B82683D001B2E27 /* MAL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = MAL.json; sourceTree = "<group>"; };
+		29C30E532B82683E001B2E27 /* JOB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = JOB.json; sourceTree = "<group>"; };
+		29C30E542B82683E001B2E27 /* 1KI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1KI.json; sourceTree = "<group>"; };
+		29C30E552B82683E001B2E27 /* ZEP.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ZEP.json; sourceTree = "<group>"; };
+		29C30E562B82683E001B2E27 /* 2SA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 2SA.json; sourceTree = "<group>"; };
+		29C30E992B82684C001B2E27 /* books.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = books.json; sourceTree = "<group>"; };
+		29C30E9B2B826869001B2E27 /* audio_JUD.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JUD.json; sourceTree = "<group>"; };
+		29C30E9C2B826869001B2E27 /* audio_NUM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_NUM.json; sourceTree = "<group>"; };
+		29C30E9D2B826869001B2E27 /* audio_HAB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_HAB.json; sourceTree = "<group>"; };
+		29C30E9E2B826869001B2E27 /* audio_PHM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_PHM.json; sourceTree = "<group>"; };
+		29C30E9F2B826869001B2E27 /* audio_1TH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1TH.json; sourceTree = "<group>"; };
+		29C30EA02B826869001B2E27 /* audio_LUK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_LUK.json; sourceTree = "<group>"; };
+		29C30EA12B826869001B2E27 /* audio_DAN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_DAN.json; sourceTree = "<group>"; };
+		29C30EA22B826869001B2E27 /* audio_2TH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2TH.json; sourceTree = "<group>"; };
+		29C30EA32B826869001B2E27 /* audio_MAL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_MAL.json; sourceTree = "<group>"; };
+		29C30EA42B826869001B2E27 /* audio_1CH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1CH.json; sourceTree = "<group>"; };
+		29C30EA52B826869001B2E27 /* audio_DEU.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_DEU.json; sourceTree = "<group>"; };
+		29C30EA62B826869001B2E27 /* audio_MAT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_MAT.json; sourceTree = "<group>"; };
+		29C30EA72B82686A001B2E27 /* audio_REV.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_REV.json; sourceTree = "<group>"; };
+		29C30EA82B82686A001B2E27 /* audio_JON.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JON.json; sourceTree = "<group>"; };
+		29C30EA92B82686A001B2E27 /* audio_2CO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2CO.json; sourceTree = "<group>"; };
+		29C30EAA2B82686A001B2E27 /* audio_EXO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_EXO.json; sourceTree = "<group>"; };
+		29C30EAB2B82686A001B2E27 /* audio_RUT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_RUT.json; sourceTree = "<group>"; };
+		29C30EAC2B82686A001B2E27 /* audio_TIT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_TIT.json; sourceTree = "<group>"; };
+		29C30EAD2B82686A001B2E27 /* audio_2KI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2KI.json; sourceTree = "<group>"; };
+		29C30EAE2B82686A001B2E27 /* audio_ZEP.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ZEP.json; sourceTree = "<group>"; };
+		29C30EAF2B82686A001B2E27 /* audio_JHN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JHN.json; sourceTree = "<group>"; };
+		29C30EB02B82686A001B2E27 /* audio_PSA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_PSA.json; sourceTree = "<group>"; };
+		29C30EB12B82686A001B2E27 /* audio_MIC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_MIC.json; sourceTree = "<group>"; };
+		29C30EB22B82686A001B2E27 /* audio_SNG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_SNG.json; sourceTree = "<group>"; };
+		29C30EB32B82686A001B2E27 /* audio_JOL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JOL.json; sourceTree = "<group>"; };
+		29C30EB42B82686A001B2E27 /* audio_EPH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_EPH.json; sourceTree = "<group>"; };
+		29C30EB52B82686A001B2E27 /* audio_2PE.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2PE.json; sourceTree = "<group>"; };
+		29C30EB62B82686A001B2E27 /* audio_JER.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JER.json; sourceTree = "<group>"; };
+		29C30EB72B82686A001B2E27 /* audio_HEB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_HEB.json; sourceTree = "<group>"; };
+		29C30EB82B82686A001B2E27 /* audio_EST.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_EST.json; sourceTree = "<group>"; };
+		29C30EB92B82686A001B2E27 /* audio_ZEC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ZEC.json; sourceTree = "<group>"; };
+		29C30EBA2B82686A001B2E27 /* audio_OBA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_OBA.json; sourceTree = "<group>"; };
+		29C30EBB2B82686A001B2E27 /* audio_ROM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ROM.json; sourceTree = "<group>"; };
+		29C30EBC2B82686A001B2E27 /* audio_JDG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JDG.json; sourceTree = "<group>"; };
+		29C30EBD2B82686B001B2E27 /* audio_AMO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_AMO.json; sourceTree = "<group>"; };
+		29C30EBE2B82686B001B2E27 /* audio_1PE.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1PE.json; sourceTree = "<group>"; };
+		29C30EBF2B82686B001B2E27 /* audio_ACT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ACT.json; sourceTree = "<group>"; };
+		29C30EC02B82686B001B2E27 /* audio_PHP.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_PHP.json; sourceTree = "<group>"; };
+		29C30EC12B82686B001B2E27 /* audio_LAM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_LAM.json; sourceTree = "<group>"; };
+		29C30EC22B82686B001B2E27 /* audio_PRO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_PRO.json; sourceTree = "<group>"; };
+		29C30EC32B82686B001B2E27 /* audio_GEN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_GEN.json; sourceTree = "<group>"; };
+		29C30EC42B82686B001B2E27 /* audio_JOB.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JOB.json; sourceTree = "<group>"; };
+		29C30EC52B82686B001B2E27 /* audio_NEH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_NEH.json; sourceTree = "<group>"; };
+		29C30EC62B82686B001B2E27 /* audio_ECC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ECC.json; sourceTree = "<group>"; };
+		29C30EC72B82686B001B2E27 /* audio_1SA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1SA.json; sourceTree = "<group>"; };
+		29C30EC82B82686B001B2E27 /* audio_2SA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2SA.json; sourceTree = "<group>"; };
+		29C30EC92B82686B001B2E27 /* audio_GAL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_GAL.json; sourceTree = "<group>"; };
+		29C30ECA2B82686B001B2E27 /* audio_3JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_3JN.json; sourceTree = "<group>"; };
+		29C30ECB2B82686B001B2E27 /* audio_1KI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1KI.json; sourceTree = "<group>"; };
+		29C30ECC2B82686C001B2E27 /* audio_NAM.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_NAM.json; sourceTree = "<group>"; };
+		29C30ECD2B82686C001B2E27 /* audio_HAG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_HAG.json; sourceTree = "<group>"; };
+		29C30ECE2B82686C001B2E27 /* audio_LEV.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_LEV.json; sourceTree = "<group>"; };
+		29C30ECF2B82686C001B2E27 /* audio_2CH.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2CH.json; sourceTree = "<group>"; };
+		29C30ED02B82686C001B2E27 /* audio_JAS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JAS.json; sourceTree = "<group>"; };
+		29C30ED12B82686C001B2E27 /* audio_1TI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1TI.json; sourceTree = "<group>"; };
+		29C30ED22B82686C001B2E27 /* audio_1JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1JN.json; sourceTree = "<group>"; };
+		29C30ED32B82686C001B2E27 /* audio_COL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_COL.json; sourceTree = "<group>"; };
+		29C30ED42B82686C001B2E27 /* audio_1CO.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_1CO.json; sourceTree = "<group>"; };
+		29C30ED52B82686C001B2E27 /* audio_JOS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_JOS.json; sourceTree = "<group>"; };
+		29C30ED62B82686C001B2E27 /* audio_ISA.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_ISA.json; sourceTree = "<group>"; };
+		29C30ED72B82686C001B2E27 /* audio_EZK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_EZK.json; sourceTree = "<group>"; };
+		29C30ED82B82686C001B2E27 /* audio_EZR.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_EZR.json; sourceTree = "<group>"; };
+		29C30ED92B82686C001B2E27 /* audio_2JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2JN.json; sourceTree = "<group>"; };
+		29C30EDA2B82686C001B2E27 /* audio_2TI.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2TI.json; sourceTree = "<group>"; };
+		29C30EDB2B82686C001B2E27 /* audio_HOS.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_HOS.json; sourceTree = "<group>"; };
+		29C30EDC2B82686C001B2E27 /* audio_MRK.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_MRK.json; sourceTree = "<group>"; };
 		29CCD2022AE589B5002F6570 /* OfflineFromDBDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OfflineFromDBDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		29CCD2052AE589B5002F6570 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		29CCD2072AE589B5002F6570 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -337,72 +337,72 @@
 		295F1C102B6A56ED0003024E /* Audios */ = {
 			isa = PBXGroup;
 			children = (
-				29C30DCA2B826545001B2E27 /* audio_1CH.json */,
-				29C30DC72B826545001B2E27 /* audio_1CO.json */,
-				29C30DBC2B826544001B2E27 /* audio_1JN.json */,
-				29C30D942B826542001B2E27 /* audio_1KI.json */,
-				29C30D992B826543001B2E27 /* audio_1PE.json */,
-				29C30DD02B826545001B2E27 /* audio_1SA.json */,
-				29C30D912B826542001B2E27 /* audio_1TH.json */,
-				29C30DAE2B826543001B2E27 /* audio_1TI.json */,
-				29C30D9D2B826543001B2E27 /* audio_2CH.json */,
-				29C30DB82B826544001B2E27 /* audio_2CO.json */,
-				29C30DBA2B826544001B2E27 /* audio_2JN.json */,
-				29C30D962B826542001B2E27 /* audio_2KI.json */,
-				29C30DA42B826543001B2E27 /* audio_2PE.json */,
-				29C30DA72B826543001B2E27 /* audio_2SA.json */,
-				29C30DB72B826544001B2E27 /* audio_2TH.json */,
-				29C30DB92B826544001B2E27 /* audio_2TI.json */,
-				29C30DC02B826544001B2E27 /* audio_3JN.json */,
-				29C30DB32B826544001B2E27 /* audio_ACT.json */,
-				29C30DC32B826545001B2E27 /* audio_AMO.json */,
-				29C30D932B826542001B2E27 /* audio_COL.json */,
-				29C30DB02B826543001B2E27 /* audio_DAN.json */,
-				29C30DAC2B826543001B2E27 /* audio_DEU.json */,
-				29C30DBB2B826544001B2E27 /* audio_ECC.json */,
-				29C30DAD2B826543001B2E27 /* audio_EPH.json */,
-				29C30DA12B826543001B2E27 /* audio_EST.json */,
-				29C30DA92B826543001B2E27 /* audio_EXO.json */,
-				29C30DA82B826543001B2E27 /* audio_EZK.json */,
-				29C30DC62B826545001B2E27 /* audio_EZR.json */,
-				29C30D9C2B826543001B2E27 /* audio_GAL.json */,
-				29C30DBF2B826544001B2E27 /* audio_GEN.json */,
-				29C30DB12B826544001B2E27 /* audio_HAB.json */,
-				29C30DAA2B826543001B2E27 /* audio_HAG.json */,
-				29C30DB22B826544001B2E27 /* audio_HEB.json */,
-				29C30DAB2B826543001B2E27 /* audio_HOS.json */,
-				29C30DC42B826545001B2E27 /* audio_ISA.json */,
-				29C30DC82B826545001B2E27 /* audio_JAS.json */,
-				29C30DA52B826543001B2E27 /* audio_JDG.json */,
-				29C30DCB2B826545001B2E27 /* audio_JER.json */,
-				29C30DB62B826544001B2E27 /* audio_JHN.json */,
-				29C30DA22B826543001B2E27 /* audio_JOB.json */,
-				29C30DD22B826545001B2E27 /* audio_JOL.json */,
-				29C30DCE2B826545001B2E27 /* audio_JON.json */,
-				29C30DB52B826544001B2E27 /* audio_JOS.json */,
-				29C30DA62B826543001B2E27 /* audio_JUD.json */,
-				29C30DA32B826543001B2E27 /* audio_LAM.json */,
-				29C30DC92B826545001B2E27 /* audio_LEV.json */,
-				29C30DAF2B826543001B2E27 /* audio_LUK.json */,
-				29C30D972B826543001B2E27 /* audio_MAL.json */,
-				29C30DC22B826545001B2E27 /* audio_MAT.json */,
-				29C30DC52B826545001B2E27 /* audio_MIC.json */,
-				29C30DC12B826544001B2E27 /* audio_MRK.json */,
-				29C30DBE2B826544001B2E27 /* audio_NAM.json */,
-				29C30D9F2B826543001B2E27 /* audio_NEH.json */,
-				29C30DB42B826544001B2E27 /* audio_NUM.json */,
-				29C30D9E2B826543001B2E27 /* audio_OBA.json */,
-				29C30DCC2B826545001B2E27 /* audio_PHM.json */,
-				29C30DA02B826543001B2E27 /* audio_PHP.json */,
-				29C30DCF2B826545001B2E27 /* audio_PRO.json */,
-				29C30D9B2B826543001B2E27 /* audio_PSA.json */,
-				29C30DCD2B826545001B2E27 /* audio_REV.json */,
-				29C30D982B826543001B2E27 /* audio_ROM.json */,
-				29C30DBD2B826544001B2E27 /* audio_RUT.json */,
-				29C30DD12B826545001B2E27 /* audio_SNG.json */,
-				29C30D922B826542001B2E27 /* audio_TIT.json */,
-				29C30D952B826542001B2E27 /* audio_ZEC.json */,
-				29C30D9A2B826543001B2E27 /* audio_ZEP.json */,
+				29C30EA42B826869001B2E27 /* audio_1CH.json */,
+				29C30ED42B82686C001B2E27 /* audio_1CO.json */,
+				29C30ED22B82686C001B2E27 /* audio_1JN.json */,
+				29C30ECB2B82686B001B2E27 /* audio_1KI.json */,
+				29C30EBE2B82686B001B2E27 /* audio_1PE.json */,
+				29C30EC72B82686B001B2E27 /* audio_1SA.json */,
+				29C30E9F2B826869001B2E27 /* audio_1TH.json */,
+				29C30ED12B82686C001B2E27 /* audio_1TI.json */,
+				29C30ECF2B82686C001B2E27 /* audio_2CH.json */,
+				29C30EA92B82686A001B2E27 /* audio_2CO.json */,
+				29C30ED92B82686C001B2E27 /* audio_2JN.json */,
+				29C30EAD2B82686A001B2E27 /* audio_2KI.json */,
+				29C30EB52B82686A001B2E27 /* audio_2PE.json */,
+				29C30EC82B82686B001B2E27 /* audio_2SA.json */,
+				29C30EA22B826869001B2E27 /* audio_2TH.json */,
+				29C30EDA2B82686C001B2E27 /* audio_2TI.json */,
+				29C30ECA2B82686B001B2E27 /* audio_3JN.json */,
+				29C30EBF2B82686B001B2E27 /* audio_ACT.json */,
+				29C30EBD2B82686B001B2E27 /* audio_AMO.json */,
+				29C30ED32B82686C001B2E27 /* audio_COL.json */,
+				29C30EA12B826869001B2E27 /* audio_DAN.json */,
+				29C30EA52B826869001B2E27 /* audio_DEU.json */,
+				29C30EC62B82686B001B2E27 /* audio_ECC.json */,
+				29C30EB42B82686A001B2E27 /* audio_EPH.json */,
+				29C30EB82B82686A001B2E27 /* audio_EST.json */,
+				29C30EAA2B82686A001B2E27 /* audio_EXO.json */,
+				29C30ED72B82686C001B2E27 /* audio_EZK.json */,
+				29C30ED82B82686C001B2E27 /* audio_EZR.json */,
+				29C30EC92B82686B001B2E27 /* audio_GAL.json */,
+				29C30EC32B82686B001B2E27 /* audio_GEN.json */,
+				29C30E9D2B826869001B2E27 /* audio_HAB.json */,
+				29C30ECD2B82686C001B2E27 /* audio_HAG.json */,
+				29C30EB72B82686A001B2E27 /* audio_HEB.json */,
+				29C30EDB2B82686C001B2E27 /* audio_HOS.json */,
+				29C30ED62B82686C001B2E27 /* audio_ISA.json */,
+				29C30ED02B82686C001B2E27 /* audio_JAS.json */,
+				29C30EBC2B82686A001B2E27 /* audio_JDG.json */,
+				29C30EB62B82686A001B2E27 /* audio_JER.json */,
+				29C30EAF2B82686A001B2E27 /* audio_JHN.json */,
+				29C30EC42B82686B001B2E27 /* audio_JOB.json */,
+				29C30EB32B82686A001B2E27 /* audio_JOL.json */,
+				29C30EA82B82686A001B2E27 /* audio_JON.json */,
+				29C30ED52B82686C001B2E27 /* audio_JOS.json */,
+				29C30E9B2B826869001B2E27 /* audio_JUD.json */,
+				29C30EC12B82686B001B2E27 /* audio_LAM.json */,
+				29C30ECE2B82686C001B2E27 /* audio_LEV.json */,
+				29C30EA02B826869001B2E27 /* audio_LUK.json */,
+				29C30EA32B826869001B2E27 /* audio_MAL.json */,
+				29C30EA62B826869001B2E27 /* audio_MAT.json */,
+				29C30EB12B82686A001B2E27 /* audio_MIC.json */,
+				29C30EDC2B82686C001B2E27 /* audio_MRK.json */,
+				29C30ECC2B82686C001B2E27 /* audio_NAM.json */,
+				29C30EC52B82686B001B2E27 /* audio_NEH.json */,
+				29C30E9C2B826869001B2E27 /* audio_NUM.json */,
+				29C30EBA2B82686A001B2E27 /* audio_OBA.json */,
+				29C30E9E2B826869001B2E27 /* audio_PHM.json */,
+				29C30EC02B82686B001B2E27 /* audio_PHP.json */,
+				29C30EC22B82686B001B2E27 /* audio_PRO.json */,
+				29C30EB02B82686A001B2E27 /* audio_PSA.json */,
+				29C30EA72B82686A001B2E27 /* audio_REV.json */,
+				29C30EBB2B82686A001B2E27 /* audio_ROM.json */,
+				29C30EAB2B82686A001B2E27 /* audio_RUT.json */,
+				29C30EB22B82686A001B2E27 /* audio_SNG.json */,
+				29C30EAC2B82686A001B2E27 /* audio_TIT.json */,
+				29C30EB92B82686A001B2E27 /* audio_ZEC.json */,
+				29C30EAE2B82686A001B2E27 /* audio_ZEP.json */,
 			);
 			path = Audios;
 			sourceTree = "<group>";
@@ -410,7 +410,7 @@
 		295F1C952B6A57450003024E /* Books */ = {
 			isa = PBXGroup;
 			children = (
-				29C30D0B2B8264FA001B2E27 /* books.json */,
+				29C30E992B82684C001B2E27 /* books.json */,
 			);
 			path = Books;
 			sourceTree = "<group>";
@@ -418,72 +418,72 @@
 		295F1C982B6A57860003024E /* Verses */ = {
 			isa = PBXGroup;
 			children = (
-				29C30D152B82651E001B2E27 /* 1CH.json */,
-				29C30D342B82651F001B2E27 /* 1CO.json */,
-				29C30D2C2B82651F001B2E27 /* 1JN.json */,
-				29C30D162B82651E001B2E27 /* 1KI.json */,
-				29C30D102B82651E001B2E27 /* 1PE.json */,
-				29C30D2F2B82651F001B2E27 /* 1SA.json */,
-				29C30D422B826520001B2E27 /* 1TH.json */,
-				29C30D212B82651F001B2E27 /* 1TI.json */,
-				29C30D0E2B82651E001B2E27 /* 2CH.json */,
-				29C30D202B82651F001B2E27 /* 2CO.json */,
-				29C30D4A2B826520001B2E27 /* 2JN.json */,
-				29C30D242B82651F001B2E27 /* 2KI.json */,
-				29C30D1C2B82651E001B2E27 /* 2PE.json */,
-				29C30D3B2B826520001B2E27 /* 2SA.json */,
-				29C30D1E2B82651E001B2E27 /* 2TH.json */,
-				29C30D2E2B82651F001B2E27 /* 2TI.json */,
-				29C30D4D2B826521001B2E27 /* 3JN.json */,
-				29C30D232B82651F001B2E27 /* ACT.json */,
-				29C30D1F2B82651E001B2E27 /* AMO.json */,
-				29C30D302B82651F001B2E27 /* COL.json */,
-				29C30D322B82651F001B2E27 /* DAN.json */,
-				29C30D3D2B826520001B2E27 /* DEU.json */,
-				29C30D1B2B82651E001B2E27 /* ECC.json */,
-				29C30D3F2B826520001B2E27 /* EPH.json */,
-				29C30D282B82651F001B2E27 /* EST.json */,
-				29C30D2D2B82651F001B2E27 /* EXO.json */,
-				29C30D472B826520001B2E27 /* EZK.json */,
-				29C30D222B82651F001B2E27 /* EZR.json */,
-				29C30D312B82651F001B2E27 /* GAL.json */,
-				29C30D462B826520001B2E27 /* GEN.json */,
-				29C30D252B82651F001B2E27 /* HAB.json */,
-				29C30D392B826520001B2E27 /* HAG.json */,
-				29C30D362B826520001B2E27 /* HEB.json */,
-				29C30D2B2B82651F001B2E27 /* HOS.json */,
-				29C30D4B2B826521001B2E27 /* ISA.json */,
-				29C30D442B826520001B2E27 /* JAS.json */,
-				29C30D372B826520001B2E27 /* JDG.json */,
-				29C30D382B826520001B2E27 /* JER.json */,
-				29C30D132B82651E001B2E27 /* JHN.json */,
-				29C30D452B826520001B2E27 /* JOB.json */,
-				29C30D332B82651F001B2E27 /* JOL.json */,
-				29C30D192B82651E001B2E27 /* JON.json */,
-				29C30D432B826520001B2E27 /* JOS.json */,
-				29C30D182B82651E001B2E27 /* JUD.json */,
-				29C30D272B82651F001B2E27 /* LAM.json */,
-				29C30D482B826520001B2E27 /* LEV.json */,
-				29C30D0D2B82651E001B2E27 /* LUK.json */,
-				29C30D122B82651E001B2E27 /* MAL.json */,
-				29C30D1A2B82651E001B2E27 /* MAT.json */,
-				29C30D3C2B826520001B2E27 /* MIC.json */,
-				29C30D112B82651E001B2E27 /* MRK.json */,
-				29C30D412B826520001B2E27 /* NAM.json */,
-				29C30D3E2B826520001B2E27 /* NEH.json */,
-				29C30D4E2B826521001B2E27 /* NUM.json */,
-				29C30D352B82651F001B2E27 /* OBA.json */,
-				29C30D2A2B82651F001B2E27 /* PHM.json */,
-				29C30D3A2B826520001B2E27 /* PHP.json */,
-				29C30D172B82651E001B2E27 /* PRO.json */,
-				29C30D402B826520001B2E27 /* PSA.json */,
-				29C30D142B82651E001B2E27 /* REV.json */,
-				29C30D492B826520001B2E27 /* ROM.json */,
-				29C30D262B82651F001B2E27 /* RUT.json */,
-				29C30D1D2B82651E001B2E27 /* SNG.json */,
-				29C30D4C2B826521001B2E27 /* TIT.json */,
-				29C30D292B82651F001B2E27 /* ZEC.json */,
-				29C30D0F2B82651E001B2E27 /* ZEP.json */,
+				29C30E462B82683D001B2E27 /* 1CH.json */,
+				29C30E272B82683B001B2E27 /* 1CO.json */,
+				29C30E382B82683C001B2E27 /* 1JN.json */,
+				29C30E542B82683E001B2E27 /* 1KI.json */,
+				29C30E512B82683D001B2E27 /* 1PE.json */,
+				29C30E322B82683C001B2E27 /* 1SA.json */,
+				29C30E3F2B82683C001B2E27 /* 1TH.json */,
+				29C30E222B82683B001B2E27 /* 1TI.json */,
+				29C30E4D2B82683D001B2E27 /* 2CH.json */,
+				29C30E302B82683C001B2E27 /* 2CO.json */,
+				29C30E4C2B82683D001B2E27 /* 2JN.json */,
+				29C30E1A2B82683B001B2E27 /* 2KI.json */,
+				29C30E252B82683B001B2E27 /* 2PE.json */,
+				29C30E562B82683E001B2E27 /* 2SA.json */,
+				29C30E422B82683D001B2E27 /* 2TH.json */,
+				29C30E442B82683D001B2E27 /* 2TI.json */,
+				29C30E432B82683D001B2E27 /* 3JN.json */,
+				29C30E412B82683D001B2E27 /* ACT.json */,
+				29C30E492B82683D001B2E27 /* AMO.json */,
+				29C30E2A2B82683C001B2E27 /* COL.json */,
+				29C30E402B82683D001B2E27 /* DAN.json */,
+				29C30E212B82683B001B2E27 /* DEU.json */,
+				29C30E202B82683B001B2E27 /* ECC.json */,
+				29C30E4A2B82683D001B2E27 /* EPH.json */,
+				29C30E232B82683B001B2E27 /* EST.json */,
+				29C30E242B82683B001B2E27 /* EXO.json */,
+				29C30E2E2B82683C001B2E27 /* EZK.json */,
+				29C30E3B2B82683C001B2E27 /* EZR.json */,
+				29C30E182B82683B001B2E27 /* GAL.json */,
+				29C30E152B82683B001B2E27 /* GEN.json */,
+				29C30E392B82683C001B2E27 /* HAB.json */,
+				29C30E452B82683D001B2E27 /* HAG.json */,
+				29C30E292B82683C001B2E27 /* HEB.json */,
+				29C30E1D2B82683B001B2E27 /* HOS.json */,
+				29C30E332B82683C001B2E27 /* ISA.json */,
+				29C30E1B2B82683B001B2E27 /* JAS.json */,
+				29C30E1C2B82683B001B2E27 /* JDG.json */,
+				29C30E262B82683B001B2E27 /* JER.json */,
+				29C30E3A2B82683C001B2E27 /* JHN.json */,
+				29C30E532B82683E001B2E27 /* JOB.json */,
+				29C30E472B82683D001B2E27 /* JOL.json */,
+				29C30E2B2B82683C001B2E27 /* JON.json */,
+				29C30E362B82683C001B2E27 /* JOS.json */,
+				29C30E312B82683C001B2E27 /* JUD.json */,
+				29C30E3E2B82683C001B2E27 /* LAM.json */,
+				29C30E3D2B82683C001B2E27 /* LEV.json */,
+				29C30E4B2B82683D001B2E27 /* LUK.json */,
+				29C30E522B82683D001B2E27 /* MAL.json */,
+				29C30E4E2B82683D001B2E27 /* MAT.json */,
+				29C30E2C2B82683C001B2E27 /* MIC.json */,
+				29C30E1F2B82683B001B2E27 /* MRK.json */,
+				29C30E352B82683C001B2E27 /* NAM.json */,
+				29C30E192B82683B001B2E27 /* NEH.json */,
+				29C30E162B82683B001B2E27 /* NUM.json */,
+				29C30E1E2B82683B001B2E27 /* OBA.json */,
+				29C30E372B82683C001B2E27 /* PHM.json */,
+				29C30E2D2B82683C001B2E27 /* PHP.json */,
+				29C30E4F2B82683D001B2E27 /* PRO.json */,
+				29C30E502B82683D001B2E27 /* PSA.json */,
+				29C30E482B82683D001B2E27 /* REV.json */,
+				29C30E3C2B82683C001B2E27 /* ROM.json */,
+				29C30E342B82683C001B2E27 /* RUT.json */,
+				29C30E282B82683C001B2E27 /* SNG.json */,
+				29C30E2F2B82683C001B2E27 /* TIT.json */,
+				29C30E172B82683B001B2E27 /* ZEC.json */,
+				29C30E552B82683E001B2E27 /* ZEP.json */,
 			);
 			path = Verses;
 			sourceTree = "<group>";
@@ -657,143 +657,143 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				29C30D512B826521001B2E27 /* ZEP.json in Resources */,
-				29C30D882B826521001B2E27 /* GEN.json in Resources */,
-				29C30DDE2B826546001B2E27 /* audio_GAL.json in Resources */,
-				29C30DF32B826546001B2E27 /* audio_HAB.json in Resources */,
-				29C30DE82B826546001B2E27 /* audio_JUD.json in Resources */,
-				29C30E072B826546001B2E27 /* audio_MIC.json in Resources */,
-				29C30E102B826546001B2E27 /* audio_JON.json in Resources */,
-				29C30D532B826521001B2E27 /* MRK.json in Resources */,
-				29C30D7B2B826521001B2E27 /* HAG.json in Resources */,
-				29C30D822B826521001B2E27 /* PSA.json in Resources */,
-				29C30E0C2B826546001B2E27 /* audio_1CH.json in Resources */,
-				29C30D752B826521001B2E27 /* JOL.json in Resources */,
-				29C30DD72B826546001B2E27 /* audio_ZEC.json in Resources */,
-				29C30D612B826521001B2E27 /* AMO.json in Resources */,
-				29C30D602B826521001B2E27 /* 2TH.json in Resources */,
+				29C30F102B82686D001B2E27 /* audio_LEV.json in Resources */,
+				29C30E832B82683E001B2E27 /* ACT.json in Resources */,
+				29C30E762B82683E001B2E27 /* RUT.json in Resources */,
+				29C30E862B82683E001B2E27 /* 2TI.json in Resources */,
+				29C30F172B82686D001B2E27 /* audio_JOS.json in Resources */,
+				29C30EF22B82686D001B2E27 /* audio_PSA.json in Resources */,
+				29C30E6A2B82683E001B2E27 /* SNG.json in Resources */,
+				29C30E892B82683E001B2E27 /* JOL.json in Resources */,
+				29C30E742B82683E001B2E27 /* 1SA.json in Resources */,
+				29C30EE72B82686D001B2E27 /* audio_DEU.json in Resources */,
 				290D65F22B6D4F9B0026740C /* default.realm in Resources */,
-				29C30DD62B826546001B2E27 /* audio_1KI.json in Resources */,
-				29C30D762B826521001B2E27 /* 1CO.json in Resources */,
-				29C30DD52B826546001B2E27 /* audio_COL.json in Resources */,
-				29C30D652B826521001B2E27 /* ACT.json in Resources */,
-				29C30E052B826546001B2E27 /* audio_AMO.json in Resources */,
-				29C30DED2B826546001B2E27 /* audio_HOS.json in Resources */,
-				29C30DE62B826546001B2E27 /* audio_2PE.json in Resources */,
-				29C30DF02B826546001B2E27 /* audio_1TI.json in Resources */,
-				29C30D5F2B826521001B2E27 /* SNG.json in Resources */,
-				29C30D622B826521001B2E27 /* 2CO.json in Resources */,
-				29C30D582B826521001B2E27 /* 1KI.json in Resources */,
-				29C30D7E2B826521001B2E27 /* MIC.json in Resources */,
-				29C30DDC2B826546001B2E27 /* audio_ZEP.json in Resources */,
-				29C30E022B826546001B2E27 /* audio_3JN.json in Resources */,
-				29C30D802B826521001B2E27 /* NEH.json in Resources */,
-				29C30DDF2B826546001B2E27 /* audio_2CH.json in Resources */,
-				29C30D672B826521001B2E27 /* HAB.json in Resources */,
-				29C30DE42B826546001B2E27 /* audio_JOB.json in Resources */,
-				29C30D782B826521001B2E27 /* HEB.json in Resources */,
-				29C30DE02B826546001B2E27 /* audio_OBA.json in Resources */,
-				29C30D852B826521001B2E27 /* JOS.json in Resources */,
-				29C30DD82B826546001B2E27 /* audio_2KI.json in Resources */,
-				29C30DE72B826546001B2E27 /* audio_JDG.json in Resources */,
-				29C30DF92B826546001B2E27 /* audio_2TH.json in Resources */,
-				29C30D552B826521001B2E27 /* JHN.json in Resources */,
-				29C30DE92B826546001B2E27 /* audio_2SA.json in Resources */,
-				29C30D5B2B826521001B2E27 /* JON.json in Resources */,
-				29C30D692B826521001B2E27 /* LAM.json in Resources */,
-				29C30D6A2B826521001B2E27 /* EST.json in Resources */,
-				29C30D642B826521001B2E27 /* EZR.json in Resources */,
-				29C30D502B826521001B2E27 /* 2CH.json in Resources */,
-				29C30DF22B826546001B2E27 /* audio_DAN.json in Resources */,
+				29C30E8C2B82683E001B2E27 /* EPH.json in Resources */,
+				29C30EE92B82686D001B2E27 /* audio_REV.json in Resources */,
+				29C30E722B82683E001B2E27 /* 2CO.json in Resources */,
+				29C30EDF2B82686D001B2E27 /* audio_HAB.json in Resources */,
+				29C30E692B82683E001B2E27 /* 1CO.json in Resources */,
+				29C30F032B82686D001B2E27 /* audio_LAM.json in Resources */,
+				29C30E822B82683E001B2E27 /* DAN.json in Resources */,
+				29C30F192B82686D001B2E27 /* audio_EZK.json in Resources */,
+				29C30E902B82683E001B2E27 /* MAT.json in Resources */,
+				29C30E6D2B82683E001B2E27 /* JON.json in Resources */,
+				29C30E872B82683E001B2E27 /* HAG.json in Resources */,
+				29C30EEE2B82686D001B2E27 /* audio_TIT.json in Resources */,
+				29C30EF92B82686D001B2E27 /* audio_HEB.json in Resources */,
+				29C30F092B82686D001B2E27 /* audio_1SA.json in Resources */,
+				29C30E582B82683E001B2E27 /* NUM.json in Resources */,
+				29C30EEB2B82686D001B2E27 /* audio_2CO.json in Resources */,
+				29C30EF52B82686D001B2E27 /* audio_JOL.json in Resources */,
+				29C30F0C2B82686D001B2E27 /* audio_3JN.json in Resources */,
+				29C30E972B82683E001B2E27 /* ZEP.json in Resources */,
+				29C30EDE2B82686D001B2E27 /* audio_NUM.json in Resources */,
+				29C30F112B82686D001B2E27 /* audio_2CH.json in Resources */,
+				29C30F052B82686D001B2E27 /* audio_GEN.json in Resources */,
+				29C30E922B82683E001B2E27 /* PSA.json in Resources */,
+				29C30E592B82683E001B2E27 /* ZEC.json in Resources */,
+				29C30F162B82686D001B2E27 /* audio_1CO.json in Resources */,
+				29C30EE22B82686D001B2E27 /* audio_LUK.json in Resources */,
+				29C30F122B82686D001B2E27 /* audio_JAS.json in Resources */,
+				29C30E852B82683E001B2E27 /* 3JN.json in Resources */,
+				29C30E572B82683E001B2E27 /* GEN.json in Resources */,
+				29C30E6F2B82683E001B2E27 /* PHP.json in Resources */,
+				29C30EE82B82686D001B2E27 /* audio_MAT.json in Resources */,
+				29C30EE42B82686D001B2E27 /* audio_2TH.json in Resources */,
+				29C30E8E2B82683E001B2E27 /* 2JN.json in Resources */,
+				29C30F1A2B82686D001B2E27 /* audio_EZR.json in Resources */,
+				29C30EE02B82686D001B2E27 /* audio_PHM.json in Resources */,
+				29C30EE12B82686D001B2E27 /* audio_1TH.json in Resources */,
+				29C30E5C2B82683E001B2E27 /* 2KI.json in Resources */,
+				29C30EF82B82686D001B2E27 /* audio_JER.json in Resources */,
+				29C30E912B82683E001B2E27 /* PRO.json in Resources */,
+				29C30E5D2B82683E001B2E27 /* JAS.json in Resources */,
+				29C30E5E2B82683E001B2E27 /* JDG.json in Resources */,
+				29C30E982B82683E001B2E27 /* 2SA.json in Resources */,
+				29C30EDD2B82686D001B2E27 /* audio_JUD.json in Resources */,
+				29C30EF02B82686D001B2E27 /* audio_ZEP.json in Resources */,
+				29C30E8F2B82683E001B2E27 /* 2CH.json in Resources */,
+				29C30EF72B82686D001B2E27 /* audio_2PE.json in Resources */,
 				29CCD2122AE589B6002F6570 /* LaunchScreen.storyboard in Resources */,
-				29C30D682B826521001B2E27 /* RUT.json in Resources */,
-				29C30DF12B826546001B2E27 /* audio_LUK.json in Resources */,
-				29C30D772B826521001B2E27 /* OBA.json in Resources */,
-				29C30DFB2B826546001B2E27 /* audio_2TI.json in Resources */,
-				29C30DE32B826546001B2E27 /* audio_EST.json in Resources */,
-				29C30D7F2B826521001B2E27 /* DEU.json in Resources */,
-				29C30D8F2B826521001B2E27 /* 3JN.json in Resources */,
-				29C30DFF2B826546001B2E27 /* audio_RUT.json in Resources */,
-				29C30DEA2B826546001B2E27 /* audio_EZK.json in Resources */,
-				29C30DFA2B826546001B2E27 /* audio_2CO.json in Resources */,
-				29C30D662B826521001B2E27 /* 2KI.json in Resources */,
-				29C30D7A2B826521001B2E27 /* JER.json in Resources */,
-				29C30DDA2B826546001B2E27 /* audio_ROM.json in Resources */,
-				29C30DD92B826546001B2E27 /* audio_MAL.json in Resources */,
-				29C30D6F2B826521001B2E27 /* EXO.json in Resources */,
-				29C30E132B826546001B2E27 /* audio_SNG.json in Resources */,
-				29C30D542B826521001B2E27 /* MAL.json in Resources */,
-				29C30D722B826521001B2E27 /* COL.json in Resources */,
-				29C30DD42B826546001B2E27 /* audio_TIT.json in Resources */,
-				29C30D902B826521001B2E27 /* NUM.json in Resources */,
-				29C30D702B826521001B2E27 /* 2TI.json in Resources */,
-				29C30DFD2B826546001B2E27 /* audio_ECC.json in Resources */,
-				29C30E0F2B826546001B2E27 /* audio_REV.json in Resources */,
-				29C30D6B2B826521001B2E27 /* ZEC.json in Resources */,
-				29C30D4F2B826521001B2E27 /* LUK.json in Resources */,
-				29C30D792B826521001B2E27 /* JDG.json in Resources */,
-				29C30D592B826521001B2E27 /* PRO.json in Resources */,
-				29C30DE52B826546001B2E27 /* audio_LAM.json in Resources */,
-				29C30E062B826546001B2E27 /* audio_ISA.json in Resources */,
-				29C30DF62B826546001B2E27 /* audio_NUM.json in Resources */,
-				29C30DEB2B826546001B2E27 /* audio_EXO.json in Resources */,
-				29C30D6E2B826521001B2E27 /* 1JN.json in Resources */,
-				29C30DDD2B826546001B2E27 /* audio_PSA.json in Resources */,
-				29C30D742B826521001B2E27 /* DAN.json in Resources */,
-				29C30DF42B826546001B2E27 /* audio_HEB.json in Resources */,
-				29C30D872B826521001B2E27 /* JOB.json in Resources */,
-				29C30E092B826546001B2E27 /* audio_1CO.json in Resources */,
-				29C30DF72B826546001B2E27 /* audio_JOS.json in Resources */,
-				29C30D572B826521001B2E27 /* 1CH.json in Resources */,
-				29C30DD32B826546001B2E27 /* audio_1TH.json in Resources */,
-				29C30E0E2B826546001B2E27 /* audio_PHM.json in Resources */,
-				29C30D0C2B8264FA001B2E27 /* books.json in Resources */,
-				29C30E002B826546001B2E27 /* audio_NAM.json in Resources */,
-				29C30E0B2B826546001B2E27 /* audio_LEV.json in Resources */,
-				29C30E0D2B826546001B2E27 /* audio_JER.json in Resources */,
-				29C30DDB2B826546001B2E27 /* audio_1PE.json in Resources */,
-				29C30D6D2B826521001B2E27 /* HOS.json in Resources */,
-				29C30D5C2B826521001B2E27 /* MAT.json in Resources */,
-				29C30DEE2B826546001B2E27 /* audio_DEU.json in Resources */,
-				29C30D732B826521001B2E27 /* GAL.json in Resources */,
-				29C30D7C2B826521001B2E27 /* PHP.json in Resources */,
-				29C30E122B826546001B2E27 /* audio_1SA.json in Resources */,
-				29C30D7D2B826521001B2E27 /* 2SA.json in Resources */,
-				29C30D8B2B826521001B2E27 /* ROM.json in Resources */,
-				29C30D5E2B826521001B2E27 /* 2PE.json in Resources */,
-				29C30D8A2B826521001B2E27 /* LEV.json in Resources */,
-				29C30DF52B826546001B2E27 /* audio_ACT.json in Resources */,
-				29C30D562B826521001B2E27 /* REV.json in Resources */,
-				29C30E112B826546001B2E27 /* audio_PRO.json in Resources */,
-				29C30DE22B826546001B2E27 /* audio_PHP.json in Resources */,
-				29C30D8E2B826521001B2E27 /* TIT.json in Resources */,
-				29C30DEC2B826546001B2E27 /* audio_HAG.json in Resources */,
-				29C30D522B826521001B2E27 /* 1PE.json in Resources */,
-				29C30D842B826521001B2E27 /* 1TH.json in Resources */,
-				29C30D6C2B826521001B2E27 /* PHM.json in Resources */,
-				29C30D712B826521001B2E27 /* 1SA.json in Resources */,
+				29C30EFC2B82686D001B2E27 /* audio_OBA.json in Resources */,
+				29C30E712B82683E001B2E27 /* TIT.json in Resources */,
+				29C30EF42B82686D001B2E27 /* audio_SNG.json in Resources */,
+				29C30E622B82683E001B2E27 /* ECC.json in Resources */,
+				29C30F0A2B82686D001B2E27 /* audio_2SA.json in Resources */,
+				29C30E7D2B82683E001B2E27 /* EZR.json in Resources */,
+				29C30E6E2B82683E001B2E27 /* MIC.json in Resources */,
+				29C30E6B2B82683E001B2E27 /* HEB.json in Resources */,
+				29C30F1D2B82686D001B2E27 /* audio_HOS.json in Resources */,
+				29C30EFE2B82686D001B2E27 /* audio_JDG.json in Resources */,
+				29C30EFD2B82686D001B2E27 /* audio_ROM.json in Resources */,
+				29C30E932B82683E001B2E27 /* 1PE.json in Resources */,
+				29C30E9A2B82684C001B2E27 /* books.json in Resources */,
+				29C30F1E2B82686D001B2E27 /* audio_MRK.json in Resources */,
+				29C30F0E2B82686D001B2E27 /* audio_NAM.json in Resources */,
+				29C30E662B82683E001B2E27 /* EXO.json in Resources */,
+				29C30EEC2B82686D001B2E27 /* audio_EXO.json in Resources */,
+				29C30E7E2B82683E001B2E27 /* ROM.json in Resources */,
+				29C30F072B82686D001B2E27 /* audio_NEH.json in Resources */,
+				29C30EF12B82686D001B2E27 /* audio_JHN.json in Resources */,
+				29C30F132B82686D001B2E27 /* audio_1TI.json in Resources */,
+				29C30E8A2B82683E001B2E27 /* REV.json in Resources */,
+				29C30F0D2B82686D001B2E27 /* audio_1KI.json in Resources */,
+				29C30F182B82686D001B2E27 /* audio_ISA.json in Resources */,
+				29C30E812B82683E001B2E27 /* 1TH.json in Resources */,
+				29C30E732B82683E001B2E27 /* JUD.json in Resources */,
+				29C30EEF2B82686D001B2E27 /* audio_2KI.json in Resources */,
+				29C30F152B82686D001B2E27 /* audio_COL.json in Resources */,
+				29C30E6C2B82683E001B2E27 /* COL.json in Resources */,
+				29C30EF32B82686D001B2E27 /* audio_MIC.json in Resources */,
+				29C30EFA2B82686D001B2E27 /* audio_EST.json in Resources */,
+				29C30E752B82683E001B2E27 /* ISA.json in Resources */,
+				29C30E842B82683E001B2E27 /* 2TH.json in Resources */,
+				29C30F082B82686D001B2E27 /* audio_ECC.json in Resources */,
+				29C30F042B82686D001B2E27 /* audio_PRO.json in Resources */,
+				29C30E612B82683E001B2E27 /* MRK.json in Resources */,
+				29C30F012B82686D001B2E27 /* audio_ACT.json in Resources */,
+				29C30EE32B82686D001B2E27 /* audio_DAN.json in Resources */,
+				29C30E772B82683E001B2E27 /* NAM.json in Resources */,
+				29C30F022B82686D001B2E27 /* audio_PHP.json in Resources */,
+				29C30E642B82683E001B2E27 /* 1TI.json in Resources */,
+				29C30F0B2B82686D001B2E27 /* audio_GAL.json in Resources */,
+				29C30F1B2B82686D001B2E27 /* audio_2JN.json in Resources */,
+				29C30F1C2B82686D001B2E27 /* audio_2TI.json in Resources */,
+				29C30E792B82683E001B2E27 /* PHM.json in Resources */,
+				29C30EEA2B82686D001B2E27 /* audio_JON.json in Resources */,
+				29C30F062B82686D001B2E27 /* audio_JOB.json in Resources */,
+				29C30E7A2B82683E001B2E27 /* 1JN.json in Resources */,
+				29C30F0F2B82686D001B2E27 /* audio_HAG.json in Resources */,
+				29C30E5A2B82683E001B2E27 /* GAL.json in Resources */,
+				29C30E8D2B82683E001B2E27 /* LUK.json in Resources */,
+				29C30E672B82683E001B2E27 /* 2PE.json in Resources */,
+				29C30E962B82683E001B2E27 /* 1KI.json in Resources */,
+				29C30EED2B82686D001B2E27 /* audio_RUT.json in Resources */,
+				29C30E942B82683E001B2E27 /* MAL.json in Resources */,
+				29C30E8B2B82683E001B2E27 /* AMO.json in Resources */,
+				29C30E952B82683E001B2E27 /* JOB.json in Resources */,
+				29C30F142B82686D001B2E27 /* audio_1JN.json in Resources */,
+				29C30E632B82683E001B2E27 /* DEU.json in Resources */,
+				29C30EFB2B82686D001B2E27 /* audio_ZEC.json in Resources */,
+				29C30EF62B82686D001B2E27 /* audio_EPH.json in Resources */,
 				29CCD20F2AE589B6002F6570 /* Assets.xcassets in Resources */,
-				29C30D832B826521001B2E27 /* NAM.json in Resources */,
-				29C30DEF2B826546001B2E27 /* audio_EPH.json in Resources */,
-				29C30E012B826546001B2E27 /* audio_GEN.json in Resources */,
-				29C30D632B826521001B2E27 /* 1TI.json in Resources */,
-				29C30DFC2B826546001B2E27 /* audio_2JN.json in Resources */,
-				29C30DFE2B826546001B2E27 /* audio_1JN.json in Resources */,
-				29C30DF82B826546001B2E27 /* audio_JHN.json in Resources */,
-				29C30DE12B826546001B2E27 /* audio_NEH.json in Resources */,
-				29C30E142B826546001B2E27 /* audio_JOL.json in Resources */,
-				29C30E0A2B826546001B2E27 /* audio_JAS.json in Resources */,
-				29C30E082B826546001B2E27 /* audio_EZR.json in Resources */,
-				29C30D5A2B826521001B2E27 /* JUD.json in Resources */,
-				29C30D862B826521001B2E27 /* JAS.json in Resources */,
-				29C30D8C2B826521001B2E27 /* 2JN.json in Resources */,
-				29C30E032B826546001B2E27 /* audio_MRK.json in Resources */,
-				29C30D892B826521001B2E27 /* EZK.json in Resources */,
-				29C30D812B826521001B2E27 /* EPH.json in Resources */,
+				29C30E652B82683E001B2E27 /* EST.json in Resources */,
+				29C30E5B2B82683E001B2E27 /* NEH.json in Resources */,
+				29C30E702B82683E001B2E27 /* EZK.json in Resources */,
+				29C30E882B82683E001B2E27 /* 1CH.json in Resources */,
+				29C30F002B82686D001B2E27 /* audio_1PE.json in Resources */,
+				29C30E682B82683E001B2E27 /* JER.json in Resources */,
+				29C30E602B82683E001B2E27 /* OBA.json in Resources */,
+				29C30EE62B82686D001B2E27 /* audio_1CH.json in Resources */,
+				29C30E802B82683E001B2E27 /* LAM.json in Resources */,
+				29C30E7C2B82683E001B2E27 /* JHN.json in Resources */,
+				29C30EE52B82686D001B2E27 /* audio_MAL.json in Resources */,
+				29C30E7B2B82683E001B2E27 /* HAB.json in Resources */,
+				29C30EFF2B82686D001B2E27 /* audio_AMO.json in Resources */,
+				29C30E7F2B82683E001B2E27 /* LEV.json in Resources */,
+				29C30E5F2B82683E001B2E27 /* HOS.json in Resources */,
+				29C30E782B82683E001B2E27 /* JOS.json in Resources */,
 				29CCD20D2AE589B5002F6570 /* Main.storyboard in Resources */,
-				29C30D8D2B826521001B2E27 /* ISA.json in Resources */,
-				29C30E042B826546001B2E27 /* audio_MAT.json in Resources */,
-				29C30D5D2B826521001B2E27 /* ECC.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

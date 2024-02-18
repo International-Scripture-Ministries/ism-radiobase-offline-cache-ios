@@ -1,602 +1,948 @@
 [
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.2",
+            "number": "2"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.1",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:17.941Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:08.606Z",
         "number": "1",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:17.941Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.1.mp3"
+        "reference": "1 Mose 1",
+        "updatedAt": "2023-07-17T21:34:08.606Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.1.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "GEN.9",
+            "number": "9"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.10",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:20.681Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:12.685Z",
         "number": "10",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:20.681Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.10.mp3"
+        "reference": "1 Mose 10",
+        "updatedAt": "2023-07-17T21:34:12.685Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.10.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "GEN.10",
+            "number": "10"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.11",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:20.916Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:13.204Z",
         "number": "11",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:20.916Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.11.mp3"
+        "reference": "1 Mose 11",
+        "updatedAt": "2023-07-17T21:34:13.204Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.11.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.13",
+            "number": "13"
+        },
+        "previous": {
+            "id": "GEN.11",
+            "number": "11"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.12",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:21.150Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:13.561Z",
         "number": "12",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:21.150Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.12.mp3"
+        "reference": "1 Mose 12",
+        "updatedAt": "2023-07-17T21:34:13.561Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.12.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.14",
+            "number": "14"
+        },
+        "previous": {
+            "id": "GEN.12",
+            "number": "12"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.13",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:21.408Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:14.071Z",
         "number": "13",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:21.409Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.13.mp3"
+        "reference": "1 Mose 13",
+        "updatedAt": "2023-07-17T21:34:14.071Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.13.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.15",
+            "number": "15"
+        },
+        "previous": {
+            "id": "GEN.13",
+            "number": "13"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.14",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:21.616Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:14.439Z",
         "number": "14",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:21.616Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.14.mp3"
+        "reference": "1 Mose 14",
+        "updatedAt": "2023-07-17T21:34:14.439Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.14.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.16",
+            "number": "16"
+        },
+        "previous": {
+            "id": "GEN.14",
+            "number": "14"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.15",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:21.844Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:14.853Z",
         "number": "15",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:21.844Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.15.mp3"
+        "reference": "1 Mose 15",
+        "updatedAt": "2023-07-17T21:34:14.853Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.15.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.17",
+            "number": "17"
+        },
+        "previous": {
+            "id": "GEN.15",
+            "number": "15"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.16",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:22.054Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:15.373Z",
         "number": "16",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:22.054Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.16.mp3"
+        "reference": "1 Mose 16",
+        "updatedAt": "2023-07-17T21:34:15.373Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.16.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.18",
+            "number": "18"
+        },
+        "previous": {
+            "id": "GEN.16",
+            "number": "16"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.17",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:22.267Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:15.948Z",
         "number": "17",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:22.267Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.17.mp3"
+        "reference": "1 Mose 17",
+        "updatedAt": "2023-07-17T21:34:15.948Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.17.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.19",
+            "number": "19"
+        },
+        "previous": {
+            "id": "GEN.17",
+            "number": "17"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.18",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:22.472Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:16.460Z",
         "number": "18",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:22.472Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.18.mp3"
+        "reference": "1 Mose 18",
+        "updatedAt": "2023-07-17T21:34:16.460Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.18.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.20",
+            "number": "20"
+        },
+        "previous": {
+            "id": "GEN.18",
+            "number": "18"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.19",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:22.956Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:17.033Z",
         "number": "19",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:22.956Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.19.mp3"
+        "reference": "1 Mose 19",
+        "updatedAt": "2023-07-17T21:34:17.033Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.19.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "GEN.1",
+            "number": "1"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.2",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:18.434Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:08.976Z",
         "number": "2",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:18.434Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.2.mp3"
+        "reference": "1 Mose 2",
+        "updatedAt": "2023-07-17T21:34:08.976Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.2.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.21",
+            "number": "21"
+        },
+        "previous": {
+            "id": "GEN.19",
+            "number": "19"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.20",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:23.294Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:17.799Z",
         "number": "20",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:23.294Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.20.mp3"
+        "reference": "1 Mose 20",
+        "updatedAt": "2023-07-17T21:34:17.799Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.20.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.22",
+            "number": "22"
+        },
+        "previous": {
+            "id": "GEN.20",
+            "number": "20"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.21",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:23.514Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:18.473Z",
         "number": "21",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:23.514Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.21.mp3"
+        "reference": "1 Mose 21",
+        "updatedAt": "2023-07-17T21:34:18.473Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.21.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.23",
+            "number": "23"
+        },
+        "previous": {
+            "id": "GEN.21",
+            "number": "21"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.22",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:23.676Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:19.042Z",
         "number": "22",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:23.676Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.22.mp3"
+        "reference": "1 Mose 22",
+        "updatedAt": "2023-07-17T21:34:19.042Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.22.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.24",
+            "number": "24"
+        },
+        "previous": {
+            "id": "GEN.22",
+            "number": "22"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.23",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:23.896Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:19.557Z",
         "number": "23",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:23.896Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.23.mp3"
+        "reference": "1 Mose 23",
+        "updatedAt": "2023-07-17T21:34:19.557Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.23.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.25",
+            "number": "25"
+        },
+        "previous": {
+            "id": "GEN.23",
+            "number": "23"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.24",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:24.210Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:20.028Z",
         "number": "24",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:24.210Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.24.mp3"
+        "reference": "1 Mose 24",
+        "updatedAt": "2023-07-17T21:34:20.028Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.24.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.26",
+            "number": "26"
+        },
+        "previous": {
+            "id": "GEN.24",
+            "number": "24"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.25",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:24.512Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:20.502Z",
         "number": "25",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:24.512Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.25.mp3"
+        "reference": "1 Mose 25",
+        "updatedAt": "2023-07-17T21:34:20.502Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.25.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.27",
+            "number": "27"
+        },
+        "previous": {
+            "id": "GEN.25",
+            "number": "25"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.26",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:24.683Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:21.168Z",
         "number": "26",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:24.683Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.26.mp3"
+        "reference": "1 Mose 26",
+        "updatedAt": "2023-07-17T21:34:21.168Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.26.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.28",
+            "number": "28"
+        },
+        "previous": {
+            "id": "GEN.26",
+            "number": "26"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.27",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:24.892Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:21.745Z",
         "number": "27",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:24.892Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.27.mp3"
+        "reference": "1 Mose 27",
+        "updatedAt": "2023-07-17T21:34:21.745Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.27.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.29",
+            "number": "29"
+        },
+        "previous": {
+            "id": "GEN.27",
+            "number": "27"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.28",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:25.137Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:22.514Z",
         "number": "28",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:25.137Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.28.mp3"
+        "reference": "1 Mose 28",
+        "updatedAt": "2023-07-17T21:34:22.515Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.28.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.30",
+            "number": "30"
+        },
+        "previous": {
+            "id": "GEN.28",
+            "number": "28"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.29",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:25.375Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:23.147Z",
         "number": "29",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:25.375Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.29.mp3"
+        "reference": "1 Mose 29",
+        "updatedAt": "2023-07-17T21:34:23.147Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.29.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "GEN.2",
+            "number": "2"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.3",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:18.707Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:09.499Z",
         "number": "3",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:18.707Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.3.mp3"
+        "reference": "1 Mose 3",
+        "updatedAt": "2023-07-17T21:34:09.499Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.3.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.31",
+            "number": "31"
+        },
+        "previous": {
+            "id": "GEN.29",
+            "number": "29"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.30",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:25.635Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:23.693Z",
         "number": "30",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:25.635Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.30.mp3"
+        "reference": "1 Mose 30",
+        "updatedAt": "2023-07-17T21:34:23.693Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.30.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.32",
+            "number": "32"
+        },
+        "previous": {
+            "id": "GEN.30",
+            "number": "30"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.31",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:25.895Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:24.162Z",
         "number": "31",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:25.895Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.31.mp3"
+        "reference": "1 Mose 31",
+        "updatedAt": "2023-07-17T21:34:24.162Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.31.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.33",
+            "number": "33"
+        },
+        "previous": {
+            "id": "GEN.31",
+            "number": "31"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.32",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:26.164Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:24.761Z",
         "number": "32",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:26.164Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.32.mp3"
+        "reference": "1 Mose 32",
+        "updatedAt": "2023-07-17T21:34:24.761Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.32.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.34",
+            "number": "34"
+        },
+        "previous": {
+            "id": "GEN.32",
+            "number": "32"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.33",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:26.365Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:25.521Z",
         "number": "33",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:26.365Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.33.mp3"
+        "reference": "1 Mose 33",
+        "updatedAt": "2023-07-17T21:34:25.521Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.33.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.35",
+            "number": "35"
+        },
+        "previous": {
+            "id": "GEN.33",
+            "number": "33"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.34",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:26.629Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:26.089Z",
         "number": "34",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:26.629Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.34.mp3"
+        "reference": "1 Mose 34",
+        "updatedAt": "2023-07-17T21:34:26.089Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.34.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.36",
+            "number": "36"
+        },
+        "previous": {
+            "id": "GEN.34",
+            "number": "34"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.35",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:26.824Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:26.590Z",
         "number": "35",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:26.824Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.35.mp3"
+        "reference": "1 Mose 35",
+        "updatedAt": "2023-07-17T21:34:26.590Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.35.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.37",
+            "number": "37"
+        },
+        "previous": {
+            "id": "GEN.35",
+            "number": "35"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.36",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:26.995Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:27.222Z",
         "number": "36",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:26.995Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.36.mp3"
+        "reference": "1 Mose 36",
+        "updatedAt": "2023-07-17T21:34:27.222Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.36.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.38",
+            "number": "38"
+        },
+        "previous": {
+            "id": "GEN.36",
+            "number": "36"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.37",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:27.458Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:27.705Z",
         "number": "37",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:27.458Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.37.mp3"
+        "reference": "1 Mose 37",
+        "updatedAt": "2023-07-17T21:34:27.705Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.37.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.39",
+            "number": "39"
+        },
+        "previous": {
+            "id": "GEN.37",
+            "number": "37"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.38",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:27.696Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:28.414Z",
         "number": "38",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:27.696Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.38.mp3"
+        "reference": "1 Mose 38",
+        "updatedAt": "2023-07-17T21:34:28.414Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.38.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.40",
+            "number": "40"
+        },
+        "previous": {
+            "id": "GEN.38",
+            "number": "38"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.39",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:27.917Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:29.038Z",
         "number": "39",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:27.917Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.39.mp3"
+        "reference": "1 Mose 39",
+        "updatedAt": "2023-07-17T21:34:29.038Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.39.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "GEN.3",
+            "number": "3"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.4",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:18.976Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:09.908Z",
         "number": "4",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:18.976Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.4.mp3"
+        "reference": "1 Mose 4",
+        "updatedAt": "2023-07-17T21:34:09.908Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.4.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.41",
+            "number": "41"
+        },
+        "previous": {
+            "id": "GEN.39",
+            "number": "39"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.40",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:28.127Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:29.524Z",
         "number": "40",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:28.127Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.40.mp3"
+        "reference": "1 Mose 40",
+        "updatedAt": "2023-07-17T21:34:29.524Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.40.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.42",
+            "number": "42"
+        },
+        "previous": {
+            "id": "GEN.40",
+            "number": "40"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.41",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:28.331Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:30.143Z",
         "number": "41",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:28.331Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.41.mp3"
+        "reference": "1 Mose 41",
+        "updatedAt": "2023-07-17T21:34:30.143Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.41.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.43",
+            "number": "43"
+        },
+        "previous": {
+            "id": "GEN.41",
+            "number": "41"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.42",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:28.519Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:30.719Z",
         "number": "42",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:28.519Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.42.mp3"
+        "reference": "1 Mose 42",
+        "updatedAt": "2023-07-17T21:34:30.719Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.42.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.44",
+            "number": "44"
+        },
+        "previous": {
+            "id": "GEN.42",
+            "number": "42"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.43",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:28.753Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:31.251Z",
         "number": "43",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:28.753Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.43.mp3"
+        "reference": "1 Mose 43",
+        "updatedAt": "2023-07-17T21:34:31.251Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.43.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.45",
+            "number": "45"
+        },
+        "previous": {
+            "id": "GEN.43",
+            "number": "43"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.44",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:28.950Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:31.864Z",
         "number": "44",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:28.951Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.44.mp3"
+        "reference": "1 Mose 44",
+        "updatedAt": "2023-07-17T21:34:31.864Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.44.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.46",
+            "number": "46"
+        },
+        "previous": {
+            "id": "GEN.44",
+            "number": "44"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.45",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:29.158Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:32.360Z",
         "number": "45",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:29.158Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.45.mp3"
+        "reference": "1 Mose 45",
+        "updatedAt": "2023-07-17T21:34:32.360Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.45.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.47",
+            "number": "47"
+        },
+        "previous": {
+            "id": "GEN.45",
+            "number": "45"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.46",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:29.369Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:32.920Z",
         "number": "46",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:29.370Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.46.mp3"
+        "reference": "1 Mose 46",
+        "updatedAt": "2023-07-17T21:34:32.920Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.46.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.48",
+            "number": "48"
+        },
+        "previous": {
+            "id": "GEN.46",
+            "number": "46"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.47",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:29.617Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:33.589Z",
         "number": "47",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:29.617Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.47.mp3"
+        "reference": "1 Mose 47",
+        "updatedAt": "2023-07-17T21:34:33.589Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.47.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.49",
+            "number": "49"
+        },
+        "previous": {
+            "id": "GEN.47",
+            "number": "47"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.48",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:29.839Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:34.092Z",
         "number": "48",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:29.839Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.48.mp3"
+        "reference": "1 Mose 48",
+        "updatedAt": "2023-07-17T21:34:34.092Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.48.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.50",
+            "number": "50"
+        },
+        "previous": {
+            "id": "GEN.48",
+            "number": "48"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.49",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:30.100Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:34.555Z",
         "number": "49",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:30.100Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.49.mp3"
+        "reference": "1 Mose 49",
+        "updatedAt": "2023-07-17T21:34:34.555Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.49.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "GEN.4",
+            "number": "4"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.5",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:19.188Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:10.399Z",
         "number": "5",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:19.188Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.5.mp3"
+        "reference": "1 Mose 5",
+        "updatedAt": "2023-07-17T21:34:10.399Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.5.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "EXO.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "GEN.49",
+            "number": "49"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.50",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:30.314Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:35.242Z",
         "number": "50",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:30.314Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.50.mp3"
+        "reference": "1 Mose 50",
+        "updatedAt": "2023-07-17T21:34:35.242Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.50.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "GEN.5",
+            "number": "5"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.6",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:19.483Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:10.854Z",
         "number": "6",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:19.483Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.6.mp3"
+        "reference": "1 Mose 6",
+        "updatedAt": "2023-07-17T21:34:10.854Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.6.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "GEN.6",
+            "number": "6"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.7",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:19.843Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:11.296Z",
         "number": "7",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:19.843Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.7.mp3"
+        "reference": "1 Mose 7",
+        "updatedAt": "2023-07-17T21:34:11.296Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.7.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "GEN.7",
+            "number": "7"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.8",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:20.196Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:11.749Z",
         "number": "8",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:20.196Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.8.mp3"
+        "reference": "1 Mose 8",
+        "updatedAt": "2023-07-17T21:34:11.749Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.8.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "GEN.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "GEN.8",
+            "number": "8"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "GEN.9",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "GEN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:28:20.456Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:34:12.205Z",
         "number": "9",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:28:20.456Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/GEN/GEN.9.mp3"
+        "reference": "1 Mose 9",
+        "updatedAt": "2023-07-17T21:34:12.205Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/GEN/GEN.9.mp3"
     }
 ]

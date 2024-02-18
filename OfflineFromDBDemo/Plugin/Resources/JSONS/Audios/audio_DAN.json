@@ -1,146 +1,230 @@
 [
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "DAN.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "EZK.48",
+            "number": "48"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "DAN.1",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "DAN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:32:06.257Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:40:21.740Z",
         "number": "1",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:32:06.257Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/DAN/DAN.1.mp3"
+        "reference": "Daniel 1",
+        "updatedAt": "2023-07-17T21:40:21.740Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/DAN/DAN.1.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "DAN.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "DAN.9",
+            "number": "9"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "DAN.10",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "DAN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:32:08.487Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:40:25.177Z",
         "number": "10",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:32:08.487Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/DAN/DAN.10.mp3"
+        "reference": "Daniel 10",
+        "updatedAt": "2023-07-17T21:40:25.177Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/DAN/DAN.10.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "DAN.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "DAN.10",
+            "number": "10"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "DAN.11",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "DAN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:32:08.756Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:40:25.557Z",
         "number": "11",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:32:08.756Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/DAN/DAN.11.mp3"
+        "reference": "Daniel 11",
+        "updatedAt": "2023-07-17T21:40:25.557Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/DAN/DAN.11.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "HOS.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "DAN.11",
+            "number": "11"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "DAN.12",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "DAN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:32:08.977Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:40:25.969Z",
         "number": "12",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:32:08.977Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/DAN/DAN.12.mp3"
+        "reference": "Daniel 12",
+        "updatedAt": "2023-07-17T21:40:25.969Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/DAN/DAN.12.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "DAN.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "DAN.1",
+            "number": "1"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "DAN.2",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "DAN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:32:06.432Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:40:22.115Z",
         "number": "2",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:32:06.432Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/DAN/DAN.2.mp3"
+        "reference": "Daniel 2",
+        "updatedAt": "2023-07-17T21:40:22.115Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/DAN/DAN.2.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "DAN.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "DAN.2",
+            "number": "2"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "DAN.3",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "DAN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:32:06.920Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:40:22.512Z",
         "number": "3",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:32:06.920Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/DAN/DAN.3.mp3"
+        "reference": "Daniel 3",
+        "updatedAt": "2023-07-17T21:40:22.512Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/DAN/DAN.3.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "DAN.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "DAN.3",
+            "number": "3"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "DAN.4",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "DAN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:32:07.145Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:40:22.912Z",
         "number": "4",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:32:07.145Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/DAN/DAN.4.mp3"
+        "reference": "Daniel 4",
+        "updatedAt": "2023-07-17T21:40:22.912Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/DAN/DAN.4.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "DAN.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "DAN.4",
+            "number": "4"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "DAN.5",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "DAN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:32:07.378Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:40:23.292Z",
         "number": "5",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:32:07.378Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/DAN/DAN.5.mp3"
+        "reference": "Daniel 5",
+        "updatedAt": "2023-07-17T21:40:23.292Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/DAN/DAN.5.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "DAN.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "DAN.5",
+            "number": "5"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "DAN.6",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "DAN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:32:07.612Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:40:23.649Z",
         "number": "6",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:32:07.612Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/DAN/DAN.6.mp3"
+        "reference": "Daniel 6",
+        "updatedAt": "2023-07-17T21:40:23.649Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/DAN/DAN.6.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "DAN.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "DAN.6",
+            "number": "6"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "DAN.7",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "DAN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:32:07.856Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:40:24.039Z",
         "number": "7",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:32:07.856Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/DAN/DAN.7.mp3"
+        "reference": "Daniel 7",
+        "updatedAt": "2023-07-17T21:40:24.039Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/DAN/DAN.7.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "DAN.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "DAN.7",
+            "number": "7"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "DAN.8",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "DAN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:32:08.061Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:40:24.394Z",
         "number": "8",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:32:08.061Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/DAN/DAN.8.mp3"
+        "reference": "Daniel 8",
+        "updatedAt": "2023-07-17T21:40:24.394Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/DAN/DAN.8.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "DAN.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "DAN.8",
+            "number": "8"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "DAN.9",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "DAN",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:32:08.283Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:40:24.789Z",
         "number": "9",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:32:08.283Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/DAN/DAN.9.mp3"
+        "reference": "Daniel 9",
+        "updatedAt": "2023-07-17T21:40:24.789Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/DAN/DAN.9.mp3"
     }
 ]

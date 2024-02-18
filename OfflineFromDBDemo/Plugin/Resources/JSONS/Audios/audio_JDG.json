@@ -1,254 +1,401 @@
 [
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "JOS.24",
+            "number": "24"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.1",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:11.210Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:46.389Z",
         "number": "1",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:11.210Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.1.mp3"
+        "reference": "Atemmufoɔ 1",
+        "updatedAt": "2023-07-17T21:35:46.389Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.1.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "JDG.9",
+            "number": "9"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.10",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:13.605Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:50.716Z",
         "number": "10",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:13.605Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.10.mp3"
+        "reference": "Atemmufoɔ 10",
+        "updatedAt": "2023-07-17T21:35:50.716Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.10.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "JDG.10",
+            "number": "10"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.11",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:13.839Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:51.121Z",
         "number": "11",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:13.839Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.11.mp3"
+        "reference": "Atemmufoɔ 11",
+        "updatedAt": "2023-07-17T21:35:51.121Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.11.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.13",
+            "number": "13"
+        },
+        "previous": {
+            "id": "JDG.11",
+            "number": "11"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.12",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:14.049Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:51.511Z",
         "number": "12",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:14.049Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.12.mp3"
+        "reference": "Atemmufoɔ 12",
+        "updatedAt": "2023-07-17T21:35:51.511Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.12.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.14",
+            "number": "14"
+        },
+        "previous": {
+            "id": "JDG.12",
+            "number": "12"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.13",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:14.400Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:51.877Z",
         "number": "13",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:14.400Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.13.mp3"
+        "reference": "Atemmufoɔ 13",
+        "updatedAt": "2023-07-17T21:35:51.877Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.13.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.15",
+            "number": "15"
+        },
+        "previous": {
+            "id": "JDG.13",
+            "number": "13"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.14",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:14.720Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:52.348Z",
         "number": "14",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:14.720Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.14.mp3"
+        "reference": "Atemmufoɔ 14",
+        "updatedAt": "2023-07-17T21:35:52.348Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.14.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.16",
+            "number": "16"
+        },
+        "previous": {
+            "id": "JDG.14",
+            "number": "14"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.15",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:14.978Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:52.712Z",
         "number": "15",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:14.978Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.15.mp3"
+        "reference": "Atemmufoɔ 15",
+        "updatedAt": "2023-07-17T21:35:52.712Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.15.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.17",
+            "number": "17"
+        },
+        "previous": {
+            "id": "JDG.15",
+            "number": "15"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.16",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:15.255Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:53.096Z",
         "number": "16",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:15.255Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.16.mp3"
+        "reference": "Atemmufoɔ 16",
+        "updatedAt": "2023-07-17T21:35:53.096Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.16.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.18",
+            "number": "18"
+        },
+        "previous": {
+            "id": "JDG.16",
+            "number": "16"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.17",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:15.657Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:53.492Z",
         "number": "17",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:15.657Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.17.mp3"
+        "reference": "Atemmufoɔ 17",
+        "updatedAt": "2023-07-17T21:35:53.492Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.17.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.19",
+            "number": "19"
+        },
+        "previous": {
+            "id": "JDG.17",
+            "number": "17"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.18",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:15.978Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:53.901Z",
         "number": "18",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:15.978Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.18.mp3"
+        "reference": "Atemmufoɔ 18",
+        "updatedAt": "2023-07-17T21:35:53.901Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.18.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.20",
+            "number": "20"
+        },
+        "previous": {
+            "id": "JDG.18",
+            "number": "18"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.19",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:16.292Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:54.294Z",
         "number": "19",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:16.292Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.19.mp3"
+        "reference": "Atemmufoɔ 19",
+        "updatedAt": "2023-07-17T21:35:54.294Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.19.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "JDG.1",
+            "number": "1"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.2",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:11.464Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:46.831Z",
         "number": "2",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:11.464Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.2.mp3"
+        "reference": "Atemmufoɔ 2",
+        "updatedAt": "2023-07-17T21:35:46.831Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.2.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.21",
+            "number": "21"
+        },
+        "previous": {
+            "id": "JDG.19",
+            "number": "19"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.20",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:16.586Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:54.693Z",
         "number": "20",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:16.586Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.20.mp3"
+        "reference": "Atemmufoɔ 20",
+        "updatedAt": "2023-07-17T21:35:54.693Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.20.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "RUT.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "JDG.20",
+            "number": "20"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.21",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:16.917Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:55.093Z",
         "number": "21",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:16.917Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.21.mp3"
+        "reference": "Atemmufoɔ 21",
+        "updatedAt": "2023-07-17T21:35:55.093Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.21.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "JDG.2",
+            "number": "2"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.3",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:11.729Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:47.228Z",
         "number": "3",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:11.729Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.3.mp3"
+        "reference": "Atemmufoɔ 3",
+        "updatedAt": "2023-07-17T21:35:47.228Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.3.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "JDG.3",
+            "number": "3"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.4",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:11.893Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:47.687Z",
         "number": "4",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:11.893Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.4.mp3"
+        "reference": "Atemmufoɔ 4",
+        "updatedAt": "2023-07-17T21:35:47.687Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.4.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "JDG.4",
+            "number": "4"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.5",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:12.121Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:48.160Z",
         "number": "5",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:12.121Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.5.mp3"
+        "reference": "Atemmufoɔ 5",
+        "updatedAt": "2023-07-17T21:35:48.160Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.5.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "JDG.5",
+            "number": "5"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.6",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:12.322Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:48.646Z",
         "number": "6",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:12.322Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.6.mp3"
+        "reference": "Atemmufoɔ 6",
+        "updatedAt": "2023-07-17T21:35:48.646Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.6.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "JDG.6",
+            "number": "6"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.7",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:12.928Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:49.153Z",
         "number": "7",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:12.928Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.7.mp3"
+        "reference": "Atemmufoɔ 7",
+        "updatedAt": "2023-07-17T21:35:49.153Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.7.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "JDG.7",
+            "number": "7"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.8",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:13.145Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:49.717Z",
         "number": "8",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:13.145Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.8.mp3"
+        "reference": "Atemmufoɔ 8",
+        "updatedAt": "2023-07-17T21:35:49.717Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.8.mp3"
     },
     {
-        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "next": {
+            "id": "JDG.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "JDG.8",
+            "number": "8"
+        },
+        "bibleId": "03d2ea6f8f7c4a19-01",
         "id": "JDG.9",
-        "audioBible": "6500aa62d5af31b9509102c2",
         "bookId": "JDG",
-        "copyright": "",
-        "createdAt": "2023-09-12T18:29:13.374Z",
+        "copyright": "Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™, Deɛ Wɔtie Owurayɛ Tumi © 2021. Biblica, Inc. ne Davar Partners International na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™, Audio Edition Copyright © 2021 by Biblica, Inc. and Davar Partners International Biblica® Wɔnhia ɛho kwamma nwoma Asante Twi Nkwa Asɛm™ Owurayɛ Tumi © 1996, 2020. Biblica, Inc. na wɔde ma. Biblica® Open Asante Twi Contemporary Bible™ Copyright © 1996, 2020 by Biblica, Inc. “Biblica” yɛ ahyɛnsodeɛ a Biblica Inc. akɔgye afiri United States Patent and Trademark Office de hyɛ wɔn nneɛma ahodoɔ nso. Gye sɛ Biblica Inc. ma wo ho ɛkwan ansa na woatumi de adi dwuma. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-07-17T21:35:50.324Z",
         "number": "9",
-        "reference": "",
-        "updatedAt": "2023-09-12T18:29:13.374Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JDG/JDG.9.mp3"
+        "reference": "Atemmufoɔ 9",
+        "updatedAt": "2023-07-17T21:35:50.324Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/03d2ea6f8f7c4a19-01/JDG/JDG.9.mp3"
     }
 ]
