@@ -1,0 +1,59 @@
+[
+    {
+        "next": {
+            "id": "JOL.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "HOS.14",
+            "number": "14"
+        },
+        "bibleId": "04308387908b41f0-01",
+        "id": "JOL.1",
+        "bookId": "JOL",
+        "copyright": "Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™, Bugun Abin da ake sauraroNeman izinin Abin sauraro ℗ 2020 ta hannun Biblica, Inc. da Davar Partners International Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™Neman RubutaccenIzini © 2009, 2020 ta hannun Biblica, Inc. Biblica® Open Hausa Contemporary Bible™, Audio Edition Copyright ℗ 2020 by Biblica, Inc. and Davar Partners International Biblica® Open Hausa Contemporary Bible™ Copyright © 2009, 2020 by Biblica, Inc. “Biblica” wani tambarin ne da aka yi wa rajista a ofishi Lamba Ƙerar da Tambari a Amurka ta hannun Biblica, Inc. Wanda aka yi amfani ta wurin samun izini. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-03-21T18:43:30.815Z",
+        "number": "1",
+        "reference": "Jol 1",
+        "updatedAt": "2023-03-21T18:43:30.815Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/04308387908b41f0-01/JOL/JOL.1.mp3"
+    },
+    {
+        "next": {
+            "id": "JOL.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "JOL.1",
+            "number": "1"
+        },
+        "bibleId": "04308387908b41f0-01",
+        "id": "JOL.2",
+        "bookId": "JOL",
+        "copyright": "Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™, Bugun Abin da ake sauraroNeman izinin Abin sauraro ℗ 2020 ta hannun Biblica, Inc. da Davar Partners International Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™Neman RubutaccenIzini © 2009, 2020 ta hannun Biblica, Inc. Biblica® Open Hausa Contemporary Bible™, Audio Edition Copyright ℗ 2020 by Biblica, Inc. and Davar Partners International Biblica® Open Hausa Contemporary Bible™ Copyright © 2009, 2020 by Biblica, Inc. “Biblica” wani tambarin ne da aka yi wa rajista a ofishi Lamba Ƙerar da Tambari a Amurka ta hannun Biblica, Inc. Wanda aka yi amfani ta wurin samun izini. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-03-21T18:43:31.239Z",
+        "number": "2",
+        "reference": "Jol 2",
+        "updatedAt": "2023-03-21T18:43:31.239Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/04308387908b41f0-01/JOL/JOL.2.mp3"
+    },
+    {
+        "next": {
+            "id": "AMO.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "JOL.2",
+            "number": "2"
+        },
+        "bibleId": "04308387908b41f0-01",
+        "id": "JOL.3",
+        "bookId": "JOL",
+        "copyright": "Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™, Bugun Abin da ake sauraroNeman izinin Abin sauraro ℗ 2020 ta hannun Biblica, Inc. da Davar Partners International Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™Neman RubutaccenIzini © 2009, 2020 ta hannun Biblica, Inc. Biblica® Open Hausa Contemporary Bible™, Audio Edition Copyright ℗ 2020 by Biblica, Inc. and Davar Partners International Biblica® Open Hausa Contemporary Bible™ Copyright © 2009, 2020 by Biblica, Inc. “Biblica” wani tambarin ne da aka yi wa rajista a ofishi Lamba Ƙerar da Tambari a Amurka ta hannun Biblica, Inc. Wanda aka yi amfani ta wurin samun izini. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-03-21T18:43:31.711Z",
+        "number": "3",
+        "reference": "Jol 3",
+        "updatedAt": "2023-03-21T18:43:31.711Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/04308387908b41f0-01/JOL/JOL.3.mp3"
+    }
+]

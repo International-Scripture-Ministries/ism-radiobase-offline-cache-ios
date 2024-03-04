@@ -1,0 +1,40 @@
+[
+    {
+        "next": {
+            "id": "HAG.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "ZEP.3",
+            "number": "3"
+        },
+        "bibleId": "04308387908b41f0-01",
+        "id": "HAG.1",
+        "bookId": "HAG",
+        "copyright": "Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™, Bugun Abin da ake sauraroNeman izinin Abin sauraro ℗ 2020 ta hannun Biblica, Inc. da Davar Partners International Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™Neman RubutaccenIzini © 2009, 2020 ta hannun Biblica, Inc. Biblica® Open Hausa Contemporary Bible™, Audio Edition Copyright ℗ 2020 by Biblica, Inc. and Davar Partners International Biblica® Open Hausa Contemporary Bible™ Copyright © 2009, 2020 by Biblica, Inc. “Biblica” wani tambarin ne da aka yi wa rajista a ofishi Lamba Ƙerar da Tambari a Amurka ta hannun Biblica, Inc. Wanda aka yi amfani ta wurin samun izini. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-03-21T18:43:46.750Z",
+        "number": "1",
+        "reference": "Hag 1",
+        "updatedAt": "2023-03-21T18:43:46.750Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/04308387908b41f0-01/HAG/HAG.1.mp3"
+    },
+    {
+        "next": {
+            "id": "ZEC.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "HAG.1",
+            "number": "1"
+        },
+        "bibleId": "04308387908b41f0-01",
+        "id": "HAG.2",
+        "bookId": "HAG",
+        "copyright": "Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™, Bugun Abin da ake sauraroNeman izinin Abin sauraro ℗ 2020 ta hannun Biblica, Inc. da Davar Partners International Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™Neman RubutaccenIzini © 2009, 2020 ta hannun Biblica, Inc. Biblica® Open Hausa Contemporary Bible™, Audio Edition Copyright ℗ 2020 by Biblica, Inc. and Davar Partners International Biblica® Open Hausa Contemporary Bible™ Copyright © 2009, 2020 by Biblica, Inc. “Biblica” wani tambarin ne da aka yi wa rajista a ofishi Lamba Ƙerar da Tambari a Amurka ta hannun Biblica, Inc. Wanda aka yi amfani ta wurin samun izini. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
+        "createdAt": "2023-03-21T18:43:47.146Z",
+        "number": "2",
+        "reference": "Hag 2",
+        "updatedAt": "2023-03-21T18:43:47.146Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/04308387908b41f0-01/HAG/HAG.2.mp3"
+    }
+]

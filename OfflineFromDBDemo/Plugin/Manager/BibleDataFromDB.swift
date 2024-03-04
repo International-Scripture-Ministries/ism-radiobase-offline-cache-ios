@@ -475,7 +475,7 @@ extension BibleDataManager {
         print("Create DB from local JSON files --> Completed")
         print("End Time: \(end)")
         print("Difference: \(end.timeIntervalSince(start)) seconds")
-
+        
         print("-----------")
         print("DB PATH: \(String(describing: Realm.Configuration.defaultConfiguration.fileURL))")
         print("-----------")
@@ -511,44 +511,46 @@ extension BibleDataManager {
             
             let verseFileNames = books.map { $0.id }
             let audioFileNames = books.map { Constants.audiosJsonFilePrefix + $0.id }
-            
+            let extraTeachings = books.map { Constants.extraTeachingsJsonFilePrefix + $0.id }
+
             self.createVersesInDB(files: verseFileNames)
-            self.createAudiosInDB(files: audioFileNames)
+            self.createAudiosInDB(files: extraTeachings)
+            self.addRemainingTeachingsInDB(files: extraTeachings)
         }
     }
-
-//    func addHardcodedTeachingInDB(files: [String]) {
-//        
-//        print("-----------")
-//        print("Total hardcoded Json files count: \(files.count)")
-//        print("-----------")
-//        
-//        files.forEach { name in
-//            if let path = self.bundle.path(forResource: name, ofType: "json") {
-//                guard let data = try? Data(contentsOf: URL(fileURLWithPath: path), options: .mappedIfSafe) else {
-//                    print("Unable to find file in bundle resources")
-//                    return
-//                }
-//                guard let jsonObject = try? JSONSerialization.jsonObject(with: data, options: .mutableLeaves) as? [String:Any] else {
-//                    print("Unable to get JSON from file \(name).json")
-//                    return
-//                }
-//                
-//                guard let teachingJson = jsonObject as? [String:Any] else {
-//                    print("Unable to get verses json array")
-//                    return
-//                }
-//                if let teaching: Teaching = Mapper<Teaching>().map(JSON: teachingJson) {
-//                    print("Writting Teaching for \(teaching.uuid) -- Started")
-//                    try! realm.write {
-//                        realm.add(teaching)
-//                    }
-//                    print("Writting Teaching \(teaching.uuid) -- Completed")
-//                }
-//            }
-//        }
-//    }
-        
+    
+    //    func addHardcodedTeachingInDB(files: [String]) {
+    //
+    //        print("-----------")
+    //        print("Total hardcoded Json files count: \(files.count)")
+    //        print("-----------")
+    //
+    //        files.forEach { name in
+    //            if let path = self.bundle.path(forResource: name, ofType: "json") {
+    //                guard let data = try? Data(contentsOf: URL(fileURLWithPath: path), options: .mappedIfSafe) else {
+    //                    print("Unable to find file in bundle resources")
+    //                    return
+    //                }
+    //                guard let jsonObject = try? JSONSerialization.jsonObject(with: data, options: .mutableLeaves) as? [String:Any] else {
+    //                    print("Unable to get JSON from file \(name).json")
+    //                    return
+    //                }
+    //
+    //                guard let teachingJson = jsonObject as? [String:Any] else {
+    //                    print("Unable to get verses json array")
+    //                    return
+    //                }
+    //                if let teaching: Teaching = Mapper<Teaching>().map(JSON: teachingJson) {
+    //                    print("Writting Teaching for \(teaching.uuid) -- Started")
+    //                    try! realm.write {
+    //                        realm.add(teaching)
+    //                    }
+    //                    print("Writting Teaching \(teaching.uuid) -- Completed")
+    //                }
+    //            }
+    //        }
+    //    }
+    
     func createVersesInDB(files: [String]) {
         
         print("-----------")
@@ -601,7 +603,7 @@ extension BibleDataManager {
                     print("Unable to get audios json array")
                     return
                 }
-
+                
                 let audios: [Audio] = Mapper<Audio>().mapArray(JSONArray: audiosJson)
                 print("-----------")
                 print("Audios count: \(audios.count)")
@@ -614,6 +616,50 @@ extension BibleDataManager {
                     }
                 }
                 print("Writting Audios for \(name) -- Completed")
+            }
+        }
+    }
+    
+    func addRemainingTeachingsInDB(files: [String]) {
+        
+        print("-----------")
+        print("Total extra teachings Json files count: \(files.count)")
+        print("-----------")
+        
+        
+        files.forEach { name in
+            if let path = self.bundle.path(forResource: name, ofType: "json") {
+                guard let data = try? Data(contentsOf: URL(fileURLWithPath: path), options: .mappedIfSafe) else {
+                    print("Unable to find file in bundle resources")
+                    return
+                }
+                guard let teachingsJson = try? JSONSerialization.jsonObject(with: data, options: .mutableLeaves) as? Array<[String:Any]> else {
+                    print("Unable to get JSON from file \(name).json")
+                    print("Unable to get teachings json array")
+                    return
+                }
+
+                let teachings: [Teaching] = Mapper<Teaching>().mapArray(JSONArray: teachingsJson)
+                let alreadySavedTeachings = self.realm.objects(Teaching.self)
+                print("-----------")
+                print("teachings count: \(teachings.count) for file: \(name)")
+                print("alreadySavedTeachings count: \(alreadySavedTeachings.count)")
+                print("-----------")
+
+                
+                print("Writting teachings for \(name) -- Started")
+                teachings.forEach { teaching in
+                    let isAlreadySaved = alreadySavedTeachings.contains { alreadySavedTeaching in
+                        alreadySavedTeaching.uuid == teaching.uuid
+                    }
+                    if !isAlreadySaved {
+                        try! realm.write {
+                            realm.add(teaching)
+                            print("adding a new entry for file \(name) with uuid: \(teaching.uuid)")
+                        }
+                    }
+                }
+                print("Writting extra teachings for \(name) -- Completed")
             }
         }
     }
