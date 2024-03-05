@@ -1,21 +1,14 @@
 [
     {
-        "next": {
-            "id": "JUD.1",
-            "number": "1"
-        },
-        "previous": {
-            "id": "2JN.1",
-            "number": "1"
-        },
-        "bibleId": "04308387908b41f0-01",
+        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
         "id": "3JN.1",
+        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "3JN",
-        "copyright": "Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™, Bugun Abin da ake sauraroNeman izinin Abin sauraro ℗ 2020 ta hannun Biblica, Inc. da Davar Partners International Biblica® Buɗaɗɗen Littafi Mai Tsarki, Sabon Rai Don Kowa™Neman RubutaccenIzini © 2009, 2020 ta hannun Biblica, Inc. Biblica® Open Hausa Contemporary Bible™, Audio Edition Copyright ℗ 2020 by Biblica, Inc. and Davar Partners International Biblica® Open Hausa Contemporary Bible™ Copyright © 2009, 2020 by Biblica, Inc. “Biblica” wani tambarin ne da aka yi wa rajista a ofishi Lamba Ƙerar da Tambari a Amurka ta hannun Biblica, Inc. Wanda aka yi amfani ta wurin samun izini. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
-        "createdAt": "2023-03-21T18:45:57.801Z",
+        "copyright": "",
+        "createdAt": "2023-02-22T15:35:03.101Z",
         "number": "1",
-        "reference": "3Jn 1",
-        "updatedAt": "2023-03-21T18:45:57.801Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/04308387908b41f0-01/3JN/3JN.1.mp3"
+        "reference": "",
+        "updatedAt": "2023-02-22T15:35:03.101Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/3JN/3JN.1.mp3"
     }
 ]
