@@ -1,0 +1,50 @@
+[
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "MAL.1",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "MAL",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:26.513Z",
+        "number": "1",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:26.513Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/MAL/MAL.1.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "MAL.2",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "MAL",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:26.786Z",
+        "number": "2",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:26.786Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/MAL/MAL.2.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "MAL.3",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "MAL",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:27.281Z",
+        "number": "3",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:27.281Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/MAL/MAL.3.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "MAL.4",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "MAL",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:27.523Z",
+        "number": "4",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:27.523Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/MAL/MAL.4.mp3"
+    }
+]

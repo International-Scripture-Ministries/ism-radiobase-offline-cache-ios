@@ -1,0 +1,50 @@
+[
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "PHP.1",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "PHP",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:29:24.510Z",
+        "number": "1",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:29:24.510Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/PHP/PHP.1.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "PHP.2",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "PHP",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:29:24.918Z",
+        "number": "2",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:29:24.918Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/PHP/PHP.2.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "PHP.3",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "PHP",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:29:25.173Z",
+        "number": "3",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:29:25.173Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/PHP/PHP.3.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "PHP.4",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "PHP",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:29:25.385Z",
+        "number": "4",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:29:25.385Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/PHP/PHP.4.mp3"
+    }
+]

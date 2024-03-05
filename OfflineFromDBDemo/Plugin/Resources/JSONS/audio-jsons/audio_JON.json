@@ -1,0 +1,50 @@
+[
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "JON.1",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "JON",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:15.945Z",
+        "number": "1",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:15.945Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JON/JON.1.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "JON.2",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "JON",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:16.235Z",
+        "number": "2",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:16.235Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JON/JON.2.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "JON.3",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "JON",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:16.485Z",
+        "number": "3",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:16.485Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JON/JON.3.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "JON.4",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "JON",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:32:16.757Z",
+        "number": "4",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:32:16.757Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/JON/JON.4.mp3"
+    }
+]

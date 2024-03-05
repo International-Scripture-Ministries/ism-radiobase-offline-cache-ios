@@ -1,0 +1,62 @@
+[
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "1JN.1",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "1JN",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:29:37.257Z",
+        "number": "1",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:29:37.257Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/1JN/1JN.1.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "1JN.2",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "1JN",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:29:37.469Z",
+        "number": "2",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:29:37.469Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/1JN/1JN.2.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "1JN.3",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "1JN",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:29:37.636Z",
+        "number": "3",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:29:37.636Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/1JN/1JN.3.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "1JN.4",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "1JN",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:29:37.830Z",
+        "number": "4",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:29:37.830Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/1JN/1JN.4.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "1JN.5",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "1JN",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:29:38.075Z",
+        "number": "5",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:29:38.075Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/1JN/1JN.5.mp3"
+    }
+]

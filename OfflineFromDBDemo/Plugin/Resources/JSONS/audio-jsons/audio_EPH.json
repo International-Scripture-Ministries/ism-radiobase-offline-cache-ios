@@ -1,0 +1,74 @@
+[
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "EPH.1",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "EPH",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:29:23.377Z",
+        "number": "1",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:29:23.377Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/EPH/EPH.1.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "EPH.2",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "EPH",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:29:23.543Z",
+        "number": "2",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:29:23.543Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/EPH/EPH.2.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "EPH.3",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "EPH",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:29:23.726Z",
+        "number": "3",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:29:23.726Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/EPH/EPH.3.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "EPH.4",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "EPH",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:29:23.901Z",
+        "number": "4",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:29:23.901Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/EPH/EPH.4.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "EPH.5",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "EPH",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:29:24.044Z",
+        "number": "5",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:29:24.044Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/EPH/EPH.5.mp3"
+    },
+    {
+        "bibleId": "99e441f6-c69f-43e5-b648-fb6d98a4b2f6",
+        "id": "EPH.6",
+        "audioBible": "6500aa62d5af31b9509102c2",
+        "bookId": "EPH",
+        "copyright": "",
+        "createdAt": "2023-09-12T18:29:24.223Z",
+        "number": "6",
+        "reference": "",
+        "updatedAt": "2023-09-12T18:29:24.223Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/99e441f6-c69f-43e5-b648-fb6d98a4b2f6/EPH/EPH.6.mp3"
+    }
+]
