@@ -8,16 +8,16 @@
             "id": "OBA.1",
             "number": "1"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "JON.1",
         "bookId": "JON",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:55:22.796Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:45:56.953Z",
         "number": "1",
-        "reference": "요나 1",
-        "updatedAt": "2023-03-01T17:55:22.796Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JON/JON.1.mp3"
+        "reference": "Jonah 1",
+        "updatedAt": "2022-06-02T15:45:56.953Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JON/JON.1.mp3"
     },
     {
         "next": {
@@ -28,16 +28,16 @@
             "id": "JON.1",
             "number": "1"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "JON.2",
         "bookId": "JON",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:55:23.238Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:45:57.246Z",
         "number": "2",
-        "reference": "요나 2",
-        "updatedAt": "2023-03-01T17:55:23.238Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JON/JON.2.mp3"
+        "reference": "Jonah 2",
+        "updatedAt": "2022-06-02T15:45:57.246Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JON/JON.2.mp3"
     },
     {
         "next": {
@@ -48,16 +48,16 @@
             "id": "JON.2",
             "number": "2"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "JON.3",
         "bookId": "JON",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:55:23.634Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:45:57.493Z",
         "number": "3",
-        "reference": "요나 3",
-        "updatedAt": "2023-03-01T17:55:23.635Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JON/JON.3.mp3"
+        "reference": "Jonah 3",
+        "updatedAt": "2022-06-02T15:45:57.493Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JON/JON.3.mp3"
     },
     {
         "next": {
@@ -68,15 +68,15 @@
             "id": "JON.3",
             "number": "3"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "JON.4",
         "bookId": "JON",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:55:24.008Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:45:57.743Z",
         "number": "4",
-        "reference": "요나 4",
-        "updatedAt": "2023-03-01T17:55:24.008Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JON/JON.4.mp3"
+        "reference": "Jonah 4",
+        "updatedAt": "2022-06-02T15:45:57.743Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JON/JON.4.mp3"
     }
 ]

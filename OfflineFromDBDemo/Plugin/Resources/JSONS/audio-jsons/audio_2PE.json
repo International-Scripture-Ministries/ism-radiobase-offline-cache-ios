@@ -8,16 +8,16 @@
             "id": "1PE.5",
             "number": "5"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "2PE.1",
         "bookId": "2PE",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:57:23.725Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:47:10.930Z",
         "number": "1",
-        "reference": "베드로후서 1",
-        "updatedAt": "2023-03-01T17:57:23.725Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/2PE/2PE.1.mp3"
+        "reference": "2 Peter 1",
+        "updatedAt": "2022-06-02T15:47:10.930Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2PE/2PE.1.mp3"
     },
     {
         "next": {
@@ -28,16 +28,16 @@
             "id": "2PE.1",
             "number": "1"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "2PE.2",
         "bookId": "2PE",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:57:24.122Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:47:11.171Z",
         "number": "2",
-        "reference": "베드로후서 2",
-        "updatedAt": "2023-03-01T17:57:24.122Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/2PE/2PE.2.mp3"
+        "reference": "2 Peter 2",
+        "updatedAt": "2022-06-02T15:47:11.171Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2PE/2PE.2.mp3"
     },
     {
         "next": {
@@ -48,15 +48,15 @@
             "id": "2PE.2",
             "number": "2"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "2PE.3",
         "bookId": "2PE",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:57:24.526Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:47:11.426Z",
         "number": "3",
-        "reference": "베드로후서 3",
-        "updatedAt": "2023-03-01T17:57:24.526Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/2PE/2PE.3.mp3"
+        "reference": "2 Peter 3",
+        "updatedAt": "2022-06-02T15:47:11.426Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2PE/2PE.3.mp3"
     }
 ]

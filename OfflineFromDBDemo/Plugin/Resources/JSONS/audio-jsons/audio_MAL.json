@@ -8,16 +8,16 @@
             "id": "ZEC.14",
             "number": "14"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "MAL.1",
         "bookId": "MAL",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:55:40.357Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:46:07.380Z",
         "number": "1",
-        "reference": "말라기 1",
-        "updatedAt": "2023-03-01T17:55:40.357Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAL/MAL.1.mp3"
+        "reference": "Mal. 1",
+        "updatedAt": "2022-06-02T15:46:07.380Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/MAL/MAL.1.mp3"
     },
     {
         "next": {
@@ -28,16 +28,16 @@
             "id": "MAL.1",
             "number": "1"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "MAL.2",
         "bookId": "MAL",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:55:40.729Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:46:07.628Z",
         "number": "2",
-        "reference": "말라기 2",
-        "updatedAt": "2023-03-01T17:55:40.729Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAL/MAL.2.mp3"
+        "reference": "Mal. 2",
+        "updatedAt": "2022-06-02T15:46:07.628Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/MAL/MAL.2.mp3"
     },
     {
         "next": {
@@ -48,16 +48,16 @@
             "id": "MAL.2",
             "number": "2"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "MAL.3",
         "bookId": "MAL",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:55:41.105Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:46:07.852Z",
         "number": "3",
-        "reference": "말라기 3",
-        "updatedAt": "2023-03-01T17:55:41.105Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAL/MAL.3.mp3"
+        "reference": "Mal. 3",
+        "updatedAt": "2022-06-02T15:46:07.852Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/MAL/MAL.3.mp3"
     },
     {
         "next": {
@@ -68,15 +68,15 @@
             "id": "MAL.3",
             "number": "3"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "MAL.4",
         "bookId": "MAL",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:55:41.527Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:46:08.107Z",
         "number": "4",
-        "reference": "말라기 4",
-        "updatedAt": "2023-03-01T17:55:41.527Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAL/MAL.4.mp3"
+        "reference": "Mal. 4",
+        "updatedAt": "2022-06-02T15:46:08.107Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/MAL/MAL.4.mp3"
     }
 ]

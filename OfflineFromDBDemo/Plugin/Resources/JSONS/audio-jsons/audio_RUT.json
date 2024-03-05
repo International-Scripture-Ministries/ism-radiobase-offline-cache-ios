@@ -8,16 +8,16 @@
             "id": "JDG.21",
             "number": "21"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "RUT.1",
         "bookId": "RUT",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:50:36.520Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:42:42.702Z",
         "number": "1",
-        "reference": "룻기 1",
-        "updatedAt": "2023-03-01T17:50:36.520Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/RUT/RUT.1.mp3"
+        "reference": "Ruth 1",
+        "updatedAt": "2022-06-02T15:42:42.702Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/RUT/RUT.1.mp3"
     },
     {
         "next": {
@@ -28,16 +28,16 @@
             "id": "RUT.1",
             "number": "1"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "RUT.2",
         "bookId": "RUT",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:50:36.949Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:42:42.991Z",
         "number": "2",
-        "reference": "룻기 2",
-        "updatedAt": "2023-03-01T17:50:36.949Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/RUT/RUT.2.mp3"
+        "reference": "Ruth 2",
+        "updatedAt": "2022-06-02T15:42:42.991Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/RUT/RUT.2.mp3"
     },
     {
         "next": {
@@ -48,16 +48,16 @@
             "id": "RUT.2",
             "number": "2"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "RUT.3",
         "bookId": "RUT",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:50:37.355Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:42:43.242Z",
         "number": "3",
-        "reference": "룻기 3",
-        "updatedAt": "2023-03-01T17:50:37.355Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/RUT/RUT.3.mp3"
+        "reference": "Ruth 3",
+        "updatedAt": "2022-06-02T15:42:43.242Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/RUT/RUT.3.mp3"
     },
     {
         "next": {
@@ -68,15 +68,15 @@
             "id": "RUT.3",
             "number": "3"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "RUT.4",
         "bookId": "RUT",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:50:37.884Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:42:43.474Z",
         "number": "4",
-        "reference": "룻기 4",
-        "updatedAt": "2023-03-01T17:50:37.884Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/RUT/RUT.4.mp3"
+        "reference": "Ruth 4",
+        "updatedAt": "2022-06-02T15:42:43.474Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/RUT/RUT.4.mp3"
     }
 ]

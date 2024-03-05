@@ -8,16 +8,16 @@
             "id": "2TI.4",
             "number": "4"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "TIT.1",
         "bookId": "TIT",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:57:11.614Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:47:02.518Z",
         "number": "1",
-        "reference": "디도서 1",
-        "updatedAt": "2023-03-01T17:57:11.614Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/TIT/TIT.1.mp3"
+        "reference": "Titus 1",
+        "updatedAt": "2022-06-02T15:47:02.518Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/TIT/TIT.1.mp3"
     },
     {
         "next": {
@@ -28,16 +28,16 @@
             "id": "TIT.1",
             "number": "1"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "TIT.2",
         "bookId": "TIT",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:57:12.005Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:47:02.770Z",
         "number": "2",
-        "reference": "디도서 2",
-        "updatedAt": "2023-03-01T17:57:12.005Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/TIT/TIT.2.mp3"
+        "reference": "Titus 2",
+        "updatedAt": "2022-06-02T15:47:02.770Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/TIT/TIT.2.mp3"
     },
     {
         "next": {
@@ -48,15 +48,15 @@
             "id": "TIT.2",
             "number": "2"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "TIT.3",
         "bookId": "TIT",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:57:12.402Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:47:03.140Z",
         "number": "3",
-        "reference": "디도서 3",
-        "updatedAt": "2023-03-01T17:57:12.402Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/TIT/TIT.3.mp3"
+        "reference": "Titus 3",
+        "updatedAt": "2022-06-02T15:47:03.140Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/TIT/TIT.3.mp3"
     }
 ]

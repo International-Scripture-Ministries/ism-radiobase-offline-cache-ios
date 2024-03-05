@@ -8,16 +8,16 @@
             "id": "1TH.5",
             "number": "5"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "2TH.1",
         "bookId": "2TH",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:57:04.684Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:46:58.535Z",
         "number": "1",
-        "reference": "데살로니가후서 1",
-        "updatedAt": "2023-03-01T17:57:04.684Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/2TH/2TH.1.mp3"
+        "reference": "2 Thessalonians 1",
+        "updatedAt": "2022-06-02T15:46:58.535Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2TH/2TH.1.mp3"
     },
     {
         "next": {
@@ -28,16 +28,16 @@
             "id": "2TH.1",
             "number": "1"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "2TH.2",
         "bookId": "2TH",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:57:05.305Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:46:58.756Z",
         "number": "2",
-        "reference": "데살로니가후서 2",
-        "updatedAt": "2023-03-01T17:57:05.305Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/2TH/2TH.2.mp3"
+        "reference": "2 Thessalonians 2",
+        "updatedAt": "2022-06-02T15:46:58.757Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2TH/2TH.2.mp3"
     },
     {
         "next": {
@@ -48,15 +48,15 @@
             "id": "2TH.2",
             "number": "2"
         },
-        "bibleId": "2211d71757bf467a-01",
+        "bibleId": "5dd1a42b02d2dee6-01",
         "id": "2TH.3",
         "bookId": "2TH",
-        "copyright": "© 1985 by Biblica, Inc.®",
-        "createdAt": "2023-03-01T17:57:05.812Z",
+        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
+        "createdAt": "2022-06-02T15:46:59.001Z",
         "number": "3",
-        "reference": "데살로니가후서 3",
-        "updatedAt": "2023-03-01T17:57:05.812Z",
-        "audioBible": "63ff9004cb4929f184e65f50",
-        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/2TH/2TH.3.mp3"
+        "reference": "2 Thessalonians 3",
+        "updatedAt": "2022-06-02T15:46:59.001Z",
+        "audioBible": "62840e087999137613026a9d",
+        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2TH/2TH.3.mp3"
     }
 ]
