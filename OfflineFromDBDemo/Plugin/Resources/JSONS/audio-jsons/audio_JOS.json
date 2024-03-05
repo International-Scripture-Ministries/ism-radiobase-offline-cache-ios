@@ -1,1 +1,482 @@
-[]
+[
+    {
+        "next": {
+            "id": "JOS.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "DEU.34",
+            "number": "34"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.1",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:16.098Z",
+        "number": "1",
+        "reference": "여호수아 1",
+        "updatedAt": "2023-03-01T17:50:16.098Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.1.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "JOS.9",
+            "number": "9"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.10",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:19.789Z",
+        "number": "10",
+        "reference": "여호수아 10",
+        "updatedAt": "2023-03-01T17:50:19.789Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.10.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "JOS.10",
+            "number": "10"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.11",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:20.198Z",
+        "number": "11",
+        "reference": "여호수아 11",
+        "updatedAt": "2023-03-01T17:50:20.198Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.11.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.13",
+            "number": "13"
+        },
+        "previous": {
+            "id": "JOS.11",
+            "number": "11"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.12",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:20.601Z",
+        "number": "12",
+        "reference": "여호수아 12",
+        "updatedAt": "2023-03-01T17:50:20.601Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.12.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.14",
+            "number": "14"
+        },
+        "previous": {
+            "id": "JOS.12",
+            "number": "12"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.13",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:21.221Z",
+        "number": "13",
+        "reference": "여호수아 13",
+        "updatedAt": "2023-03-01T17:50:21.221Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.13.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.15",
+            "number": "15"
+        },
+        "previous": {
+            "id": "JOS.13",
+            "number": "13"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.14",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:21.626Z",
+        "number": "14",
+        "reference": "여호수아 14",
+        "updatedAt": "2023-03-01T17:50:21.626Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.14.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.16",
+            "number": "16"
+        },
+        "previous": {
+            "id": "JOS.14",
+            "number": "14"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.15",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:22.264Z",
+        "number": "15",
+        "reference": "여호수아 15",
+        "updatedAt": "2023-03-01T17:50:22.264Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.15.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.17",
+            "number": "17"
+        },
+        "previous": {
+            "id": "JOS.15",
+            "number": "15"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.16",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:22.671Z",
+        "number": "16",
+        "reference": "여호수아 16",
+        "updatedAt": "2023-03-01T17:50:22.671Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.16.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.18",
+            "number": "18"
+        },
+        "previous": {
+            "id": "JOS.16",
+            "number": "16"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.17",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:23.069Z",
+        "number": "17",
+        "reference": "여호수아 17",
+        "updatedAt": "2023-03-01T17:50:23.069Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.17.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.19",
+            "number": "19"
+        },
+        "previous": {
+            "id": "JOS.17",
+            "number": "17"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.18",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:23.432Z",
+        "number": "18",
+        "reference": "여호수아 18",
+        "updatedAt": "2023-03-01T17:50:23.432Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.18.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.20",
+            "number": "20"
+        },
+        "previous": {
+            "id": "JOS.18",
+            "number": "18"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.19",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:23.833Z",
+        "number": "19",
+        "reference": "여호수아 19",
+        "updatedAt": "2023-03-01T17:50:23.833Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.19.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "JOS.1",
+            "number": "1"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.2",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:16.508Z",
+        "number": "2",
+        "reference": "여호수아 2",
+        "updatedAt": "2023-03-01T17:50:16.508Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.2.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.21",
+            "number": "21"
+        },
+        "previous": {
+            "id": "JOS.19",
+            "number": "19"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.20",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:24.228Z",
+        "number": "20",
+        "reference": "여호수아 20",
+        "updatedAt": "2023-03-01T17:50:24.228Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.20.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.22",
+            "number": "22"
+        },
+        "previous": {
+            "id": "JOS.20",
+            "number": "20"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.21",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:24.639Z",
+        "number": "21",
+        "reference": "여호수아 21",
+        "updatedAt": "2023-03-01T17:50:24.639Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.21.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.23",
+            "number": "23"
+        },
+        "previous": {
+            "id": "JOS.21",
+            "number": "21"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.22",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:25.050Z",
+        "number": "22",
+        "reference": "여호수아 22",
+        "updatedAt": "2023-03-01T17:50:25.050Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.22.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.24",
+            "number": "24"
+        },
+        "previous": {
+            "id": "JOS.22",
+            "number": "22"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.23",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:25.461Z",
+        "number": "23",
+        "reference": "여호수아 23",
+        "updatedAt": "2023-03-01T17:50:25.461Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.23.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "JOS.23",
+            "number": "23"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.24",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:25.873Z",
+        "number": "24",
+        "reference": "여호수아 24",
+        "updatedAt": "2023-03-01T17:50:25.873Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.24.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "JOS.2",
+            "number": "2"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.3",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:16.914Z",
+        "number": "3",
+        "reference": "여호수아 3",
+        "updatedAt": "2023-03-01T17:50:16.914Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.3.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "JOS.3",
+            "number": "3"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.4",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:17.317Z",
+        "number": "4",
+        "reference": "여호수아 4",
+        "updatedAt": "2023-03-01T17:50:17.317Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.4.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "JOS.4",
+            "number": "4"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.5",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:17.745Z",
+        "number": "5",
+        "reference": "여호수아 5",
+        "updatedAt": "2023-03-01T17:50:17.745Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.5.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "JOS.5",
+            "number": "5"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.6",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:18.148Z",
+        "number": "6",
+        "reference": "여호수아 6",
+        "updatedAt": "2023-03-01T17:50:18.148Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.6.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "JOS.6",
+            "number": "6"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.7",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:18.558Z",
+        "number": "7",
+        "reference": "여호수아 7",
+        "updatedAt": "2023-03-01T17:50:18.558Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.7.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "JOS.7",
+            "number": "7"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.8",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:18.948Z",
+        "number": "8",
+        "reference": "여호수아 8",
+        "updatedAt": "2023-03-01T17:50:18.949Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.8.mp3"
+    },
+    {
+        "next": {
+            "id": "JOS.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "JOS.8",
+            "number": "8"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JOS.9",
+        "bookId": "JOS",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:19.368Z",
+        "number": "9",
+        "reference": "여호수아 9",
+        "updatedAt": "2023-03-01T17:50:19.368Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JOS/JOS.9.mp3"
+    }
+]

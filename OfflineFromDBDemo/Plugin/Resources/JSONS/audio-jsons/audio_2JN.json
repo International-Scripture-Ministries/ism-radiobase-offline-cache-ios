@@ -1,14 +1,22 @@
 [
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "3JN.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "1JN.5",
+            "number": "5"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "2JN.1",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "2JN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:02.924Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:27.531Z",
         "number": "1",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:02.924Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/2JN/2JN.1.mp3"
+        "reference": "요한이서 1",
+        "updatedAt": "2023-03-01T17:57:27.531Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/2JN/2JN.1.mp3"
     }
 ]

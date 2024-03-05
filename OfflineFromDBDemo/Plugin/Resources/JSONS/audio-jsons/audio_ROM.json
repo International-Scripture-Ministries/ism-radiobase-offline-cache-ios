@@ -1,194 +1,322 @@
 [
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "ROM.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "ACT.28",
+            "number": "28"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "ROM.1",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "ROM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:38.088Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:32.167Z",
         "number": "1",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:38.088Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/ROM/ROM.1.mp3"
+        "reference": "로마서 1",
+        "updatedAt": "2023-03-01T17:56:32.167Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/ROM/ROM.1.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "ROM.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "ROM.9",
+            "number": "9"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "ROM.10",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "ROM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:39.824Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:37.267Z",
         "number": "10",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:39.824Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/ROM/ROM.10.mp3"
+        "reference": "로마서 10",
+        "updatedAt": "2023-03-01T17:56:37.267Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/ROM/ROM.10.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "ROM.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "ROM.10",
+            "number": "10"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "ROM.11",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "ROM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:40.127Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:37.748Z",
         "number": "11",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:40.127Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/ROM/ROM.11.mp3"
+        "reference": "로마서 11",
+        "updatedAt": "2023-03-01T17:56:37.748Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/ROM/ROM.11.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "ROM.13",
+            "number": "13"
+        },
+        "previous": {
+            "id": "ROM.11",
+            "number": "11"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "ROM.12",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "ROM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:40.386Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:38.410Z",
         "number": "12",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:40.386Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/ROM/ROM.12.mp3"
+        "reference": "로마서 12",
+        "updatedAt": "2023-03-01T17:56:38.410Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/ROM/ROM.12.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "ROM.14",
+            "number": "14"
+        },
+        "previous": {
+            "id": "ROM.12",
+            "number": "12"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "ROM.13",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "ROM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:40.581Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:38.778Z",
         "number": "13",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:40.581Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/ROM/ROM.13.mp3"
+        "reference": "로마서 13",
+        "updatedAt": "2023-03-01T17:56:38.778Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/ROM/ROM.13.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "ROM.15",
+            "number": "15"
+        },
+        "previous": {
+            "id": "ROM.13",
+            "number": "13"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "ROM.14",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "ROM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:40.771Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:39.124Z",
         "number": "14",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:40.771Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/ROM/ROM.14.mp3"
+        "reference": "로마서 14",
+        "updatedAt": "2023-03-01T17:56:39.124Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/ROM/ROM.14.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "ROM.16",
+            "number": "16"
+        },
+        "previous": {
+            "id": "ROM.14",
+            "number": "14"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "ROM.15",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "ROM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:40.951Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:39.525Z",
         "number": "15",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:40.951Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/ROM/ROM.15.mp3"
+        "reference": "로마서 15",
+        "updatedAt": "2023-03-01T17:56:39.525Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/ROM/ROM.15.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "1CO.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "ROM.15",
+            "number": "15"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "ROM.16",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "ROM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:41.129Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:39.888Z",
         "number": "16",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:41.129Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/ROM/ROM.16.mp3"
+        "reference": "로마서 16",
+        "updatedAt": "2023-03-01T17:56:39.888Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/ROM/ROM.16.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "ROM.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "ROM.1",
+            "number": "1"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "ROM.2",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "ROM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:38.330Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:32.882Z",
         "number": "2",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:38.330Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/ROM/ROM.2.mp3"
+        "reference": "로마서 2",
+        "updatedAt": "2023-03-01T17:56:32.882Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/ROM/ROM.2.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "ROM.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "ROM.2",
+            "number": "2"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "ROM.3",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "ROM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:38.516Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:33.338Z",
         "number": "3",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:38.516Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/ROM/ROM.3.mp3"
+        "reference": "로마서 3",
+        "updatedAt": "2023-03-01T17:56:33.338Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/ROM/ROM.3.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "ROM.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "ROM.3",
+            "number": "3"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "ROM.4",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "ROM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:38.727Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:33.886Z",
         "number": "4",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:38.727Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/ROM/ROM.4.mp3"
+        "reference": "로마서 4",
+        "updatedAt": "2023-03-01T17:56:33.886Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/ROM/ROM.4.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "ROM.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "ROM.4",
+            "number": "4"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "ROM.5",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "ROM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:38.894Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:34.439Z",
         "number": "5",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:38.894Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/ROM/ROM.5.mp3"
+        "reference": "로마서 5",
+        "updatedAt": "2023-03-01T17:56:34.439Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/ROM/ROM.5.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "ROM.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "ROM.5",
+            "number": "5"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "ROM.6",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "ROM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:39.067Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:35.006Z",
         "number": "6",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:39.067Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/ROM/ROM.6.mp3"
+        "reference": "로마서 6",
+        "updatedAt": "2023-03-01T17:56:35.006Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/ROM/ROM.6.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "ROM.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "ROM.6",
+            "number": "6"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "ROM.7",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "ROM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:39.238Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:35.647Z",
         "number": "7",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:39.238Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/ROM/ROM.7.mp3"
+        "reference": "로마서 7",
+        "updatedAt": "2023-03-01T17:56:35.647Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/ROM/ROM.7.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "ROM.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "ROM.7",
+            "number": "7"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "ROM.8",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "ROM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:39.418Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:36.102Z",
         "number": "8",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:39.418Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/ROM/ROM.8.mp3"
+        "reference": "로마서 8",
+        "updatedAt": "2023-03-01T17:56:36.102Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/ROM/ROM.8.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "ROM.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "ROM.8",
+            "number": "8"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "ROM.9",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "ROM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:39.636Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:36.570Z",
         "number": "9",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:39.636Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/ROM/ROM.9.mp3"
+        "reference": "로마서 9",
+        "updatedAt": "2023-03-01T17:56:36.570Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/ROM/ROM.9.mp3"
     }
 ]

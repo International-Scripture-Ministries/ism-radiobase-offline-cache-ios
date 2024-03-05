@@ -1,290 +1,482 @@
 [
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "MRK.16",
+            "number": "16"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.1",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:23.003Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:00.763Z",
         "number": "1",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:23.003Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.1.mp3"
+        "reference": "누가복음 1",
+        "updatedAt": "2023-03-01T17:56:00.763Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.1.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "LUK.9",
+            "number": "9"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.10",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:24.895Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:05.144Z",
         "number": "10",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:24.895Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.10.mp3"
+        "reference": "누가복음 10",
+        "updatedAt": "2023-03-01T17:56:05.144Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.10.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "LUK.10",
+            "number": "10"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.11",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:25.054Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:05.599Z",
         "number": "11",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:25.054Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.11.mp3"
+        "reference": "누가복음 11",
+        "updatedAt": "2023-03-01T17:56:05.600Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.11.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.13",
+            "number": "13"
+        },
+        "previous": {
+            "id": "LUK.11",
+            "number": "11"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.12",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:25.249Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:06.092Z",
         "number": "12",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:25.249Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.12.mp3"
+        "reference": "누가복음 12",
+        "updatedAt": "2023-03-01T17:56:06.092Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.12.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.14",
+            "number": "14"
+        },
+        "previous": {
+            "id": "LUK.12",
+            "number": "12"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.13",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:25.473Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:06.694Z",
         "number": "13",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:25.473Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.13.mp3"
+        "reference": "누가복음 13",
+        "updatedAt": "2023-03-01T17:56:06.694Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.13.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.15",
+            "number": "15"
+        },
+        "previous": {
+            "id": "LUK.13",
+            "number": "13"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.14",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:25.714Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:07.232Z",
         "number": "14",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:25.714Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.14.mp3"
+        "reference": "누가복음 14",
+        "updatedAt": "2023-03-01T17:56:07.232Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.14.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.16",
+            "number": "16"
+        },
+        "previous": {
+            "id": "LUK.14",
+            "number": "14"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.15",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:25.910Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:07.675Z",
         "number": "15",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:25.910Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.15.mp3"
+        "reference": "누가복음 15",
+        "updatedAt": "2023-03-01T17:56:07.675Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.15.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.17",
+            "number": "17"
+        },
+        "previous": {
+            "id": "LUK.15",
+            "number": "15"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.16",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:26.114Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:08.039Z",
         "number": "16",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:26.114Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.16.mp3"
+        "reference": "누가복음 16",
+        "updatedAt": "2023-03-01T17:56:08.039Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.16.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.18",
+            "number": "18"
+        },
+        "previous": {
+            "id": "LUK.16",
+            "number": "16"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.17",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:26.291Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:08.443Z",
         "number": "17",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:26.291Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.17.mp3"
+        "reference": "누가복음 17",
+        "updatedAt": "2023-03-01T17:56:08.443Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.17.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.19",
+            "number": "19"
+        },
+        "previous": {
+            "id": "LUK.17",
+            "number": "17"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.18",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:26.455Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:08.813Z",
         "number": "18",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:26.455Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.18.mp3"
+        "reference": "누가복음 18",
+        "updatedAt": "2023-03-01T17:56:08.813Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.18.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.20",
+            "number": "20"
+        },
+        "previous": {
+            "id": "LUK.18",
+            "number": "18"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.19",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:26.723Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:09.219Z",
         "number": "19",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:26.723Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.19.mp3"
+        "reference": "누가복음 19",
+        "updatedAt": "2023-03-01T17:56:09.219Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.19.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "LUK.1",
+            "number": "1"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.2",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:23.249Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:01.203Z",
         "number": "2",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:23.249Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.2.mp3"
+        "reference": "누가복음 2",
+        "updatedAt": "2023-03-01T17:56:01.203Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.2.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.21",
+            "number": "21"
+        },
+        "previous": {
+            "id": "LUK.19",
+            "number": "19"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.20",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:26.907Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:09.644Z",
         "number": "20",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:26.907Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.20.mp3"
+        "reference": "누가복음 20",
+        "updatedAt": "2023-03-01T17:56:09.644Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.20.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.22",
+            "number": "22"
+        },
+        "previous": {
+            "id": "LUK.20",
+            "number": "20"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.21",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:27.221Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:10.047Z",
         "number": "21",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:27.221Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.21.mp3"
+        "reference": "누가복음 21",
+        "updatedAt": "2023-03-01T17:56:10.047Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.21.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.23",
+            "number": "23"
+        },
+        "previous": {
+            "id": "LUK.21",
+            "number": "21"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.22",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:27.395Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:10.464Z",
         "number": "22",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:27.395Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.22.mp3"
+        "reference": "누가복음 22",
+        "updatedAt": "2023-03-01T17:56:10.464Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.22.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.24",
+            "number": "24"
+        },
+        "previous": {
+            "id": "LUK.22",
+            "number": "22"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.23",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:27.580Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:10.875Z",
         "number": "23",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:27.580Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.23.mp3"
+        "reference": "누가복음 23",
+        "updatedAt": "2023-03-01T17:56:10.875Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.23.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "LUK.23",
+            "number": "23"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.24",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:27.788Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:11.307Z",
         "number": "24",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:27.788Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.24.mp3"
+        "reference": "누가복음 24",
+        "updatedAt": "2023-03-01T17:56:11.307Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.24.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "LUK.2",
+            "number": "2"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.3",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:23.427Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:01.617Z",
         "number": "3",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:23.427Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.3.mp3"
+        "reference": "누가복음 3",
+        "updatedAt": "2023-03-01T17:56:01.617Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.3.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "LUK.3",
+            "number": "3"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.4",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:23.628Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:02.036Z",
         "number": "4",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:23.628Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.4.mp3"
+        "reference": "누가복음 4",
+        "updatedAt": "2023-03-01T17:56:02.036Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.4.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "LUK.4",
+            "number": "4"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.5",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:23.823Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:02.471Z",
         "number": "5",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:23.823Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.5.mp3"
+        "reference": "누가복음 5",
+        "updatedAt": "2023-03-01T17:56:02.471Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.5.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "LUK.5",
+            "number": "5"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.6",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:24.042Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:02.880Z",
         "number": "6",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:24.042Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.6.mp3"
+        "reference": "누가복음 6",
+        "updatedAt": "2023-03-01T17:56:02.880Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.6.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "LUK.6",
+            "number": "6"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.7",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:24.282Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:03.589Z",
         "number": "7",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:24.282Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.7.mp3"
+        "reference": "누가복음 7",
+        "updatedAt": "2023-03-01T17:56:03.589Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.7.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "LUK.7",
+            "number": "7"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.8",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:24.522Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:04.219Z",
         "number": "8",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:24.522Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.8.mp3"
+        "reference": "누가복음 8",
+        "updatedAt": "2023-03-01T17:56:04.219Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.8.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "LUK.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "LUK.8",
+            "number": "8"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "LUK.9",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "LUK",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:24.724Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:04.687Z",
         "number": "9",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:24.724Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/LUK/LUK.9.mp3"
+        "reference": "누가복음 9",
+        "updatedAt": "2023-03-01T17:56:04.687Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LUK/LUK.9.mp3"
     }
 ]

@@ -1,266 +1,438 @@
 [
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "JUD.1",
+            "number": "1"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.1",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:03.513Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:29.745Z",
         "number": "1",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:03.513Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.1.mp3"
+        "reference": "요한계시록 1",
+        "updatedAt": "2023-03-01T17:57:29.745Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.1.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "REV.9",
+            "number": "9"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.10",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:06.683Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:33.630Z",
         "number": "10",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:06.683Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.10.mp3"
+        "reference": "요한계시록 10",
+        "updatedAt": "2023-03-01T17:57:33.631Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.10.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "REV.10",
+            "number": "10"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.11",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:06.853Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:34.107Z",
         "number": "11",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:06.853Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.11.mp3"
+        "reference": "요한계시록 11",
+        "updatedAt": "2023-03-01T17:57:34.107Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.11.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.13",
+            "number": "13"
+        },
+        "previous": {
+            "id": "REV.11",
+            "number": "11"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.12",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:07.028Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:34.639Z",
         "number": "12",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:07.028Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.12.mp3"
+        "reference": "요한계시록 12",
+        "updatedAt": "2023-03-01T17:57:34.639Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.12.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.14",
+            "number": "14"
+        },
+        "previous": {
+            "id": "REV.12",
+            "number": "12"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.13",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:07.217Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:35.117Z",
         "number": "13",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:07.217Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.13.mp3"
+        "reference": "요한계시록 13",
+        "updatedAt": "2023-03-01T17:57:35.117Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.13.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.15",
+            "number": "15"
+        },
+        "previous": {
+            "id": "REV.13",
+            "number": "13"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.14",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:07.551Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:35.643Z",
         "number": "14",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:07.551Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.14.mp3"
+        "reference": "요한계시록 14",
+        "updatedAt": "2023-03-01T17:57:35.643Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.14.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.16",
+            "number": "16"
+        },
+        "previous": {
+            "id": "REV.14",
+            "number": "14"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.15",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:07.718Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:36.093Z",
         "number": "15",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:07.718Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.15.mp3"
+        "reference": "요한계시록 15",
+        "updatedAt": "2023-03-01T17:57:36.093Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.15.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.17",
+            "number": "17"
+        },
+        "previous": {
+            "id": "REV.15",
+            "number": "15"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.16",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:07.915Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:36.592Z",
         "number": "16",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:07.915Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.16.mp3"
+        "reference": "요한계시록 16",
+        "updatedAt": "2023-03-01T17:57:36.592Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.16.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.18",
+            "number": "18"
+        },
+        "previous": {
+            "id": "REV.16",
+            "number": "16"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.17",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:08.143Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:37.101Z",
         "number": "17",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:08.143Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.17.mp3"
+        "reference": "요한계시록 17",
+        "updatedAt": "2023-03-01T17:57:37.101Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.17.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.19",
+            "number": "19"
+        },
+        "previous": {
+            "id": "REV.17",
+            "number": "17"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.18",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:08.348Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:37.538Z",
         "number": "18",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:08.348Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.18.mp3"
+        "reference": "요한계시록 18",
+        "updatedAt": "2023-03-01T17:57:37.538Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.18.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.20",
+            "number": "20"
+        },
+        "previous": {
+            "id": "REV.18",
+            "number": "18"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.19",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:08.549Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:37.979Z",
         "number": "19",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:08.549Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.19.mp3"
+        "reference": "요한계시록 19",
+        "updatedAt": "2023-03-01T17:57:37.979Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.19.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "REV.1",
+            "number": "1"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.2",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:04.451Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:30.157Z",
         "number": "2",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:04.451Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.2.mp3"
+        "reference": "요한계시록 2",
+        "updatedAt": "2023-03-01T17:57:30.157Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.2.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.21",
+            "number": "21"
+        },
+        "previous": {
+            "id": "REV.19",
+            "number": "19"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.20",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:08.713Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:38.443Z",
         "number": "20",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:08.713Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.20.mp3"
+        "reference": "요한계시록 20",
+        "updatedAt": "2023-03-01T17:57:38.443Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.20.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.22",
+            "number": "22"
+        },
+        "previous": {
+            "id": "REV.20",
+            "number": "20"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.21",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:08.884Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:38.976Z",
         "number": "21",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:08.884Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.21.mp3"
+        "reference": "요한계시록 21",
+        "updatedAt": "2023-03-01T17:57:38.976Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.21.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "previous": {
+            "id": "REV.21",
+            "number": "21"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.22",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:09.056Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:39.400Z",
         "number": "22",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:09.056Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.22.mp3"
+        "reference": "요한계시록 22",
+        "updatedAt": "2023-03-01T17:57:39.400Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.22.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "REV.2",
+            "number": "2"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.3",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:04.909Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:30.583Z",
         "number": "3",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:04.909Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.3.mp3"
+        "reference": "요한계시록 3",
+        "updatedAt": "2023-03-01T17:57:30.583Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.3.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "REV.3",
+            "number": "3"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.4",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:05.111Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:30.996Z",
         "number": "4",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:05.111Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.4.mp3"
+        "reference": "요한계시록 4",
+        "updatedAt": "2023-03-01T17:57:30.996Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.4.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "REV.4",
+            "number": "4"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.5",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:05.500Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:31.405Z",
         "number": "5",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:05.500Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.5.mp3"
+        "reference": "요한계시록 5",
+        "updatedAt": "2023-03-01T17:57:31.405Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.5.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "REV.5",
+            "number": "5"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.6",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:05.973Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:31.830Z",
         "number": "6",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:05.973Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.6.mp3"
+        "reference": "요한계시록 6",
+        "updatedAt": "2023-03-01T17:57:31.830Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.6.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "REV.6",
+            "number": "6"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.7",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:06.169Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:32.283Z",
         "number": "7",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:06.169Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.7.mp3"
+        "reference": "요한계시록 7",
+        "updatedAt": "2023-03-01T17:57:32.283Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.7.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "REV.7",
+            "number": "7"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.8",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:06.330Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:32.678Z",
         "number": "8",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:06.330Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.8.mp3"
+        "reference": "요한계시록 8",
+        "updatedAt": "2023-03-01T17:57:32.678Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.8.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "REV.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "REV.8",
+            "number": "8"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "REV.9",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "REV",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:35:06.517Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:33.149Z",
         "number": "9",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:35:06.517Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/REV/REV.9.mp3"
+        "reference": "요한계시록 9",
+        "updatedAt": "2023-03-01T17:57:33.149Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/REV/REV.9.mp3"
     }
 ]

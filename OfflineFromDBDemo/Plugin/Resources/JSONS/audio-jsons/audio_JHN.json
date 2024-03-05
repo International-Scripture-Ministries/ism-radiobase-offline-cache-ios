@@ -1,254 +1,422 @@
 [
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "LUK.24",
+            "number": "24"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.1",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:28.018Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:12.030Z",
         "number": "1",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:28.018Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.1.mp3"
+        "reference": "요한복음 1",
+        "updatedAt": "2023-03-01T17:56:12.030Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.1.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "JHN.9",
+            "number": "9"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.10",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:30.036Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:15.538Z",
         "number": "10",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:30.036Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.10.mp3"
+        "reference": "요한복음 10",
+        "updatedAt": "2023-03-01T17:56:15.538Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.10.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "JHN.10",
+            "number": "10"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.11",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:30.266Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:15.955Z",
         "number": "11",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:30.266Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.11.mp3"
+        "reference": "요한복음 11",
+        "updatedAt": "2023-03-01T17:56:15.955Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.11.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.13",
+            "number": "13"
+        },
+        "previous": {
+            "id": "JHN.11",
+            "number": "11"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.12",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:30.517Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:16.346Z",
         "number": "12",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:30.517Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.12.mp3"
+        "reference": "요한복음 12",
+        "updatedAt": "2023-03-01T17:56:16.346Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.12.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.14",
+            "number": "14"
+        },
+        "previous": {
+            "id": "JHN.12",
+            "number": "12"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.13",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:30.677Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:16.745Z",
         "number": "13",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:30.677Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.13.mp3"
+        "reference": "요한복음 13",
+        "updatedAt": "2023-03-01T17:56:16.745Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.13.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.15",
+            "number": "15"
+        },
+        "previous": {
+            "id": "JHN.13",
+            "number": "13"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.14",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:30.868Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:17.121Z",
         "number": "14",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:30.868Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.14.mp3"
+        "reference": "요한복음 14",
+        "updatedAt": "2023-03-01T17:56:17.121Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.14.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.16",
+            "number": "16"
+        },
+        "previous": {
+            "id": "JHN.14",
+            "number": "14"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.15",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:31.059Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:17.510Z",
         "number": "15",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:31.059Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.15.mp3"
+        "reference": "요한복음 15",
+        "updatedAt": "2023-03-01T17:56:17.510Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.15.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.17",
+            "number": "17"
+        },
+        "previous": {
+            "id": "JHN.15",
+            "number": "15"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.16",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:31.233Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:17.869Z",
         "number": "16",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:31.233Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.16.mp3"
+        "reference": "요한복음 16",
+        "updatedAt": "2023-03-01T17:56:17.869Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.16.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.18",
+            "number": "18"
+        },
+        "previous": {
+            "id": "JHN.16",
+            "number": "16"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.17",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:31.507Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:18.274Z",
         "number": "17",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:31.507Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.17.mp3"
+        "reference": "요한복음 17",
+        "updatedAt": "2023-03-01T17:56:18.275Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.17.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.19",
+            "number": "19"
+        },
+        "previous": {
+            "id": "JHN.17",
+            "number": "17"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.18",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:31.701Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:18.667Z",
         "number": "18",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:31.701Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.18.mp3"
+        "reference": "요한복음 18",
+        "updatedAt": "2023-03-01T17:56:18.667Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.18.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.20",
+            "number": "20"
+        },
+        "previous": {
+            "id": "JHN.18",
+            "number": "18"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.19",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:31.886Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:19.066Z",
         "number": "19",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:31.886Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.19.mp3"
+        "reference": "요한복음 19",
+        "updatedAt": "2023-03-01T17:56:19.066Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.19.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "JHN.1",
+            "number": "1"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.2",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:28.194Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:12.411Z",
         "number": "2",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:28.194Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.2.mp3"
+        "reference": "요한복음 2",
+        "updatedAt": "2023-03-01T17:56:12.411Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.2.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.21",
+            "number": "21"
+        },
+        "previous": {
+            "id": "JHN.19",
+            "number": "19"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.20",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:32.097Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:19.433Z",
         "number": "20",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:32.097Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.20.mp3"
+        "reference": "요한복음 20",
+        "updatedAt": "2023-03-01T17:56:19.433Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.20.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "ACT.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "JHN.20",
+            "number": "20"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.21",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:32.340Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:19.834Z",
         "number": "21",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:32.340Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.21.mp3"
+        "reference": "요한복음 21",
+        "updatedAt": "2023-03-01T17:56:19.834Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.21.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "JHN.2",
+            "number": "2"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.3",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:28.358Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:12.814Z",
         "number": "3",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:28.358Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.3.mp3"
+        "reference": "요한복음 3",
+        "updatedAt": "2023-03-01T17:56:12.814Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.3.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "JHN.3",
+            "number": "3"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.4",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:28.553Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:13.222Z",
         "number": "4",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:28.553Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.4.mp3"
+        "reference": "요한복음 4",
+        "updatedAt": "2023-03-01T17:56:13.222Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.4.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "JHN.4",
+            "number": "4"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.5",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:28.750Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:13.647Z",
         "number": "5",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:28.750Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.5.mp3"
+        "reference": "요한복음 5",
+        "updatedAt": "2023-03-01T17:56:13.647Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.5.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "JHN.5",
+            "number": "5"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.6",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:28.998Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:14.043Z",
         "number": "6",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:28.998Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.6.mp3"
+        "reference": "요한복음 6",
+        "updatedAt": "2023-03-01T17:56:14.043Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.6.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "JHN.6",
+            "number": "6"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.7",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:29.187Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:14.413Z",
         "number": "7",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:29.187Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.7.mp3"
+        "reference": "요한복음 7",
+        "updatedAt": "2023-03-01T17:56:14.413Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.7.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "JHN.7",
+            "number": "7"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.8",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:29.368Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:14.776Z",
         "number": "8",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:29.368Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.8.mp3"
+        "reference": "요한복음 8",
+        "updatedAt": "2023-03-01T17:56:14.776Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.8.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "JHN.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "JHN.8",
+            "number": "8"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "JHN.9",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "JHN",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:29.602Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:15.183Z",
         "number": "9",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:29.602Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/JHN/JHN.9.mp3"
+        "reference": "요한복음 9",
+        "updatedAt": "2023-03-01T17:56:15.183Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JHN/JHN.9.mp3"
     }
 ]

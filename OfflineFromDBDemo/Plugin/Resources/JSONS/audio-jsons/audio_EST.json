@@ -1,1 +1,202 @@
-[]
+[
+    {
+        "next": {
+            "id": "EST.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "NEH.13",
+            "number": "13"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "EST.1",
+        "bookId": "EST",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:52:01.791Z",
+        "number": "1",
+        "reference": "에스더 1",
+        "updatedAt": "2023-03-01T17:52:01.791Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/EST/EST.1.mp3"
+    },
+    {
+        "next": {
+            "id": "JOB.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "EST.9",
+            "number": "9"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "EST.10",
+        "bookId": "EST",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:52:06.946Z",
+        "number": "10",
+        "reference": "에스더 10",
+        "updatedAt": "2023-03-01T17:52:06.946Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/EST/EST.10.mp3"
+    },
+    {
+        "next": {
+            "id": "EST.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "EST.1",
+            "number": "1"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "EST.2",
+        "bookId": "EST",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:52:02.554Z",
+        "number": "2",
+        "reference": "에스더 2",
+        "updatedAt": "2023-03-01T17:52:02.554Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/EST/EST.2.mp3"
+    },
+    {
+        "next": {
+            "id": "EST.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "EST.2",
+            "number": "2"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "EST.3",
+        "bookId": "EST",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:52:03.237Z",
+        "number": "3",
+        "reference": "에스더 3",
+        "updatedAt": "2023-03-01T17:52:03.237Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/EST/EST.3.mp3"
+    },
+    {
+        "next": {
+            "id": "EST.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "EST.3",
+            "number": "3"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "EST.4",
+        "bookId": "EST",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:52:03.944Z",
+        "number": "4",
+        "reference": "에스더 4",
+        "updatedAt": "2023-03-01T17:52:03.944Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/EST/EST.4.mp3"
+    },
+    {
+        "next": {
+            "id": "EST.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "EST.4",
+            "number": "4"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "EST.5",
+        "bookId": "EST",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:52:04.578Z",
+        "number": "5",
+        "reference": "에스더 5",
+        "updatedAt": "2023-03-01T17:52:04.579Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/EST/EST.5.mp3"
+    },
+    {
+        "next": {
+            "id": "EST.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "EST.5",
+            "number": "5"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "EST.6",
+        "bookId": "EST",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:52:05.201Z",
+        "number": "6",
+        "reference": "에스더 6",
+        "updatedAt": "2023-03-01T17:52:05.201Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/EST/EST.6.mp3"
+    },
+    {
+        "next": {
+            "id": "EST.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "EST.6",
+            "number": "6"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "EST.7",
+        "bookId": "EST",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:52:05.614Z",
+        "number": "7",
+        "reference": "에스더 7",
+        "updatedAt": "2023-03-01T17:52:05.614Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/EST/EST.7.mp3"
+    },
+    {
+        "next": {
+            "id": "EST.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "EST.7",
+            "number": "7"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "EST.8",
+        "bookId": "EST",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:52:06.063Z",
+        "number": "8",
+        "reference": "에스더 8",
+        "updatedAt": "2023-03-01T17:52:06.064Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/EST/EST.8.mp3"
+    },
+    {
+        "next": {
+            "id": "EST.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "EST.8",
+            "number": "8"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "EST.9",
+        "bookId": "EST",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:52:06.524Z",
+        "number": "9",
+        "reference": "에스더 9",
+        "updatedAt": "2023-03-01T17:52:06.524Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/EST/EST.9.mp3"
+    }
+]

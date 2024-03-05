@@ -1,338 +1,562 @@
 [
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "MAL.4",
+            "number": "4"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.1",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:13.412Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:42.274Z",
         "number": "1",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:13.412Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.1.mp3"
+        "reference": "마태복음 1",
+        "updatedAt": "2023-03-01T17:55:42.274Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.1.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "MAT.9",
+            "number": "9"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.10",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:15.723Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:45.856Z",
         "number": "10",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:15.723Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.10.mp3"
+        "reference": "마태복음 10",
+        "updatedAt": "2023-03-01T17:55:45.856Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.10.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "MAT.10",
+            "number": "10"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.11",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:15.905Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:46.215Z",
         "number": "11",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:15.905Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.11.mp3"
+        "reference": "마태복음 11",
+        "updatedAt": "2023-03-01T17:55:46.215Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.11.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.13",
+            "number": "13"
+        },
+        "previous": {
+            "id": "MAT.11",
+            "number": "11"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.12",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:16.102Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:46.622Z",
         "number": "12",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:16.102Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.12.mp3"
+        "reference": "마태복음 12",
+        "updatedAt": "2023-03-01T17:55:46.622Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.12.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.14",
+            "number": "14"
+        },
+        "previous": {
+            "id": "MAT.12",
+            "number": "12"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.13",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:16.266Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:47.013Z",
         "number": "13",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:16.266Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.13.mp3"
+        "reference": "마태복음 13",
+        "updatedAt": "2023-03-01T17:55:47.013Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.13.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.15",
+            "number": "15"
+        },
+        "previous": {
+            "id": "MAT.13",
+            "number": "13"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.14",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:16.446Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:47.379Z",
         "number": "14",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:16.446Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.14.mp3"
+        "reference": "마태복음 14",
+        "updatedAt": "2023-03-01T17:55:47.379Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.14.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.16",
+            "number": "16"
+        },
+        "previous": {
+            "id": "MAT.14",
+            "number": "14"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.15",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:16.626Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:47.788Z",
         "number": "15",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:16.626Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.15.mp3"
+        "reference": "마태복음 15",
+        "updatedAt": "2023-03-01T17:55:47.788Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.15.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.17",
+            "number": "17"
+        },
+        "previous": {
+            "id": "MAT.15",
+            "number": "15"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.16",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:16.824Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:48.192Z",
         "number": "16",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:16.824Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.16.mp3"
+        "reference": "마태복음 16",
+        "updatedAt": "2023-03-01T17:55:48.192Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.16.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.18",
+            "number": "18"
+        },
+        "previous": {
+            "id": "MAT.16",
+            "number": "16"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.17",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:17.022Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:48.559Z",
         "number": "17",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:17.022Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.17.mp3"
+        "reference": "마태복음 17",
+        "updatedAt": "2023-03-01T17:55:48.560Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.17.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.19",
+            "number": "19"
+        },
+        "previous": {
+            "id": "MAT.17",
+            "number": "17"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.18",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:17.214Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:48.959Z",
         "number": "18",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:17.214Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.18.mp3"
+        "reference": "마태복음 18",
+        "updatedAt": "2023-03-01T17:55:48.959Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.18.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.20",
+            "number": "20"
+        },
+        "previous": {
+            "id": "MAT.18",
+            "number": "18"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.19",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:17.419Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:49.329Z",
         "number": "19",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:17.419Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.19.mp3"
+        "reference": "마태복음 19",
+        "updatedAt": "2023-03-01T17:55:49.329Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.19.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "MAT.1",
+            "number": "1"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.2",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:14.004Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:42.681Z",
         "number": "2",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:14.004Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.2.mp3"
+        "reference": "마태복음 2",
+        "updatedAt": "2023-03-01T17:55:42.681Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.2.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.21",
+            "number": "21"
+        },
+        "previous": {
+            "id": "MAT.19",
+            "number": "19"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.20",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:17.597Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:49.735Z",
         "number": "20",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:17.597Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.20.mp3"
+        "reference": "마태복음 20",
+        "updatedAt": "2023-03-01T17:55:49.735Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.20.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.22",
+            "number": "22"
+        },
+        "previous": {
+            "id": "MAT.20",
+            "number": "20"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.21",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:17.774Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:50.430Z",
         "number": "21",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:17.774Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.21.mp3"
+        "reference": "마태복음 21",
+        "updatedAt": "2023-03-01T17:55:50.430Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.21.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.23",
+            "number": "23"
+        },
+        "previous": {
+            "id": "MAT.21",
+            "number": "21"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.22",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:17.968Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:50.830Z",
         "number": "22",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:17.968Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.22.mp3"
+        "reference": "마태복음 22",
+        "updatedAt": "2023-03-01T17:55:50.830Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.22.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.24",
+            "number": "24"
+        },
+        "previous": {
+            "id": "MAT.22",
+            "number": "22"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.23",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:18.143Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:51.204Z",
         "number": "23",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:18.143Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.23.mp3"
+        "reference": "마태복음 23",
+        "updatedAt": "2023-03-01T17:55:51.204Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.23.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.25",
+            "number": "25"
+        },
+        "previous": {
+            "id": "MAT.23",
+            "number": "23"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.24",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:18.343Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:51.560Z",
         "number": "24",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:18.343Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.24.mp3"
+        "reference": "마태복음 24",
+        "updatedAt": "2023-03-01T17:55:51.560Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.24.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.26",
+            "number": "26"
+        },
+        "previous": {
+            "id": "MAT.24",
+            "number": "24"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.25",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:18.536Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:51.967Z",
         "number": "25",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:18.536Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.25.mp3"
+        "reference": "마태복음 25",
+        "updatedAt": "2023-03-01T17:55:51.967Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.25.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.27",
+            "number": "27"
+        },
+        "previous": {
+            "id": "MAT.25",
+            "number": "25"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.26",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:18.731Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:52.384Z",
         "number": "26",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:18.731Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.26.mp3"
+        "reference": "마태복음 26",
+        "updatedAt": "2023-03-01T17:55:52.384Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.26.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.28",
+            "number": "28"
+        },
+        "previous": {
+            "id": "MAT.26",
+            "number": "26"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.27",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:18.899Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:52.787Z",
         "number": "27",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:18.899Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.27.mp3"
+        "reference": "마태복음 27",
+        "updatedAt": "2023-03-01T17:55:52.787Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.27.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MRK.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "MAT.27",
+            "number": "27"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.28",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:19.054Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:53.174Z",
         "number": "28",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:19.054Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.28.mp3"
+        "reference": "마태복음 28",
+        "updatedAt": "2023-03-01T17:55:53.174Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.28.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "MAT.2",
+            "number": "2"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.3",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:14.272Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:43.068Z",
         "number": "3",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:14.272Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.3.mp3"
+        "reference": "마태복음 3",
+        "updatedAt": "2023-03-01T17:55:43.068Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.3.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "MAT.3",
+            "number": "3"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.4",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:14.443Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:43.458Z",
         "number": "4",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:14.443Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.4.mp3"
+        "reference": "마태복음 4",
+        "updatedAt": "2023-03-01T17:55:43.458Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.4.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "MAT.4",
+            "number": "4"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.5",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:14.618Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:43.849Z",
         "number": "5",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:14.618Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.5.mp3"
+        "reference": "마태복음 5",
+        "updatedAt": "2023-03-01T17:55:43.849Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.5.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "MAT.5",
+            "number": "5"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.6",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:14.905Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:44.253Z",
         "number": "6",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:14.905Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.6.mp3"
+        "reference": "마태복음 6",
+        "updatedAt": "2023-03-01T17:55:44.253Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.6.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "MAT.6",
+            "number": "6"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.7",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:15.133Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:44.618Z",
         "number": "7",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:15.133Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.7.mp3"
+        "reference": "마태복음 7",
+        "updatedAt": "2023-03-01T17:55:44.618Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.7.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "MAT.7",
+            "number": "7"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.8",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:15.362Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:45.066Z",
         "number": "8",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:15.362Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.8.mp3"
+        "reference": "마태복음 8",
+        "updatedAt": "2023-03-01T17:55:45.066Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.8.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "MAT.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "MAT.8",
+            "number": "8"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "MAT.9",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "MAT",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:15.526Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:55:45.454Z",
         "number": "9",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:15.526Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/MAT/MAT.9.mp3"
+        "reference": "마태복음 9",
+        "updatedAt": "2023-03-01T17:55:45.454Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/MAT/MAT.9.mp3"
     }
 ]

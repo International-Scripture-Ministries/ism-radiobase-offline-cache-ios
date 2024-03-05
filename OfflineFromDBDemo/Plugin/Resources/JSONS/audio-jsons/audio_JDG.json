@@ -1,1 +1,422 @@
-[]
+[
+    {
+        "next": {
+            "id": "JDG.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "JOS.24",
+            "number": "24"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.1",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:26.580Z",
+        "number": "1",
+        "reference": "사사기 1",
+        "updatedAt": "2023-03-01T17:50:26.580Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.1.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "JDG.9",
+            "number": "9"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.10",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:30.102Z",
+        "number": "10",
+        "reference": "사사기 10",
+        "updatedAt": "2023-03-01T17:50:30.102Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.10.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "JDG.10",
+            "number": "10"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.11",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:30.515Z",
+        "number": "11",
+        "reference": "사사기 11",
+        "updatedAt": "2023-03-01T17:50:30.515Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.11.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.13",
+            "number": "13"
+        },
+        "previous": {
+            "id": "JDG.11",
+            "number": "11"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.12",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:30.946Z",
+        "number": "12",
+        "reference": "사사기 12",
+        "updatedAt": "2023-03-01T17:50:30.946Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.12.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.14",
+            "number": "14"
+        },
+        "previous": {
+            "id": "JDG.12",
+            "number": "12"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.13",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:31.415Z",
+        "number": "13",
+        "reference": "사사기 13",
+        "updatedAt": "2023-03-01T17:50:31.415Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.13.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.15",
+            "number": "15"
+        },
+        "previous": {
+            "id": "JDG.13",
+            "number": "13"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.14",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:31.999Z",
+        "number": "14",
+        "reference": "사사기 14",
+        "updatedAt": "2023-03-01T17:50:31.999Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.14.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.16",
+            "number": "16"
+        },
+        "previous": {
+            "id": "JDG.14",
+            "number": "14"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.15",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:32.421Z",
+        "number": "15",
+        "reference": "사사기 15",
+        "updatedAt": "2023-03-01T17:50:32.421Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.15.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.17",
+            "number": "17"
+        },
+        "previous": {
+            "id": "JDG.15",
+            "number": "15"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.16",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:32.950Z",
+        "number": "16",
+        "reference": "사사기 16",
+        "updatedAt": "2023-03-01T17:50:32.950Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.16.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.18",
+            "number": "18"
+        },
+        "previous": {
+            "id": "JDG.16",
+            "number": "16"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.17",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:33.707Z",
+        "number": "17",
+        "reference": "사사기 17",
+        "updatedAt": "2023-03-01T17:50:33.707Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.17.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.19",
+            "number": "19"
+        },
+        "previous": {
+            "id": "JDG.17",
+            "number": "17"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.18",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:34.302Z",
+        "number": "18",
+        "reference": "사사기 18",
+        "updatedAt": "2023-03-01T17:50:34.302Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.18.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.20",
+            "number": "20"
+        },
+        "previous": {
+            "id": "JDG.18",
+            "number": "18"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.19",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:34.844Z",
+        "number": "19",
+        "reference": "사사기 19",
+        "updatedAt": "2023-03-01T17:50:34.844Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.19.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "JDG.1",
+            "number": "1"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.2",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:26.941Z",
+        "number": "2",
+        "reference": "사사기 2",
+        "updatedAt": "2023-03-01T17:50:26.941Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.2.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.21",
+            "number": "21"
+        },
+        "previous": {
+            "id": "JDG.19",
+            "number": "19"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.20",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:35.314Z",
+        "number": "20",
+        "reference": "사사기 20",
+        "updatedAt": "2023-03-01T17:50:35.314Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.20.mp3"
+    },
+    {
+        "next": {
+            "id": "RUT.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "JDG.20",
+            "number": "20"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.21",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:35.787Z",
+        "number": "21",
+        "reference": "사사기 21",
+        "updatedAt": "2023-03-01T17:50:35.787Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.21.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "JDG.2",
+            "number": "2"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.3",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:27.348Z",
+        "number": "3",
+        "reference": "사사기 3",
+        "updatedAt": "2023-03-01T17:50:27.348Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.3.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "JDG.3",
+            "number": "3"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.4",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:27.757Z",
+        "number": "4",
+        "reference": "사사기 4",
+        "updatedAt": "2023-03-01T17:50:27.757Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.4.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "JDG.4",
+            "number": "4"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.5",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:28.154Z",
+        "number": "5",
+        "reference": "사사기 5",
+        "updatedAt": "2023-03-01T17:50:28.154Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.5.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "JDG.5",
+            "number": "5"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.6",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:28.553Z",
+        "number": "6",
+        "reference": "사사기 6",
+        "updatedAt": "2023-03-01T17:50:28.553Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.6.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "JDG.6",
+            "number": "6"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.7",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:28.959Z",
+        "number": "7",
+        "reference": "사사기 7",
+        "updatedAt": "2023-03-01T17:50:28.959Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.7.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "JDG.7",
+            "number": "7"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.8",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:29.354Z",
+        "number": "8",
+        "reference": "사사기 8",
+        "updatedAt": "2023-03-01T17:50:29.354Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.8.mp3"
+    },
+    {
+        "next": {
+            "id": "JDG.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "JDG.8",
+            "number": "8"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "JDG.9",
+        "bookId": "JDG",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:50:29.732Z",
+        "number": "9",
+        "reference": "사사기 9",
+        "updatedAt": "2023-03-01T17:50:29.732Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/JDG/JDG.9.mp3"
+    }
+]

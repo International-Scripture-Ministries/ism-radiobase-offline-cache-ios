@@ -1,50 +1,82 @@
 [
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "PHP.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "EPH.6",
+            "number": "6"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "PHP.1",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "PHP",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:49.571Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:58.057Z",
         "number": "1",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:49.571Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/PHP/PHP.1.mp3"
+        "reference": "빌립보서 1",
+        "updatedAt": "2023-03-01T17:56:58.057Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/PHP/PHP.1.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "PHP.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "PHP.1",
+            "number": "1"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "PHP.2",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "PHP",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:49.783Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:58.458Z",
         "number": "2",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:49.783Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/PHP/PHP.2.mp3"
+        "reference": "빌립보서 2",
+        "updatedAt": "2023-03-01T17:56:58.458Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/PHP/PHP.2.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "PHP.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "PHP.2",
+            "number": "2"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "PHP.3",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "PHP",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:50.241Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:58.858Z",
         "number": "3",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:50.241Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/PHP/PHP.3.mp3"
+        "reference": "빌립보서 3",
+        "updatedAt": "2023-03-01T17:56:58.858Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/PHP/PHP.3.mp3"
     },
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "COL.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "PHP.3",
+            "number": "3"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "PHP.4",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "PHP",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:50.440Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:56:59.216Z",
         "number": "4",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:50.440Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/PHP/PHP.4.mp3"
+        "reference": "빌립보서 4",
+        "updatedAt": "2023-03-01T17:56:59.216Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/PHP/PHP.4.mp3"
     }
 ]

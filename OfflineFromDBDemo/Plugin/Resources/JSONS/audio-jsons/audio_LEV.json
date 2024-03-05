@@ -1,1 +1,542 @@
-[]
+[
+    {
+        "next": {
+            "id": "LEV.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "EXO.40",
+            "number": "40"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.1",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:31.950Z",
+        "number": "1",
+        "reference": "레위기 1",
+        "updatedAt": "2023-03-01T17:49:31.950Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.1.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "LEV.9",
+            "number": "9"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.10",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:36.263Z",
+        "number": "10",
+        "reference": "레위기 10",
+        "updatedAt": "2023-03-01T17:49:36.263Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.10.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "LEV.10",
+            "number": "10"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.11",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:36.661Z",
+        "number": "11",
+        "reference": "레위기 11",
+        "updatedAt": "2023-03-01T17:49:36.661Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.11.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.13",
+            "number": "13"
+        },
+        "previous": {
+            "id": "LEV.11",
+            "number": "11"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.12",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:37.044Z",
+        "number": "12",
+        "reference": "레위기 12",
+        "updatedAt": "2023-03-01T17:49:37.044Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.12.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.14",
+            "number": "14"
+        },
+        "previous": {
+            "id": "LEV.12",
+            "number": "12"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.13",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:37.493Z",
+        "number": "13",
+        "reference": "레위기 13",
+        "updatedAt": "2023-03-01T17:49:37.493Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.13.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.15",
+            "number": "15"
+        },
+        "previous": {
+            "id": "LEV.13",
+            "number": "13"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.14",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:37.859Z",
+        "number": "14",
+        "reference": "레위기 14",
+        "updatedAt": "2023-03-01T17:49:37.859Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.14.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.16",
+            "number": "16"
+        },
+        "previous": {
+            "id": "LEV.14",
+            "number": "14"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.15",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:38.310Z",
+        "number": "15",
+        "reference": "레위기 15",
+        "updatedAt": "2023-03-01T17:49:38.310Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.15.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.17",
+            "number": "17"
+        },
+        "previous": {
+            "id": "LEV.15",
+            "number": "15"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.16",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:38.718Z",
+        "number": "16",
+        "reference": "레위기 16",
+        "updatedAt": "2023-03-01T17:49:38.718Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.16.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.18",
+            "number": "18"
+        },
+        "previous": {
+            "id": "LEV.16",
+            "number": "16"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.17",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:39.209Z",
+        "number": "17",
+        "reference": "레위기 17",
+        "updatedAt": "2023-03-01T17:49:39.209Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.17.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.19",
+            "number": "19"
+        },
+        "previous": {
+            "id": "LEV.17",
+            "number": "17"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.18",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:39.607Z",
+        "number": "18",
+        "reference": "레위기 18",
+        "updatedAt": "2023-03-01T17:49:39.607Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.18.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.20",
+            "number": "20"
+        },
+        "previous": {
+            "id": "LEV.18",
+            "number": "18"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.19",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:39.974Z",
+        "number": "19",
+        "reference": "레위기 19",
+        "updatedAt": "2023-03-01T17:49:39.974Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.19.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "LEV.1",
+            "number": "1"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.2",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:32.402Z",
+        "number": "2",
+        "reference": "레위기 2",
+        "updatedAt": "2023-03-01T17:49:32.402Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.2.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.21",
+            "number": "21"
+        },
+        "previous": {
+            "id": "LEV.19",
+            "number": "19"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.20",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:40.371Z",
+        "number": "20",
+        "reference": "레위기 20",
+        "updatedAt": "2023-03-01T17:49:40.371Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.20.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.22",
+            "number": "22"
+        },
+        "previous": {
+            "id": "LEV.20",
+            "number": "20"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.21",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:40.774Z",
+        "number": "21",
+        "reference": "레위기 21",
+        "updatedAt": "2023-03-01T17:49:40.774Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.21.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.23",
+            "number": "23"
+        },
+        "previous": {
+            "id": "LEV.21",
+            "number": "21"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.22",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:41.139Z",
+        "number": "22",
+        "reference": "레위기 22",
+        "updatedAt": "2023-03-01T17:49:41.139Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.22.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.24",
+            "number": "24"
+        },
+        "previous": {
+            "id": "LEV.22",
+            "number": "22"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.23",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:41.565Z",
+        "number": "23",
+        "reference": "레위기 23",
+        "updatedAt": "2023-03-01T17:49:41.565Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.23.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.25",
+            "number": "25"
+        },
+        "previous": {
+            "id": "LEV.23",
+            "number": "23"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.24",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:41.963Z",
+        "number": "24",
+        "reference": "레위기 24",
+        "updatedAt": "2023-03-01T17:49:41.963Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.24.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.26",
+            "number": "26"
+        },
+        "previous": {
+            "id": "LEV.24",
+            "number": "24"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.25",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:42.388Z",
+        "number": "25",
+        "reference": "레위기 25",
+        "updatedAt": "2023-03-01T17:49:42.388Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.25.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.27",
+            "number": "27"
+        },
+        "previous": {
+            "id": "LEV.25",
+            "number": "25"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.26",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:42.796Z",
+        "number": "26",
+        "reference": "레위기 26",
+        "updatedAt": "2023-03-01T17:49:42.797Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.26.mp3"
+    },
+    {
+        "next": {
+            "id": "NUM.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "LEV.26",
+            "number": "26"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.27",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:43.199Z",
+        "number": "27",
+        "reference": "레위기 27",
+        "updatedAt": "2023-03-01T17:49:43.199Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.27.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "LEV.2",
+            "number": "2"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.3",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:33.009Z",
+        "number": "3",
+        "reference": "레위기 3",
+        "updatedAt": "2023-03-01T17:49:33.009Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.3.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "LEV.3",
+            "number": "3"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.4",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:33.538Z",
+        "number": "4",
+        "reference": "레위기 4",
+        "updatedAt": "2023-03-01T17:49:33.538Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.4.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "LEV.4",
+            "number": "4"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.5",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:34.059Z",
+        "number": "5",
+        "reference": "레위기 5",
+        "updatedAt": "2023-03-01T17:49:34.059Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.5.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "LEV.5",
+            "number": "5"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.6",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:34.576Z",
+        "number": "6",
+        "reference": "레위기 6",
+        "updatedAt": "2023-03-01T17:49:34.576Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.6.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "LEV.6",
+            "number": "6"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.7",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:35.024Z",
+        "number": "7",
+        "reference": "레위기 7",
+        "updatedAt": "2023-03-01T17:49:35.024Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.7.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "LEV.7",
+            "number": "7"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.8",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:35.451Z",
+        "number": "8",
+        "reference": "레위기 8",
+        "updatedAt": "2023-03-01T17:49:35.451Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.8.mp3"
+    },
+    {
+        "next": {
+            "id": "LEV.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "LEV.8",
+            "number": "8"
+        },
+        "bibleId": "2211d71757bf467a-01",
+        "id": "LEV.9",
+        "bookId": "LEV",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:49:35.858Z",
+        "number": "9",
+        "reference": "레위기 9",
+        "updatedAt": "2023-03-01T17:49:35.859Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/LEV/LEV.9.mp3"
+    }
+]

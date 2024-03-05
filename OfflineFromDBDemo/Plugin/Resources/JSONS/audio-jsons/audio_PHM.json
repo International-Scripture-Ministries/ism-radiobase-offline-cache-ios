@@ -1,14 +1,22 @@
 [
     {
-        "bibleId": "532c4143-068b-43b4-b8db-a65e7d7e3b48",
+        "next": {
+            "id": "HEB.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "TIT.3",
+            "number": "3"
+        },
+        "bibleId": "2211d71757bf467a-01",
         "id": "PHM.1",
-        "audioBible": "63f635d1b2fb9c2e9cfc4f6d",
         "bookId": "PHM",
-        "copyright": "",
-        "createdAt": "2023-02-22T15:34:55.856Z",
+        "copyright": "© 1985 by Biblica, Inc.®",
+        "createdAt": "2023-03-01T17:57:13.081Z",
         "number": "1",
-        "reference": "",
-        "updatedAt": "2023-02-22T15:34:55.856Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/532c4143-068b-43b4-b8db-a65e7d7e3b48/PHM/PHM.1.mp3"
+        "reference": "빌레몬서 1",
+        "updatedAt": "2023-03-01T17:57:13.081Z",
+        "audioBible": "63ff9004cb4929f184e65f50",
+        "url": "https://cdn-cmp-audio.thruthebible.io/2211d71757bf467a-01/PHM/PHM.1.mp3"
     }
 ]
