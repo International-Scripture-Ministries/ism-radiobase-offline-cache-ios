@@ -1,21 +1,21 @@
 [
     {
         "next": {
-            "id": "2KI.1",
+            "id": "3JN.1",
             "number": "1"
         },
         "previous": {
-            "id": "2CO.13",
-            "number": "13"
+            "id": "1JN.5",
+            "number": "5"
         },
-        "bibleId": "d31b536a3f01b1d1-01",
+        "bibleId": "1e917eb2e5eb39ef-01",
         "id": "2JN.1",
         "bookId": "2JN",
-        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
-        "createdAt": "2022-07-14T19:34:47.019Z",
+        "copyright": "New Amharic Standard Version (Addisu Medebegna Tirgum), Audio EditionAudio Copyright ℗ 2017 by Biblica, Inc.®Used by permission of Biblica, Inc.® All rights reserved worldwide. አዲሱ መደበኛ ትርጒም፣ የድምፅ እትምየድምፅ የቅጂ መብት ℗ 2017 በ Biblica, Inc.®ፍቃድ የተሰጠው በ Biblica, Inc.®። መብቱ በሕግ የተጠበቀ። Holy Bible, New Amharic Standard Version (Addisu Medebegna Tirgum)Copyright © 2001 by Biblica, Inc.®Used by permission of Biblica, Inc.® All rights reserved worldwide. መጽሐፍ ቅዱስ፥ አዲሱ መደበኛ ትርጒምየቅጂ መብት © 2001 በ Biblica, Inc.®ፍቃድ የተሰጠው በ Biblica, Inc.®። መብቱ በሕግ የተጠበቀ።",
+        "createdAt": "2023-03-20T21:40:51.766Z",
         "number": "1",
-        "reference": "2 Yohana 1",
-        "updatedAt": "2022-07-14T19:34:47.019Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/2JN/2JN.1.mp3"
+        "reference": "2 ዮሐንስ 1",
+        "updatedAt": "2023-03-20T21:40:51.766Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1e917eb2e5eb39ef-01/2JN/2JN.1.mp3"
     }
 ]
