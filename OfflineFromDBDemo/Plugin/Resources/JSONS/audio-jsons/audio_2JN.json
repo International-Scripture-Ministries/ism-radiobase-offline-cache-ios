@@ -1,21 +1,21 @@
 [
     {
         "next": {
-            "id": "3JN.1",
+            "id": "2KI.1",
             "number": "1"
         },
         "previous": {
-            "id": "1JN.5",
-            "number": "5"
+            "id": "2CO.13",
+            "number": "13"
         },
-        "bibleId": "14b06ff3b2cf5e97-01",
+        "bibleId": "d31b536a3f01b1d1-01",
         "id": "2JN.1",
         "bookId": "2JN",
-        "copyright": "Biblica® Bayibuli Entukuvu, Endagaano Enkadde nʼEndagaano Empya ekwatiddwa ku katambi™, Audio Edition Obwannannyini ℗ 2016 bwa Biblica, Inc. Biblica® Bayibuli Entukuvu, Endagaano Enkadde nʼEndagaano Empya ekwatiddwa ku katambi™ Obwannannyini © 1984, 1986, 1993, 2014 bwa Biblica, Inc. Biblica® Open Luganda Contemporary Bible™, Audio Edition Copyright © 2016 by Biblica, Inc. Biblica® Open Luganda Contemporary Bible™ Copyright © 1984, 1986, 1993, 2014 by Biblica, Inc. “Biblica” Linnya ery’obwannannyini eryawandiisibwa Biblica mu Amerika era nga balina n’ekkakkalabozo, Inc. Bwaweebwa olukusa okulikozesa. “Biblica” is a trademark registered in the United States Patent and Trademark Office by Biblica, Inc. Used with permission.",
-        "createdAt": "2023-03-15T23:46:51.897Z",
+        "copyright": "Kiswahili Contemporary Version, Audio EditionCopyright ℗ 2013 by Biblica, Inc.® Used by permission. All rights reserved worldwide. Kiswahili Contemporary Version (Neno: Biblia Takatifu)Copyright ©1984, 1989, 2009, 2015 by Biblica, Inc.® Used by permission.All Rights Reserved Worldwide Printed.",
+        "createdAt": "2022-07-14T19:34:47.019Z",
         "number": "1",
-        "reference": "2 Yokaana 1",
-        "updatedAt": "2023-03-15T23:46:51.897Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/14b06ff3b2cf5e97-01/2JN/2JN.1.mp3"
+        "reference": "2 Yohana 1",
+        "updatedAt": "2022-07-14T19:34:47.019Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/d31b536a3f01b1d1-01/2JN/2JN.1.mp3"
     }
 ]
