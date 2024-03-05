@@ -48,6 +48,7 @@ class Teaching: Object, Mappable {
         case audio_format_name
         case bible_book
         case bookId
+        case cmp_book_id
         case bible_chapter_end
         case bible_chapter_start
         case bible_verse_end
@@ -86,6 +87,9 @@ class Teaching: Object, Mappable {
         
         //  nil while creating DB but next iterations of fetch queries will always have it.
         bookId <- map[CodingKeys.bookId.rawValue]
+        if bookId.isEmpty {
+            bookId <- map[CodingKeys.cmp_book_id.rawValue]
+        }
         
         bible_chapter_end <- map[CodingKeys.bible_chapter_end.rawValue]
         bible_chapter_start <- map[CodingKeys.bible_chapter_start.rawValue]
