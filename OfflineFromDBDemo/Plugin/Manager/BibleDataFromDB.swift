@@ -514,7 +514,7 @@ extension BibleDataManager {
             let extraTeachings = books.map { Constants.extraTeachingsJsonFilePrefix + $0.id }
 
             self.createVersesInDB(files: verseFileNames)
-            self.createAudiosInDB(files: extraTeachings)
+            self.createAudiosInDB(files: audioFileNames)
             self.addRemainingTeachingsInDB(files: extraTeachings)
         }
     }
