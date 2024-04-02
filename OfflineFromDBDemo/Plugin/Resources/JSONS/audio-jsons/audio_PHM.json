@@ -1,25 +1,18 @@
 [
     {
-        "next": {
-            "id": "HEB.1",
-            "number": "1"
-        },
-        "previous": {
-            "id": "TIT.3",
-            "number": "3"
-        },
-        "_id": "63e529006a0ded2f821599f3",
-        "bibleId": "33283690eb54d55d-01",
+        "_id": "6419e5a542143a1670bf49ba",
+        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
         "id": "PHM.1",
         "__v": 0,
+        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "PHM",
-        "copyright": "Tagalog New Contemporary Version™, Audio Edition (Ang Salita Ng Dios Biblia™) Audio Copyright ℗ 2016, 2019 by Biblica, Inc. Used by permission. All rights reserved worldwide. Tagalog Contemporary Bible™ (Ang Salita ng Dios™) Copyright © 2009, 2011, 2014 by Biblica, Inc. All rights reserved worldwide.",
-        "createdAt": "2023-02-09T17:10:23.999Z",
+        "copyright": "",
+        "createdAt": "2023-03-21T17:13:08.976Z",
         "number": "1",
-        "reference": "Filemon 1",
-        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/33283690eb54d55d-01/release/audio/PHM/PHM_001.mp3?AWSAccessKeyId=ASIAW3FERPLDEB47KNE7&Expires=1675966223&Signature=7TivrijJ%2B0KKB%2BaXSjlpG7seSYM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAUaCXVzLWVhc3QtMSJHMEUCIDjgR1c6LCKdehsCnFrk9%2Fs0mYGi5p1I%2BON7lzcHtFfiAiEAjPaO%2B4pmN3GWJ7f6ZJfAPbIW9c85tQGaS0JagyD2coMq1gQIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDD2EnTXiR1v%2BsnhQByqqBH7CUpXrRKoRAMeaB6nr%2Fc2MiOHe%2F8TS23FLsItM1NZIhsBc44nlc3W5487ptvSIz4CDKeFfu4JF7MyUDw1cvQvPuJCC%2BpUYojScCpWZkXei8jmvv9OlPpCeni%2FBueAPDyk%2BflJYaV8p7fpP2Z2BuXcYKuyyf0CtP2ZhyKUOog1AgeSXUAkAwR3bkwj31SbvcwRRmavzxakduPPdF4dxrZ3jsgrEiocHqM50MH1A27pEW1QiyAqfcabXePtEqR8idkXOkwU9jixsoRhNlYfrAHyjR7UODmZPntJwNtnf7%2BLBRkLM03g%2FMm8kiH6SLLeXf%2Be4moaGYQjwt6IkkPt33XdYCMkJVIGSs%2BAvrCMmM6%2FVG33ujmDx6Mzj5Rh9NZmd2PgfJ75MPdd%2B9ATkua4Xqhi%2F%2F4HqDS6XyTDmnFZzpvubd9wYf%2FwW%2FsX3%2FnvpQn5Yg7cq41ESWkvCxpDGCSjLIjCsslD4YiF%2B82Qee2RrsLDNce0RjjkMe4yVS1uQMgTMG93kWOxCqgPa0iDJ%2BkZUXFjY6OXfXgyct%2BbUl3fXsaxdfafsQXHrXjoDySLNHXNV7hEnMmjIFXLta5yvI7TxUL%2FuBZM6K8iDZxMjshVNoGJ%2BY3s0upLDKQTgWv7LlGxHPOeqxwik8M%2FUkANe8SXyFLl9oetu6BWBPZT5J1ltIkp42%2B9%2BvJkl%2BuV7YbUB%2BXMAXzFAKhPtJ2ua3lBfGMAPeuODPlwrjTMtXuJWMJ%2FKk58GOqkBPYlZ1AQXOLBMOxsqHSyiEE8KAabVCbfhIii%2BPwZWEO1jRhFnJgyVfbSZkJe3wWRCOEsvwZZ1Re5J1m7sk8P6ygh%2Fu6gxZgnKmjs8BqxrN%2BEXJlGDHhxMJLAEZ7NVGgoOUL7bMILD9BK9%2BqSkb%2Ffm%2FP6VsV5PvQsA8YD4j1%2BqESQi60%2FgAoSMLPFmnzAkN%2FM%2Brf5aXPf7LQhgzndUnBz0GrAd0TkKPO7bsA%3D%3D",
-        "updatedAt": "2023-02-09T17:10:23.999Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/33283690eb54d55d-01/PHM/PHM.1.mp3",
+        "reference": "",
+        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B18___01_Philemon____THATSVN1DA.mp3?x-amz-transaction=9146485&Expires=1679505188&Signature=L3IfKRYr26erHgEXobM97HjgqjY11-s1L58V8UkoQRzkT09KVwqan-YCIvhMGbIgHCe62PDqPUrUv-uBLgurETmCLjMuFyBxzV8TY0zOc6r0F1Yc5TJZbkZ5htfFbDVz64jIxNmOS1U-8DzKXEh3gr0He-07s05eNtCmmZf3sH8MuOQQOkA8W6a2fZqcRXJfb3R2hAB8nPpJj4ILzdneqh87729GjUXwh-RqeMUdGQR0asSHXfBTkuBprDLZB7uvT~Z425DFciJTtRzJTfnP0dKGuH5D682mbiJQzNz31f2fEEGnB~QEHodprwr3ocPv8eVV3gpbpE3Cs8BSSwODZw__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+        "updatedAt": "2023-03-21T17:13:08.976Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/PHM/PHM.1.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PHM.png"
     }
 ]

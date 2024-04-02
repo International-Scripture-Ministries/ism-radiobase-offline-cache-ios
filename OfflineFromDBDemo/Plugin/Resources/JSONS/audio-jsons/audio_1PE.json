@@ -1,117 +1,82 @@
 [
     {
-        "next": {
-            "id": "1PE.2",
-            "number": "2"
-        },
-        "previous": {
-            "id": "JAS.5",
-            "number": "5"
-        },
-        "_id": "63e529096a0ded2f8215b517",
-        "bibleId": "33283690eb54d55d-01",
+        "_id": "6419e5a942143a1670bf540a",
+        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
         "id": "1PE.1",
         "__v": 0,
+        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "1PE",
-        "copyright": "Tagalog New Contemporary Version™, Audio Edition (Ang Salita Ng Dios Biblia™) Audio Copyright ℗ 2016, 2019 by Biblica, Inc. Used by permission. All rights reserved worldwide. Tagalog Contemporary Bible™ (Ang Salita ng Dios™) Copyright © 2009, 2011, 2014 by Biblica, Inc. All rights reserved worldwide.",
-        "createdAt": "2023-02-09T17:10:33.340Z",
+        "copyright": "",
+        "createdAt": "2023-03-21T17:13:12.974Z",
         "number": "1",
-        "reference": "1 Pedro 1",
-        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/33283690eb54d55d-01/release/audio/1PE/1PE_001.mp3?AWSAccessKeyId=ASIAW3FERPLDEB47KNE7&Expires=1675966233&Signature=hhqSFgDAWxOLLfAOtJC7U%2Fizo%2FE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAUaCXVzLWVhc3QtMSJHMEUCIDjgR1c6LCKdehsCnFrk9%2Fs0mYGi5p1I%2BON7lzcHtFfiAiEAjPaO%2B4pmN3GWJ7f6ZJfAPbIW9c85tQGaS0JagyD2coMq1gQIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDD2EnTXiR1v%2BsnhQByqqBH7CUpXrRKoRAMeaB6nr%2Fc2MiOHe%2F8TS23FLsItM1NZIhsBc44nlc3W5487ptvSIz4CDKeFfu4JF7MyUDw1cvQvPuJCC%2BpUYojScCpWZkXei8jmvv9OlPpCeni%2FBueAPDyk%2BflJYaV8p7fpP2Z2BuXcYKuyyf0CtP2ZhyKUOog1AgeSXUAkAwR3bkwj31SbvcwRRmavzxakduPPdF4dxrZ3jsgrEiocHqM50MH1A27pEW1QiyAqfcabXePtEqR8idkXOkwU9jixsoRhNlYfrAHyjR7UODmZPntJwNtnf7%2BLBRkLM03g%2FMm8kiH6SLLeXf%2Be4moaGYQjwt6IkkPt33XdYCMkJVIGSs%2BAvrCMmM6%2FVG33ujmDx6Mzj5Rh9NZmd2PgfJ75MPdd%2B9ATkua4Xqhi%2F%2F4HqDS6XyTDmnFZzpvubd9wYf%2FwW%2FsX3%2FnvpQn5Yg7cq41ESWkvCxpDGCSjLIjCsslD4YiF%2B82Qee2RrsLDNce0RjjkMe4yVS1uQMgTMG93kWOxCqgPa0iDJ%2BkZUXFjY6OXfXgyct%2BbUl3fXsaxdfafsQXHrXjoDySLNHXNV7hEnMmjIFXLta5yvI7TxUL%2FuBZM6K8iDZxMjshVNoGJ%2BY3s0upLDKQTgWv7LlGxHPOeqxwik8M%2FUkANe8SXyFLl9oetu6BWBPZT5J1ltIkp42%2B9%2BvJkl%2BuV7YbUB%2BXMAXzFAKhPtJ2ua3lBfGMAPeuODPlwrjTMtXuJWMJ%2FKk58GOqkBPYlZ1AQXOLBMOxsqHSyiEE8KAabVCbfhIii%2BPwZWEO1jRhFnJgyVfbSZkJe3wWRCOEsvwZZ1Re5J1m7sk8P6ygh%2Fu6gxZgnKmjs8BqxrN%2BEXJlGDHhxMJLAEZ7NVGgoOUL7bMILD9BK9%2BqSkb%2Ffm%2FP6VsV5PvQsA8YD4j1%2BqESQi60%2FgAoSMLPFmnzAkN%2FM%2Brf5aXPf7LQhgzndUnBz0GrAd0TkKPO7bsA%3D%3D",
-        "updatedAt": "2023-02-09T17:10:33.340Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/33283690eb54d55d-01/1PE/1PE.1.mp3",
+        "reference": "",
+        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B21___01_1Peter______THATSVN1DA.mp3?x-amz-transaction=3390562&Expires=1679505192&Signature=Cdy0NYjnJ3XSa3eo~rdfIwr0USHIL580QmLFyN9jYHBprwQXvhhD~JP3L2~OZZW3tihNE6JQS-06Ayu5qaeruhnfY2SblvldI3TIsh5~cE5TTyDmCWv1BUnQYijFw0DgpHwbSzMI9b277olxp~eKPzqwpk5ynCWLDSRVx9ku6ZVr2EatdqNv03aWR7gPn~F5Yy8CSEkSZONOWAR~8TdZKpXnALb6MhT55jrflWakrv2HU7ycK-axPWH-5Hr1AF4ZHz8mCcr0yvNTHB6qA02SzSoDoq8ULKNz-~i-pZQoay~CvvH9LQsNKK0F4UDmf9pVd4JTg4XUQvzZvVwNuWgTMQ__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+        "updatedAt": "2023-03-21T17:13:12.974Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/1PE/1PE.1.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1PE.png"
     },
     {
-        "next": {
-            "id": "1PE.3",
-            "number": "3"
-        },
-        "previous": {
-            "id": "1PE.1",
-            "number": "1"
-        },
-        "_id": "63e529096a0ded2f8215b5f1",
-        "bibleId": "33283690eb54d55d-01",
+        "_id": "6419e5a942143a1670bf54be",
+        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
         "id": "1PE.2",
         "__v": 0,
+        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "1PE",
-        "copyright": "Tagalog New Contemporary Version™, Audio Edition (Ang Salita Ng Dios Biblia™) Audio Copyright ℗ 2016, 2019 by Biblica, Inc. Used by permission. All rights reserved worldwide. Tagalog Contemporary Bible™ (Ang Salita ng Dios™) Copyright © 2009, 2011, 2014 by Biblica, Inc. All rights reserved worldwide.",
-        "createdAt": "2023-02-09T17:10:33.699Z",
+        "copyright": "",
+        "createdAt": "2023-03-21T17:13:13.205Z",
         "number": "2",
-        "reference": "1 Pedro 2",
-        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/33283690eb54d55d-01/release/audio/1PE/1PE_002.mp3?AWSAccessKeyId=ASIAW3FERPLDIKBBYTJ4&Expires=1675966233&Signature=VjPyzShj4RqjE%2Bm0WwVJ%2BumniKk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAQaCXVzLWVhc3QtMSJHMEUCIQCkzaJdM6tIX14LHfffktBTMcVBW66ypCXK%2BdRqeA%2BvhwIgf1WUvf9NiXOaxb7mHv2GHspwvD%2FweZvXj2CH5GsJ9zkq1QQIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDMElDYarfLPV9R5ArSqpBD3AGvhj8z%2Bhye40QHlajHsTMTLt9kGZdJpeyXdPMqOO91rvoRhbL5kfhG1r3AJfqF%2F34%2FOr0Vu5ZydIrofqCv6vKBIbCDoLUh5us2ZCGryEVdLDc%2FuzsjEi5bTjAJNN0u2qeaEtupZ1lg8dx261dfVLdRa7%2BZPGCmY7rcWTGiDZf0e4bHC%2FvX%2FNBUpr9%2B79G9scYyAFhXG9llaKzrsiRUF%2BS0UxWgdmPZfV7btop7lEriz0l0kO%2BXBF8ASO3SsigQnSJWfSPp5RzfhumM4P8NTjUX9BmKzEwRYCO78Ve9N33iodMo1r6iPit43hJ8mPGuXbSMQjNUJpokpEkPea0O1F0KaXiBK3WoEXBI%2B45VBg0xAlGOI%2Fk3ZHdc5v61X9Rdnum%2BwydVOCKN15Gef24hxSwQw3FARbGnEa3qWInqYmO1kHKbkUzb9IJ9wwduCkI%2FeqOl8vhlBwFZwsfvyEALHxIOJ0l00%2FmuNtHe3JFwydY2zzgfaxsnnF%2FA2xLfJbs1zq%2BTL62klwe5Lz65%2BUanZk1YLEmKdgEKzOEa5AfpxWjfYfmkrqy8BdFIzRVZzbUmo%2F3ZshUN4QoArAggCM5mP50%2BYUmPgxO8Luez3KzavHGJseC2G0j4hkdBgcPd1TNV4m%2FaMRY6QUFr9jktkOsiIOgMmNb3yuE9ecKlP%2BzfXGD%2BugK6HZS6tkohY%2FBiMl7TMo%2FnOV8yXOKbeDXb%2FahX6A1Hofr66QpU4wr7WTnwY6qQEUN8ao6zuOFzidVOcm%2F0H2aM%2BT0b6SPLGBaazrf5nRUxfgV9%2BH0SjKCT3Dc4fZCcDaxs%2B1zDqoT6QOChEqfeTAO186bz0LAQYQaWB%2F4SwlgZAnGDcvBh4HVAah2UJy7TR4MsUSbM2afTbQjS6lgLUzBva%2FirDIOsiOh1YE8fOkl74aWQwTF7T%2FAqsFu9xej4NXpKaBM%2BfyPK98zU9kku%2BLvflB85b%2FLd1y",
-        "updatedAt": "2023-02-09T17:10:33.699Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/33283690eb54d55d-01/1PE/1PE.2.mp3",
+        "reference": "",
+        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B21___02_1Peter______THATSVN1DA.mp3?x-amz-transaction=8376160&Expires=1679505193&Signature=f5yyAOCVZb3-vma614owHb6Cj1zihkVi1v40m9cI~iaTWa2Ojxn7Nwq~TmxsWQRXJfFnrMl-9u67LkWdKwG8aKUqTR7g82HZCeeQWC5B1JeGj5ZOKvbEOyMA~fqU93jPWrA7aMR1B4ERudAdOPVcRqHgsR4u2msI2bZzIgACA-fvTbLrCL8LvVBurJVhpEoOw6QAaLqqqJZnXD5fnT17WSdoEeNzZjGA3hkm0-KvbFl2JoqCFsYzQqFvP3vMKGxPEdzG6wSd3yn7Jj-GvwKM~-M49EWhwmkxIAwaE9qY0Wvvsf09c0ppGJraFVcrCDvuwjG-yA2-LsYqyWOPrJknOg__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+        "updatedAt": "2023-03-21T17:13:13.206Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/1PE/1PE.2.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1PE.png"
     },
     {
-        "next": {
-            "id": "1PE.4",
-            "number": "4"
-        },
-        "previous": {
-            "id": "1PE.2",
-            "number": "2"
-        },
-        "_id": "63e5290a6a0ded2f8215b76e",
-        "bibleId": "33283690eb54d55d-01",
+        "_id": "6419e5a942143a1670bf54e1",
+        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
         "id": "1PE.3",
         "__v": 0,
+        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "1PE",
-        "copyright": "Tagalog New Contemporary Version™, Audio Edition (Ang Salita Ng Dios Biblia™) Audio Copyright ℗ 2016, 2019 by Biblica, Inc. Used by permission. All rights reserved worldwide. Tagalog Contemporary Bible™ (Ang Salita ng Dios™) Copyright © 2009, 2011, 2014 by Biblica, Inc. All rights reserved worldwide.",
-        "createdAt": "2023-02-09T17:10:34.117Z",
+        "copyright": "",
+        "createdAt": "2023-03-21T17:13:13.397Z",
         "number": "3",
-        "reference": "1 Pedro 3",
-        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/33283690eb54d55d-01/release/audio/1PE/1PE_003.mp3?AWSAccessKeyId=ASIAW3FERPLDIKBBYTJ4&Expires=1675966234&Signature=jErRWRJmThS7juBEmnTPucGSOM8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAQaCXVzLWVhc3QtMSJHMEUCIQCkzaJdM6tIX14LHfffktBTMcVBW66ypCXK%2BdRqeA%2BvhwIgf1WUvf9NiXOaxb7mHv2GHspwvD%2FweZvXj2CH5GsJ9zkq1QQIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDMElDYarfLPV9R5ArSqpBD3AGvhj8z%2Bhye40QHlajHsTMTLt9kGZdJpeyXdPMqOO91rvoRhbL5kfhG1r3AJfqF%2F34%2FOr0Vu5ZydIrofqCv6vKBIbCDoLUh5us2ZCGryEVdLDc%2FuzsjEi5bTjAJNN0u2qeaEtupZ1lg8dx261dfVLdRa7%2BZPGCmY7rcWTGiDZf0e4bHC%2FvX%2FNBUpr9%2B79G9scYyAFhXG9llaKzrsiRUF%2BS0UxWgdmPZfV7btop7lEriz0l0kO%2BXBF8ASO3SsigQnSJWfSPp5RzfhumM4P8NTjUX9BmKzEwRYCO78Ve9N33iodMo1r6iPit43hJ8mPGuXbSMQjNUJpokpEkPea0O1F0KaXiBK3WoEXBI%2B45VBg0xAlGOI%2Fk3ZHdc5v61X9Rdnum%2BwydVOCKN15Gef24hxSwQw3FARbGnEa3qWInqYmO1kHKbkUzb9IJ9wwduCkI%2FeqOl8vhlBwFZwsfvyEALHxIOJ0l00%2FmuNtHe3JFwydY2zzgfaxsnnF%2FA2xLfJbs1zq%2BTL62klwe5Lz65%2BUanZk1YLEmKdgEKzOEa5AfpxWjfYfmkrqy8BdFIzRVZzbUmo%2F3ZshUN4QoArAggCM5mP50%2BYUmPgxO8Luez3KzavHGJseC2G0j4hkdBgcPd1TNV4m%2FaMRY6QUFr9jktkOsiIOgMmNb3yuE9ecKlP%2BzfXGD%2BugK6HZS6tkohY%2FBiMl7TMo%2FnOV8yXOKbeDXb%2FahX6A1Hofr66QpU4wr7WTnwY6qQEUN8ao6zuOFzidVOcm%2F0H2aM%2BT0b6SPLGBaazrf5nRUxfgV9%2BH0SjKCT3Dc4fZCcDaxs%2B1zDqoT6QOChEqfeTAO186bz0LAQYQaWB%2F4SwlgZAnGDcvBh4HVAah2UJy7TR4MsUSbM2afTbQjS6lgLUzBva%2FirDIOsiOh1YE8fOkl74aWQwTF7T%2FAqsFu9xej4NXpKaBM%2BfyPK98zU9kku%2BLvflB85b%2FLd1y",
-        "updatedAt": "2023-02-09T17:10:34.117Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/33283690eb54d55d-01/1PE/1PE.3.mp3",
+        "reference": "",
+        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B21___03_1Peter______THATSVN1DA.mp3?x-amz-transaction=2587696&Expires=1679505193&Signature=BhAwEarn7gEzR822fGv0GJizz7uSiw41epZ5mNysFZPSouvPD~DZhRdHgetGJGVvrbQmg2Go8ILLLKhm8U93PU4f4EGMIWIlDnrqFhEKsCTIfYNEe0XLAsm713BMxFdvhFT78uO7ab9uYe2SXVjr~am-w8fsv~v1H7VemeRWHKi6RbUUl6mxYjt~6uY5JIj6yCDfbv0i88XlDEFZg21g2cosDGtMH0XpKBZvJRJmpGrq9IgaJ2bwiMnoKe1yC3-QSLio57pKLKSsl4Em-jScomjRd1tGnOpoJf52T59O-j0jbBZ03tPvxCIMuS~tfXB0B8GgTa-q3IH9YSPfUIyS7Q__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+        "updatedAt": "2023-03-21T17:13:13.397Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/1PE/1PE.3.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1PE.png"
     },
     {
-        "next": {
-            "id": "1PE.5",
-            "number": "5"
-        },
-        "previous": {
-            "id": "1PE.3",
-            "number": "3"
-        },
-        "_id": "63e5290a6a0ded2f8215b897",
-        "bibleId": "33283690eb54d55d-01",
+        "_id": "6419e5a942143a1670bf554f",
+        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
         "id": "1PE.4",
         "__v": 0,
+        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "1PE",
-        "copyright": "Tagalog New Contemporary Version™, Audio Edition (Ang Salita Ng Dios Biblia™) Audio Copyright ℗ 2016, 2019 by Biblica, Inc. Used by permission. All rights reserved worldwide. Tagalog Contemporary Bible™ (Ang Salita ng Dios™) Copyright © 2009, 2011, 2014 by Biblica, Inc. All rights reserved worldwide.",
-        "createdAt": "2023-02-09T17:10:34.513Z",
+        "copyright": "",
+        "createdAt": "2023-03-21T17:13:13.649Z",
         "number": "4",
-        "reference": "1 Pedro 4",
-        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/33283690eb54d55d-01/release/audio/1PE/1PE_004.mp3?AWSAccessKeyId=ASIAW3FERPLDEB47KNE7&Expires=1675966234&Signature=w2e7Rv2dOckYkj3GPVkCRhmShHQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAUaCXVzLWVhc3QtMSJHMEUCIDjgR1c6LCKdehsCnFrk9%2Fs0mYGi5p1I%2BON7lzcHtFfiAiEAjPaO%2B4pmN3GWJ7f6ZJfAPbIW9c85tQGaS0JagyD2coMq1gQIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDD2EnTXiR1v%2BsnhQByqqBH7CUpXrRKoRAMeaB6nr%2Fc2MiOHe%2F8TS23FLsItM1NZIhsBc44nlc3W5487ptvSIz4CDKeFfu4JF7MyUDw1cvQvPuJCC%2BpUYojScCpWZkXei8jmvv9OlPpCeni%2FBueAPDyk%2BflJYaV8p7fpP2Z2BuXcYKuyyf0CtP2ZhyKUOog1AgeSXUAkAwR3bkwj31SbvcwRRmavzxakduPPdF4dxrZ3jsgrEiocHqM50MH1A27pEW1QiyAqfcabXePtEqR8idkXOkwU9jixsoRhNlYfrAHyjR7UODmZPntJwNtnf7%2BLBRkLM03g%2FMm8kiH6SLLeXf%2Be4moaGYQjwt6IkkPt33XdYCMkJVIGSs%2BAvrCMmM6%2FVG33ujmDx6Mzj5Rh9NZmd2PgfJ75MPdd%2B9ATkua4Xqhi%2F%2F4HqDS6XyTDmnFZzpvubd9wYf%2FwW%2FsX3%2FnvpQn5Yg7cq41ESWkvCxpDGCSjLIjCsslD4YiF%2B82Qee2RrsLDNce0RjjkMe4yVS1uQMgTMG93kWOxCqgPa0iDJ%2BkZUXFjY6OXfXgyct%2BbUl3fXsaxdfafsQXHrXjoDySLNHXNV7hEnMmjIFXLta5yvI7TxUL%2FuBZM6K8iDZxMjshVNoGJ%2BY3s0upLDKQTgWv7LlGxHPOeqxwik8M%2FUkANe8SXyFLl9oetu6BWBPZT5J1ltIkp42%2B9%2BvJkl%2BuV7YbUB%2BXMAXzFAKhPtJ2ua3lBfGMAPeuODPlwrjTMtXuJWMJ%2FKk58GOqkBPYlZ1AQXOLBMOxsqHSyiEE8KAabVCbfhIii%2BPwZWEO1jRhFnJgyVfbSZkJe3wWRCOEsvwZZ1Re5J1m7sk8P6ygh%2Fu6gxZgnKmjs8BqxrN%2BEXJlGDHhxMJLAEZ7NVGgoOUL7bMILD9BK9%2BqSkb%2Ffm%2FP6VsV5PvQsA8YD4j1%2BqESQi60%2FgAoSMLPFmnzAkN%2FM%2Brf5aXPf7LQhgzndUnBz0GrAd0TkKPO7bsA%3D%3D",
-        "updatedAt": "2023-02-09T17:10:34.513Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/33283690eb54d55d-01/1PE/1PE.4.mp3",
+        "reference": "",
+        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B21___04_1Peter______THATSVN1DA.mp3?x-amz-transaction=84731&Expires=1679505193&Signature=L9XgCIej0oEuourd1F3yKYZ3oo243gh3zpMg2i4FVU1BhV139eD9vLof2gedOHGDiRFF1SlRueDUm4UoGnWrgSn6lvIkoK~M0wpn-MkOBLXt011fryI7TFG0rm8jJQfFmb3pzhIdAHtJkfzJtynLJlQIq6gomFTJtPIgxsjL4zA~f7rJzvyJdzQGTu6SaxWp6TG4Ms8l1g8oL3tPoKevjR6iPI9zsdw-a4qzAoNwvxtV4pVKYSGpLi37gZZuOZqKXWGRiVirX3rnCbrqkhknUl-6yTD-1ASaCEh~i-Par9yhx5ZT39PpTYZ~YwL-1qIu29oeZ-mGSLphzR52kYxqIg__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+        "updatedAt": "2023-03-21T17:13:13.649Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/1PE/1PE.4.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1PE.png"
     },
     {
-        "next": {
-            "id": "2PE.1",
-            "number": "1"
-        },
-        "previous": {
-            "id": "1PE.4",
-            "number": "4"
-        },
-        "_id": "63e5290a6a0ded2f8215ba18",
-        "bibleId": "33283690eb54d55d-01",
+        "_id": "6419e5a942143a1670bf55f7",
+        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
         "id": "1PE.5",
         "__v": 0,
+        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "1PE",
-        "copyright": "Tagalog New Contemporary Version™, Audio Edition (Ang Salita Ng Dios Biblia™) Audio Copyright ℗ 2016, 2019 by Biblica, Inc. Used by permission. All rights reserved worldwide. Tagalog Contemporary Bible™ (Ang Salita ng Dios™) Copyright © 2009, 2011, 2014 by Biblica, Inc. All rights reserved worldwide.",
-        "createdAt": "2023-02-09T17:10:34.911Z",
+        "copyright": "",
+        "createdAt": "2023-03-21T17:13:13.812Z",
         "number": "5",
-        "reference": "1 Pedro 5",
-        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/33283690eb54d55d-01/release/audio/1PE/1PE_005.mp3?AWSAccessKeyId=ASIAW3FERPLDEB47KNE7&Expires=1675966234&Signature=BNueKHi6kEhMiTnNPWqAQw8aNJY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAUaCXVzLWVhc3QtMSJHMEUCIDjgR1c6LCKdehsCnFrk9%2Fs0mYGi5p1I%2BON7lzcHtFfiAiEAjPaO%2B4pmN3GWJ7f6ZJfAPbIW9c85tQGaS0JagyD2coMq1gQIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDD2EnTXiR1v%2BsnhQByqqBH7CUpXrRKoRAMeaB6nr%2Fc2MiOHe%2F8TS23FLsItM1NZIhsBc44nlc3W5487ptvSIz4CDKeFfu4JF7MyUDw1cvQvPuJCC%2BpUYojScCpWZkXei8jmvv9OlPpCeni%2FBueAPDyk%2BflJYaV8p7fpP2Z2BuXcYKuyyf0CtP2ZhyKUOog1AgeSXUAkAwR3bkwj31SbvcwRRmavzxakduPPdF4dxrZ3jsgrEiocHqM50MH1A27pEW1QiyAqfcabXePtEqR8idkXOkwU9jixsoRhNlYfrAHyjR7UODmZPntJwNtnf7%2BLBRkLM03g%2FMm8kiH6SLLeXf%2Be4moaGYQjwt6IkkPt33XdYCMkJVIGSs%2BAvrCMmM6%2FVG33ujmDx6Mzj5Rh9NZmd2PgfJ75MPdd%2B9ATkua4Xqhi%2F%2F4HqDS6XyTDmnFZzpvubd9wYf%2FwW%2FsX3%2FnvpQn5Yg7cq41ESWkvCxpDGCSjLIjCsslD4YiF%2B82Qee2RrsLDNce0RjjkMe4yVS1uQMgTMG93kWOxCqgPa0iDJ%2BkZUXFjY6OXfXgyct%2BbUl3fXsaxdfafsQXHrXjoDySLNHXNV7hEnMmjIFXLta5yvI7TxUL%2FuBZM6K8iDZxMjshVNoGJ%2BY3s0upLDKQTgWv7LlGxHPOeqxwik8M%2FUkANe8SXyFLl9oetu6BWBPZT5J1ltIkp42%2B9%2BvJkl%2BuV7YbUB%2BXMAXzFAKhPtJ2ua3lBfGMAPeuODPlwrjTMtXuJWMJ%2FKk58GOqkBPYlZ1AQXOLBMOxsqHSyiEE8KAabVCbfhIii%2BPwZWEO1jRhFnJgyVfbSZkJe3wWRCOEsvwZZ1Re5J1m7sk8P6ygh%2Fu6gxZgnKmjs8BqxrN%2BEXJlGDHhxMJLAEZ7NVGgoOUL7bMILD9BK9%2BqSkb%2Ffm%2FP6VsV5PvQsA8YD4j1%2BqESQi60%2FgAoSMLPFmnzAkN%2FM%2Brf5aXPf7LQhgzndUnBz0GrAd0TkKPO7bsA%3D%3D",
-        "updatedAt": "2023-02-09T17:10:34.911Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/33283690eb54d55d-01/1PE/1PE.5.mp3",
+        "reference": "",
+        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B21___05_1Peter______THATSVN1DA.mp3?x-amz-transaction=9992172&Expires=1679505193&Signature=IktvHGEowdat2EqyLFI1poyNNhTIkEzDHCscx2MlWR3SBOAb9Tzv3TFBwzmZDGv6H2TcjSgs~iQJ~aNfyj9rBwoptAPA--jhpvOgoo2Tz2ytHPWcS7lAub~pfwv-j0y16qz9GGftcwQlu7xqRQJvYkx~ob8YSuujpCkHCIWnv5gkfUKw03oujQhr6eZacRfvoyNhy6ZZZBqy1F8P7Lte~fiOnNCFTzjzvROcCkKOw9NRfsfnnOGeKmcWUhj6fWlf2AjsF-fXG3rmhK1nl4KijANVNZUHz4EiVhunOshgnVX09gae3GENkFRQjoaJFy-hFBfrSN~M4XqR1wYfdOjAMQ__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+        "updatedAt": "2023-03-21T17:13:13.812Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/1PE/1PE.5.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1PE.png"
     }
 ]

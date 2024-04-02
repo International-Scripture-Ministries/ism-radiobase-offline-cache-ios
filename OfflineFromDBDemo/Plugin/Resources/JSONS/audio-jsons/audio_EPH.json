@@ -1,140 +1,98 @@
 [
     {
-        "next": {
-            "id": "EPH.2",
-            "number": "2"
-        },
-        "previous": {
-            "id": "GAL.6",
-            "number": "6"
-        },
-        "_id": "63e528ed6a0ded2f82156751",
-        "bibleId": "33283690eb54d55d-01",
+        "_id": "6419e59d42143a1670bf352c",
+        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
         "id": "EPH.1",
         "__v": 0,
+        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "EPH",
-        "copyright": "Tagalog New Contemporary Version™, Audio Edition (Ang Salita Ng Dios Biblia™) Audio Copyright ℗ 2016, 2019 by Biblica, Inc. Used by permission. All rights reserved worldwide. Tagalog Contemporary Bible™ (Ang Salita ng Dios™) Copyright © 2009, 2011, 2014 by Biblica, Inc. All rights reserved worldwide.",
-        "createdAt": "2023-02-09T17:10:04.995Z",
+        "copyright": "",
+        "createdAt": "2023-03-21T17:13:01.163Z",
         "number": "1",
-        "reference": "Efeso 1",
-        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/33283690eb54d55d-01/release/audio/EPH/EPH_001.mp3?AWSAccessKeyId=ASIAW3FERPLDIKBBYTJ4&Expires=1675966204&Signature=ej4rq7JFi2tcbhZ6q1AYLR7EmVM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAQaCXVzLWVhc3QtMSJHMEUCIQCkzaJdM6tIX14LHfffktBTMcVBW66ypCXK%2BdRqeA%2BvhwIgf1WUvf9NiXOaxb7mHv2GHspwvD%2FweZvXj2CH5GsJ9zkq1QQIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDMElDYarfLPV9R5ArSqpBD3AGvhj8z%2Bhye40QHlajHsTMTLt9kGZdJpeyXdPMqOO91rvoRhbL5kfhG1r3AJfqF%2F34%2FOr0Vu5ZydIrofqCv6vKBIbCDoLUh5us2ZCGryEVdLDc%2FuzsjEi5bTjAJNN0u2qeaEtupZ1lg8dx261dfVLdRa7%2BZPGCmY7rcWTGiDZf0e4bHC%2FvX%2FNBUpr9%2B79G9scYyAFhXG9llaKzrsiRUF%2BS0UxWgdmPZfV7btop7lEriz0l0kO%2BXBF8ASO3SsigQnSJWfSPp5RzfhumM4P8NTjUX9BmKzEwRYCO78Ve9N33iodMo1r6iPit43hJ8mPGuXbSMQjNUJpokpEkPea0O1F0KaXiBK3WoEXBI%2B45VBg0xAlGOI%2Fk3ZHdc5v61X9Rdnum%2BwydVOCKN15Gef24hxSwQw3FARbGnEa3qWInqYmO1kHKbkUzb9IJ9wwduCkI%2FeqOl8vhlBwFZwsfvyEALHxIOJ0l00%2FmuNtHe3JFwydY2zzgfaxsnnF%2FA2xLfJbs1zq%2BTL62klwe5Lz65%2BUanZk1YLEmKdgEKzOEa5AfpxWjfYfmkrqy8BdFIzRVZzbUmo%2F3ZshUN4QoArAggCM5mP50%2BYUmPgxO8Luez3KzavHGJseC2G0j4hkdBgcPd1TNV4m%2FaMRY6QUFr9jktkOsiIOgMmNb3yuE9ecKlP%2BzfXGD%2BugK6HZS6tkohY%2FBiMl7TMo%2FnOV8yXOKbeDXb%2FahX6A1Hofr66QpU4wr7WTnwY6qQEUN8ao6zuOFzidVOcm%2F0H2aM%2BT0b6SPLGBaazrf5nRUxfgV9%2BH0SjKCT3Dc4fZCcDaxs%2B1zDqoT6QOChEqfeTAO186bz0LAQYQaWB%2F4SwlgZAnGDcvBh4HVAah2UJy7TR4MsUSbM2afTbQjS6lgLUzBva%2FirDIOsiOh1YE8fOkl74aWQwTF7T%2FAqsFu9xej4NXpKaBM%2BfyPK98zU9kku%2BLvflB85b%2FLd1y",
-        "updatedAt": "2023-02-09T17:10:04.995Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/33283690eb54d55d-01/EPH/EPH.1.mp3",
+        "reference": "",
+        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B10___01_Ephesians___THATSVN1DA.mp3?x-amz-transaction=4805450&Expires=1679505181&Signature=DKJkHb1ZAm7R8Bw1h99IEe3e6mZZLkuaU7JVUiXDfvkrAqCtGwcD79l8RzAOQvJpxKjXH60lI-cS~IQhx4H8T5ly2viFQJeMWJrv5RyOLNzbfvehBNcrjzbTAcmRDE4gvO~JS8WTsgwEgDCceR5VaUgLfjxVxMIJYPcAER2waOYfScAjKlmEkeE2EO2I1jTIZTR0cw3RL5V6JUbpcN38sxhKc6MGLx38UT~V3~PaS6WKhcbW0v~-z3MufmWQJlNrrK9bK1LzQM-RxC-S0S0W0uQNZlqgTCm8Qw~oOMys9KsyoOIZ5ICa4K0IPznbWuPIVXLlPMQZappDUKNtmvLTOg__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+        "updatedAt": "2023-03-21T17:13:01.163Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/EPH/EPH.1.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EPH.png"
     },
     {
-        "next": {
-            "id": "EPH.3",
-            "number": "3"
-        },
-        "previous": {
-            "id": "EPH.1",
-            "number": "1"
-        },
-        "_id": "63e528ed6a0ded2f82156878",
-        "bibleId": "33283690eb54d55d-01",
+        "_id": "6419e59d42143a1670bf354f",
+        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
         "id": "EPH.2",
         "__v": 0,
+        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "EPH",
-        "copyright": "Tagalog New Contemporary Version™, Audio Edition (Ang Salita Ng Dios Biblia™) Audio Copyright ℗ 2016, 2019 by Biblica, Inc. Used by permission. All rights reserved worldwide. Tagalog Contemporary Bible™ (Ang Salita ng Dios™) Copyright © 2009, 2011, 2014 by Biblica, Inc. All rights reserved worldwide.",
-        "createdAt": "2023-02-09T17:10:05.380Z",
+        "copyright": "",
+        "createdAt": "2023-03-21T17:13:01.320Z",
         "number": "2",
-        "reference": "Efeso 2",
-        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/33283690eb54d55d-01/release/audio/EPH/EPH_002.mp3?AWSAccessKeyId=ASIAW3FERPLDEB47KNE7&Expires=1675966205&Signature=zfHbLKInEx%2FlmJXM35Dlbe1Mg2o%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAUaCXVzLWVhc3QtMSJHMEUCIDjgR1c6LCKdehsCnFrk9%2Fs0mYGi5p1I%2BON7lzcHtFfiAiEAjPaO%2B4pmN3GWJ7f6ZJfAPbIW9c85tQGaS0JagyD2coMq1gQIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDD2EnTXiR1v%2BsnhQByqqBH7CUpXrRKoRAMeaB6nr%2Fc2MiOHe%2F8TS23FLsItM1NZIhsBc44nlc3W5487ptvSIz4CDKeFfu4JF7MyUDw1cvQvPuJCC%2BpUYojScCpWZkXei8jmvv9OlPpCeni%2FBueAPDyk%2BflJYaV8p7fpP2Z2BuXcYKuyyf0CtP2ZhyKUOog1AgeSXUAkAwR3bkwj31SbvcwRRmavzxakduPPdF4dxrZ3jsgrEiocHqM50MH1A27pEW1QiyAqfcabXePtEqR8idkXOkwU9jixsoRhNlYfrAHyjR7UODmZPntJwNtnf7%2BLBRkLM03g%2FMm8kiH6SLLeXf%2Be4moaGYQjwt6IkkPt33XdYCMkJVIGSs%2BAvrCMmM6%2FVG33ujmDx6Mzj5Rh9NZmd2PgfJ75MPdd%2B9ATkua4Xqhi%2F%2F4HqDS6XyTDmnFZzpvubd9wYf%2FwW%2FsX3%2FnvpQn5Yg7cq41ESWkvCxpDGCSjLIjCsslD4YiF%2B82Qee2RrsLDNce0RjjkMe4yVS1uQMgTMG93kWOxCqgPa0iDJ%2BkZUXFjY6OXfXgyct%2BbUl3fXsaxdfafsQXHrXjoDySLNHXNV7hEnMmjIFXLta5yvI7TxUL%2FuBZM6K8iDZxMjshVNoGJ%2BY3s0upLDKQTgWv7LlGxHPOeqxwik8M%2FUkANe8SXyFLl9oetu6BWBPZT5J1ltIkp42%2B9%2BvJkl%2BuV7YbUB%2BXMAXzFAKhPtJ2ua3lBfGMAPeuODPlwrjTMtXuJWMJ%2FKk58GOqkBPYlZ1AQXOLBMOxsqHSyiEE8KAabVCbfhIii%2BPwZWEO1jRhFnJgyVfbSZkJe3wWRCOEsvwZZ1Re5J1m7sk8P6ygh%2Fu6gxZgnKmjs8BqxrN%2BEXJlGDHhxMJLAEZ7NVGgoOUL7bMILD9BK9%2BqSkb%2Ffm%2FP6VsV5PvQsA8YD4j1%2BqESQi60%2FgAoSMLPFmnzAkN%2FM%2Brf5aXPf7LQhgzndUnBz0GrAd0TkKPO7bsA%3D%3D",
-        "updatedAt": "2023-02-09T17:10:05.380Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/33283690eb54d55d-01/EPH/EPH.2.mp3",
+        "reference": "",
+        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B10___02_Ephesians___THATSVN1DA.mp3?x-amz-transaction=1385972&Expires=1679505181&Signature=O058mWGp6D10~VC38wWvDtmhrBDhn3Fpjut6FLLgjnOwnF3N4jh4DKiGyHsB5TJzQ8gqYGh3jML-GJzB4elIkzPq~hAn~5l~TjkGP2nGFqNo6xgRn4PSmH9bEjRcaBARHifk1TqocaF7TbP2rHf26JZFjghDYRtiV-4EGaWVzbBNdb0BO~iQltPAzAgs2QZjXsiealb-R6K4Blidl2hMbcyEgf20LH3LiU712XLkgn5~WrlwLlYmnO3~W1M~0tI~fM3IqwuQ~j1PXOHmh1dIXMcff41zXTWA4MX2HPg5jhMAxKfsMBjdCjXSHRERGcyGu3Sh5i-Z0-pNI1TgotIMmg__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+        "updatedAt": "2023-03-21T17:13:01.320Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/EPH/EPH.2.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EPH.png"
     },
     {
-        "next": {
-            "id": "EPH.4",
-            "number": "4"
-        },
-        "previous": {
-            "id": "EPH.2",
-            "number": "2"
-        },
-        "_id": "63e528ed6a0ded2f821569cf",
-        "bibleId": "33283690eb54d55d-01",
+        "_id": "6419e59d42143a1670bf3563",
+        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
         "id": "EPH.3",
         "__v": 0,
+        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "EPH",
-        "copyright": "Tagalog New Contemporary Version™, Audio Edition (Ang Salita Ng Dios Biblia™) Audio Copyright ℗ 2016, 2019 by Biblica, Inc. Used by permission. All rights reserved worldwide. Tagalog Contemporary Bible™ (Ang Salita ng Dios™) Copyright © 2009, 2011, 2014 by Biblica, Inc. All rights reserved worldwide.",
-        "createdAt": "2023-02-09T17:10:05.799Z",
+        "copyright": "",
+        "createdAt": "2023-03-21T17:13:01.480Z",
         "number": "3",
-        "reference": "Efeso 3",
-        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/33283690eb54d55d-01/release/audio/EPH/EPH_003.mp3?AWSAccessKeyId=ASIAW3FERPLDEB47KNE7&Expires=1675966205&Signature=3pIWfIjx1RG7zcufZJBDC0V5BQM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAUaCXVzLWVhc3QtMSJHMEUCIDjgR1c6LCKdehsCnFrk9%2Fs0mYGi5p1I%2BON7lzcHtFfiAiEAjPaO%2B4pmN3GWJ7f6ZJfAPbIW9c85tQGaS0JagyD2coMq1gQIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDD2EnTXiR1v%2BsnhQByqqBH7CUpXrRKoRAMeaB6nr%2Fc2MiOHe%2F8TS23FLsItM1NZIhsBc44nlc3W5487ptvSIz4CDKeFfu4JF7MyUDw1cvQvPuJCC%2BpUYojScCpWZkXei8jmvv9OlPpCeni%2FBueAPDyk%2BflJYaV8p7fpP2Z2BuXcYKuyyf0CtP2ZhyKUOog1AgeSXUAkAwR3bkwj31SbvcwRRmavzxakduPPdF4dxrZ3jsgrEiocHqM50MH1A27pEW1QiyAqfcabXePtEqR8idkXOkwU9jixsoRhNlYfrAHyjR7UODmZPntJwNtnf7%2BLBRkLM03g%2FMm8kiH6SLLeXf%2Be4moaGYQjwt6IkkPt33XdYCMkJVIGSs%2BAvrCMmM6%2FVG33ujmDx6Mzj5Rh9NZmd2PgfJ75MPdd%2B9ATkua4Xqhi%2F%2F4HqDS6XyTDmnFZzpvubd9wYf%2FwW%2FsX3%2FnvpQn5Yg7cq41ESWkvCxpDGCSjLIjCsslD4YiF%2B82Qee2RrsLDNce0RjjkMe4yVS1uQMgTMG93kWOxCqgPa0iDJ%2BkZUXFjY6OXfXgyct%2BbUl3fXsaxdfafsQXHrXjoDySLNHXNV7hEnMmjIFXLta5yvI7TxUL%2FuBZM6K8iDZxMjshVNoGJ%2BY3s0upLDKQTgWv7LlGxHPOeqxwik8M%2FUkANe8SXyFLl9oetu6BWBPZT5J1ltIkp42%2B9%2BvJkl%2BuV7YbUB%2BXMAXzFAKhPtJ2ua3lBfGMAPeuODPlwrjTMtXuJWMJ%2FKk58GOqkBPYlZ1AQXOLBMOxsqHSyiEE8KAabVCbfhIii%2BPwZWEO1jRhFnJgyVfbSZkJe3wWRCOEsvwZZ1Re5J1m7sk8P6ygh%2Fu6gxZgnKmjs8BqxrN%2BEXJlGDHhxMJLAEZ7NVGgoOUL7bMILD9BK9%2BqSkb%2Ffm%2FP6VsV5PvQsA8YD4j1%2BqESQi60%2FgAoSMLPFmnzAkN%2FM%2Brf5aXPf7LQhgzndUnBz0GrAd0TkKPO7bsA%3D%3D",
-        "updatedAt": "2023-02-09T17:10:05.799Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/33283690eb54d55d-01/EPH/EPH.3.mp3",
+        "reference": "",
+        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B10___03_Ephesians___THATSVN1DA.mp3?x-amz-transaction=1223442&Expires=1679505181&Signature=K9vE04bvBcuDPDMP15nDTwLd7A-OgFGw14jbdodQnEY2UU~MoWr0y250bRaFZjdIiIiAyPq1Ln8l-pzSPm7uEECcD2bLUWWwC-xv2FYKJZ0NyL6uigMtis1Ol~hSH8FuzMcSipqFwCnCkuSZiEjlPSZKn7cZ9ky02T7K0oL1yoxxGV0flhxxiqT4HrqZVW0r5O~BlXG-gj0iFFHMKgQj7haRYonwfjPGydraJ3YjZuFGUkYLkP99N8w8p5Abi7ZFKpaqxnIUu9bbwYNgZSWZl-uNdWK-c0bVFp~LH7PtszV8vgVQwkbtpPF~VkNasO8iK-rkJNgP3I-s0ikkqaOu0w__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+        "updatedAt": "2023-03-21T17:13:01.480Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/EPH/EPH.3.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EPH.png"
     },
     {
-        "next": {
-            "id": "EPH.5",
-            "number": "5"
-        },
-        "previous": {
-            "id": "EPH.3",
-            "number": "3"
-        },
-        "_id": "63e528ee6a0ded2f82156b79",
-        "bibleId": "33283690eb54d55d-01",
+        "_id": "6419e59d42143a1670bf3587",
+        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
         "id": "EPH.4",
         "__v": 0,
+        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "EPH",
-        "copyright": "Tagalog New Contemporary Version™, Audio Edition (Ang Salita Ng Dios Biblia™) Audio Copyright ℗ 2016, 2019 by Biblica, Inc. Used by permission. All rights reserved worldwide. Tagalog Contemporary Bible™ (Ang Salita ng Dios™) Copyright © 2009, 2011, 2014 by Biblica, Inc. All rights reserved worldwide.",
-        "createdAt": "2023-02-09T17:10:06.248Z",
+        "copyright": "",
+        "createdAt": "2023-03-21T17:13:01.648Z",
         "number": "4",
-        "reference": "Efeso 4",
-        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/33283690eb54d55d-01/release/audio/EPH/EPH_004.mp3?AWSAccessKeyId=ASIAW3FERPLDIKBBYTJ4&Expires=1675966206&Signature=zElarjzBtq1JJkamLe5JrL1Cbhs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAQaCXVzLWVhc3QtMSJHMEUCIQCkzaJdM6tIX14LHfffktBTMcVBW66ypCXK%2BdRqeA%2BvhwIgf1WUvf9NiXOaxb7mHv2GHspwvD%2FweZvXj2CH5GsJ9zkq1QQIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDMElDYarfLPV9R5ArSqpBD3AGvhj8z%2Bhye40QHlajHsTMTLt9kGZdJpeyXdPMqOO91rvoRhbL5kfhG1r3AJfqF%2F34%2FOr0Vu5ZydIrofqCv6vKBIbCDoLUh5us2ZCGryEVdLDc%2FuzsjEi5bTjAJNN0u2qeaEtupZ1lg8dx261dfVLdRa7%2BZPGCmY7rcWTGiDZf0e4bHC%2FvX%2FNBUpr9%2B79G9scYyAFhXG9llaKzrsiRUF%2BS0UxWgdmPZfV7btop7lEriz0l0kO%2BXBF8ASO3SsigQnSJWfSPp5RzfhumM4P8NTjUX9BmKzEwRYCO78Ve9N33iodMo1r6iPit43hJ8mPGuXbSMQjNUJpokpEkPea0O1F0KaXiBK3WoEXBI%2B45VBg0xAlGOI%2Fk3ZHdc5v61X9Rdnum%2BwydVOCKN15Gef24hxSwQw3FARbGnEa3qWInqYmO1kHKbkUzb9IJ9wwduCkI%2FeqOl8vhlBwFZwsfvyEALHxIOJ0l00%2FmuNtHe3JFwydY2zzgfaxsnnF%2FA2xLfJbs1zq%2BTL62klwe5Lz65%2BUanZk1YLEmKdgEKzOEa5AfpxWjfYfmkrqy8BdFIzRVZzbUmo%2F3ZshUN4QoArAggCM5mP50%2BYUmPgxO8Luez3KzavHGJseC2G0j4hkdBgcPd1TNV4m%2FaMRY6QUFr9jktkOsiIOgMmNb3yuE9ecKlP%2BzfXGD%2BugK6HZS6tkohY%2FBiMl7TMo%2FnOV8yXOKbeDXb%2FahX6A1Hofr66QpU4wr7WTnwY6qQEUN8ao6zuOFzidVOcm%2F0H2aM%2BT0b6SPLGBaazrf5nRUxfgV9%2BH0SjKCT3Dc4fZCcDaxs%2B1zDqoT6QOChEqfeTAO186bz0LAQYQaWB%2F4SwlgZAnGDcvBh4HVAah2UJy7TR4MsUSbM2afTbQjS6lgLUzBva%2FirDIOsiOh1YE8fOkl74aWQwTF7T%2FAqsFu9xej4NXpKaBM%2BfyPK98zU9kku%2BLvflB85b%2FLd1y",
-        "updatedAt": "2023-02-09T17:10:06.248Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/33283690eb54d55d-01/EPH/EPH.4.mp3",
+        "reference": "",
+        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B10___04_Ephesians___THATSVN1DA.mp3?x-amz-transaction=8811184&Expires=1679505181&Signature=c65BA7AfUqzvNT-NIHDwBzNkDw8RcAaC-DVeu8nP5yb00d335stLM~FoS7kUTvFobn5syqFoiD7PLY8ql~JELY-zRtH9cm93k9~iPINOCYdJsKP9iHHEF-sX0aaYtRotbeIihjCTV6ZMG~Cllw4qcEfs95ht3zyAScTZA5IPBSL8vTyrftzKzNFUlgHkoZB2OfFjCkawy395ArbJOpMeuxXheaZgLuJ5A1EB6bvrn5WpEOxxI76caHYbrkeNuqFuSP0WZav2qreSN-I3v5AHw6lZD5FLzJBra9AuE-Wk~LXyQjwp2DKywE~kqLKLkUoOQy1UtY2p9XONHwUdMuipTQ__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+        "updatedAt": "2023-03-21T17:13:01.648Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/EPH/EPH.4.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EPH.png"
     },
     {
-        "next": {
-            "id": "EPH.6",
-            "number": "6"
-        },
-        "previous": {
-            "id": "EPH.4",
-            "number": "4"
-        },
-        "_id": "63e528ee6a0ded2f82156cb3",
-        "bibleId": "33283690eb54d55d-01",
+        "_id": "6419e59d42143a1670bf36ae",
+        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
         "id": "EPH.5",
         "__v": 0,
+        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "EPH",
-        "copyright": "Tagalog New Contemporary Version™, Audio Edition (Ang Salita Ng Dios Biblia™) Audio Copyright ℗ 2016, 2019 by Biblica, Inc. Used by permission. All rights reserved worldwide. Tagalog Contemporary Bible™ (Ang Salita ng Dios™) Copyright © 2009, 2011, 2014 by Biblica, Inc. All rights reserved worldwide.",
-        "createdAt": "2023-02-09T17:10:06.646Z",
+        "copyright": "",
+        "createdAt": "2023-03-21T17:13:01.826Z",
         "number": "5",
-        "reference": "Efeso 5",
-        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/33283690eb54d55d-01/release/audio/EPH/EPH_005.mp3?AWSAccessKeyId=ASIAW3FERPLDIKBBYTJ4&Expires=1675966206&Signature=3Yu2hUp1jXI2ODaFzaOBQIskFNY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAQaCXVzLWVhc3QtMSJHMEUCIQCkzaJdM6tIX14LHfffktBTMcVBW66ypCXK%2BdRqeA%2BvhwIgf1WUvf9NiXOaxb7mHv2GHspwvD%2FweZvXj2CH5GsJ9zkq1QQIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDMElDYarfLPV9R5ArSqpBD3AGvhj8z%2Bhye40QHlajHsTMTLt9kGZdJpeyXdPMqOO91rvoRhbL5kfhG1r3AJfqF%2F34%2FOr0Vu5ZydIrofqCv6vKBIbCDoLUh5us2ZCGryEVdLDc%2FuzsjEi5bTjAJNN0u2qeaEtupZ1lg8dx261dfVLdRa7%2BZPGCmY7rcWTGiDZf0e4bHC%2FvX%2FNBUpr9%2B79G9scYyAFhXG9llaKzrsiRUF%2BS0UxWgdmPZfV7btop7lEriz0l0kO%2BXBF8ASO3SsigQnSJWfSPp5RzfhumM4P8NTjUX9BmKzEwRYCO78Ve9N33iodMo1r6iPit43hJ8mPGuXbSMQjNUJpokpEkPea0O1F0KaXiBK3WoEXBI%2B45VBg0xAlGOI%2Fk3ZHdc5v61X9Rdnum%2BwydVOCKN15Gef24hxSwQw3FARbGnEa3qWInqYmO1kHKbkUzb9IJ9wwduCkI%2FeqOl8vhlBwFZwsfvyEALHxIOJ0l00%2FmuNtHe3JFwydY2zzgfaxsnnF%2FA2xLfJbs1zq%2BTL62klwe5Lz65%2BUanZk1YLEmKdgEKzOEa5AfpxWjfYfmkrqy8BdFIzRVZzbUmo%2F3ZshUN4QoArAggCM5mP50%2BYUmPgxO8Luez3KzavHGJseC2G0j4hkdBgcPd1TNV4m%2FaMRY6QUFr9jktkOsiIOgMmNb3yuE9ecKlP%2BzfXGD%2BugK6HZS6tkohY%2FBiMl7TMo%2FnOV8yXOKbeDXb%2FahX6A1Hofr66QpU4wr7WTnwY6qQEUN8ao6zuOFzidVOcm%2F0H2aM%2BT0b6SPLGBaazrf5nRUxfgV9%2BH0SjKCT3Dc4fZCcDaxs%2B1zDqoT6QOChEqfeTAO186bz0LAQYQaWB%2F4SwlgZAnGDcvBh4HVAah2UJy7TR4MsUSbM2afTbQjS6lgLUzBva%2FirDIOsiOh1YE8fOkl74aWQwTF7T%2FAqsFu9xej4NXpKaBM%2BfyPK98zU9kku%2BLvflB85b%2FLd1y",
-        "updatedAt": "2023-02-09T17:10:06.646Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/33283690eb54d55d-01/EPH/EPH.5.mp3",
+        "reference": "",
+        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B10___05_Ephesians___THATSVN1DA.mp3?x-amz-transaction=9569875&Expires=1679505181&Signature=SFowqZ6hvrO-A3HQNXrgF09B6P~tnQ4QBZbZySo2GPqNc8d9TO9WeLLrijiAvWwUNJKlqeiFaAs9dmqSOhfMAullipFlfk8XgHI5AQIv-8jsnYs8qzZMDu1vx610G0W7jTotbV777Tl-8pHWn6XvlODESuP9DPlPpjaL15VoN2-L~CDbFfm9OM3twCy6uuBt4KLIMENH4V2ip8oQUA9UfC1lzNoi8tqJnpywWphOaYdDjVfORSOAB8kL7fqwGzMNadKTBfr8ZJ3PWXhzQon4d5oI0cJEbkMT27or2OI1VnfoD611Kdha8Fi09-VWi4kmi6XcdAA-zgZlsQoUGL2riA__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+        "updatedAt": "2023-03-21T17:13:01.826Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/EPH/EPH.5.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EPH.png"
     },
     {
-        "next": {
-            "id": "PHP.1",
-            "number": "1"
-        },
-        "previous": {
-            "id": "EPH.5",
-            "number": "5"
-        },
-        "_id": "63e528ef6a0ded2f82156e4b",
-        "bibleId": "33283690eb54d55d-01",
+        "_id": "6419e59f42143a1670bf3a54",
+        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
         "id": "EPH.6",
         "__v": 0,
+        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "EPH",
-        "copyright": "Tagalog New Contemporary Version™, Audio Edition (Ang Salita Ng Dios Biblia™) Audio Copyright ℗ 2016, 2019 by Biblica, Inc. Used by permission. All rights reserved worldwide. Tagalog Contemporary Bible™ (Ang Salita ng Dios™) Copyright © 2009, 2011, 2014 by Biblica, Inc. All rights reserved worldwide.",
-        "createdAt": "2023-02-09T17:10:07.130Z",
+        "copyright": "",
+        "createdAt": "2023-03-21T17:13:03.236Z",
         "number": "6",
-        "reference": "Efeso 6",
-        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/33283690eb54d55d-01/release/audio/EPH/EPH_006.mp3?AWSAccessKeyId=ASIAW3FERPLDIKBBYTJ4&Expires=1675966207&Signature=UuMJ%2BuJXuCKnLjnBo6qxQ6vCUw4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAQaCXVzLWVhc3QtMSJHMEUCIQCkzaJdM6tIX14LHfffktBTMcVBW66ypCXK%2BdRqeA%2BvhwIgf1WUvf9NiXOaxb7mHv2GHspwvD%2FweZvXj2CH5GsJ9zkq1QQIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDMElDYarfLPV9R5ArSqpBD3AGvhj8z%2Bhye40QHlajHsTMTLt9kGZdJpeyXdPMqOO91rvoRhbL5kfhG1r3AJfqF%2F34%2FOr0Vu5ZydIrofqCv6vKBIbCDoLUh5us2ZCGryEVdLDc%2FuzsjEi5bTjAJNN0u2qeaEtupZ1lg8dx261dfVLdRa7%2BZPGCmY7rcWTGiDZf0e4bHC%2FvX%2FNBUpr9%2B79G9scYyAFhXG9llaKzrsiRUF%2BS0UxWgdmPZfV7btop7lEriz0l0kO%2BXBF8ASO3SsigQnSJWfSPp5RzfhumM4P8NTjUX9BmKzEwRYCO78Ve9N33iodMo1r6iPit43hJ8mPGuXbSMQjNUJpokpEkPea0O1F0KaXiBK3WoEXBI%2B45VBg0xAlGOI%2Fk3ZHdc5v61X9Rdnum%2BwydVOCKN15Gef24hxSwQw3FARbGnEa3qWInqYmO1kHKbkUzb9IJ9wwduCkI%2FeqOl8vhlBwFZwsfvyEALHxIOJ0l00%2FmuNtHe3JFwydY2zzgfaxsnnF%2FA2xLfJbs1zq%2BTL62klwe5Lz65%2BUanZk1YLEmKdgEKzOEa5AfpxWjfYfmkrqy8BdFIzRVZzbUmo%2F3ZshUN4QoArAggCM5mP50%2BYUmPgxO8Luez3KzavHGJseC2G0j4hkdBgcPd1TNV4m%2FaMRY6QUFr9jktkOsiIOgMmNb3yuE9ecKlP%2BzfXGD%2BugK6HZS6tkohY%2FBiMl7TMo%2FnOV8yXOKbeDXb%2FahX6A1Hofr66QpU4wr7WTnwY6qQEUN8ao6zuOFzidVOcm%2F0H2aM%2BT0b6SPLGBaazrf5nRUxfgV9%2BH0SjKCT3Dc4fZCcDaxs%2B1zDqoT6QOChEqfeTAO186bz0LAQYQaWB%2F4SwlgZAnGDcvBh4HVAah2UJy7TR4MsUSbM2afTbQjS6lgLUzBva%2FirDIOsiOh1YE8fOkl74aWQwTF7T%2FAqsFu9xej4NXpKaBM%2BfyPK98zU9kku%2BLvflB85b%2FLd1y",
-        "updatedAt": "2023-02-09T17:10:07.131Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/33283690eb54d55d-01/EPH/EPH.6.mp3",
+        "reference": "",
+        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B10___06_Ephesians___THATSVN1DA.mp3?x-amz-transaction=6281939&Expires=1679505183&Signature=M~hregzWNMt1tjEKI~XteMBy1BA57uaBeY~33MtkoMqaMSURkh~GOa3mHl8j2hMJjbY7FFWgMMtri~NT3ETyKjiZYjuCNlzp5ZcHKyzHGC8X79lU6TLF7wh3cZbRPsfzoHSLsawH2JeWVSSHXiX2n9cWwAjLGg~S3-sIZ9liDtggUDKAJg5iOuMMpY87W4KKYU02vLcMaoFoW5AB4ht52U-0mw~LUEgmTM4~GrwwNRkmmVGHtQFtTR7L16~zGGoFSX0DxZkp~PIX-2Bniowv9cxS0IiHSRfbPWbFjwpFGA4ElXs9XSlLmNpenq3CGz~fcjH64MZb~aS69TrKgUX3Aw__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+        "updatedAt": "2023-03-21T17:13:03.236Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/EPH/EPH.6.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EPH.png"
     }
 ]

@@ -1,94 +1,66 @@
 [
     {
-        "next": {
-            "id": "COL.2",
-            "number": "2"
-        },
-        "previous": {
-            "id": "PHP.4",
-            "number": "4"
-        },
-        "_id": "63e528f16a0ded2f821576de",
-        "bibleId": "33283690eb54d55d-01",
+        "_id": "6419e5a042143a1670bf3cad",
+        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
         "id": "COL.1",
         "__v": 0,
+        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "COL",
-        "copyright": "Tagalog New Contemporary Version™, Audio Edition (Ang Salita Ng Dios Biblia™) Audio Copyright ℗ 2016, 2019 by Biblica, Inc. Used by permission. All rights reserved worldwide. Tagalog Contemporary Bible™ (Ang Salita ng Dios™) Copyright © 2009, 2011, 2014 by Biblica, Inc. All rights reserved worldwide.",
-        "createdAt": "2023-02-09T17:10:09.829Z",
+        "copyright": "",
+        "createdAt": "2023-03-21T17:13:04.251Z",
         "number": "1",
-        "reference": "Colosas 1",
-        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/33283690eb54d55d-01/release/audio/COL/COL_001.mp3?AWSAccessKeyId=ASIAW3FERPLDIKBBYTJ4&Expires=1675966209&Signature=zPLrIP10Q7yHyaLNvQxSb78%2FW0g%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAQaCXVzLWVhc3QtMSJHMEUCIQCkzaJdM6tIX14LHfffktBTMcVBW66ypCXK%2BdRqeA%2BvhwIgf1WUvf9NiXOaxb7mHv2GHspwvD%2FweZvXj2CH5GsJ9zkq1QQIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDMElDYarfLPV9R5ArSqpBD3AGvhj8z%2Bhye40QHlajHsTMTLt9kGZdJpeyXdPMqOO91rvoRhbL5kfhG1r3AJfqF%2F34%2FOr0Vu5ZydIrofqCv6vKBIbCDoLUh5us2ZCGryEVdLDc%2FuzsjEi5bTjAJNN0u2qeaEtupZ1lg8dx261dfVLdRa7%2BZPGCmY7rcWTGiDZf0e4bHC%2FvX%2FNBUpr9%2B79G9scYyAFhXG9llaKzrsiRUF%2BS0UxWgdmPZfV7btop7lEriz0l0kO%2BXBF8ASO3SsigQnSJWfSPp5RzfhumM4P8NTjUX9BmKzEwRYCO78Ve9N33iodMo1r6iPit43hJ8mPGuXbSMQjNUJpokpEkPea0O1F0KaXiBK3WoEXBI%2B45VBg0xAlGOI%2Fk3ZHdc5v61X9Rdnum%2BwydVOCKN15Gef24hxSwQw3FARbGnEa3qWInqYmO1kHKbkUzb9IJ9wwduCkI%2FeqOl8vhlBwFZwsfvyEALHxIOJ0l00%2FmuNtHe3JFwydY2zzgfaxsnnF%2FA2xLfJbs1zq%2BTL62klwe5Lz65%2BUanZk1YLEmKdgEKzOEa5AfpxWjfYfmkrqy8BdFIzRVZzbUmo%2F3ZshUN4QoArAggCM5mP50%2BYUmPgxO8Luez3KzavHGJseC2G0j4hkdBgcPd1TNV4m%2FaMRY6QUFr9jktkOsiIOgMmNb3yuE9ecKlP%2BzfXGD%2BugK6HZS6tkohY%2FBiMl7TMo%2FnOV8yXOKbeDXb%2FahX6A1Hofr66QpU4wr7WTnwY6qQEUN8ao6zuOFzidVOcm%2F0H2aM%2BT0b6SPLGBaazrf5nRUxfgV9%2BH0SjKCT3Dc4fZCcDaxs%2B1zDqoT6QOChEqfeTAO186bz0LAQYQaWB%2F4SwlgZAnGDcvBh4HVAah2UJy7TR4MsUSbM2afTbQjS6lgLUzBva%2FirDIOsiOh1YE8fOkl74aWQwTF7T%2FAqsFu9xej4NXpKaBM%2BfyPK98zU9kku%2BLvflB85b%2FLd1y",
-        "updatedAt": "2023-02-09T17:10:09.829Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/33283690eb54d55d-01/COL/COL.1.mp3",
+        "reference": "",
+        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B12___01_Colossians__THATSVN1DA.mp3?x-amz-transaction=1582146&Expires=1679505184&Signature=AItmVSGlbGpgbG6Ytsk~323EBjCJbj0ABaVui1Kd5~SGGMOIe9Ugs9kb426HaYMr1wLX2TXvoBF9yrYkaeGLH-hz2AugVlW6rNhbACHSWUVlITnwPDNW1tPPvbonTAZGRQX45NvyW-mFzAtbTvb6lIxd4cHCvabh9PztGKMc9zCFqLwP85YM5ky73iCvziLy2NN4VBzPsJUD9T9PnwDTZuP6jIPUUY-iWeQtWrFLPrHOADcqXqE2FoAXYvGHAvxkJgd7hl-Q7-Quei9RW9MvxGxe1pllrctLlF0w2ddd810MhN-t3q73D8BySsf4DYAor8ciJ0q3Hd8cA3IGZlmy7w__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+        "updatedAt": "2023-03-21T17:13:04.251Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/COL/COL.1.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/COL.png"
     },
     {
-        "next": {
-            "id": "COL.3",
-            "number": "3"
-        },
-        "previous": {
-            "id": "COL.1",
-            "number": "1"
-        },
-        "_id": "63e528f26a0ded2f821578f4",
-        "bibleId": "33283690eb54d55d-01",
+        "_id": "6419e5a042143a1670bf3cd2",
+        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
         "id": "COL.2",
         "__v": 0,
+        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "COL",
-        "copyright": "Tagalog New Contemporary Version™, Audio Edition (Ang Salita Ng Dios Biblia™) Audio Copyright ℗ 2016, 2019 by Biblica, Inc. Used by permission. All rights reserved worldwide. Tagalog Contemporary Bible™ (Ang Salita ng Dios™) Copyright © 2009, 2011, 2014 by Biblica, Inc. All rights reserved worldwide.",
-        "createdAt": "2023-02-09T17:10:10.240Z",
+        "copyright": "",
+        "createdAt": "2023-03-21T17:13:04.406Z",
         "number": "2",
-        "reference": "Colosas 2",
-        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/33283690eb54d55d-01/release/audio/COL/COL_002.mp3?AWSAccessKeyId=ASIAW3FERPLDIKBBYTJ4&Expires=1675966210&Signature=O4stByB%2F7emQRiGhomdnWG1era0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAQaCXVzLWVhc3QtMSJHMEUCIQCkzaJdM6tIX14LHfffktBTMcVBW66ypCXK%2BdRqeA%2BvhwIgf1WUvf9NiXOaxb7mHv2GHspwvD%2FweZvXj2CH5GsJ9zkq1QQIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDMElDYarfLPV9R5ArSqpBD3AGvhj8z%2Bhye40QHlajHsTMTLt9kGZdJpeyXdPMqOO91rvoRhbL5kfhG1r3AJfqF%2F34%2FOr0Vu5ZydIrofqCv6vKBIbCDoLUh5us2ZCGryEVdLDc%2FuzsjEi5bTjAJNN0u2qeaEtupZ1lg8dx261dfVLdRa7%2BZPGCmY7rcWTGiDZf0e4bHC%2FvX%2FNBUpr9%2B79G9scYyAFhXG9llaKzrsiRUF%2BS0UxWgdmPZfV7btop7lEriz0l0kO%2BXBF8ASO3SsigQnSJWfSPp5RzfhumM4P8NTjUX9BmKzEwRYCO78Ve9N33iodMo1r6iPit43hJ8mPGuXbSMQjNUJpokpEkPea0O1F0KaXiBK3WoEXBI%2B45VBg0xAlGOI%2Fk3ZHdc5v61X9Rdnum%2BwydVOCKN15Gef24hxSwQw3FARbGnEa3qWInqYmO1kHKbkUzb9IJ9wwduCkI%2FeqOl8vhlBwFZwsfvyEALHxIOJ0l00%2FmuNtHe3JFwydY2zzgfaxsnnF%2FA2xLfJbs1zq%2BTL62klwe5Lz65%2BUanZk1YLEmKdgEKzOEa5AfpxWjfYfmkrqy8BdFIzRVZzbUmo%2F3ZshUN4QoArAggCM5mP50%2BYUmPgxO8Luez3KzavHGJseC2G0j4hkdBgcPd1TNV4m%2FaMRY6QUFr9jktkOsiIOgMmNb3yuE9ecKlP%2BzfXGD%2BugK6HZS6tkohY%2FBiMl7TMo%2FnOV8yXOKbeDXb%2FahX6A1Hofr66QpU4wr7WTnwY6qQEUN8ao6zuOFzidVOcm%2F0H2aM%2BT0b6SPLGBaazrf5nRUxfgV9%2BH0SjKCT3Dc4fZCcDaxs%2B1zDqoT6QOChEqfeTAO186bz0LAQYQaWB%2F4SwlgZAnGDcvBh4HVAah2UJy7TR4MsUSbM2afTbQjS6lgLUzBva%2FirDIOsiOh1YE8fOkl74aWQwTF7T%2FAqsFu9xej4NXpKaBM%2BfyPK98zU9kku%2BLvflB85b%2FLd1y",
-        "updatedAt": "2023-02-09T17:10:10.240Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/33283690eb54d55d-01/COL/COL.2.mp3",
+        "reference": "",
+        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B12___02_Colossians__THATSVN1DA.mp3?x-amz-transaction=3201189&Expires=1679505184&Signature=G9my0MXBk~apgdh0lw5gxrcUrAiJ2Gqn8isZGl4vIqTwrI~a2HheFSPxGW5bSQhtN1643qM9iqskmqlpGAsdhdochF~Ds-A9Isq5tfKEUd3OOzqivla9zE3vmopbMSvPs5FqgSM5vukiFNiczPyPCKszy6-kdGT7q7lB5FwJVc5OuYe8v5lqBtgjJ5J1kahvO9dFE59252U-C95c6stP7CtepysymwgChRVabPzuZUEx1SJfFKdCrne5Ay57A2fhtraUyz50WFVXGcG9sOzj3w8VgtrWPNnsf6QwuoOe6W7uA3JTRdfaE1BhcIK8fpijXBu3oaKs02drKdhkcadV1g__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+        "updatedAt": "2023-03-21T17:13:04.406Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/COL/COL.2.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/COL.png"
     },
     {
-        "next": {
-            "id": "COL.4",
-            "number": "4"
-        },
-        "previous": {
-            "id": "COL.2",
-            "number": "2"
-        },
-        "_id": "63e528f26a0ded2f821579e6",
-        "bibleId": "33283690eb54d55d-01",
+        "_id": "6419e5a042143a1670bf3cf8",
+        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
         "id": "COL.3",
         "__v": 0,
+        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "COL",
-        "copyright": "Tagalog New Contemporary Version™, Audio Edition (Ang Salita Ng Dios Biblia™) Audio Copyright ℗ 2016, 2019 by Biblica, Inc. Used by permission. All rights reserved worldwide. Tagalog Contemporary Bible™ (Ang Salita ng Dios™) Copyright © 2009, 2011, 2014 by Biblica, Inc. All rights reserved worldwide.",
-        "createdAt": "2023-02-09T17:10:10.613Z",
+        "copyright": "",
+        "createdAt": "2023-03-21T17:13:04.603Z",
         "number": "3",
-        "reference": "Colosas 3",
-        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/33283690eb54d55d-01/release/audio/COL/COL_003.mp3?AWSAccessKeyId=ASIAW3FERPLDIKBBYTJ4&Expires=1675966210&Signature=SO%2BNlR%2BkTf2nA8naTAQXvXEGS3w%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAQaCXVzLWVhc3QtMSJHMEUCIQCkzaJdM6tIX14LHfffktBTMcVBW66ypCXK%2BdRqeA%2BvhwIgf1WUvf9NiXOaxb7mHv2GHspwvD%2FweZvXj2CH5GsJ9zkq1QQIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDMElDYarfLPV9R5ArSqpBD3AGvhj8z%2Bhye40QHlajHsTMTLt9kGZdJpeyXdPMqOO91rvoRhbL5kfhG1r3AJfqF%2F34%2FOr0Vu5ZydIrofqCv6vKBIbCDoLUh5us2ZCGryEVdLDc%2FuzsjEi5bTjAJNN0u2qeaEtupZ1lg8dx261dfVLdRa7%2BZPGCmY7rcWTGiDZf0e4bHC%2FvX%2FNBUpr9%2B79G9scYyAFhXG9llaKzrsiRUF%2BS0UxWgdmPZfV7btop7lEriz0l0kO%2BXBF8ASO3SsigQnSJWfSPp5RzfhumM4P8NTjUX9BmKzEwRYCO78Ve9N33iodMo1r6iPit43hJ8mPGuXbSMQjNUJpokpEkPea0O1F0KaXiBK3WoEXBI%2B45VBg0xAlGOI%2Fk3ZHdc5v61X9Rdnum%2BwydVOCKN15Gef24hxSwQw3FARbGnEa3qWInqYmO1kHKbkUzb9IJ9wwduCkI%2FeqOl8vhlBwFZwsfvyEALHxIOJ0l00%2FmuNtHe3JFwydY2zzgfaxsnnF%2FA2xLfJbs1zq%2BTL62klwe5Lz65%2BUanZk1YLEmKdgEKzOEa5AfpxWjfYfmkrqy8BdFIzRVZzbUmo%2F3ZshUN4QoArAggCM5mP50%2BYUmPgxO8Luez3KzavHGJseC2G0j4hkdBgcPd1TNV4m%2FaMRY6QUFr9jktkOsiIOgMmNb3yuE9ecKlP%2BzfXGD%2BugK6HZS6tkohY%2FBiMl7TMo%2FnOV8yXOKbeDXb%2FahX6A1Hofr66QpU4wr7WTnwY6qQEUN8ao6zuOFzidVOcm%2F0H2aM%2BT0b6SPLGBaazrf5nRUxfgV9%2BH0SjKCT3Dc4fZCcDaxs%2B1zDqoT6QOChEqfeTAO186bz0LAQYQaWB%2F4SwlgZAnGDcvBh4HVAah2UJy7TR4MsUSbM2afTbQjS6lgLUzBva%2FirDIOsiOh1YE8fOkl74aWQwTF7T%2FAqsFu9xej4NXpKaBM%2BfyPK98zU9kku%2BLvflB85b%2FLd1y",
-        "updatedAt": "2023-02-09T17:10:10.613Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/33283690eb54d55d-01/COL/COL.3.mp3",
+        "reference": "",
+        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B12___03_Colossians__THATSVN1DA.mp3?x-amz-transaction=6827902&Expires=1679505184&Signature=Ub66FWHDGlVAPYBVVpvG0kiIr6ggiDV3kLmwHhnui0l~K9sObYbPm-x9oN4cELhfTfzhJrV0NEhnLq6Lex9QMHxJqnFxbnHi-9TcbOiTmu1FADepxNqOQDLl1N0Exhy85nCuT40IFRCgK2ecJH-6CuRxMxbCzQb49latO3Ls8UR1XPoWnMFt~a8cmsccqqwr3shO-0DgXFlrRugeR3jNOnpReeJgG1hsKFGSQ0cywByCRwXhRqjvoN4xN4E5JL4wca9mRvRPwqMaiM7OX7yaV753oM1Jrr-JusBhk0RJxSN5igssWDaQlCHbh65Iv3jB9FsBO~nlaDCkdQfq5x0M1Q__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+        "updatedAt": "2023-03-21T17:13:04.603Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/COL/COL.3.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/COL.png"
     },
     {
-        "next": {
-            "id": "1TH.1",
-            "number": "1"
-        },
-        "previous": {
-            "id": "COL.3",
-            "number": "3"
-        },
-        "_id": "63e528f36a0ded2f82157b2d",
-        "bibleId": "33283690eb54d55d-01",
+        "_id": "6419e5a042143a1670bf3dcc",
+        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
         "id": "COL.4",
         "__v": 0,
+        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "COL",
-        "copyright": "Tagalog New Contemporary Version™, Audio Edition (Ang Salita Ng Dios Biblia™) Audio Copyright ℗ 2016, 2019 by Biblica, Inc. Used by permission. All rights reserved worldwide. Tagalog Contemporary Bible™ (Ang Salita ng Dios™) Copyright © 2009, 2011, 2014 by Biblica, Inc. All rights reserved worldwide.",
-        "createdAt": "2023-02-09T17:10:11.015Z",
+        "copyright": "",
+        "createdAt": "2023-03-21T17:13:04.854Z",
         "number": "4",
-        "reference": "Colosas 4",
-        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/33283690eb54d55d-01/release/audio/COL/COL_004.mp3?AWSAccessKeyId=ASIAW3FERPLDIKBBYTJ4&Expires=1675966210&Signature=nVUz0SpO2PDGV4QaP1NsJAJFXyA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEAQaCXVzLWVhc3QtMSJHMEUCIQCkzaJdM6tIX14LHfffktBTMcVBW66ypCXK%2BdRqeA%2BvhwIgf1WUvf9NiXOaxb7mHv2GHspwvD%2FweZvXj2CH5GsJ9zkq1QQIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDMElDYarfLPV9R5ArSqpBD3AGvhj8z%2Bhye40QHlajHsTMTLt9kGZdJpeyXdPMqOO91rvoRhbL5kfhG1r3AJfqF%2F34%2FOr0Vu5ZydIrofqCv6vKBIbCDoLUh5us2ZCGryEVdLDc%2FuzsjEi5bTjAJNN0u2qeaEtupZ1lg8dx261dfVLdRa7%2BZPGCmY7rcWTGiDZf0e4bHC%2FvX%2FNBUpr9%2B79G9scYyAFhXG9llaKzrsiRUF%2BS0UxWgdmPZfV7btop7lEriz0l0kO%2BXBF8ASO3SsigQnSJWfSPp5RzfhumM4P8NTjUX9BmKzEwRYCO78Ve9N33iodMo1r6iPit43hJ8mPGuXbSMQjNUJpokpEkPea0O1F0KaXiBK3WoEXBI%2B45VBg0xAlGOI%2Fk3ZHdc5v61X9Rdnum%2BwydVOCKN15Gef24hxSwQw3FARbGnEa3qWInqYmO1kHKbkUzb9IJ9wwduCkI%2FeqOl8vhlBwFZwsfvyEALHxIOJ0l00%2FmuNtHe3JFwydY2zzgfaxsnnF%2FA2xLfJbs1zq%2BTL62klwe5Lz65%2BUanZk1YLEmKdgEKzOEa5AfpxWjfYfmkrqy8BdFIzRVZzbUmo%2F3ZshUN4QoArAggCM5mP50%2BYUmPgxO8Luez3KzavHGJseC2G0j4hkdBgcPd1TNV4m%2FaMRY6QUFr9jktkOsiIOgMmNb3yuE9ecKlP%2BzfXGD%2BugK6HZS6tkohY%2FBiMl7TMo%2FnOV8yXOKbeDXb%2FahX6A1Hofr66QpU4wr7WTnwY6qQEUN8ao6zuOFzidVOcm%2F0H2aM%2BT0b6SPLGBaazrf5nRUxfgV9%2BH0SjKCT3Dc4fZCcDaxs%2B1zDqoT6QOChEqfeTAO186bz0LAQYQaWB%2F4SwlgZAnGDcvBh4HVAah2UJy7TR4MsUSbM2afTbQjS6lgLUzBva%2FirDIOsiOh1YE8fOkl74aWQwTF7T%2FAqsFu9xej4NXpKaBM%2BfyPK98zU9kku%2BLvflB85b%2FLd1y",
-        "updatedAt": "2023-02-09T17:10:11.015Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/33283690eb54d55d-01/COL/COL.4.mp3",
+        "reference": "",
+        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B12___04_Colossians__THATSVN1DA.mp3?x-amz-transaction=4343306&Expires=1679505184&Signature=NPQtw446cN5ylKLXS8SvkVGgB9Dpbf170Ktj4gPUK0llyG84vIhM7N1prlBHWGH8Vo1r1~ZK3SYh9uETI-xAr65PdYjg~pXJjyfAe5flOPnHqhqwju0oR66xuPEVwPogCE4oX-26c1I5ns2jTDzFjVZomkeFZrCUYXH6NOxSaIvMJq5ZwmrfIWwz61NWKJyJMMsRFmriNqzM77~2lLBqXw0~eJrUAsRTUbVOKP4TtL3CwkE-Y9K2i1vsczphjKpbNuU-T7qn3UxV0xZvMPOLu6y5UdaY-mpFx-WaShRbGMQRlV8XCFTA5nfCasrg6LcCwLJD5TZDe~2VM2STN1Kr6g__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+        "updatedAt": "2023-03-21T17:13:04.855Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/COL/COL.4.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/COL.png"
     }
 ]
