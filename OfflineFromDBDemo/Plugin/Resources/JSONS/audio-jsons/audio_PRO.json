@@ -8,16 +8,19 @@
             "id": "PSA.150",
             "number": "150"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83ccc3e495d0d0ddeb081",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.1",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:36.509Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:52.071Z",
         "number": "1",
-        "reference": "Prov. 1",
-        "updatedAt": "2022-06-02T15:44:36.509Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.1.mp3"
+        "reference": "Proverbes 1",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:52.071Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -28,16 +31,19 @@
             "id": "PRO.9",
             "number": "9"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83ccf3e495d0d0ddebea9",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.10",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:42.758Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:55.915Z",
         "number": "10",
-        "reference": "Prov. 10",
-        "updatedAt": "2022-06-02T15:44:42.758Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.10.mp3"
+        "reference": "Proverbes 10",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:55.915Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.10.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -48,16 +54,19 @@
             "id": "PRO.10",
             "number": "10"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd03e495d0d0ddebfec",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.11",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:43.317Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:56.315Z",
         "number": "11",
-        "reference": "Prov. 11",
-        "updatedAt": "2022-06-02T15:44:43.318Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.11.mp3"
+        "reference": "Proverbes 11",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:56.315Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.11.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -68,16 +77,19 @@
             "id": "PRO.11",
             "number": "11"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd03e495d0d0ddec145",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.12",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:44.010Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:56.714Z",
         "number": "12",
-        "reference": "Prov. 12",
-        "updatedAt": "2022-06-02T15:44:44.010Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.12.mp3"
+        "reference": "Proverbes 12",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:56.714Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.12.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -88,16 +100,19 @@
             "id": "PRO.12",
             "number": "12"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd13e495d0d0ddec31b",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.13",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:44.319Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:57.233Z",
         "number": "13",
-        "reference": "Prov. 13",
-        "updatedAt": "2022-06-02T15:44:44.319Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.13.mp3"
+        "reference": "Proverbes 13",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:57.233Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.13.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -108,16 +123,19 @@
             "id": "PRO.13",
             "number": "13"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd13e495d0d0ddec489",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.14",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:45.701Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:57.670Z",
         "number": "14",
-        "reference": "Prov. 14",
-        "updatedAt": "2022-06-02T15:44:45.701Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.14.mp3"
+        "reference": "Proverbes 14",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:57.670Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.14.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -128,16 +146,19 @@
             "id": "PRO.14",
             "number": "14"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd23e495d0d0ddec603",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.15",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:46.049Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:58.110Z",
         "number": "15",
-        "reference": "Prov. 15",
-        "updatedAt": "2022-06-02T15:44:46.049Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.15.mp3"
+        "reference": "Proverbes 15",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:58.110Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.15.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -148,16 +169,19 @@
             "id": "PRO.15",
             "number": "15"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd23e495d0d0ddec75c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.16",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:46.382Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:58.530Z",
         "number": "16",
-        "reference": "Prov. 16",
-        "updatedAt": "2022-06-02T15:44:46.382Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.16.mp3"
+        "reference": "Proverbes 16",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:58.530Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.16.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -168,16 +192,19 @@
             "id": "PRO.16",
             "number": "16"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd23e495d0d0ddec8ea",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.17",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:46.683Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:58.953Z",
         "number": "17",
-        "reference": "Prov. 17",
-        "updatedAt": "2022-06-02T15:44:46.683Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.17.mp3"
+        "reference": "Proverbes 17",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:58.953Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.17.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -188,16 +215,19 @@
             "id": "PRO.17",
             "number": "17"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd33e495d0d0ddecaa6",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.18",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:47.464Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:59.397Z",
         "number": "18",
-        "reference": "Prov. 18",
-        "updatedAt": "2022-06-02T15:44:47.464Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.18.mp3"
+        "reference": "Proverbes 18",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:59.397Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.18.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -208,16 +238,19 @@
             "id": "PRO.18",
             "number": "18"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd33e495d0d0ddecc18",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.19",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:48.198Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:59.780Z",
         "number": "19",
-        "reference": "Prov. 19",
-        "updatedAt": "2022-06-02T15:44:48.198Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.19.mp3"
+        "reference": "Proverbes 19",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:59.780Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.19.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -228,16 +261,19 @@
             "id": "PRO.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83ccc3e495d0d0ddeb1e6",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.2",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:37.928Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:52.520Z",
         "number": "2",
-        "reference": "Prov. 2",
-        "updatedAt": "2022-06-02T15:44:37.928Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.2.mp3"
+        "reference": "Proverbes 2",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:52.520Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -248,16 +284,19 @@
             "id": "PRO.19",
             "number": "19"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd43e495d0d0ddecdec",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.20",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:50.366Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:00.252Z",
         "number": "20",
-        "reference": "Prov. 20",
-        "updatedAt": "2022-06-02T15:44:50.368Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.20.mp3"
+        "reference": "Proverbes 20",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:00.252Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.20.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -268,16 +307,19 @@
             "id": "PRO.20",
             "number": "20"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd43e495d0d0dded02c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.21",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:50.689Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:00.705Z",
         "number": "21",
-        "reference": "Prov. 21",
-        "updatedAt": "2022-06-02T15:44:50.689Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.21.mp3"
+        "reference": "Proverbes 21",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:00.705Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.21.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -288,16 +330,19 @@
             "id": "PRO.21",
             "number": "21"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd53e495d0d0dded1f7",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.22",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:51.012Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:01.083Z",
         "number": "22",
-        "reference": "Prov. 22",
-        "updatedAt": "2022-06-02T15:44:51.012Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.22.mp3"
+        "reference": "Proverbes 22",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:01.083Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.22.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -308,16 +353,19 @@
             "id": "PRO.22",
             "number": "22"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd53e495d0d0dded37d",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.23",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:51.268Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:01.512Z",
         "number": "23",
-        "reference": "Prov. 23",
-        "updatedAt": "2022-06-02T15:44:51.268Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.23.mp3"
+        "reference": "Proverbes 23",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:01.512Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.23.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -328,16 +376,19 @@
             "id": "PRO.23",
             "number": "23"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd53e495d0d0dded51d",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.24",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:51.872Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:01.943Z",
         "number": "24",
-        "reference": "Prov. 24",
-        "updatedAt": "2022-06-02T15:44:51.872Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.24.mp3"
+        "reference": "Proverbes 24",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:01.943Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.24.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -348,16 +399,19 @@
             "id": "PRO.24",
             "number": "24"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd63e495d0d0dded6d7",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.25",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:52.167Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:02.387Z",
         "number": "25",
-        "reference": "Prov. 25",
-        "updatedAt": "2022-06-02T15:44:52.167Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.25.mp3"
+        "reference": "Proverbes 25",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:02.387Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.25.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -368,16 +422,19 @@
             "id": "PRO.25",
             "number": "25"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd63e495d0d0dded854",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.26",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:52.427Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:02.829Z",
         "number": "26",
-        "reference": "Prov. 26",
-        "updatedAt": "2022-06-02T15:44:52.427Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.26.mp3"
+        "reference": "Proverbes 26",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:02.829Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.26.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -388,16 +445,19 @@
             "id": "PRO.26",
             "number": "26"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd73e495d0d0ddeda05",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.27",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:52.694Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:03.269Z",
         "number": "27",
-        "reference": "Prov. 27",
-        "updatedAt": "2022-06-02T15:44:52.694Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.27.mp3"
+        "reference": "Proverbes 27",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:03.269Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.27.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -408,16 +468,19 @@
             "id": "PRO.27",
             "number": "27"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd73e495d0d0ddedbb9",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.28",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:52.955Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:03.725Z",
         "number": "28",
-        "reference": "Prov. 28",
-        "updatedAt": "2022-06-02T15:44:52.955Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.28.mp3"
+        "reference": "Proverbes 28",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:03.725Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.28.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -428,16 +491,19 @@
             "id": "PRO.28",
             "number": "28"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd83e495d0d0ddedd81",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.29",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:53.219Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:04.164Z",
         "number": "29",
-        "reference": "Prov. 29",
-        "updatedAt": "2022-06-02T15:44:53.219Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.29.mp3"
+        "reference": "Proverbes 29",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:04.164Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.29.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -448,16 +514,19 @@
             "id": "PRO.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83ccc3e495d0d0ddeb37d",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.3",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:38.339Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:52.943Z",
         "number": "3",
-        "reference": "Prov. 3",
-        "updatedAt": "2022-06-02T15:44:38.339Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.3.mp3"
+        "reference": "Proverbes 3",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:52.943Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -468,16 +537,19 @@
             "id": "PRO.29",
             "number": "29"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd83e495d0d0ddedeeb",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.30",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:53.459Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:04.621Z",
         "number": "30",
-        "reference": "Prov. 30",
-        "updatedAt": "2022-06-02T15:44:53.459Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.30.mp3"
+        "reference": "Proverbes 30",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:04.621Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.30.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -488,16 +560,19 @@
             "id": "PRO.30",
             "number": "30"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cd93e495d0d0ddee0c4",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.31",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:53.698Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:05.058Z",
         "number": "31",
-        "reference": "Prov. 31",
-        "updatedAt": "2022-06-02T15:44:53.698Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.31.mp3"
+        "reference": "Proverbes 31",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:05.058Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.31.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -508,16 +583,19 @@
             "id": "PRO.3",
             "number": "3"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83ccd3e495d0d0ddeb4f9",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.4",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:38.905Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:53.371Z",
         "number": "4",
-        "reference": "Prov. 4",
-        "updatedAt": "2022-06-02T15:44:38.905Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.4.mp3"
+        "reference": "Proverbes 4",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:53.371Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -528,16 +606,19 @@
             "id": "PRO.4",
             "number": "4"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83ccd3e495d0d0ddeb6c5",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.5",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:39.612Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:53.841Z",
         "number": "5",
-        "reference": "Prov. 5",
-        "updatedAt": "2022-06-02T15:44:39.612Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.5.mp3"
+        "reference": "Proverbes 5",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:53.841Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -548,16 +629,19 @@
             "id": "PRO.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cce3e495d0d0ddeb89b",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.6",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:40.303Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:54.282Z",
         "number": "6",
-        "reference": "Prov. 6",
-        "updatedAt": "2022-06-02T15:44:40.303Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.6.mp3"
+        "reference": "Proverbes 6",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:54.282Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -568,16 +652,19 @@
             "id": "PRO.6",
             "number": "6"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83cce3e495d0d0ddeb9eb",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.7",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:40.565Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:54.664Z",
         "number": "7",
-        "reference": "Prov. 7",
-        "updatedAt": "2022-06-02T15:44:40.565Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.7.mp3"
+        "reference": "Proverbes 7",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:54.664Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -588,16 +675,19 @@
             "id": "PRO.7",
             "number": "7"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83ccf3e495d0d0ddebb9c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.8",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:41.713Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:55.092Z",
         "number": "8",
-        "reference": "Prov. 8",
-        "updatedAt": "2022-06-02T15:44:41.713Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.8.mp3"
+        "reference": "Proverbes 8",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:55.092Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.8.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     },
     {
         "next": {
@@ -608,15 +698,18 @@
             "id": "PRO.8",
             "number": "8"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83ccf3e495d0d0ddebd18",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PRO.9",
+        "__v": 0,
         "bookId": "PRO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:44:42.478Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:18:55.481Z",
         "number": "9",
-        "reference": "Prov. 9",
-        "updatedAt": "2022-06-02T15:44:42.478Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PRO/PRO.9.mp3"
+        "reference": "Proverbes 9",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:18:55.481Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PRO/PRO.9.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PRO.png"
     }
 ]

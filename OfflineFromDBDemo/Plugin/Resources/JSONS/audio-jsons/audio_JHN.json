@@ -8,16 +8,19 @@
             "id": "LUK.24",
             "number": "24"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d743e495d0d0de1253b",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.1",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:26.916Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:40.792Z",
         "number": "1",
-        "reference": "John 1",
-        "updatedAt": "2022-06-02T15:46:26.916Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.1.mp3"
+        "reference": "Jean 1",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:40.792Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -28,16 +31,19 @@
             "id": "JHN.9",
             "number": "9"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d783e495d0d0de133f0",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.10",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:29.166Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:44.865Z",
         "number": "10",
-        "reference": "John 10",
-        "updatedAt": "2022-06-02T15:46:29.166Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.10.mp3"
+        "reference": "Jean 10",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:44.865Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.10.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -48,16 +54,19 @@
             "id": "JHN.10",
             "number": "10"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d793e495d0d0de135ce",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.11",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:29.407Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:45.255Z",
         "number": "11",
-        "reference": "John 11",
-        "updatedAt": "2022-06-02T15:46:29.407Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.11.mp3"
+        "reference": "Jean 11",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:45.255Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.11.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -68,16 +77,19 @@
             "id": "JHN.11",
             "number": "11"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d793e495d0d0de1377e",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.12",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:29.653Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:45.697Z",
         "number": "12",
-        "reference": "John 12",
-        "updatedAt": "2022-06-02T15:46:29.653Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.12.mp3"
+        "reference": "Jean 12",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:45.697Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.12.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -88,16 +100,19 @@
             "id": "JHN.12",
             "number": "12"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d7a3e495d0d0de138d7",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.13",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:29.866Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:46.102Z",
         "number": "13",
-        "reference": "John 13",
-        "updatedAt": "2022-06-02T15:46:29.866Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.13.mp3"
+        "reference": "Jean 13",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:46.102Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.13.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -108,16 +123,19 @@
             "id": "JHN.13",
             "number": "13"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d7a3e495d0d0de13a90",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.14",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:30.078Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:46.555Z",
         "number": "14",
-        "reference": "John 14",
-        "updatedAt": "2022-06-02T15:46:30.078Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.14.mp3"
+        "reference": "Jean 14",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:46.555Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.14.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -128,16 +146,19 @@
             "id": "JHN.14",
             "number": "14"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d7b3e495d0d0de13c66",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.15",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:30.304Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:47.051Z",
         "number": "15",
-        "reference": "John 15",
-        "updatedAt": "2022-06-02T15:46:30.304Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.15.mp3"
+        "reference": "Jean 15",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:47.051Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.15.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -148,16 +169,19 @@
             "id": "JHN.15",
             "number": "15"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d7b3e495d0d0de13e36",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.16",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:30.533Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:47.442Z",
         "number": "16",
-        "reference": "John 16",
-        "updatedAt": "2022-06-02T15:46:30.533Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.16.mp3"
+        "reference": "Jean 16",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:47.442Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.16.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -168,16 +192,19 @@
             "id": "JHN.16",
             "number": "16"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d7b3e495d0d0de13f90",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.17",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:30.773Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:47.822Z",
         "number": "17",
-        "reference": "John 17",
-        "updatedAt": "2022-06-02T15:46:30.773Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.17.mp3"
+        "reference": "Jean 17",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:47.822Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.17.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -188,16 +215,19 @@
             "id": "JHN.17",
             "number": "17"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d7c3e495d0d0de14145",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.18",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:31.023Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:48.281Z",
         "number": "18",
-        "reference": "John 18",
-        "updatedAt": "2022-06-02T15:46:31.023Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.18.mp3"
+        "reference": "Jean 18",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:48.281Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.18.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -208,16 +238,19 @@
             "id": "JHN.18",
             "number": "18"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d7c3e495d0d0de1435f",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.19",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:31.267Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:48.800Z",
         "number": "19",
-        "reference": "John 19",
-        "updatedAt": "2022-06-02T15:46:31.267Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.19.mp3"
+        "reference": "Jean 19",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:48.800Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.19.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -228,16 +261,19 @@
             "id": "JHN.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d753e495d0d0de1279b",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.2",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:27.160Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:41.443Z",
         "number": "2",
-        "reference": "John 2",
-        "updatedAt": "2022-06-02T15:46:27.160Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.2.mp3"
+        "reference": "Jean 2",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:41.443Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -248,16 +284,19 @@
             "id": "JHN.19",
             "number": "19"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d7d3e495d0d0de144eb",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.20",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:31.483Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:49.197Z",
         "number": "20",
-        "reference": "John 20",
-        "updatedAt": "2022-06-02T15:46:31.484Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.20.mp3"
+        "reference": "Jean 20",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:49.197Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.20.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -268,16 +307,19 @@
             "id": "JHN.20",
             "number": "20"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d7d3e495d0d0de14699",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.21",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:31.695Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:49.635Z",
         "number": "21",
-        "reference": "John 21",
-        "updatedAt": "2022-06-02T15:46:31.695Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.21.mp3"
+        "reference": "Jean 21",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:49.635Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.21.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -288,16 +330,19 @@
             "id": "JHN.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d753e495d0d0de12902",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.3",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:27.440Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:41.888Z",
         "number": "3",
-        "reference": "John 3",
-        "updatedAt": "2022-06-02T15:46:27.440Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.3.mp3"
+        "reference": "Jean 3",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:41.888Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -308,16 +353,19 @@
             "id": "JHN.3",
             "number": "3"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d763e495d0d0de12aa7",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.4",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:27.685Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:42.328Z",
         "number": "4",
-        "reference": "John 4",
-        "updatedAt": "2022-06-02T15:46:27.685Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.4.mp3"
+        "reference": "Jean 4",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:42.328Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -328,16 +376,19 @@
             "id": "JHN.4",
             "number": "4"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d763e495d0d0de12c2c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.5",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:27.911Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:42.708Z",
         "number": "5",
-        "reference": "John 5",
-        "updatedAt": "2022-06-02T15:46:27.911Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.5.mp3"
+        "reference": "Jean 5",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:42.708Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -348,16 +399,19 @@
             "id": "JHN.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d773e495d0d0de12d7b",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.6",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:28.171Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:43.086Z",
         "number": "6",
-        "reference": "John 6",
-        "updatedAt": "2022-06-02T15:46:28.171Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.6.mp3"
+        "reference": "Jean 6",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:43.086Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -368,16 +422,19 @@
             "id": "JHN.6",
             "number": "6"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d773e495d0d0de12f30",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.7",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:28.414Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:43.544Z",
         "number": "7",
-        "reference": "John 7",
-        "updatedAt": "2022-06-02T15:46:28.415Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.7.mp3"
+        "reference": "Jean 7",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:43.544Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -388,16 +445,19 @@
             "id": "JHN.7",
             "number": "7"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d783e495d0d0de13086",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.8",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:28.672Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:43.988Z",
         "number": "8",
-        "reference": "John 8",
-        "updatedAt": "2022-06-02T15:46:28.672Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.8.mp3"
+        "reference": "Jean 8",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:43.988Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.8.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     },
     {
         "next": {
@@ -408,15 +468,18 @@
             "id": "JHN.8",
             "number": "8"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d783e495d0d0de13259",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JHN.9",
+        "__v": 0,
         "bookId": "JHN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:28.929Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:21:44.417Z",
         "number": "9",
-        "reference": "John 9",
-        "updatedAt": "2022-06-02T15:46:28.929Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JHN/JHN.9.mp3"
+        "reference": "Jean 9",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:21:44.417Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JHN/JHN.9.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JHN.png"
     }
 ]

@@ -8,16 +8,19 @@
             "id": "EPH.6",
             "number": "6"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83da53e495d0d0de1d673",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PHP.1",
+        "__v": 0,
         "bookId": "PHP",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:54.775Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:29.126Z",
         "number": "1",
-        "reference": "Phil. 1",
-        "updatedAt": "2022-06-02T15:46:54.775Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PHP/PHP.1.mp3"
+        "reference": "Philippiens 1",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:29.126Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PHP/PHP.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PHP.png"
     },
     {
         "next": {
@@ -28,16 +31,19 @@
             "id": "PHP.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83da53e495d0d0de1d813",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PHP.2",
+        "__v": 0,
         "bookId": "PHP",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:55.023Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:29.553Z",
         "number": "2",
-        "reference": "Phil. 2",
-        "updatedAt": "2022-06-02T15:46:55.024Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PHP/PHP.2.mp3"
+        "reference": "Philippiens 2",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:29.553Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PHP/PHP.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PHP.png"
     },
     {
         "next": {
@@ -48,16 +54,19 @@
             "id": "PHP.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83da63e495d0d0de1d9a5",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PHP.3",
+        "__v": 0,
         "bookId": "PHP",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:55.266Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:30.005Z",
         "number": "3",
-        "reference": "Phil. 3",
-        "updatedAt": "2022-06-02T15:46:55.266Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PHP/PHP.3.mp3"
+        "reference": "Philippiens 3",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:30.005Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PHP/PHP.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PHP.png"
     },
     {
         "next": {
@@ -68,15 +77,18 @@
             "id": "PHP.3",
             "number": "3"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83da63e495d0d0de1db99",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "PHP.4",
+        "__v": 0,
         "bookId": "PHP",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:55.512Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:30.432Z",
         "number": "4",
-        "reference": "Phil. 4",
-        "updatedAt": "2022-06-02T15:46:55.512Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/PHP/PHP.4.mp3"
+        "reference": "Philippiens 4",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:30.432Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/PHP/PHP.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/PHP.png"
     }
 ]

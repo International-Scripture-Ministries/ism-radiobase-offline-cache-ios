@@ -8,16 +8,19 @@
             "id": "1SA.31",
             "number": "31"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c2c3e495d0d0ddc602d",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.1",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:52.012Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:12.373Z",
         "number": "1",
         "reference": "2 Samuel 1",
-        "updatedAt": "2022-06-02T15:42:52.013Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.1.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:12.373Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -28,16 +31,19 @@
             "id": "2SA.9",
             "number": "9"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c303e495d0d0ddc6e04",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.10",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:54.811Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:16.355Z",
         "number": "10",
         "reference": "2 Samuel 10",
-        "updatedAt": "2022-06-02T15:42:54.811Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.10.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:16.355Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.10.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -48,16 +54,19 @@
             "id": "2SA.10",
             "number": "10"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c303e495d0d0ddc6fe1",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.11",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:55.084Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:16.815Z",
         "number": "11",
         "reference": "2 Samuel 11",
-        "updatedAt": "2022-06-02T15:42:55.084Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.11.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:16.815Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.11.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -68,16 +77,19 @@
             "id": "2SA.11",
             "number": "11"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c313e495d0d0ddc7120",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.12",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:55.356Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:17.213Z",
         "number": "12",
         "reference": "2 Samuel 12",
-        "updatedAt": "2022-06-02T15:42:55.356Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.12.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:17.213Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.12.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -88,16 +100,19 @@
             "id": "2SA.12",
             "number": "12"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c313e495d0d0ddc7296",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.13",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:55.623Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:17.611Z",
         "number": "13",
         "reference": "2 Samuel 13",
-        "updatedAt": "2022-06-02T15:42:55.623Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.13.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:17.611Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.13.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -108,16 +123,19 @@
             "id": "2SA.13",
             "number": "13"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c323e495d0d0ddc742e",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.14",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:55.875Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:18.019Z",
         "number": "14",
         "reference": "2 Samuel 14",
-        "updatedAt": "2022-06-02T15:42:55.875Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.14.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:18.019Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.14.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -128,16 +146,19 @@
             "id": "2SA.14",
             "number": "14"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c323e495d0d0ddc75c7",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.15",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:56.095Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:18.447Z",
         "number": "15",
         "reference": "2 Samuel 15",
-        "updatedAt": "2022-06-02T15:42:56.095Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.15.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:18.447Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.15.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -148,16 +169,19 @@
             "id": "2SA.15",
             "number": "15"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c323e495d0d0ddc7748",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.16",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:56.307Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:18.838Z",
         "number": "16",
         "reference": "2 Samuel 16",
-        "updatedAt": "2022-06-02T15:42:56.307Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.16.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:18.838Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.16.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -168,16 +192,19 @@
             "id": "2SA.16",
             "number": "16"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c333e495d0d0ddc78b1",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.17",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:56.565Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:19.252Z",
         "number": "17",
         "reference": "2 Samuel 17",
-        "updatedAt": "2022-06-02T15:42:56.565Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.17.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:19.252Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.17.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -188,16 +215,19 @@
             "id": "2SA.17",
             "number": "17"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c333e495d0d0ddc7ac4",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.18",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:56.824Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:19.703Z",
         "number": "18",
         "reference": "2 Samuel 18",
-        "updatedAt": "2022-06-02T15:42:56.824Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.18.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:19.703Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.18.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -208,16 +238,19 @@
             "id": "2SA.18",
             "number": "18"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c343e495d0d0ddc7c90",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.19",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:57.096Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:20.150Z",
         "number": "19",
         "reference": "2 Samuel 19",
-        "updatedAt": "2022-06-02T15:42:57.096Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.19.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:20.150Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.19.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -228,16 +261,19 @@
             "id": "2SA.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c2c3e495d0d0ddc61c4",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.2",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:52.477Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:12.813Z",
         "number": "2",
         "reference": "2 Samuel 2",
-        "updatedAt": "2022-06-02T15:42:52.477Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.2.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:12.813Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -248,16 +284,19 @@
             "id": "2SA.19",
             "number": "19"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c343e495d0d0ddc7e36",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.20",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:57.315Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:20.567Z",
         "number": "20",
         "reference": "2 Samuel 20",
-        "updatedAt": "2022-06-02T15:42:57.315Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.20.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:20.568Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.20.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -268,16 +307,19 @@
             "id": "2SA.20",
             "number": "20"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c353e495d0d0ddc7fe1",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.21",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:57.559Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:21.028Z",
         "number": "21",
         "reference": "2 Samuel 21",
-        "updatedAt": "2022-06-02T15:42:57.559Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.21.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:21.028Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.21.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -288,16 +330,19 @@
             "id": "2SA.21",
             "number": "21"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c353e495d0d0ddc816f",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.22",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:57.811Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:21.424Z",
         "number": "22",
         "reference": "2 Samuel 22",
-        "updatedAt": "2022-06-02T15:42:57.811Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.22.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:21.424Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.22.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -308,16 +353,19 @@
             "id": "2SA.22",
             "number": "22"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c353e495d0d0ddc82eb",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.23",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:58.064Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:21.830Z",
         "number": "23",
         "reference": "2 Samuel 23",
-        "updatedAt": "2022-06-02T15:42:58.064Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.23.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:21.830Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.23.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -328,16 +376,19 @@
             "id": "2SA.23",
             "number": "23"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c363e495d0d0ddc8445",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.24",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:58.318Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:22.256Z",
         "number": "24",
         "reference": "2 Samuel 24",
-        "updatedAt": "2022-06-02T15:42:58.318Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.24.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:22.256Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.24.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -348,16 +399,19 @@
             "id": "2SA.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c2d3e495d0d0ddc637a",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.3",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:52.735Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:13.316Z",
         "number": "3",
         "reference": "2 Samuel 3",
-        "updatedAt": "2022-06-02T15:42:52.735Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.3.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:13.316Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -368,16 +422,19 @@
             "id": "2SA.3",
             "number": "3"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c2d3e495d0d0ddc652b",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.4",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:52.958Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:13.717Z",
         "number": "4",
         "reference": "2 Samuel 4",
-        "updatedAt": "2022-06-02T15:42:52.958Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.4.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:13.717Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -388,16 +445,19 @@
             "id": "2SA.4",
             "number": "4"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c2e3e495d0d0ddc66b6",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.5",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:53.293Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:14.170Z",
         "number": "5",
         "reference": "2 Samuel 5",
-        "updatedAt": "2022-06-02T15:42:53.293Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.5.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:14.170Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -408,16 +468,19 @@
             "id": "2SA.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c2e3e495d0d0ddc6813",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.6",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:53.706Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:14.607Z",
         "number": "6",
         "reference": "2 Samuel 6",
-        "updatedAt": "2022-06-02T15:42:53.706Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.6.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:14.607Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -428,16 +491,19 @@
             "id": "2SA.6",
             "number": "6"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c2f3e495d0d0ddc698d",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.7",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:54.040Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:15.043Z",
         "number": "7",
         "reference": "2 Samuel 7",
-        "updatedAt": "2022-06-02T15:42:54.040Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.7.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:15.043Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -448,16 +514,19 @@
             "id": "2SA.7",
             "number": "7"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c2f3e495d0d0ddc6b3a",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.8",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:54.256Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:15.480Z",
         "number": "8",
         "reference": "2 Samuel 8",
-        "updatedAt": "2022-06-02T15:42:54.256Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.8.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:15.480Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.8.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     },
     {
         "next": {
@@ -468,15 +537,18 @@
             "id": "2SA.8",
             "number": "8"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c2f3e495d0d0ddc6ca1",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2SA.9",
+        "__v": 0,
         "bookId": "2SA",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:54.541Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:16:15.923Z",
         "number": "9",
         "reference": "2 Samuel 9",
-        "updatedAt": "2022-06-02T15:42:54.541Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2SA/2SA.9.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:16:15.923Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2SA/2SA.9.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2SA.png"
     }
 ]

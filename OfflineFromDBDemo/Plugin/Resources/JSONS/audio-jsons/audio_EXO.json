@@ -8,16 +8,19 @@
             "id": "GEN.50",
             "number": "50"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bca3e495d0d0ddaec80",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.1",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:54.379Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:34.683Z",
         "number": "1",
-        "reference": "Exodus 1",
-        "updatedAt": "2022-06-02T15:41:54.379Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.1.mp3"
+        "reference": "Exode 1",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:34.683Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -28,16 +31,19 @@
             "id": "EXO.9",
             "number": "9"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bce3e495d0d0ddafa25",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.10",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:56.557Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:38.581Z",
         "number": "10",
-        "reference": "Exodus 10",
-        "updatedAt": "2022-06-02T15:41:56.557Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.10.mp3"
+        "reference": "Exode 10",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:38.581Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.10.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -48,16 +54,19 @@
             "id": "EXO.10",
             "number": "10"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bcf3e495d0d0ddafbd2",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.11",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:56.823Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:39.027Z",
         "number": "11",
-        "reference": "Exodus 11",
-        "updatedAt": "2022-06-02T15:41:56.823Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.11.mp3"
+        "reference": "Exode 11",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:39.027Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.11.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -68,16 +77,19 @@
             "id": "EXO.11",
             "number": "11"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bcf3e495d0d0ddafdb5",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.12",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:57.044Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:39.476Z",
         "number": "12",
-        "reference": "Exodus 12",
-        "updatedAt": "2022-06-02T15:41:57.044Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.12.mp3"
+        "reference": "Exode 12",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:39.476Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.12.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -88,16 +100,19 @@
             "id": "EXO.12",
             "number": "12"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bcf3e495d0d0ddaffb1",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.13",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:57.258Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:39.924Z",
         "number": "13",
-        "reference": "Exodus 13",
-        "updatedAt": "2022-06-02T15:41:57.258Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.13.mp3"
+        "reference": "Exode 13",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:39.924Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.13.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -108,16 +123,19 @@
             "id": "EXO.13",
             "number": "13"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd03e495d0d0ddb012c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.14",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:57.503Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:40.347Z",
         "number": "14",
-        "reference": "Exodus 14",
-        "updatedAt": "2022-06-02T15:41:57.503Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.14.mp3"
+        "reference": "Exode 14",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:40.347Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.14.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -128,16 +146,19 @@
             "id": "EXO.14",
             "number": "14"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd03e495d0d0ddb0303",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.15",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:57.779Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:40.785Z",
         "number": "15",
-        "reference": "Exodus 15",
-        "updatedAt": "2022-06-02T15:41:57.780Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.15.mp3"
+        "reference": "Exode 15",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:40.785Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.15.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -148,16 +169,19 @@
             "id": "EXO.15",
             "number": "15"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd13e495d0d0ddb0493",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.16",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:58.044Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:41.230Z",
         "number": "16",
-        "reference": "Exodus 16",
-        "updatedAt": "2022-06-02T15:41:58.044Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.16.mp3"
+        "reference": "Exode 16",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:41.230Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.16.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -168,16 +192,19 @@
             "id": "EXO.16",
             "number": "16"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd13e495d0d0ddb0605",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.17",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:58.304Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:41.663Z",
         "number": "17",
-        "reference": "Exodus 17",
-        "updatedAt": "2022-06-02T15:41:58.305Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.17.mp3"
+        "reference": "Exode 17",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:41.663Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.17.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -188,16 +215,19 @@
             "id": "EXO.17",
             "number": "17"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd23e495d0d0ddb07a0",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.18",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:58.584Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:42.105Z",
         "number": "18",
-        "reference": "Exodus 18",
-        "updatedAt": "2022-06-02T15:41:58.584Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.18.mp3"
+        "reference": "Exode 18",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:42.105Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.18.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -208,16 +238,19 @@
             "id": "EXO.18",
             "number": "18"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd23e495d0d0ddb0984",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.19",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:58.801Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:42.537Z",
         "number": "19",
-        "reference": "Exodus 19",
-        "updatedAt": "2022-06-02T15:41:58.801Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.19.mp3"
+        "reference": "Exode 19",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:42.537Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.19.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -228,16 +261,19 @@
             "id": "EXO.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bcb3e495d0d0ddaee1a",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.2",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:54.641Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:35.128Z",
         "number": "2",
-        "reference": "Exodus 2",
-        "updatedAt": "2022-06-02T15:41:54.641Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.2.mp3"
+        "reference": "Exode 2",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:35.128Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -248,16 +284,19 @@
             "id": "EXO.19",
             "number": "19"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd33e495d0d0ddb0b9c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.20",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:59.032Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:42.997Z",
         "number": "20",
-        "reference": "Exodus 20",
-        "updatedAt": "2022-06-02T15:41:59.032Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.20.mp3"
+        "reference": "Exode 20",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:42.997Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.20.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -268,16 +307,19 @@
             "id": "EXO.20",
             "number": "20"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd33e495d0d0ddb0cee",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.21",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:59.283Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:43.396Z",
         "number": "21",
-        "reference": "Exodus 21",
-        "updatedAt": "2022-06-02T15:41:59.283Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.21.mp3"
+        "reference": "Exode 21",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:43.396Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.21.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -288,16 +330,19 @@
             "id": "EXO.21",
             "number": "21"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd33e495d0d0ddb0ea8",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.22",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:59.528Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:43.836Z",
         "number": "22",
-        "reference": "Exodus 22",
-        "updatedAt": "2022-06-02T15:41:59.528Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.22.mp3"
+        "reference": "Exode 22",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:43.836Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.22.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -308,16 +353,19 @@
             "id": "EXO.22",
             "number": "22"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd43e495d0d0ddb1077",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.23",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:59.771Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:44.269Z",
         "number": "23",
-        "reference": "Exodus 23",
-        "updatedAt": "2022-06-02T15:41:59.771Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.23.mp3"
+        "reference": "Exode 23",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:44.269Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.23.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -328,16 +376,19 @@
             "id": "EXO.23",
             "number": "23"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd43e495d0d0ddb1227",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.24",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:00.042Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:44.720Z",
         "number": "24",
-        "reference": "Exodus 24",
-        "updatedAt": "2022-06-02T15:42:00.042Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.24.mp3"
+        "reference": "Exode 24",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:44.720Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.24.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -348,16 +399,19 @@
             "id": "EXO.24",
             "number": "24"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd53e495d0d0ddb13ed",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.25",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:00.319Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:45.179Z",
         "number": "25",
-        "reference": "Exodus 25",
-        "updatedAt": "2022-06-02T15:42:00.319Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.25.mp3"
+        "reference": "Exode 25",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:45.179Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.25.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -368,16 +422,19 @@
             "id": "EXO.25",
             "number": "25"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd53e495d0d0ddb151e",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.26",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:00.582Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:45.555Z",
         "number": "26",
-        "reference": "Exodus 26",
-        "updatedAt": "2022-06-02T15:42:00.582Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.26.mp3"
+        "reference": "Exode 26",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:45.555Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.26.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -388,16 +445,19 @@
             "id": "EXO.26",
             "number": "26"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd63e495d0d0ddb173a",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.27",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:00.846Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:46.142Z",
         "number": "27",
-        "reference": "Exodus 27",
-        "updatedAt": "2022-06-02T15:42:00.846Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.27.mp3"
+        "reference": "Exode 27",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:46.142Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.27.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -408,16 +468,19 @@
             "id": "EXO.27",
             "number": "27"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd63e495d0d0ddb18aa",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.28",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:01.108Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:46.582Z",
         "number": "28",
-        "reference": "Exodus 28",
-        "updatedAt": "2022-06-02T15:42:01.108Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.28.mp3"
+        "reference": "Exode 28",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:46.582Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.28.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -428,16 +491,19 @@
             "id": "EXO.28",
             "number": "28"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd73e495d0d0ddb1a9a",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.29",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:01.373Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:47.042Z",
         "number": "29",
-        "reference": "Exodus 29",
-        "updatedAt": "2022-06-02T15:42:01.373Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.29.mp3"
+        "reference": "Exode 29",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:47.042Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.29.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -448,16 +514,19 @@
             "id": "EXO.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bcb3e495d0d0ddaef84",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.3",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:54.882Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:35.595Z",
         "number": "3",
-        "reference": "Exodus 3",
-        "updatedAt": "2022-06-02T15:41:54.882Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.3.mp3"
+        "reference": "Exode 3",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:35.595Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -468,16 +537,19 @@
             "id": "EXO.29",
             "number": "29"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd73e495d0d0ddb1c4d",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.30",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:01.637Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:47.487Z",
         "number": "30",
-        "reference": "Exodus 30",
-        "updatedAt": "2022-06-02T15:42:01.637Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.30.mp3"
+        "reference": "Exode 30",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:47.487Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.30.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -488,16 +560,19 @@
             "id": "EXO.30",
             "number": "30"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd73e495d0d0ddb1eb6",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.31",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:01.891Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:47.932Z",
         "number": "31",
-        "reference": "Exodus 31",
-        "updatedAt": "2022-06-02T15:42:01.891Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.31.mp3"
+        "reference": "Exode 31",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:47.932Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.31.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -508,16 +583,19 @@
             "id": "EXO.31",
             "number": "31"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd83e495d0d0ddb2097",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.32",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:02.146Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:48.377Z",
         "number": "32",
-        "reference": "Exodus 32",
-        "updatedAt": "2022-06-02T15:42:02.147Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.32.mp3"
+        "reference": "Exode 32",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:48.377Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.32.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -528,16 +606,19 @@
             "id": "EXO.32",
             "number": "32"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd83e495d0d0ddb2298",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.33",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:02.489Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:48.826Z",
         "number": "33",
-        "reference": "Exodus 33",
-        "updatedAt": "2022-06-02T15:42:02.489Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.33.mp3"
+        "reference": "Exode 33",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:48.826Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.33.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -548,16 +629,19 @@
             "id": "EXO.33",
             "number": "33"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd93e495d0d0ddb24bc",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.34",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:02.748Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:49.274Z",
         "number": "34",
-        "reference": "Exodus 34",
-        "updatedAt": "2022-06-02T15:42:02.748Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.34.mp3"
+        "reference": "Exode 34",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:49.274Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.34.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -568,16 +652,19 @@
             "id": "EXO.34",
             "number": "34"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bd93e495d0d0ddb2675",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.35",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:02.964Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:49.708Z",
         "number": "35",
-        "reference": "Exodus 35",
-        "updatedAt": "2022-06-02T15:42:02.964Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.35.mp3"
+        "reference": "Exode 35",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:49.708Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.35.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -588,16 +675,19 @@
             "id": "EXO.35",
             "number": "35"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bda3e495d0d0ddb2851",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.36",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:03.215Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:50.154Z",
         "number": "36",
-        "reference": "Exodus 36",
-        "updatedAt": "2022-06-02T15:42:03.215Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.36.mp3"
+        "reference": "Exode 36",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:50.154Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.36.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -608,16 +698,19 @@
             "id": "EXO.36",
             "number": "36"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bda3e495d0d0ddb2a47",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.37",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:03.462Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:50.597Z",
         "number": "37",
-        "reference": "Exodus 37",
-        "updatedAt": "2022-06-02T15:42:03.462Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.37.mp3"
+        "reference": "Exode 37",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:50.597Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.37.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -628,16 +721,19 @@
             "id": "EXO.37",
             "number": "37"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bdb3e495d0d0ddb2c34",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.38",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:03.715Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:51.073Z",
         "number": "38",
-        "reference": "Exodus 38",
-        "updatedAt": "2022-06-02T15:42:03.715Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.38.mp3"
+        "reference": "Exode 38",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:51.073Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.38.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -648,16 +744,19 @@
             "id": "EXO.38",
             "number": "38"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bdb3e495d0d0ddb2df5",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.39",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:03.998Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:51.475Z",
         "number": "39",
-        "reference": "Exodus 39",
-        "updatedAt": "2022-06-02T15:42:03.998Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.39.mp3"
+        "reference": "Exode 39",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:51.475Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.39.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -668,16 +767,19 @@
             "id": "EXO.3",
             "number": "3"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bcc3e495d0d0ddaf0da",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.4",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:55.094Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:36.001Z",
         "number": "4",
-        "reference": "Exodus 4",
-        "updatedAt": "2022-06-02T15:41:55.094Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.4.mp3"
+        "reference": "Exode 4",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:36.001Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -688,16 +790,19 @@
             "id": "EXO.39",
             "number": "39"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bdb3e495d0d0ddb2fa7",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.40",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:04.218Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:51.925Z",
         "number": "40",
-        "reference": "Exodus 40",
-        "updatedAt": "2022-06-02T15:42:04.218Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.40.mp3"
+        "reference": "Exode 40",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:51.925Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.40.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -708,16 +813,19 @@
             "id": "EXO.4",
             "number": "4"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bcc3e495d0d0ddaf263",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.5",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:55.347Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:36.440Z",
         "number": "5",
-        "reference": "Exodus 5",
-        "updatedAt": "2022-06-02T15:41:55.347Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.5.mp3"
+        "reference": "Exode 5",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:36.440Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -728,16 +836,19 @@
             "id": "EXO.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bcc3e495d0d0ddaf3fe",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.6",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:55.596Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:36.831Z",
         "number": "6",
-        "reference": "Exodus 6",
-        "updatedAt": "2022-06-02T15:41:55.596Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.6.mp3"
+        "reference": "Exode 6",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:36.831Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -748,16 +859,19 @@
             "id": "EXO.6",
             "number": "6"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bcd3e495d0d0ddaf535",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.7",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:55.844Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:37.221Z",
         "number": "7",
-        "reference": "Exodus 7",
-        "updatedAt": "2022-06-02T15:41:55.844Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.7.mp3"
+        "reference": "Exode 7",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:37.221Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -768,16 +882,19 @@
             "id": "EXO.7",
             "number": "7"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bcd3e495d0d0ddaf6b9",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.8",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:56.093Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:37.678Z",
         "number": "8",
-        "reference": "Exodus 8",
-        "updatedAt": "2022-06-02T15:41:56.093Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.8.mp3"
+        "reference": "Exode 8",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:37.678Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.8.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     },
     {
         "next": {
@@ -788,15 +905,18 @@
             "id": "EXO.8",
             "number": "8"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bce3e495d0d0ddaf868",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EXO.9",
+        "__v": 0,
         "bookId": "EXO",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:56.307Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:38.083Z",
         "number": "9",
-        "reference": "Exodus 9",
-        "updatedAt": "2022-06-02T15:41:56.307Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EXO/EXO.9.mp3"
+        "reference": "Exode 9",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:38.083Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EXO/EXO.9.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EXO.png"
     }
 ]

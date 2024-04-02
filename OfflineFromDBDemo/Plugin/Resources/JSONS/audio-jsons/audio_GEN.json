@@ -4,16 +4,19 @@
             "id": "GEN.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bb43e495d0d0dda99f8",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.1",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:38.241Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:12.758Z",
         "number": "1",
-        "reference": "Gen. 1",
-        "updatedAt": "2022-06-02T15:41:38.241Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.1.mp3"
+        "reference": "Genèse 1",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:12.758Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -24,16 +27,19 @@
             "id": "GEN.9",
             "number": "9"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bb83e495d0d0ddaa7a3",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.10",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:40.539Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:16.633Z",
         "number": "10",
-        "reference": "Gen. 10",
-        "updatedAt": "2022-06-02T15:41:40.539Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.10.mp3"
+        "reference": "Genèse 10",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:16.633Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.10.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -44,16 +50,19 @@
             "id": "GEN.10",
             "number": "10"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bb93e495d0d0ddaa93a",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.11",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:40.787Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:17.091Z",
         "number": "11",
-        "reference": "Gen. 11",
-        "updatedAt": "2022-06-02T15:41:40.787Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.11.mp3"
+        "reference": "Genèse 11",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:17.091Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.11.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -64,16 +73,19 @@
             "id": "GEN.11",
             "number": "11"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bb93e495d0d0ddaaad8",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.12",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:41.051Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:17.527Z",
         "number": "12",
-        "reference": "Gen. 12",
-        "updatedAt": "2022-06-02T15:41:41.051Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.12.mp3"
+        "reference": "Genèse 12",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:17.527Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.12.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -84,16 +96,19 @@
             "id": "GEN.12",
             "number": "12"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bb93e495d0d0ddaac4b",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.13",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:41.266Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:17.940Z",
         "number": "13",
-        "reference": "Gen. 13",
-        "updatedAt": "2022-06-02T15:41:41.266Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.13.mp3"
+        "reference": "Genèse 13",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:17.940Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.13.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -104,16 +119,19 @@
             "id": "GEN.13",
             "number": "13"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bba3e495d0d0ddaada1",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.14",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:41.471Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:18.363Z",
         "number": "14",
-        "reference": "Gen. 14",
-        "updatedAt": "2022-06-02T15:41:41.471Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.14.mp3"
+        "reference": "Genèse 14",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:18.363Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.14.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -124,16 +142,19 @@
             "id": "GEN.14",
             "number": "14"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bba3e495d0d0ddaaf88",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.15",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:41.742Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:18.832Z",
         "number": "15",
-        "reference": "Gen. 15",
-        "updatedAt": "2022-06-02T15:41:41.742Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.15.mp3"
+        "reference": "Genèse 15",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:18.832Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.15.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -144,16 +165,19 @@
             "id": "GEN.15",
             "number": "15"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bbb3e495d0d0ddab144",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.16",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:41.992Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:19.291Z",
         "number": "16",
-        "reference": "Gen. 16",
-        "updatedAt": "2022-06-02T15:41:41.992Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.16.mp3"
+        "reference": "Genèse 16",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:19.291Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.16.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -164,16 +188,19 @@
             "id": "GEN.16",
             "number": "16"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bbb3e495d0d0ddab342",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.17",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:42.233Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:19.711Z",
         "number": "17",
-        "reference": "Gen. 17",
-        "updatedAt": "2022-06-02T15:41:42.234Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.17.mp3"
+        "reference": "Genèse 17",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:19.711Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.17.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -184,16 +211,19 @@
             "id": "GEN.17",
             "number": "17"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bbc3e495d0d0ddab4d8",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.18",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:42.490Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:20.165Z",
         "number": "18",
-        "reference": "Gen. 18",
-        "updatedAt": "2022-06-02T15:41:42.490Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.18.mp3"
+        "reference": "Genèse 18",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:20.165Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.18.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -204,16 +234,19 @@
             "id": "GEN.18",
             "number": "18"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bbc3e495d0d0ddab698",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.19",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:42.740Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:20.591Z",
         "number": "19",
-        "reference": "Gen. 19",
-        "updatedAt": "2022-06-02T15:41:42.740Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.19.mp3"
+        "reference": "Genèse 19",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:20.591Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.19.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -224,16 +257,19 @@
             "id": "GEN.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bb53e495d0d0dda9b72",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.2",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:38.505Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:13.230Z",
         "number": "2",
-        "reference": "Gen. 2",
-        "updatedAt": "2022-06-02T15:41:38.505Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.2.mp3"
+        "reference": "Genèse 2",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:13.230Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -244,16 +280,19 @@
             "id": "GEN.19",
             "number": "19"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bbd3e495d0d0ddab7d9",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.20",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:43.084Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:21.015Z",
         "number": "20",
-        "reference": "Gen. 20",
-        "updatedAt": "2022-06-02T15:41:43.084Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.20.mp3"
+        "reference": "Genèse 20",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:21.015Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.20.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -264,16 +303,19 @@
             "id": "GEN.20",
             "number": "20"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bbd3e495d0d0ddab924",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.21",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:43.436Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:21.461Z",
         "number": "21",
-        "reference": "Gen. 21",
-        "updatedAt": "2022-06-02T15:41:43.436Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.21.mp3"
+        "reference": "Genèse 21",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:21.461Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.21.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -284,16 +326,19 @@
             "id": "GEN.21",
             "number": "21"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bbd3e495d0d0ddabab2",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.22",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:43.673Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:21.928Z",
         "number": "22",
-        "reference": "Gen. 22",
-        "updatedAt": "2022-06-02T15:41:43.673Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.22.mp3"
+        "reference": "Genèse 22",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:21.928Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.22.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -304,16 +349,19 @@
             "id": "GEN.22",
             "number": "22"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bbe3e495d0d0ddabc1b",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.23",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:43.916Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:22.360Z",
         "number": "23",
-        "reference": "Gen. 23",
-        "updatedAt": "2022-06-02T15:41:43.916Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.23.mp3"
+        "reference": "Genèse 23",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:22.360Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.23.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -324,16 +372,19 @@
             "id": "GEN.23",
             "number": "23"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bbe3e495d0d0ddabdd4",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.24",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:44.250Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:22.758Z",
         "number": "24",
-        "reference": "Gen. 24",
-        "updatedAt": "2022-06-02T15:41:44.251Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.24.mp3"
+        "reference": "Genèse 24",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:22.758Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.24.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -344,16 +395,19 @@
             "id": "GEN.24",
             "number": "24"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bbf3e495d0d0ddabf6c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.25",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:44.590Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:23.153Z",
         "number": "25",
-        "reference": "Gen. 25",
-        "updatedAt": "2022-06-02T15:41:44.590Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.25.mp3"
+        "reference": "Genèse 25",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:23.153Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.25.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -364,16 +418,19 @@
             "id": "GEN.25",
             "number": "25"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bbf3e495d0d0ddac0ff",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.26",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:44.824Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:23.537Z",
         "number": "26",
-        "reference": "Gen. 26",
-        "updatedAt": "2022-06-02T15:41:44.824Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.26.mp3"
+        "reference": "Genèse 26",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:23.537Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.26.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -384,16 +441,19 @@
             "id": "GEN.26",
             "number": "26"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bbf3e495d0d0ddac307",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.27",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:45.059Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:23.917Z",
         "number": "27",
-        "reference": "Gen. 27",
-        "updatedAt": "2022-06-02T15:41:45.059Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.27.mp3"
+        "reference": "Genèse 27",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:23.917Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.27.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -404,16 +464,19 @@
             "id": "GEN.27",
             "number": "27"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc03e495d0d0ddac486",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.28",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:45.412Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:24.377Z",
         "number": "28",
-        "reference": "Gen. 28",
-        "updatedAt": "2022-06-02T15:41:45.412Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.28.mp3"
+        "reference": "Genèse 28",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:24.377Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.28.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -424,16 +487,19 @@
             "id": "GEN.28",
             "number": "28"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc03e495d0d0ddac675",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.29",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:45.966Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:24.792Z",
         "number": "29",
-        "reference": "Gen. 29",
-        "updatedAt": "2022-06-02T15:41:45.966Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.29.mp3"
+        "reference": "Genèse 29",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:24.792Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.29.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -444,16 +510,19 @@
             "id": "GEN.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bb53e495d0d0dda9ce7",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.3",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:38.781Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:13.617Z",
         "number": "3",
-        "reference": "Gen. 3",
-        "updatedAt": "2022-06-02T15:41:38.781Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.3.mp3"
+        "reference": "Genèse 3",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:13.617Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -464,16 +533,19 @@
             "id": "GEN.29",
             "number": "29"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc13e495d0d0ddac7ff",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.30",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:46.264Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:25.232Z",
         "number": "30",
-        "reference": "Gen. 30",
-        "updatedAt": "2022-06-02T15:41:46.264Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.30.mp3"
+        "reference": "Genèse 30",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:25.232Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.30.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -484,16 +556,19 @@
             "id": "GEN.30",
             "number": "30"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc13e495d0d0ddac981",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.31",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:47.013Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:25.639Z",
         "number": "31",
-        "reference": "Gen. 31",
-        "updatedAt": "2022-06-02T15:41:47.013Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.31.mp3"
+        "reference": "Genèse 31",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:25.639Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.31.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -504,16 +579,19 @@
             "id": "GEN.31",
             "number": "31"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc23e495d0d0ddacad5",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.32",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:47.257Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:26.038Z",
         "number": "32",
-        "reference": "Gen. 32",
-        "updatedAt": "2022-06-02T15:41:47.257Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.32.mp3"
+        "reference": "Genèse 32",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:26.038Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.32.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -524,16 +602,19 @@
             "id": "GEN.32",
             "number": "32"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc23e495d0d0ddacc52",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.33",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:47.759Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:26.475Z",
         "number": "33",
-        "reference": "Gen. 33",
-        "updatedAt": "2022-06-02T15:41:47.759Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.33.mp3"
+        "reference": "Genèse 33",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:26.475Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.33.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -544,16 +625,19 @@
             "id": "GEN.33",
             "number": "33"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc23e495d0d0ddacdfc",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.34",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:48.262Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:26.917Z",
         "number": "34",
-        "reference": "Gen. 34",
-        "updatedAt": "2022-06-02T15:41:48.262Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.34.mp3"
+        "reference": "Genèse 34",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:26.917Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.34.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -564,16 +648,19 @@
             "id": "GEN.34",
             "number": "34"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc33e495d0d0ddacff2",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.35",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:48.669Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:27.335Z",
         "number": "35",
-        "reference": "Gen. 35",
-        "updatedAt": "2022-06-02T15:41:48.669Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.35.mp3"
+        "reference": "Genèse 35",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:27.335Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.35.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -584,16 +671,19 @@
             "id": "GEN.35",
             "number": "35"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc33e495d0d0ddad1b0",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.36",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:49.159Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:27.756Z",
         "number": "36",
-        "reference": "Gen. 36",
-        "updatedAt": "2022-06-02T15:41:49.159Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.36.mp3"
+        "reference": "Genèse 36",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:27.756Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.36.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -604,16 +694,19 @@
             "id": "GEN.36",
             "number": "36"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc43e495d0d0ddad32a",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.37",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:49.571Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:28.192Z",
         "number": "37",
-        "reference": "Gen. 37",
-        "updatedAt": "2022-06-02T15:41:49.571Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.37.mp3"
+        "reference": "Genèse 37",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:28.192Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.37.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -624,16 +717,19 @@
             "id": "GEN.37",
             "number": "37"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc43e495d0d0ddad4c7",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.38",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:49.831Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:28.596Z",
         "number": "38",
-        "reference": "Gen. 38",
-        "updatedAt": "2022-06-02T15:41:49.831Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.38.mp3"
+        "reference": "Genèse 38",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:28.596Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.38.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -644,16 +740,19 @@
             "id": "GEN.38",
             "number": "38"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc53e495d0d0ddad643",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.39",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:50.294Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:29.009Z",
         "number": "39",
-        "reference": "Gen. 39",
-        "updatedAt": "2022-06-02T15:41:50.294Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.39.mp3"
+        "reference": "Genèse 39",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:29.009Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.39.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -664,16 +763,19 @@
             "id": "GEN.3",
             "number": "3"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bb63e495d0d0dda9e58",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.4",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:38.994Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:14.080Z",
         "number": "4",
-        "reference": "Gen. 4",
-        "updatedAt": "2022-06-02T15:41:38.994Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.4.mp3"
+        "reference": "Genèse 4",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:14.080Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -684,16 +786,19 @@
             "id": "GEN.39",
             "number": "39"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc53e495d0d0ddad7b3",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.40",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:50.620Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:29.469Z",
         "number": "40",
-        "reference": "Gen. 40",
-        "updatedAt": "2022-06-02T15:41:50.620Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.40.mp3"
+        "reference": "Genèse 40",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:29.469Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.40.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -704,16 +809,19 @@
             "id": "GEN.40",
             "number": "40"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc53e495d0d0ddad954",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.41",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:50.867Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:29.909Z",
         "number": "41",
-        "reference": "Gen. 41",
-        "updatedAt": "2022-06-02T15:41:50.867Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.41.mp3"
+        "reference": "Genèse 41",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:29.909Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.41.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -724,16 +832,19 @@
             "id": "GEN.41",
             "number": "41"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc63e495d0d0ddadb7a",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.42",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:51.388Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:30.338Z",
         "number": "42",
-        "reference": "Gen. 42",
-        "updatedAt": "2022-06-02T15:41:51.388Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.42.mp3"
+        "reference": "Genèse 42",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:30.338Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.42.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -744,16 +855,19 @@
             "id": "GEN.42",
             "number": "42"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc63e495d0d0ddadd59",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.43",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:51.779Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:30.786Z",
         "number": "43",
-        "reference": "Gen. 43",
-        "updatedAt": "2022-06-02T15:41:51.779Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.43.mp3"
+        "reference": "Genèse 43",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:30.786Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.43.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -764,16 +878,19 @@
             "id": "GEN.43",
             "number": "43"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc73e495d0d0ddadf2c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.44",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:52.192Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:31.226Z",
         "number": "44",
-        "reference": "Gen. 44",
-        "updatedAt": "2022-06-02T15:41:52.192Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.44.mp3"
+        "reference": "Genèse 44",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:31.226Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.44.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -784,16 +901,19 @@
             "id": "GEN.44",
             "number": "44"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc73e495d0d0ddae0f2",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.45",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:52.409Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:31.661Z",
         "number": "45",
-        "reference": "Gen. 45",
-        "updatedAt": "2022-06-02T15:41:52.409Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.45.mp3"
+        "reference": "Genèse 45",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:31.661Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.45.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -804,16 +924,19 @@
             "id": "GEN.45",
             "number": "45"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc83e495d0d0ddae2b9",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.46",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:52.790Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:32.084Z",
         "number": "46",
-        "reference": "Gen. 46",
-        "updatedAt": "2022-06-02T15:41:52.790Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.46.mp3"
+        "reference": "Genèse 46",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:32.084Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.46.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -824,16 +947,19 @@
             "id": "GEN.46",
             "number": "46"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc83e495d0d0ddae45f",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.47",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:53.108Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:32.524Z",
         "number": "47",
-        "reference": "Gen. 47",
-        "updatedAt": "2022-06-02T15:41:53.108Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.47.mp3"
+        "reference": "Genèse 47",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:32.524Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.47.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -844,16 +970,19 @@
             "id": "GEN.47",
             "number": "47"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc93e495d0d0ddae630",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.48",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:53.365Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:32.981Z",
         "number": "48",
-        "reference": "Gen. 48",
-        "updatedAt": "2022-06-02T15:41:53.365Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.48.mp3"
+        "reference": "Genèse 48",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:32.981Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.48.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -864,16 +993,19 @@
             "id": "GEN.48",
             "number": "48"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc93e495d0d0ddae790",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.49",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:53.711Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:33.412Z",
         "number": "49",
-        "reference": "Gen. 49",
-        "updatedAt": "2022-06-02T15:41:53.711Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.49.mp3"
+        "reference": "Genèse 49",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:33.412Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.49.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -884,16 +1016,19 @@
             "id": "GEN.4",
             "number": "4"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bb63e495d0d0dda9fae",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.5",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:39.252Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:14.515Z",
         "number": "5",
-        "reference": "Gen. 5",
-        "updatedAt": "2022-06-02T15:41:39.252Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.5.mp3"
+        "reference": "Genèse 5",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:14.515Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -904,16 +1039,19 @@
             "id": "GEN.49",
             "number": "49"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bc93e495d0d0ddae9d9",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.50",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:53.966Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:33.912Z",
         "number": "50",
-        "reference": "Gen. 50",
-        "updatedAt": "2022-06-02T15:41:53.966Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.50.mp3"
+        "reference": "Genèse 50",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:33.912Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.50.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -924,16 +1062,19 @@
             "id": "GEN.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bb63e495d0d0ddaa122",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.6",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:39.510Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:14.900Z",
         "number": "6",
-        "reference": "Gen. 6",
-        "updatedAt": "2022-06-02T15:41:39.510Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.6.mp3"
+        "reference": "Genèse 6",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:14.900Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -944,16 +1085,19 @@
             "id": "GEN.6",
             "number": "6"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bb73e495d0d0ddaa2c2",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.7",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:39.766Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:15.343Z",
         "number": "7",
-        "reference": "Gen. 7",
-        "updatedAt": "2022-06-02T15:41:39.766Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.7.mp3"
+        "reference": "Genèse 7",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:15.343Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -964,16 +1108,19 @@
             "id": "GEN.7",
             "number": "7"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bb73e495d0d0ddaa488",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.8",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:40.021Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:15.781Z",
         "number": "8",
-        "reference": "Gen. 8",
-        "updatedAt": "2022-06-02T15:41:40.022Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.8.mp3"
+        "reference": "Genèse 8",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:15.781Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.8.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     },
     {
         "next": {
@@ -984,15 +1131,18 @@
             "id": "GEN.8",
             "number": "8"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bb83e495d0d0ddaa615",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GEN.9",
+        "__v": 0,
         "bookId": "GEN",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:41:40.275Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:14:16.238Z",
         "number": "9",
-        "reference": "Gen. 9",
-        "updatedAt": "2022-06-02T15:41:40.275Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GEN/GEN.9.mp3"
+        "reference": "Genèse 9",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:14:16.238Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GEN/GEN.9.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GEN.png"
     }
 ]

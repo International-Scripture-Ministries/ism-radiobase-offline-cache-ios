@@ -8,16 +8,19 @@
             "id": "DAN.12",
             "number": "12"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d353e495d0d0de03b76",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "HOS.1",
+        "__v": 0,
         "bookId": "HOS",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:48.929Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:37.301Z",
         "number": "1",
-        "reference": "Hosea 1",
-        "updatedAt": "2022-06-02T15:45:48.929Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/HOS/HOS.1.mp3"
+        "reference": "Osée 1",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:37.301Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/HOS/HOS.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HOS.png"
     },
     {
         "next": {
@@ -28,16 +31,19 @@
             "id": "HOS.9",
             "number": "9"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d393e495d0d0de04afb",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "HOS.10",
+        "__v": 0,
         "bookId": "HOS",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:51.080Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:41.094Z",
         "number": "10",
-        "reference": "Hosea 10",
-        "updatedAt": "2022-06-02T15:45:51.080Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/HOS/HOS.10.mp3"
+        "reference": "Osée 10",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:41.094Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/HOS/HOS.10.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HOS.png"
     },
     {
         "next": {
@@ -48,16 +54,19 @@
             "id": "HOS.10",
             "number": "10"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d393e495d0d0de04c6c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "HOS.11",
+        "__v": 0,
         "bookId": "HOS",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:51.321Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:41.516Z",
         "number": "11",
-        "reference": "Hosea 11",
-        "updatedAt": "2022-06-02T15:45:51.321Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/HOS/HOS.11.mp3"
+        "reference": "Osée 11",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:41.516Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/HOS/HOS.11.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HOS.png"
     },
     {
         "next": {
@@ -68,16 +77,19 @@
             "id": "HOS.11",
             "number": "11"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d393e495d0d0de04e02",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "HOS.12",
+        "__v": 0,
         "bookId": "HOS",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:51.569Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:41.953Z",
         "number": "12",
-        "reference": "Hosea 12",
-        "updatedAt": "2022-06-02T15:45:51.569Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/HOS/HOS.12.mp3"
+        "reference": "Osée 12",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:41.953Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/HOS/HOS.12.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HOS.png"
     },
     {
         "next": {
@@ -88,16 +100,19 @@
             "id": "HOS.12",
             "number": "12"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d3a3e495d0d0de04fb3",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "HOS.13",
+        "__v": 0,
         "bookId": "HOS",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:51.820Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:42.391Z",
         "number": "13",
-        "reference": "Hosea 13",
-        "updatedAt": "2022-06-02T15:45:51.820Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/HOS/HOS.13.mp3"
+        "reference": "Osée 13",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:42.391Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/HOS/HOS.13.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HOS.png"
     },
     {
         "next": {
@@ -108,16 +123,19 @@
             "id": "HOS.13",
             "number": "13"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d3a3e495d0d0de05136",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "HOS.14",
+        "__v": 0,
         "bookId": "HOS",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:52.059Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:42.760Z",
         "number": "14",
-        "reference": "Hosea 14",
-        "updatedAt": "2022-06-02T15:45:52.059Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/HOS/HOS.14.mp3"
+        "reference": "Osée 14",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:42.760Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/HOS/HOS.14.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HOS.png"
     },
     {
         "next": {
@@ -128,16 +146,19 @@
             "id": "HOS.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d353e495d0d0de03d58",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "HOS.2",
+        "__v": 0,
         "bookId": "HOS",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:49.186Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:37.769Z",
         "number": "2",
-        "reference": "Hosea 2",
-        "updatedAt": "2022-06-02T15:45:49.186Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/HOS/HOS.2.mp3"
+        "reference": "Osée 2",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:37.769Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/HOS/HOS.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HOS.png"
     },
     {
         "next": {
@@ -148,16 +169,19 @@
             "id": "HOS.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d363e495d0d0de03f16",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "HOS.3",
+        "__v": 0,
         "bookId": "HOS",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:49.400Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:38.210Z",
         "number": "3",
-        "reference": "Hosea 3",
-        "updatedAt": "2022-06-02T15:45:49.400Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/HOS/HOS.3.mp3"
+        "reference": "Osée 3",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:38.210Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/HOS/HOS.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HOS.png"
     },
     {
         "next": {
@@ -168,16 +192,19 @@
             "id": "HOS.3",
             "number": "3"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d363e495d0d0de04093",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "HOS.4",
+        "__v": 0,
         "bookId": "HOS",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:49.655Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:38.609Z",
         "number": "4",
-        "reference": "Hosea 4",
-        "updatedAt": "2022-06-02T15:45:49.655Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/HOS/HOS.4.mp3"
+        "reference": "Osée 4",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:38.609Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/HOS/HOS.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HOS.png"
     },
     {
         "next": {
@@ -188,16 +215,19 @@
             "id": "HOS.4",
             "number": "4"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d373e495d0d0de0424d",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "HOS.5",
+        "__v": 0,
         "bookId": "HOS",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:49.899Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:39.034Z",
         "number": "5",
-        "reference": "Hosea 5",
-        "updatedAt": "2022-06-02T15:45:49.899Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/HOS/HOS.5.mp3"
+        "reference": "Osée 5",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:39.034Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/HOS/HOS.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HOS.png"
     },
     {
         "next": {
@@ -208,16 +238,19 @@
             "id": "HOS.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d373e495d0d0de043ff",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "HOS.6",
+        "__v": 0,
         "bookId": "HOS",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:50.115Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:39.431Z",
         "number": "6",
-        "reference": "Hosea 6",
-        "updatedAt": "2022-06-02T15:45:50.115Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/HOS/HOS.6.mp3"
+        "reference": "Osée 6",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:39.431Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/HOS/HOS.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HOS.png"
     },
     {
         "next": {
@@ -228,16 +261,19 @@
             "id": "HOS.6",
             "number": "6"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d373e495d0d0de045f6",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "HOS.7",
+        "__v": 0,
         "bookId": "HOS",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:50.363Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:39.838Z",
         "number": "7",
-        "reference": "Hosea 7",
-        "updatedAt": "2022-06-02T15:45:50.363Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/HOS/HOS.7.mp3"
+        "reference": "Osée 7",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:39.838Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/HOS/HOS.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HOS.png"
     },
     {
         "next": {
@@ -248,16 +284,19 @@
             "id": "HOS.7",
             "number": "7"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d383e495d0d0de047a6",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "HOS.8",
+        "__v": 0,
         "bookId": "HOS",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:50.569Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:40.233Z",
         "number": "8",
-        "reference": "Hosea 8",
-        "updatedAt": "2022-06-02T15:45:50.569Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/HOS/HOS.8.mp3"
+        "reference": "Osée 8",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:40.233Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/HOS/HOS.8.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HOS.png"
     },
     {
         "next": {
@@ -268,15 +307,18 @@
             "id": "HOS.8",
             "number": "8"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d383e495d0d0de04927",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "HOS.9",
+        "__v": 0,
         "bookId": "HOS",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:50.822Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:40.631Z",
         "number": "9",
-        "reference": "Hosea 9",
-        "updatedAt": "2022-06-02T15:45:50.822Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/HOS/HOS.9.mp3"
+        "reference": "Osée 9",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:40.631Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/HOS/HOS.9.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/HOS.png"
     }
 ]

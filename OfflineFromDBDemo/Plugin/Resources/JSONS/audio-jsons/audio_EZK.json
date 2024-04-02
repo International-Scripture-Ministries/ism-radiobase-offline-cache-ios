@@ -8,16 +8,19 @@
             "id": "LAM.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d1a3e495d0d0ddfd30f",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.1",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:34.118Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:10.631Z",
         "number": "1",
-        "reference": "Ezek. 1",
-        "updatedAt": "2022-06-02T15:45:34.118Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.1.mp3"
+        "reference": "Ezéchiel 1",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:10.631Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -28,16 +31,19 @@
             "id": "EZK.9",
             "number": "9"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d1e3e495d0d0ddfe0e0",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.10",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:36.366Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:14.591Z",
         "number": "10",
-        "reference": "Ezek. 10",
-        "updatedAt": "2022-06-02T15:45:36.366Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.10.mp3"
+        "reference": "Ezéchiel 10",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:14.591Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.10.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -48,16 +54,19 @@
             "id": "EZK.10",
             "number": "10"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d1f3e495d0d0ddfe294",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.11",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:36.578Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:14.997Z",
         "number": "11",
-        "reference": "Ezek. 11",
-        "updatedAt": "2022-06-02T15:45:36.578Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.11.mp3"
+        "reference": "Ezéchiel 11",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:14.997Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.11.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -68,16 +77,19 @@
             "id": "EZK.11",
             "number": "11"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d1f3e495d0d0ddfe41e",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.12",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:36.814Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:15.443Z",
         "number": "12",
-        "reference": "Ezek. 12",
-        "updatedAt": "2022-06-02T15:45:36.814Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.12.mp3"
+        "reference": "Ezéchiel 12",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:15.443Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.12.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -88,16 +100,19 @@
             "id": "EZK.12",
             "number": "12"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d1f3e495d0d0ddfe59b",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.13",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:37.067Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:15.870Z",
         "number": "13",
-        "reference": "Ezek. 13",
-        "updatedAt": "2022-06-02T15:45:37.067Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.13.mp3"
+        "reference": "Ezéchiel 13",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:15.870Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.13.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -108,16 +123,19 @@
             "id": "EZK.13",
             "number": "13"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d203e495d0d0ddfe73f",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.14",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:37.318Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:16.358Z",
         "number": "14",
-        "reference": "Ezek. 14",
-        "updatedAt": "2022-06-02T15:45:37.318Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.14.mp3"
+        "reference": "Ezéchiel 14",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:16.358Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.14.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -128,16 +146,19 @@
             "id": "EZK.14",
             "number": "14"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d203e495d0d0ddfe904",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.15",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:37.578Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:16.798Z",
         "number": "15",
-        "reference": "Ezek. 15",
-        "updatedAt": "2022-06-02T15:45:37.578Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.15.mp3"
+        "reference": "Ezéchiel 15",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:16.798Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.15.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -148,16 +169,19 @@
             "id": "EZK.15",
             "number": "15"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d213e495d0d0ddfea9a",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.16",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:37.801Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:17.257Z",
         "number": "16",
-        "reference": "Ezek. 16",
-        "updatedAt": "2022-06-02T15:45:37.801Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.16.mp3"
+        "reference": "Ezéchiel 16",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:17.257Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.16.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -168,16 +192,19 @@
             "id": "EZK.16",
             "number": "16"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d213e495d0d0ddfec24",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.17",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:38.009Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:17.647Z",
         "number": "17",
-        "reference": "Ezek. 17",
-        "updatedAt": "2022-06-02T15:45:38.009Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.17.mp3"
+        "reference": "Ezéchiel 17",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:17.647Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.17.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -188,16 +215,19 @@
             "id": "EZK.17",
             "number": "17"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d223e495d0d0ddfed84",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.18",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:38.240Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:18.092Z",
         "number": "18",
-        "reference": "Ezek. 18",
-        "updatedAt": "2022-06-02T15:45:38.240Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.18.mp3"
+        "reference": "Ezéchiel 18",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:18.092Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.18.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -208,16 +238,19 @@
             "id": "EZK.18",
             "number": "18"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d223e495d0d0ddfef6c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.19",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:38.457Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:18.559Z",
         "number": "19",
-        "reference": "Ezek. 19",
-        "updatedAt": "2022-06-02T15:45:38.457Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.19.mp3"
+        "reference": "Ezéchiel 19",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:18.559Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.19.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -228,16 +261,19 @@
             "id": "EZK.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d1b3e495d0d0ddfd4a0",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.2",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:34.373Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:11.077Z",
         "number": "2",
-        "reference": "Ezek. 2",
-        "updatedAt": "2022-06-02T15:45:34.373Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.2.mp3"
+        "reference": "Ezéchiel 2",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:11.077Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -248,16 +284,19 @@
             "id": "EZK.19",
             "number": "19"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d233e495d0d0ddff0d0",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.20",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:38.672Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:18.995Z",
         "number": "20",
-        "reference": "Ezek. 20",
-        "updatedAt": "2022-06-02T15:45:38.672Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.20.mp3"
+        "reference": "Ezéchiel 20",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:18.995Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.20.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -268,16 +307,19 @@
             "id": "EZK.20",
             "number": "20"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d233e495d0d0ddff287",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.21",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:38.922Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:19.389Z",
         "number": "21",
-        "reference": "Ezek. 21",
-        "updatedAt": "2022-06-02T15:45:38.922Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.21.mp3"
+        "reference": "Ezéchiel 21",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:19.389Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.21.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -288,16 +330,19 @@
             "id": "EZK.21",
             "number": "21"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d233e495d0d0ddff44c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.22",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:39.183Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:19.827Z",
         "number": "22",
-        "reference": "Ezek. 22",
-        "updatedAt": "2022-06-02T15:45:39.183Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.22.mp3"
+        "reference": "Ezéchiel 22",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:19.827Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.22.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -308,16 +353,19 @@
             "id": "EZK.22",
             "number": "22"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d243e495d0d0ddff5de",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.23",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:39.433Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:20.220Z",
         "number": "23",
-        "reference": "Ezek. 23",
-        "updatedAt": "2022-06-02T15:45:39.433Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.23.mp3"
+        "reference": "Ezéchiel 23",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:20.220Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.23.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -328,16 +376,19 @@
             "id": "EZK.23",
             "number": "23"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d243e495d0d0ddff7a0",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.24",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:39.681Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:20.681Z",
         "number": "24",
-        "reference": "Ezek. 24",
-        "updatedAt": "2022-06-02T15:45:39.681Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.24.mp3"
+        "reference": "Ezéchiel 24",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:20.681Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.24.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -348,16 +399,19 @@
             "id": "EZK.24",
             "number": "24"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d253e495d0d0ddff94d",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.25",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:39.891Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:21.132Z",
         "number": "25",
-        "reference": "Ezek. 25",
-        "updatedAt": "2022-06-02T15:45:39.891Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.25.mp3"
+        "reference": "Ezéchiel 25",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:21.132Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.25.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -368,16 +422,19 @@
             "id": "EZK.25",
             "number": "25"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d253e495d0d0ddffb34",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.26",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:40.141Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:21.587Z",
         "number": "26",
-        "reference": "Ezek. 26",
-        "updatedAt": "2022-06-02T15:45:40.141Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.26.mp3"
+        "reference": "Ezéchiel 26",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:21.587Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.26.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -388,16 +445,19 @@
             "id": "EZK.26",
             "number": "26"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d263e495d0d0ddffc97",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.27",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:40.396Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:22.024Z",
         "number": "27",
-        "reference": "Ezek. 27",
-        "updatedAt": "2022-06-02T15:45:40.396Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.27.mp3"
+        "reference": "Ezéchiel 27",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:22.024Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.27.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -408,16 +468,19 @@
             "id": "EZK.27",
             "number": "27"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d263e495d0d0ddffe63",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.28",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:40.609Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:22.465Z",
         "number": "28",
-        "reference": "Ezek. 28",
-        "updatedAt": "2022-06-02T15:45:40.609Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.28.mp3"
+        "reference": "Ezéchiel 28",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:22.465Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.28.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -428,16 +491,19 @@
             "id": "EZK.28",
             "number": "28"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d263e495d0d0de00082",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.29",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:40.855Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:22.892Z",
         "number": "29",
-        "reference": "Ezek. 29",
-        "updatedAt": "2022-06-02T15:45:40.855Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.29.mp3"
+        "reference": "Ezéchiel 29",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:22.892Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.29.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -448,16 +514,19 @@
             "id": "EZK.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d1b3e495d0d0ddfd688",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.3",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:34.622Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:11.566Z",
         "number": "3",
-        "reference": "Ezek. 3",
-        "updatedAt": "2022-06-02T15:45:34.622Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.3.mp3"
+        "reference": "Ezéchiel 3",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:11.566Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -468,16 +537,19 @@
             "id": "EZK.29",
             "number": "29"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d273e495d0d0de00299",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.30",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:41.106Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:23.319Z",
         "number": "30",
-        "reference": "Ezek. 30",
-        "updatedAt": "2022-06-02T15:45:41.106Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.30.mp3"
+        "reference": "Ezéchiel 30",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:23.319Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.30.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -488,16 +560,19 @@
             "id": "EZK.30",
             "number": "30"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d273e495d0d0de004af",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.31",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:41.354Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:23.729Z",
         "number": "31",
-        "reference": "Ezek. 31",
-        "updatedAt": "2022-06-02T15:45:41.354Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.31.mp3"
+        "reference": "Ezéchiel 31",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:23.729Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.31.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -508,16 +583,19 @@
             "id": "EZK.31",
             "number": "31"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d283e495d0d0de0068e",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.32",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:41.610Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:24.160Z",
         "number": "32",
-        "reference": "Ezek. 32",
-        "updatedAt": "2022-06-02T15:45:41.610Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.32.mp3"
+        "reference": "Ezéchiel 32",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:24.160Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.32.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -528,16 +606,19 @@
             "id": "EZK.32",
             "number": "32"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d283e495d0d0de0085c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.33",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:41.818Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:24.573Z",
         "number": "33",
-        "reference": "Ezek. 33",
-        "updatedAt": "2022-06-02T15:45:41.818Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.33.mp3"
+        "reference": "Ezéchiel 33",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:24.573Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.33.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -548,16 +629,19 @@
             "id": "EZK.33",
             "number": "33"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d293e495d0d0de00a76",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.34",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:42.080Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:25.031Z",
         "number": "34",
-        "reference": "Ezek. 34",
-        "updatedAt": "2022-06-02T15:45:42.080Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.34.mp3"
+        "reference": "Ezéchiel 34",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:25.031Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.34.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -568,16 +652,19 @@
             "id": "EZK.34",
             "number": "34"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d293e495d0d0de00bb0",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.35",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:42.335Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:25.416Z",
         "number": "35",
-        "reference": "Ezek. 35",
-        "updatedAt": "2022-06-02T15:45:42.335Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.35.mp3"
+        "reference": "Ezéchiel 35",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:25.416Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.35.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -588,16 +675,19 @@
             "id": "EZK.35",
             "number": "35"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d293e495d0d0de00d43",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.36",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:42.594Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:25.872Z",
         "number": "36",
-        "reference": "Ezek. 36",
-        "updatedAt": "2022-06-02T15:45:42.594Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.36.mp3"
+        "reference": "Ezéchiel 36",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:25.872Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.36.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -608,16 +698,19 @@
             "id": "EZK.36",
             "number": "36"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d2a3e495d0d0de00ecf",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.37",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:42.814Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:26.312Z",
         "number": "37",
-        "reference": "Ezek. 37",
-        "updatedAt": "2022-06-02T15:45:42.814Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.37.mp3"
+        "reference": "Ezéchiel 37",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:26.312Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.37.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -628,16 +721,19 @@
             "id": "EZK.37",
             "number": "37"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d2a3e495d0d0de010df",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.38",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:43.062Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:26.753Z",
         "number": "38",
-        "reference": "Ezek. 38",
-        "updatedAt": "2022-06-02T15:45:43.062Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.38.mp3"
+        "reference": "Ezéchiel 38",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:26.753Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.38.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -648,16 +744,19 @@
             "id": "EZK.38",
             "number": "38"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d2b3e495d0d0de0126f",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.39",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:43.305Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:27.199Z",
         "number": "39",
-        "reference": "Ezek. 39",
-        "updatedAt": "2022-06-02T15:45:43.305Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.39.mp3"
+        "reference": "Ezéchiel 39",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:27.199Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.39.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -668,16 +767,19 @@
             "id": "EZK.3",
             "number": "3"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d1c3e495d0d0ddfd7cc",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.4",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:34.870Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:11.960Z",
         "number": "4",
-        "reference": "Ezek. 4",
-        "updatedAt": "2022-06-02T15:45:34.870Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.4.mp3"
+        "reference": "Ezéchiel 4",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:11.960Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -688,16 +790,19 @@
             "id": "EZK.39",
             "number": "39"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d2b3e495d0d0de0147f",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.40",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:43.560Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:27.662Z",
         "number": "40",
-        "reference": "Ezek. 40",
-        "updatedAt": "2022-06-02T15:45:43.560Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.40.mp3"
+        "reference": "Ezéchiel 40",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:27.662Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.40.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -708,16 +813,19 @@
             "id": "EZK.40",
             "number": "40"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d2c3e495d0d0de0161a",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.41",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:43.808Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:28.120Z",
         "number": "41",
-        "reference": "Ezek. 41",
-        "updatedAt": "2022-06-02T15:45:43.808Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.41.mp3"
+        "reference": "Ezéchiel 41",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:28.120Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.41.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -728,16 +836,19 @@
             "id": "EZK.41",
             "number": "41"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d2c3e495d0d0de017a3",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.42",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:44.060Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:28.535Z",
         "number": "42",
-        "reference": "Ezek. 42",
-        "updatedAt": "2022-06-02T15:45:44.060Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.42.mp3"
+        "reference": "Ezéchiel 42",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:28.535Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.42.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -748,16 +859,19 @@
             "id": "EZK.42",
             "number": "42"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d2c3e495d0d0de01917",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.43",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:44.313Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:28.914Z",
         "number": "43",
-        "reference": "Ezek. 43",
-        "updatedAt": "2022-06-02T15:45:44.313Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.43.mp3"
+        "reference": "Ezéchiel 43",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:28.914Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.43.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -768,16 +882,19 @@
             "id": "EZK.43",
             "number": "43"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d2d3e495d0d0de01ab3",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.44",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:44.549Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:29.368Z",
         "number": "44",
-        "reference": "Ezek. 44",
-        "updatedAt": "2022-06-02T15:45:44.549Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.44.mp3"
+        "reference": "Ezéchiel 44",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:29.368Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.44.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -788,16 +905,19 @@
             "id": "EZK.44",
             "number": "44"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d2d3e495d0d0de01c55",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.45",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:44.760Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:29.819Z",
         "number": "45",
-        "reference": "Ezek. 45",
-        "updatedAt": "2022-06-02T15:45:44.760Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.45.mp3"
+        "reference": "Ezéchiel 45",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:29.819Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.45.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -808,16 +928,19 @@
             "id": "EZK.45",
             "number": "45"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d2e3e495d0d0de01de5",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.46",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:44.986Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:30.251Z",
         "number": "46",
-        "reference": "Ezek. 46",
-        "updatedAt": "2022-06-02T15:45:44.986Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.46.mp3"
+        "reference": "Ezéchiel 46",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:30.251Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.46.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -828,16 +951,19 @@
             "id": "EZK.46",
             "number": "46"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d2e3e495d0d0de01fac",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.47",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:45.193Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:30.665Z",
         "number": "47",
-        "reference": "Ezek. 47",
-        "updatedAt": "2022-06-02T15:45:45.193Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.47.mp3"
+        "reference": "Ezéchiel 47",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:30.665Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.47.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -848,16 +974,19 @@
             "id": "EZK.47",
             "number": "47"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d2f3e495d0d0de02130",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.48",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:45.402Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:31.117Z",
         "number": "48",
-        "reference": "Ezek. 48",
-        "updatedAt": "2022-06-02T15:45:45.402Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.48.mp3"
+        "reference": "Ezéchiel 48",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:31.117Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.48.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -868,16 +997,19 @@
             "id": "EZK.4",
             "number": "4"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d1c3e495d0d0ddfd978",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.5",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:35.143Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:12.391Z",
         "number": "5",
-        "reference": "Ezek. 5",
-        "updatedAt": "2022-06-02T15:45:35.143Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.5.mp3"
+        "reference": "Ezéchiel 5",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:12.391Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -888,16 +1020,19 @@
             "id": "EZK.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d1c3e495d0d0ddfdb08",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.6",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:35.373Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:12.824Z",
         "number": "6",
-        "reference": "Ezek. 6",
-        "updatedAt": "2022-06-02T15:45:35.373Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.6.mp3"
+        "reference": "Ezéchiel 6",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:12.824Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -908,16 +1043,19 @@
             "id": "EZK.6",
             "number": "6"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d1d3e495d0d0ddfdc4e",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.7",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:35.634Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:13.260Z",
         "number": "7",
-        "reference": "Ezek. 7",
-        "updatedAt": "2022-06-02T15:45:35.634Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.7.mp3"
+        "reference": "Ezéchiel 7",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:13.260Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -928,16 +1066,19 @@
             "id": "EZK.7",
             "number": "7"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d1d3e495d0d0ddfde13",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.8",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:35.897Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:13.726Z",
         "number": "8",
-        "reference": "Ezek. 8",
-        "updatedAt": "2022-06-02T15:45:35.897Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.8.mp3"
+        "reference": "Ezéchiel 8",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:13.726Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.8.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     },
     {
         "next": {
@@ -948,15 +1089,18 @@
             "id": "EZK.8",
             "number": "8"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d1e3e495d0d0ddfdf6c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZK.9",
+        "__v": 0,
         "bookId": "EZK",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:36.148Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:14.159Z",
         "number": "9",
-        "reference": "Ezek. 9",
-        "updatedAt": "2022-06-02T15:45:36.148Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZK/EZK.9.mp3"
+        "reference": "Ezéchiel 9",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:14.159Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZK/EZK.9.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZK.png"
     }
 ]

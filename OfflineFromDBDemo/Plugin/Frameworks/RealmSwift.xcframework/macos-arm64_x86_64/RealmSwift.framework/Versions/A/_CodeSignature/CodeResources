@@ -6,7 +6,11 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		K8xJnXrihs/DZpJpYJoEExNJhvg=
+		FvD23ROCMFcRjJak7KK+lfxzH68=
+		</data>
+		<key>Resources/PrivacyInfo.xcprivacy</key>
+		<data>
+		Rqi7obUAZTcbQXF8a5X94NQxhbQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,21 +19,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R7UTtK85xpvxJUN1vpceuPOXeEhtTvgY/mzD2K8KmI8=
+			D/TWilc9BJ9XdBu5bzB8Ti2geKXt2CLt4KJ6ZqK81zs=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/Project/arm64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T+Y+jNPQ1SM8aRCE8JHqmtXRmRFxnaCrWmtBu9g7wlo=
+			xfeaVvbqGDaBToP5uCTlRDbag9L8UgYdi8BSEGllyDk=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/Project/x86_64-apple-macos.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xuYld8+Cb3E2hbPP0aRxGDEi2WG1X/WTcv2doDbMzHM=
+			Uqa7fJVJv+FgylXPMF5jPEoBGe7Zj1Z20iBuJA3Nbws=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/arm64-apple-macos.abi.json</key>
@@ -43,14 +47,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			chMqHoO536sYAD+FaVbOo9+7u8qtnYyBg37mVG6wle4=
+			bNjmcAATP20z9e1rUOcwRWTnFbfqkbyJAuzXaP6cKu8=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/arm64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bPpEKHo5co3Kr0gni5f7SWU2CArOr3Nt9pr6vBhdMU8=
+			qUpP5FHdxG7CXnjNER8Nn+oCKZmzHoy4I5DE6LnSzSA=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-macos.abi.json</key>
@@ -64,14 +68,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T2w9bMZiU5RI/FZk5n4DeKpyOpuvNDgn+uZVOxwhZas=
+			b7uvMisRI4AvjTEaoHmoUxrsNTglJIfz7c1toPb9MOE=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-macos.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oz+SM8WgyKLArhP3z03QcnaUDUXcPCGZMVz6B/R8tns=
+			GNrbGbReanPmhUMBVeOOkoVzU8ZIVTdab7RmgAtBgVE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -85,7 +89,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MTmQks2yo5iK/AUu5qxqG6f+2v3MqYyEWEFt+VSCIlM=
+			hYOYNvXsFFuZfyEXO8sU/fJdWN+la8Qzyc2qCrEf/UQ=
+			</data>
+		</dict>
+		<key>Resources/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g1eTYkX9jkNUpHNetdb+DWoCoZMdH51E1dF2UmycZQE=
 			</data>
 		</dict>
 	</dict>

@@ -8,16 +8,19 @@
             "id": "EST.10",
             "number": "10"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c783e495d0d0ddd77ef",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.1",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:36.502Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:27.983Z",
         "number": "1",
         "reference": "Job 1",
-        "updatedAt": "2022-06-02T15:43:36.502Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.1.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:27.983Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -28,16 +31,19 @@
             "id": "JOB.9",
             "number": "9"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c7b3e495d0d0ddd85bd",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.10",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:39.272Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:31.891Z",
         "number": "10",
         "reference": "Job 10",
-        "updatedAt": "2022-06-02T15:43:39.272Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.10.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:31.891Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.10.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -48,16 +54,19 @@
             "id": "JOB.10",
             "number": "10"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c7c3e495d0d0ddd87b6",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.11",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:39.586Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:32.344Z",
         "number": "11",
         "reference": "Job 11",
-        "updatedAt": "2022-06-02T15:43:39.586Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.11.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:32.344Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.11.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -68,16 +77,19 @@
             "id": "JOB.11",
             "number": "11"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c7c3e495d0d0ddd8944",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.12",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:39.855Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:32.803Z",
         "number": "12",
         "reference": "Job 12",
-        "updatedAt": "2022-06-02T15:43:39.855Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.12.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:32.803Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.12.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -88,16 +100,19 @@
             "id": "JOB.12",
             "number": "12"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c7d3e495d0d0ddd8ae8",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.13",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:40.128Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:33.231Z",
         "number": "13",
         "reference": "Job 13",
-        "updatedAt": "2022-06-02T15:43:40.128Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.13.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:33.231Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.13.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -108,16 +123,19 @@
             "id": "JOB.13",
             "number": "13"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c7d3e495d0d0ddd8c5c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.14",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:40.375Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:33.629Z",
         "number": "14",
         "reference": "Job 14",
-        "updatedAt": "2022-06-02T15:43:40.375Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.14.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:33.629Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.14.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -128,16 +146,19 @@
             "id": "JOB.14",
             "number": "14"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c7e3e495d0d0ddd8d70",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.15",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:40.632Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:34.057Z",
         "number": "15",
         "reference": "Job 15",
-        "updatedAt": "2022-06-02T15:43:40.632Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.15.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:34.057Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.15.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -148,16 +169,19 @@
             "id": "JOB.15",
             "number": "15"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c7e3e495d0d0ddd8f5c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.16",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:40.875Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:34.501Z",
         "number": "16",
         "reference": "Job 16",
-        "updatedAt": "2022-06-02T15:43:40.875Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.16.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:34.501Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.16.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -168,16 +192,19 @@
             "id": "JOB.16",
             "number": "16"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c7e3e495d0d0ddd9127",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.17",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:41.158Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:34.919Z",
         "number": "17",
         "reference": "Job 17",
-        "updatedAt": "2022-06-02T15:43:41.159Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.17.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:34.919Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.17.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -188,16 +215,19 @@
             "id": "JOB.17",
             "number": "17"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c7f3e495d0d0ddd92b6",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.18",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:41.376Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:35.346Z",
         "number": "18",
         "reference": "Job 18",
-        "updatedAt": "2022-06-02T15:43:41.376Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.18.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:35.346Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.18.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -208,16 +238,19 @@
             "id": "JOB.18",
             "number": "18"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c7f3e495d0d0ddd9416",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.19",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:41.621Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:35.737Z",
         "number": "19",
         "reference": "Job 19",
-        "updatedAt": "2022-06-02T15:43:41.621Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.19.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:35.737Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.19.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -228,16 +261,19 @@
             "id": "JOB.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c783e495d0d0ddd799b",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.2",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:36.919Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:28.407Z",
         "number": "2",
         "reference": "Job 2",
-        "updatedAt": "2022-06-02T15:43:36.919Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.2.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:28.407Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -248,16 +284,19 @@
             "id": "JOB.19",
             "number": "19"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c803e495d0d0ddd95df",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.20",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:41.864Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:36.156Z",
         "number": "20",
         "reference": "Job 20",
-        "updatedAt": "2022-06-02T15:43:41.864Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.20.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:36.156Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.20.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -268,16 +307,19 @@
             "id": "JOB.20",
             "number": "20"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c803e495d0d0ddd9784",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.21",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:42.080Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:36.556Z",
         "number": "21",
         "reference": "Job 21",
-        "updatedAt": "2022-06-02T15:43:42.080Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.21.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:36.556Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.21.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -288,16 +330,19 @@
             "id": "JOB.21",
             "number": "21"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c813e495d0d0ddd98f7",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.22",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:42.355Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:36.971Z",
         "number": "22",
         "reference": "Job 22",
-        "updatedAt": "2022-06-02T15:43:42.355Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.22.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:36.971Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.22.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -308,16 +353,19 @@
             "id": "JOB.22",
             "number": "22"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c813e495d0d0ddd9ab1",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.23",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:42.614Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:37.399Z",
         "number": "23",
         "reference": "Job 23",
-        "updatedAt": "2022-06-02T15:43:42.614Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.23.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:37.399Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.23.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -328,16 +376,19 @@
             "id": "JOB.23",
             "number": "23"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c813e495d0d0ddd9bdc",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.24",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:42.862Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:37.806Z",
         "number": "24",
         "reference": "Job 24",
-        "updatedAt": "2022-06-02T15:43:42.862Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.24.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:37.806Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.24.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -348,16 +399,19 @@
             "id": "JOB.24",
             "number": "24"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c823e495d0d0ddd9d95",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.25",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:43.077Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:38.248Z",
         "number": "25",
         "reference": "Job 25",
-        "updatedAt": "2022-06-02T15:43:43.077Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.25.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:38.248Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.25.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -368,16 +422,19 @@
             "id": "JOB.25",
             "number": "25"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c823e495d0d0ddd9f00",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.26",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:43.335Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:38.674Z",
         "number": "26",
         "reference": "Job 26",
-        "updatedAt": "2022-06-02T15:43:43.335Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.26.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:38.674Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.26.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -388,16 +445,19 @@
             "id": "JOB.26",
             "number": "26"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c833e495d0d0ddda106",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.27",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:43.590Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:39.095Z",
         "number": "27",
         "reference": "Job 27",
-        "updatedAt": "2022-06-02T15:43:43.590Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.27.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:39.095Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.27.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -408,16 +468,19 @@
             "id": "JOB.27",
             "number": "27"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c833e495d0d0ddda323",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.28",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:43.849Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:39.532Z",
         "number": "28",
         "reference": "Job 28",
-        "updatedAt": "2022-06-02T15:43:43.849Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.28.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:39.532Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.28.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -428,16 +491,19 @@
             "id": "JOB.28",
             "number": "28"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c843e495d0d0ddda4ea",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.29",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:44.100Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:39.962Z",
         "number": "29",
         "reference": "Job 29",
-        "updatedAt": "2022-06-02T15:43:44.100Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.29.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:39.962Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.29.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -448,16 +514,19 @@
             "id": "JOB.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c783e495d0d0ddd7b0c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.3",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:37.149Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:28.834Z",
         "number": "3",
         "reference": "Job 3",
-        "updatedAt": "2022-06-02T15:43:37.149Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.3.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:28.834Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -468,16 +537,19 @@
             "id": "JOB.29",
             "number": "29"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c843e495d0d0ddda6c6",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.30",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:44.302Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:40.407Z",
         "number": "30",
         "reference": "Job 30",
-        "updatedAt": "2022-06-02T15:43:44.302Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.30.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:40.407Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.30.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -488,16 +560,19 @@
             "id": "JOB.30",
             "number": "30"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c843e495d0d0ddda849",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.31",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:44.564Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:40.826Z",
         "number": "31",
         "reference": "Job 31",
-        "updatedAt": "2022-06-02T15:43:44.564Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.31.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:40.826Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.31.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -508,16 +583,19 @@
             "id": "JOB.31",
             "number": "31"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c853e495d0d0dddaa25",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.32",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:44.813Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:41.321Z",
         "number": "32",
         "reference": "Job 32",
-        "updatedAt": "2022-06-02T15:43:44.813Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.32.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:41.321Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.32.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -528,16 +606,19 @@
             "id": "JOB.32",
             "number": "32"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c853e495d0d0dddabb2",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.33",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:45.027Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:41.751Z",
         "number": "33",
         "reference": "Job 33",
-        "updatedAt": "2022-06-02T15:43:45.027Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.33.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:41.751Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.33.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -548,16 +629,19 @@
             "id": "JOB.33",
             "number": "33"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c863e495d0d0dddad14",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.34",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:45.288Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:42.169Z",
         "number": "34",
         "reference": "Job 34",
-        "updatedAt": "2022-06-02T15:43:45.288Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.34.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:42.169Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.34.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -568,16 +652,19 @@
             "id": "JOB.34",
             "number": "34"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c863e495d0d0dddaee2",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.35",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:45.507Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:42.604Z",
         "number": "35",
         "reference": "Job 35",
-        "updatedAt": "2022-06-02T15:43:45.507Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.35.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:42.604Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.35.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -588,16 +675,19 @@
             "id": "JOB.35",
             "number": "35"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c873e495d0d0dddb06a",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.36",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:45.763Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:43.071Z",
         "number": "36",
         "reference": "Job 36",
-        "updatedAt": "2022-06-02T15:43:45.763Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.36.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:43.071Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.36.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -608,16 +698,19 @@
             "id": "JOB.36",
             "number": "36"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c873e495d0d0dddb20a",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.37",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:45.978Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:43.458Z",
         "number": "37",
         "reference": "Job 37",
-        "updatedAt": "2022-06-02T15:43:45.978Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.37.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:43.458Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.37.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -628,16 +721,19 @@
             "id": "JOB.37",
             "number": "37"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c873e495d0d0dddb379",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.38",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:46.299Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:43.909Z",
         "number": "38",
         "reference": "Job 38",
-        "updatedAt": "2022-06-02T15:43:46.300Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.38.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:43.909Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.38.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -648,16 +744,19 @@
             "id": "JOB.38",
             "number": "38"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c883e495d0d0dddb524",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.39",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:46.548Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:44.346Z",
         "number": "39",
         "reference": "Job 39",
-        "updatedAt": "2022-06-02T15:43:46.548Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.39.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:44.346Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.39.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -668,16 +767,19 @@
             "id": "JOB.3",
             "number": "3"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c793e495d0d0ddd7c75",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.4",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:37.369Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:29.288Z",
         "number": "4",
         "reference": "Job 4",
-        "updatedAt": "2022-06-02T15:43:37.369Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.4.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:29.288Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -688,16 +790,19 @@
             "id": "JOB.39",
             "number": "39"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c883e495d0d0dddb723",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.40",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:46.823Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:44.798Z",
         "number": "40",
         "reference": "Job 40",
-        "updatedAt": "2022-06-02T15:43:46.823Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.40.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:44.798Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.40.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -708,16 +813,19 @@
             "id": "JOB.40",
             "number": "40"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c893e495d0d0dddb8de",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.41",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:47.068Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:45.250Z",
         "number": "41",
         "reference": "Job 41",
-        "updatedAt": "2022-06-02T15:43:47.068Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.41.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:45.250Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.41.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -728,16 +836,19 @@
             "id": "JOB.41",
             "number": "41"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c893e495d0d0dddbaa2",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.42",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:47.372Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:45.721Z",
         "number": "42",
         "reference": "Job 42",
-        "updatedAt": "2022-06-02T15:43:47.372Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.42.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:45.721Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.42.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -748,16 +859,19 @@
             "id": "JOB.4",
             "number": "4"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c793e495d0d0ddd7ddf",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.5",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:37.840Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:29.716Z",
         "number": "5",
         "reference": "Job 5",
-        "updatedAt": "2022-06-02T15:43:37.840Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.5.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:29.716Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -768,16 +882,19 @@
             "id": "JOB.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c7a3e495d0d0ddd7f91",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.6",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:38.154Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:30.196Z",
         "number": "6",
         "reference": "Job 6",
-        "updatedAt": "2022-06-02T15:43:38.154Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.6.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:30.196Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -788,16 +905,19 @@
             "id": "JOB.6",
             "number": "6"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c7a3e495d0d0ddd8131",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.7",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:38.417Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:30.593Z",
         "number": "7",
         "reference": "Job 7",
-        "updatedAt": "2022-06-02T15:43:38.417Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.7.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:30.593Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -808,16 +928,19 @@
             "id": "JOB.7",
             "number": "7"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c7b3e495d0d0ddd82b4",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.8",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:38.725Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:31.035Z",
         "number": "8",
         "reference": "Job 8",
-        "updatedAt": "2022-06-02T15:43:38.725Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.8.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:31.035Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.8.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     },
     {
         "next": {
@@ -828,15 +951,18 @@
             "id": "JOB.8",
             "number": "8"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c7b3e495d0d0ddd846f",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JOB.9",
+        "__v": 0,
         "bookId": "JOB",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:39.026Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:31.492Z",
         "number": "9",
         "reference": "Job 9",
-        "updatedAt": "2022-06-02T15:43:39.026Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JOB/JOB.9.mp3"
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:31.492Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JOB/JOB.9.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
     }
 ]

@@ -8,16 +8,19 @@
             "id": "ACT.28",
             "number": "28"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d8a3e495d0d0de17628",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "ROM.1",
+        "__v": 0,
         "bookId": "ROM",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:39.676Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:02.786Z",
         "number": "1",
-        "reference": "Romans 1",
-        "updatedAt": "2022-06-02T15:46:39.676Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/ROM/ROM.1.mp3"
+        "reference": "Romains 1",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:02.786Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/ROM/ROM.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png"
     },
     {
         "next": {
@@ -28,16 +31,19 @@
             "id": "ROM.9",
             "number": "9"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d8e3e495d0d0de182ca",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "ROM.10",
+        "__v": 0,
         "bookId": "ROM",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:42.241Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:06.551Z",
         "number": "10",
-        "reference": "Romans 10",
-        "updatedAt": "2022-06-02T15:46:42.241Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/ROM/ROM.10.mp3"
+        "reference": "Romains 10",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:06.551Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/ROM/ROM.10.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png"
     },
     {
         "next": {
@@ -48,16 +54,19 @@
             "id": "ROM.10",
             "number": "10"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d8f3e495d0d0de18416",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "ROM.11",
+        "__v": 0,
         "bookId": "ROM",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:42.497Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:06.985Z",
         "number": "11",
-        "reference": "Romans 11",
-        "updatedAt": "2022-06-02T15:46:42.497Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/ROM/ROM.11.mp3"
+        "reference": "Romains 11",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:06.985Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/ROM/ROM.11.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png"
     },
     {
         "next": {
@@ -68,16 +77,19 @@
             "id": "ROM.11",
             "number": "11"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d8f3e495d0d0de185f6",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "ROM.12",
+        "__v": 0,
         "bookId": "ROM",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:42.713Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:07.525Z",
         "number": "12",
-        "reference": "Romans 12",
-        "updatedAt": "2022-06-02T15:46:42.713Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/ROM/ROM.12.mp3"
+        "reference": "Romains 12",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:07.525Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/ROM/ROM.12.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png"
     },
     {
         "next": {
@@ -88,16 +100,19 @@
             "id": "ROM.12",
             "number": "12"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d8f3e495d0d0de18739",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "ROM.13",
+        "__v": 0,
         "bookId": "ROM",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:42.976Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:07.934Z",
         "number": "13",
-        "reference": "Romans 13",
-        "updatedAt": "2022-06-02T15:46:42.976Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/ROM/ROM.13.mp3"
+        "reference": "Romains 13",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:07.934Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/ROM/ROM.13.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png"
     },
     {
         "next": {
@@ -108,16 +123,19 @@
             "id": "ROM.13",
             "number": "13"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d903e495d0d0de1884c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "ROM.14",
+        "__v": 0,
         "bookId": "ROM",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:43.187Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:08.327Z",
         "number": "14",
-        "reference": "Romans 14",
-        "updatedAt": "2022-06-02T15:46:43.187Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/ROM/ROM.14.mp3"
+        "reference": "Romains 14",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:08.327Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/ROM/ROM.14.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png"
     },
     {
         "next": {
@@ -128,16 +146,19 @@
             "id": "ROM.14",
             "number": "14"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d903e495d0d0de189be",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "ROM.15",
+        "__v": 0,
         "bookId": "ROM",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:43.441Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:08.770Z",
         "number": "15",
-        "reference": "Romans 15",
-        "updatedAt": "2022-06-02T15:46:43.441Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/ROM/ROM.15.mp3"
+        "reference": "Romains 15",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:08.770Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/ROM/ROM.15.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png"
     },
     {
         "next": {
@@ -148,16 +169,19 @@
             "id": "ROM.15",
             "number": "15"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d913e495d0d0de18b4a",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "ROM.16",
+        "__v": 0,
         "bookId": "ROM",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:43.689Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:09.235Z",
         "number": "16",
-        "reference": "Romans 16",
-        "updatedAt": "2022-06-02T15:46:43.689Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/ROM/ROM.16.mp3"
+        "reference": "Romains 16",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:09.235Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/ROM/ROM.16.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png"
     },
     {
         "next": {
@@ -168,16 +192,19 @@
             "id": "ROM.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d8b3e495d0d0de1774b",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "ROM.2",
+        "__v": 0,
         "bookId": "ROM",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:39.969Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:03.206Z",
         "number": "2",
-        "reference": "Romans 2",
-        "updatedAt": "2022-06-02T15:46:39.969Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/ROM/ROM.2.mp3"
+        "reference": "Romains 2",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:03.206Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/ROM/ROM.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png"
     },
     {
         "next": {
@@ -188,16 +215,19 @@
             "id": "ROM.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d8b3e495d0d0de178da",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "ROM.3",
+        "__v": 0,
         "bookId": "ROM",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:40.246Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:03.688Z",
         "number": "3",
-        "reference": "Romans 3",
-        "updatedAt": "2022-06-02T15:46:40.246Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/ROM/ROM.3.mp3"
+        "reference": "Romains 3",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:03.688Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/ROM/ROM.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png"
     },
     {
         "next": {
@@ -208,16 +238,19 @@
             "id": "ROM.3",
             "number": "3"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d8c3e495d0d0de179eb",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "ROM.4",
+        "__v": 0,
         "bookId": "ROM",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:40.608Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:04.066Z",
         "number": "4",
-        "reference": "Romans 4",
-        "updatedAt": "2022-06-02T15:46:40.608Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/ROM/ROM.4.mp3"
+        "reference": "Romains 4",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:04.066Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/ROM/ROM.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png"
     },
     {
         "next": {
@@ -228,16 +261,19 @@
             "id": "ROM.4",
             "number": "4"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d8c3e495d0d0de17ba5",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "ROM.5",
+        "__v": 0,
         "bookId": "ROM",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:40.860Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:04.483Z",
         "number": "5",
-        "reference": "Romans 5",
-        "updatedAt": "2022-06-02T15:46:40.860Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/ROM/ROM.5.mp3"
+        "reference": "Romains 5",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:04.483Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/ROM/ROM.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png"
     },
     {
         "next": {
@@ -248,16 +284,19 @@
             "id": "ROM.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d8c3e495d0d0de17d56",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "ROM.6",
+        "__v": 0,
         "bookId": "ROM",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:41.210Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:04.951Z",
         "number": "6",
-        "reference": "Romans 6",
-        "updatedAt": "2022-06-02T15:46:41.210Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/ROM/ROM.6.mp3"
+        "reference": "Romains 6",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:04.951Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/ROM/ROM.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png"
     },
     {
         "next": {
@@ -268,16 +307,19 @@
             "id": "ROM.6",
             "number": "6"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d8d3e495d0d0de17e96",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "ROM.7",
+        "__v": 0,
         "bookId": "ROM",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:41.491Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:05.359Z",
         "number": "7",
-        "reference": "Romans 7",
-        "updatedAt": "2022-06-02T15:46:41.491Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/ROM/ROM.7.mp3"
+        "reference": "Romains 7",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:05.359Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/ROM/ROM.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png"
     },
     {
         "next": {
@@ -288,16 +330,19 @@
             "id": "ROM.7",
             "number": "7"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d8d3e495d0d0de17fda",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "ROM.8",
+        "__v": 0,
         "bookId": "ROM",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:41.740Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:05.747Z",
         "number": "8",
-        "reference": "Romans 8",
-        "updatedAt": "2022-06-02T15:46:41.741Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/ROM/ROM.8.mp3"
+        "reference": "Romains 8",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:05.747Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/ROM/ROM.8.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png"
     },
     {
         "next": {
@@ -308,15 +353,18 @@
             "id": "ROM.8",
             "number": "8"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d8e3e495d0d0de18111",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "ROM.9",
+        "__v": 0,
         "bookId": "ROM",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:41.980Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:06.133Z",
         "number": "9",
-        "reference": "Romans 9",
-        "updatedAt": "2022-06-02T15:46:41.980Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/ROM/ROM.9.mp3"
+        "reference": "Romains 9",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:06.133Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/ROM/ROM.9.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/ROM.png"
     }
 ]

@@ -8,16 +8,19 @@
             "id": "2CO.13",
             "number": "13"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d9f3e495d0d0de1bf99",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GAL.1",
+        "__v": 0,
         "bookId": "GAL",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:51.587Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:23.425Z",
         "number": "1",
-        "reference": "Galatians 1",
-        "updatedAt": "2022-06-02T15:46:51.587Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GAL/GAL.1.mp3"
+        "reference": "Galates 1",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:23.425Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GAL/GAL.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GAL.png"
     },
     {
         "next": {
@@ -28,16 +31,19 @@
             "id": "GAL.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d9f3e495d0d0de1c18b",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GAL.2",
+        "__v": 0,
         "bookId": "GAL",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:51.807Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:23.856Z",
         "number": "2",
-        "reference": "Galatians 2",
-        "updatedAt": "2022-06-02T15:46:51.807Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GAL/GAL.2.mp3"
+        "reference": "Galates 2",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:23.856Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GAL/GAL.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GAL.png"
     },
     {
         "next": {
@@ -48,16 +54,19 @@
             "id": "GAL.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83da03e495d0d0de1c392",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GAL.3",
+        "__v": 0,
         "bookId": "GAL",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:52.052Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:24.290Z",
         "number": "3",
-        "reference": "Galatians 3",
-        "updatedAt": "2022-06-02T15:46:52.052Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GAL/GAL.3.mp3"
+        "reference": "Galates 3",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:24.290Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GAL/GAL.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GAL.png"
     },
     {
         "next": {
@@ -68,16 +77,19 @@
             "id": "GAL.3",
             "number": "3"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83da03e495d0d0de1c564",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GAL.4",
+        "__v": 0,
         "bookId": "GAL",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:52.253Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:24.716Z",
         "number": "4",
-        "reference": "Galatians 4",
-        "updatedAt": "2022-06-02T15:46:52.253Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GAL/GAL.4.mp3"
+        "reference": "Galates 4",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:24.716Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GAL/GAL.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GAL.png"
     },
     {
         "next": {
@@ -88,16 +100,19 @@
             "id": "GAL.4",
             "number": "4"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83da13e495d0d0de1c742",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GAL.5",
+        "__v": 0,
         "bookId": "GAL",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:52.500Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:25.121Z",
         "number": "5",
-        "reference": "Galatians 5",
-        "updatedAt": "2022-06-02T15:46:52.500Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GAL/GAL.5.mp3"
+        "reference": "Galates 5",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:25.121Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GAL/GAL.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GAL.png"
     },
     {
         "next": {
@@ -108,15 +123,18 @@
             "id": "GAL.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83da13e495d0d0de1c8ab",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "GAL.6",
+        "__v": 0,
         "bookId": "GAL",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:46:52.743Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:25.500Z",
         "number": "6",
-        "reference": "Galatians 6",
-        "updatedAt": "2022-06-02T15:46:52.743Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/GAL/GAL.6.mp3"
+        "reference": "Galates 6",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:25.500Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/GAL/GAL.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GAL.png"
     }
 ]

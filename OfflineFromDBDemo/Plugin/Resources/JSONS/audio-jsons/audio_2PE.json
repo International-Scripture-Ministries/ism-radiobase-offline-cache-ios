@@ -8,16 +8,19 @@
             "id": "1PE.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dbf3e495d0d0de248fe",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2PE.1",
+        "__v": 0,
         "bookId": "2PE",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:10.930Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:55.711Z",
         "number": "1",
-        "reference": "2 Peter 1",
-        "updatedAt": "2022-06-02T15:47:10.930Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2PE/2PE.1.mp3"
+        "reference": "2 Pierre 1",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:55.711Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2PE/2PE.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2PE.png"
     },
     {
         "next": {
@@ -28,16 +31,19 @@
             "id": "2PE.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dc03e495d0d0de24aa8",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2PE.2",
+        "__v": 0,
         "bookId": "2PE",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:11.171Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:56.149Z",
         "number": "2",
-        "reference": "2 Peter 2",
-        "updatedAt": "2022-06-02T15:47:11.171Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2PE/2PE.2.mp3"
+        "reference": "2 Pierre 2",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:56.149Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2PE/2PE.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2PE.png"
     },
     {
         "next": {
@@ -48,15 +54,18 @@
             "id": "2PE.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dc03e495d0d0de24bf7",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "2PE.3",
+        "__v": 0,
         "bookId": "2PE",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:11.426Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:22:56.578Z",
         "number": "3",
-        "reference": "2 Peter 3",
-        "updatedAt": "2022-06-02T15:47:11.426Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/2PE/2PE.3.mp3"
+        "reference": "2 Pierre 3",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:22:56.578Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/2PE/2PE.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/2PE.png"
     }
 ]

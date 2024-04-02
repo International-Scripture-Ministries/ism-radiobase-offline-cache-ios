@@ -8,16 +8,19 @@
             "id": "2CH.36",
             "number": "36"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c683e495d0d0ddd4061",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZR.1",
+        "__v": 0,
         "bookId": "EZR",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:27.605Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:12.644Z",
         "number": "1",
-        "reference": "Ezra 1",
-        "updatedAt": "2022-06-02T15:43:27.605Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZR/EZR.1.mp3"
+        "reference": "Esdras 1",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:12.644Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZR/EZR.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZR.png"
     },
     {
         "next": {
@@ -28,16 +31,19 @@
             "id": "EZR.9",
             "number": "9"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c6c3e495d0d0ddd4da3",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZR.10",
+        "__v": 0,
         "bookId": "EZR",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:29.901Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:16.525Z",
         "number": "10",
-        "reference": "Ezra 10",
-        "updatedAt": "2022-06-02T15:43:29.901Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZR/EZR.10.mp3"
+        "reference": "Esdras 10",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:16.525Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZR/EZR.10.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZR.png"
     },
     {
         "next": {
@@ -48,16 +54,19 @@
             "id": "EZR.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c693e495d0d0ddd41ed",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZR.2",
+        "__v": 0,
         "bookId": "EZR",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:27.872Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:13.068Z",
         "number": "2",
-        "reference": "Ezra 2",
-        "updatedAt": "2022-06-02T15:43:27.872Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZR/EZR.2.mp3"
+        "reference": "Esdras 2",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:13.068Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZR/EZR.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZR.png"
     },
     {
         "next": {
@@ -68,16 +77,19 @@
             "id": "EZR.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c693e495d0d0ddd435b",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZR.3",
+        "__v": 0,
         "bookId": "EZR",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:28.133Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:13.523Z",
         "number": "3",
-        "reference": "Ezra 3",
-        "updatedAt": "2022-06-02T15:43:28.133Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZR/EZR.3.mp3"
+        "reference": "Esdras 3",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:13.523Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZR/EZR.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZR.png"
     },
     {
         "next": {
@@ -88,16 +100,19 @@
             "id": "EZR.3",
             "number": "3"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c6a3e495d0d0ddd44c3",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZR.4",
+        "__v": 0,
         "bookId": "EZR",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:28.384Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:13.969Z",
         "number": "4",
-        "reference": "Ezra 4",
-        "updatedAt": "2022-06-02T15:43:28.384Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZR/EZR.4.mp3"
+        "reference": "Esdras 4",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:13.969Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZR/EZR.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZR.png"
     },
     {
         "next": {
@@ -108,16 +123,19 @@
             "id": "EZR.4",
             "number": "4"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c6a3e495d0d0ddd460d",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZR.5",
+        "__v": 0,
         "bookId": "EZR",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:28.594Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:14.386Z",
         "number": "5",
-        "reference": "Ezra 5",
-        "updatedAt": "2022-06-02T15:43:28.594Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZR/EZR.5.mp3"
+        "reference": "Esdras 5",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:14.386Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZR/EZR.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZR.png"
     },
     {
         "next": {
@@ -128,16 +146,19 @@
             "id": "EZR.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c6a3e495d0d0ddd4761",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZR.6",
+        "__v": 0,
         "bookId": "EZR",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:28.852Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:14.744Z",
         "number": "6",
-        "reference": "Ezra 6",
-        "updatedAt": "2022-06-02T15:43:28.852Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZR/EZR.6.mp3"
+        "reference": "Esdras 6",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:14.744Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZR/EZR.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZR.png"
     },
     {
         "next": {
@@ -148,16 +169,19 @@
             "id": "EZR.6",
             "number": "6"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c6b3e495d0d0ddd48c3",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZR.7",
+        "__v": 0,
         "bookId": "EZR",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:29.103Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:15.145Z",
         "number": "7",
-        "reference": "Ezra 7",
-        "updatedAt": "2022-06-02T15:43:29.103Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZR/EZR.7.mp3"
+        "reference": "Esdras 7",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:15.145Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZR/EZR.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZR.png"
     },
     {
         "next": {
@@ -168,16 +192,19 @@
             "id": "EZR.7",
             "number": "7"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c6b3e495d0d0ddd4a7f",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZR.8",
+        "__v": 0,
         "bookId": "EZR",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:29.358Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:15.659Z",
         "number": "8",
-        "reference": "Ezra 8",
-        "updatedAt": "2022-06-02T15:43:29.358Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZR/EZR.8.mp3"
+        "reference": "Esdras 8",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:15.659Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZR/EZR.8.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZR.png"
     },
     {
         "next": {
@@ -188,15 +215,18 @@
             "id": "EZR.8",
             "number": "8"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c6c3e495d0d0ddd4bee",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "EZR.9",
+        "__v": 0,
         "bookId": "EZR",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:43:29.641Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:17:16.065Z",
         "number": "9",
-        "reference": "Ezra 9",
-        "updatedAt": "2022-06-02T15:43:29.641Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/EZR/EZR.9.mp3"
+        "reference": "Esdras 9",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:17:16.065Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/EZR/EZR.9.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EZR.png"
     }
 ]

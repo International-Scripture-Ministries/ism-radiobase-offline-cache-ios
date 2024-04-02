@@ -8,16 +8,19 @@
             "id": "JON.4",
             "number": "4"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d443e495d0d0de0747c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "MIC.1",
+        "__v": 0,
         "bookId": "MIC",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:58.188Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:52.727Z",
         "number": "1",
-        "reference": "Micah 1",
-        "updatedAt": "2022-06-02T15:45:58.188Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/MIC/MIC.1.mp3"
+        "reference": "Michée 1",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:52.727Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/MIC/MIC.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MIC.png"
     },
     {
         "next": {
@@ -28,16 +31,19 @@
             "id": "MIC.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d453e495d0d0de075c3",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "MIC.2",
+        "__v": 0,
         "bookId": "MIC",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:58.438Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:53.107Z",
         "number": "2",
-        "reference": "Micah 2",
-        "updatedAt": "2022-06-02T15:45:58.438Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/MIC/MIC.2.mp3"
+        "reference": "Michée 2",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:53.107Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/MIC/MIC.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MIC.png"
     },
     {
         "next": {
@@ -48,16 +54,19 @@
             "id": "MIC.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d453e495d0d0de076ee",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "MIC.3",
+        "__v": 0,
         "bookId": "MIC",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:58.688Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:53.504Z",
         "number": "3",
-        "reference": "Micah 3",
-        "updatedAt": "2022-06-02T15:45:58.688Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/MIC/MIC.3.mp3"
+        "reference": "Michée 3",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:53.504Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/MIC/MIC.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MIC.png"
     },
     {
         "next": {
@@ -68,16 +77,19 @@
             "id": "MIC.3",
             "number": "3"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d453e495d0d0de078be",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "MIC.4",
+        "__v": 0,
         "bookId": "MIC",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:58.952Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:53.959Z",
         "number": "4",
-        "reference": "Micah 4",
-        "updatedAt": "2022-06-02T15:45:58.952Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/MIC/MIC.4.mp3"
+        "reference": "Michée 4",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:53.959Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/MIC/MIC.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MIC.png"
     },
     {
         "next": {
@@ -88,16 +100,19 @@
             "id": "MIC.4",
             "number": "4"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d463e495d0d0de07a67",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "MIC.5",
+        "__v": 0,
         "bookId": "MIC",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:59.206Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:54.379Z",
         "number": "5",
-        "reference": "Micah 5",
-        "updatedAt": "2022-06-02T15:45:59.206Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/MIC/MIC.5.mp3"
+        "reference": "Michée 5",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:54.379Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/MIC/MIC.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MIC.png"
     },
     {
         "next": {
@@ -108,16 +123,19 @@
             "id": "MIC.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d463e495d0d0de07c11",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "MIC.6",
+        "__v": 0,
         "bookId": "MIC",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:59.405Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:54.825Z",
         "number": "6",
-        "reference": "Micah 6",
-        "updatedAt": "2022-06-02T15:45:59.405Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/MIC/MIC.6.mp3"
+        "reference": "Michée 6",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:54.825Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/MIC/MIC.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MIC.png"
     },
     {
         "next": {
@@ -128,15 +146,18 @@
             "id": "MIC.6",
             "number": "6"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d473e495d0d0de07d83",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "MIC.7",
+        "__v": 0,
         "bookId": "MIC",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:59.656Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:55.191Z",
         "number": "7",
-        "reference": "Micah 7",
-        "updatedAt": "2022-06-02T15:45:59.656Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/MIC/MIC.7.mp3"
+        "reference": "Michée 7",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:55.191Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/MIC/MIC.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MIC.png"
     }
 ]

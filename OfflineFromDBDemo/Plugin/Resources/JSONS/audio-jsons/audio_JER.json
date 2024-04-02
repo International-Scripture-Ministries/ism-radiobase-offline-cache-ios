@@ -8,16 +8,19 @@
             "id": "ISA.66",
             "number": "66"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d003e495d0d0ddf7351",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.1",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:18.730Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:44.439Z",
         "number": "1",
-        "reference": "Jer. 1",
-        "updatedAt": "2022-06-02T15:45:18.730Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.1.mp3"
+        "reference": "Jérémie 1",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:44.439Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -28,16 +31,19 @@
             "id": "JER.9",
             "number": "9"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d043e495d0d0ddf819a",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.10",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:20.817Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:48.286Z",
         "number": "10",
-        "reference": "Jer. 10",
-        "updatedAt": "2022-06-02T15:45:20.817Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.10.mp3"
+        "reference": "Jérémie 10",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:48.286Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.10.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -48,16 +54,19 @@
             "id": "JER.10",
             "number": "10"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d043e495d0d0ddf833b",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.11",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:21.060Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:48.705Z",
         "number": "11",
-        "reference": "Jer. 11",
-        "updatedAt": "2022-06-02T15:45:21.060Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.11.mp3"
+        "reference": "Jérémie 11",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:48.705Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.11.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -68,16 +77,19 @@
             "id": "JER.11",
             "number": "11"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d053e495d0d0ddf849d",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.12",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:21.337Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:49.109Z",
         "number": "12",
-        "reference": "Jer. 12",
-        "updatedAt": "2022-06-02T15:45:21.337Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.12.mp3"
+        "reference": "Jérémie 12",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:49.109Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.12.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -88,16 +100,19 @@
             "id": "JER.12",
             "number": "12"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d053e495d0d0ddf8657",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.13",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:21.600Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:49.578Z",
         "number": "13",
-        "reference": "Jer. 13",
-        "updatedAt": "2022-06-02T15:45:21.600Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.13.mp3"
+        "reference": "Jérémie 13",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:49.578Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.13.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -108,16 +123,19 @@
             "id": "JER.13",
             "number": "13"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d063e495d0d0ddf87d7",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.14",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:21.805Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:50.018Z",
         "number": "14",
-        "reference": "Jer. 14",
-        "updatedAt": "2022-06-02T15:45:21.805Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.14.mp3"
+        "reference": "Jérémie 14",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:50.018Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.14.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -128,16 +146,19 @@
             "id": "JER.14",
             "number": "14"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d063e495d0d0ddf896d",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.15",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:22.345Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:50.399Z",
         "number": "15",
-        "reference": "Jer. 15",
-        "updatedAt": "2022-06-02T15:45:22.345Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.15.mp3"
+        "reference": "Jérémie 15",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:50.399Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.15.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -148,16 +169,19 @@
             "id": "JER.15",
             "number": "15"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d063e495d0d0ddf8ad2",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.16",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:22.560Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:50.830Z",
         "number": "16",
-        "reference": "Jer. 16",
-        "updatedAt": "2022-06-02T15:45:22.560Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.16.mp3"
+        "reference": "Jérémie 16",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:50.830Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.16.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -168,16 +192,19 @@
             "id": "JER.16",
             "number": "16"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d073e495d0d0ddf8c74",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.17",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:22.801Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:51.269Z",
         "number": "17",
-        "reference": "Jer. 17",
-        "updatedAt": "2022-06-02T15:45:22.801Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.17.mp3"
+        "reference": "Jérémie 17",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:51.269Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.17.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -188,16 +215,19 @@
             "id": "JER.17",
             "number": "17"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d073e495d0d0ddf8e47",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.18",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:23.017Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:51.735Z",
         "number": "18",
-        "reference": "Jer. 18",
-        "updatedAt": "2022-06-02T15:45:23.017Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.18.mp3"
+        "reference": "Jérémie 18",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:51.735Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.18.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -208,16 +238,19 @@
             "id": "JER.18",
             "number": "18"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d083e495d0d0ddf8ff1",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.19",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:23.268Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:52.182Z",
         "number": "19",
-        "reference": "Jer. 19",
-        "updatedAt": "2022-06-02T15:45:23.268Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.19.mp3"
+        "reference": "Jérémie 19",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:52.182Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.19.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -228,16 +261,19 @@
             "id": "JER.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d003e495d0d0ddf749d",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.2",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:19.000Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:44.848Z",
         "number": "2",
-        "reference": "Jer. 2",
-        "updatedAt": "2022-06-02T15:45:19.000Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.2.mp3"
+        "reference": "Jérémie 2",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:44.848Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -248,16 +284,19 @@
             "id": "JER.19",
             "number": "19"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d083e495d0d0ddf9165",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.20",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:23.476Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:52.608Z",
         "number": "20",
-        "reference": "Jer. 20",
-        "updatedAt": "2022-06-02T15:45:23.476Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.20.mp3"
+        "reference": "Jérémie 20",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:52.608Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.20.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -268,16 +307,19 @@
             "id": "JER.20",
             "number": "20"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d093e495d0d0ddf928f",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.21",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:23.866Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:52.972Z",
         "number": "21",
-        "reference": "Jer. 21",
-        "updatedAt": "2022-06-02T15:45:23.866Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.21.mp3"
+        "reference": "Jérémie 21",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:52.972Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.21.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -288,16 +330,19 @@
             "id": "JER.21",
             "number": "21"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d093e495d0d0ddf9450",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.22",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:24.123Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:53.415Z",
         "number": "22",
-        "reference": "Jer. 22",
-        "updatedAt": "2022-06-02T15:45:24.123Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.22.mp3"
+        "reference": "Jérémie 22",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:53.415Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.22.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -308,16 +353,19 @@
             "id": "JER.22",
             "number": "22"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d093e495d0d0ddf95fd",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.23",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:24.331Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:53.884Z",
         "number": "23",
-        "reference": "Jer. 23",
-        "updatedAt": "2022-06-02T15:45:24.331Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.23.mp3"
+        "reference": "Jérémie 23",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:53.884Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.23.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -328,16 +376,19 @@
             "id": "JER.23",
             "number": "23"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d0a3e495d0d0ddf97f1",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.24",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:24.572Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:54.320Z",
         "number": "24",
-        "reference": "Jer. 24",
-        "updatedAt": "2022-06-02T15:45:24.572Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.24.mp3"
+        "reference": "Jérémie 24",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:54.320Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.24.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -348,16 +399,19 @@
             "id": "JER.24",
             "number": "24"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d0a3e495d0d0ddf9979",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.25",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:24.830Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:54.766Z",
         "number": "25",
-        "reference": "Jer. 25",
-        "updatedAt": "2022-06-02T15:45:24.830Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.25.mp3"
+        "reference": "Jérémie 25",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:54.766Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.25.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -368,16 +422,19 @@
             "id": "JER.25",
             "number": "25"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d0b3e495d0d0ddf9add",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.26",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:25.080Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:55.169Z",
         "number": "26",
-        "reference": "Jer. 26",
-        "updatedAt": "2022-06-02T15:45:25.080Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.26.mp3"
+        "reference": "Jérémie 26",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:55.169Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.26.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -388,16 +445,19 @@
             "id": "JER.26",
             "number": "26"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d0b3e495d0d0ddf9c74",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.27",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:25.280Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:55.597Z",
         "number": "27",
-        "reference": "Jer. 27",
-        "updatedAt": "2022-06-02T15:45:25.281Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.27.mp3"
+        "reference": "Jérémie 27",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:55.597Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.27.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -408,16 +468,19 @@
             "id": "JER.27",
             "number": "27"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d0c3e495d0d0ddf9dea",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.28",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:25.507Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:56.060Z",
         "number": "28",
-        "reference": "Jer. 28",
-        "updatedAt": "2022-06-02T15:45:25.507Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.28.mp3"
+        "reference": "Jérémie 28",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:56.060Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.28.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -428,16 +491,19 @@
             "id": "JER.28",
             "number": "28"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d0c3e495d0d0ddf9f3f",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.29",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:25.979Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:56.453Z",
         "number": "29",
-        "reference": "Jer. 29",
-        "updatedAt": "2022-06-02T15:45:25.979Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.29.mp3"
+        "reference": "Jérémie 29",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:56.453Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.29.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -448,16 +514,19 @@
             "id": "JER.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d013e495d0d0ddf7639",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.3",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:19.210Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:45.254Z",
         "number": "3",
-        "reference": "Jer. 3",
-        "updatedAt": "2022-06-02T15:45:19.210Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.3.mp3"
+        "reference": "Jérémie 3",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:45.254Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -468,16 +537,19 @@
             "id": "JER.29",
             "number": "29"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d0c3e495d0d0ddfa0c3",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.30",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:26.217Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:56.887Z",
         "number": "30",
-        "reference": "Jer. 30",
-        "updatedAt": "2022-06-02T15:45:26.218Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.30.mp3"
+        "reference": "Jérémie 30",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:56.887Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.30.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -488,16 +560,19 @@
             "id": "JER.30",
             "number": "30"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d0d3e495d0d0ddfa233",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.31",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:26.464Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:57.302Z",
         "number": "31",
-        "reference": "Jer. 31",
-        "updatedAt": "2022-06-02T15:45:26.464Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.31.mp3"
+        "reference": "Jérémie 31",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:57.302Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.31.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -508,16 +583,19 @@
             "id": "JER.31",
             "number": "31"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d0d3e495d0d0ddfa3a9",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.32",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:26.683Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:57.718Z",
         "number": "32",
-        "reference": "Jer. 32",
-        "updatedAt": "2022-06-02T15:45:26.683Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.32.mp3"
+        "reference": "Jérémie 32",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:57.718Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.32.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -528,16 +606,19 @@
             "id": "JER.32",
             "number": "32"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d0e3e495d0d0ddfa4ab",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.33",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:26.923Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:58.101Z",
         "number": "33",
-        "reference": "Jer. 33",
-        "updatedAt": "2022-06-02T15:45:26.923Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.33.mp3"
+        "reference": "Jérémie 33",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:58.101Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.33.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -548,16 +629,19 @@
             "id": "JER.33",
             "number": "33"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d0e3e495d0d0ddfa631",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.34",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:27.129Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:58.533Z",
         "number": "34",
-        "reference": "Jer. 34",
-        "updatedAt": "2022-06-02T15:45:27.129Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.34.mp3"
+        "reference": "Jérémie 34",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:58.533Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.34.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -568,16 +652,19 @@
             "id": "JER.34",
             "number": "34"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d0f3e495d0d0ddfa786",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.35",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:27.396Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:58.973Z",
         "number": "35",
-        "reference": "Jer. 35",
-        "updatedAt": "2022-06-02T15:45:27.396Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.35.mp3"
+        "reference": "Jérémie 35",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:58.973Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.35.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -588,16 +675,19 @@
             "id": "JER.35",
             "number": "35"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d0f3e495d0d0ddfa990",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.36",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:27.595Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:59.439Z",
         "number": "36",
-        "reference": "Jer. 36",
-        "updatedAt": "2022-06-02T15:45:27.595Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.36.mp3"
+        "reference": "Jérémie 36",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:59.439Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.36.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -608,16 +698,19 @@
             "id": "JER.36",
             "number": "36"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d0f3e495d0d0ddfab44",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.37",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:27.841Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:59.861Z",
         "number": "37",
-        "reference": "Jer. 37",
-        "updatedAt": "2022-06-02T15:45:27.841Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.37.mp3"
+        "reference": "Jérémie 37",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:59.861Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.37.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -628,16 +721,19 @@
             "id": "JER.37",
             "number": "37"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d103e495d0d0ddfad28",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.38",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:28.052Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:00.301Z",
         "number": "38",
-        "reference": "Jer. 38",
-        "updatedAt": "2022-06-02T15:45:28.053Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.38.mp3"
+        "reference": "Jérémie 38",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:00.301Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.38.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -648,16 +744,19 @@
             "id": "JER.38",
             "number": "38"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d103e495d0d0ddfaf4d",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.39",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:28.331Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:00.701Z",
         "number": "39",
-        "reference": "Jer. 39",
-        "updatedAt": "2022-06-02T15:45:28.332Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.39.mp3"
+        "reference": "Jérémie 39",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:00.701Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.39.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -668,16 +767,19 @@
             "id": "JER.3",
             "number": "3"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d013e495d0d0ddf7797",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.4",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:19.480Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:45.671Z",
         "number": "4",
-        "reference": "Jer. 4",
-        "updatedAt": "2022-06-02T15:45:19.480Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.4.mp3"
+        "reference": "Jérémie 4",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:45.671Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -688,16 +790,19 @@
             "id": "JER.39",
             "number": "39"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d113e495d0d0ddfb125",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.40",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:28.569Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:01.158Z",
         "number": "40",
-        "reference": "Jer. 40",
-        "updatedAt": "2022-06-02T15:45:28.569Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.40.mp3"
+        "reference": "Jérémie 40",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:01.158Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.40.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -708,16 +813,19 @@
             "id": "JER.40",
             "number": "40"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d113e495d0d0ddfb337",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.41",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:28.783Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:01.645Z",
         "number": "41",
-        "reference": "Jer. 41",
-        "updatedAt": "2022-06-02T15:45:28.783Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.41.mp3"
+        "reference": "Jérémie 41",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:01.645Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.41.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -728,16 +836,19 @@
             "id": "JER.41",
             "number": "41"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d123e495d0d0ddfb4b6",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.42",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:29.030Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:02.118Z",
         "number": "42",
-        "reference": "Jer. 42",
-        "updatedAt": "2022-06-02T15:45:29.030Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.42.mp3"
+        "reference": "Jérémie 42",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:02.118Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.42.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -748,16 +859,19 @@
             "id": "JER.42",
             "number": "42"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d123e495d0d0ddfb65b",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.43",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:29.233Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:02.529Z",
         "number": "43",
-        "reference": "Jer. 43",
-        "updatedAt": "2022-06-02T15:45:29.233Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.43.mp3"
+        "reference": "Jérémie 43",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:02.529Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.43.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -768,16 +882,19 @@
             "id": "JER.43",
             "number": "43"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d123e495d0d0ddfb794",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.44",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:29.484Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:02.955Z",
         "number": "44",
-        "reference": "Jer. 44",
-        "updatedAt": "2022-06-02T15:45:29.484Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.44.mp3"
+        "reference": "Jérémie 44",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:02.955Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.44.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -788,16 +905,19 @@
             "id": "JER.44",
             "number": "44"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d133e495d0d0ddfb946",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.45",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:29.793Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:03.398Z",
         "number": "45",
-        "reference": "Jer. 45",
-        "updatedAt": "2022-06-02T15:45:29.793Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.45.mp3"
+        "reference": "Jérémie 45",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:03.398Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.45.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -808,16 +928,19 @@
             "id": "JER.45",
             "number": "45"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d133e495d0d0ddfbad6",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.46",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:29.998Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:03.835Z",
         "number": "46",
-        "reference": "Jer. 46",
-        "updatedAt": "2022-06-02T15:45:29.998Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.46.mp3"
+        "reference": "Jérémie 46",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:03.835Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.46.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -828,16 +951,19 @@
             "id": "JER.46",
             "number": "46"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d143e495d0d0ddfbc51",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.47",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:30.352Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:04.265Z",
         "number": "47",
-        "reference": "Jer. 47",
-        "updatedAt": "2022-06-02T15:45:30.352Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.47.mp3"
+        "reference": "Jérémie 47",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:04.265Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.47.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -848,16 +974,19 @@
             "id": "JER.47",
             "number": "47"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d143e495d0d0ddfbdd2",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.48",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:30.666Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:04.691Z",
         "number": "48",
-        "reference": "Jer. 48",
-        "updatedAt": "2022-06-02T15:45:30.666Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.48.mp3"
+        "reference": "Jérémie 48",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:04.691Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.48.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -868,16 +997,19 @@
             "id": "JER.48",
             "number": "48"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d153e495d0d0ddfbf38",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.49",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:30.998Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:05.161Z",
         "number": "49",
-        "reference": "Jer. 49",
-        "updatedAt": "2022-06-02T15:45:30.998Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.49.mp3"
+        "reference": "Jérémie 49",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:05.161Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.49.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -888,16 +1020,19 @@
             "id": "JER.4",
             "number": "4"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d023e495d0d0ddf78f6",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.5",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:19.727Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:46.050Z",
         "number": "5",
-        "reference": "Jer. 5",
-        "updatedAt": "2022-06-02T15:45:19.727Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.5.mp3"
+        "reference": "Jérémie 5",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:46.050Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -908,16 +1043,19 @@
             "id": "JER.49",
             "number": "49"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d153e495d0d0ddfc19a",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.50",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:31.296Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:05.908Z",
         "number": "50",
-        "reference": "Jer. 50",
-        "updatedAt": "2022-06-02T15:45:31.296Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.50.mp3"
+        "reference": "Jérémie 50",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:05.908Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.50.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -928,16 +1066,19 @@
             "id": "JER.50",
             "number": "50"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d163e495d0d0ddfc389",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.51",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:31.543Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:06.343Z",
         "number": "51",
-        "reference": "Jer. 51",
-        "updatedAt": "2022-06-02T15:45:31.543Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.51.mp3"
+        "reference": "Jérémie 51",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:06.343Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.51.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -948,16 +1089,19 @@
             "id": "JER.51",
             "number": "51"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d163e495d0d0ddfc515",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.52",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:31.879Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:20:06.762Z",
         "number": "52",
-        "reference": "Jer. 52",
-        "updatedAt": "2022-06-02T15:45:31.879Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.52.mp3"
+        "reference": "Jérémie 52",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:20:06.762Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.52.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -968,16 +1112,19 @@
             "id": "JER.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d023e495d0d0ddf7aed",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.6",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:19.972Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:46.526Z",
         "number": "6",
-        "reference": "Jer. 6",
-        "updatedAt": "2022-06-02T15:45:19.972Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.6.mp3"
+        "reference": "Jérémie 6",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:46.526Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -988,16 +1135,19 @@
             "id": "JER.6",
             "number": "6"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d033e495d0d0ddf7c51",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.7",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:20.176Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:46.968Z",
         "number": "7",
-        "reference": "Jer. 7",
-        "updatedAt": "2022-06-02T15:45:20.176Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.7.mp3"
+        "reference": "Jérémie 7",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:46.968Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -1008,16 +1158,19 @@
             "id": "JER.7",
             "number": "7"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d033e495d0d0ddf7e69",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.8",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:20.385Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:47.478Z",
         "number": "8",
-        "reference": "Jer. 8",
-        "updatedAt": "2022-06-02T15:45:20.385Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.8.mp3"
+        "reference": "Jérémie 8",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:47.478Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.8.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     },
     {
         "next": {
@@ -1028,15 +1181,18 @@
             "id": "JER.8",
             "number": "8"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83d033e495d0d0ddf7fd2",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "JER.9",
+        "__v": 0,
         "bookId": "JER",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:45:20.613Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:19:47.859Z",
         "number": "9",
-        "reference": "Jer. 9",
-        "updatedAt": "2022-06-02T15:45:20.613Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/JER/JER.9.mp3"
+        "reference": "Jérémie 9",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:19:47.859Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/JER/JER.9.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
     }
 ]

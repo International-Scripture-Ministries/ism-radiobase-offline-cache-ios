@@ -6,19 +6,19 @@
 	<dict>
 		<key>Headers/RealmSwift-Swift.h</key>
 		<data>
-		4/F674JO/MVMxbCMUEnOTj7VNWs=
+		87qcdTkA7fdG3dRz5E0XqRT/P3s=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Fz0Nub/bHx5WTxl+toA2tA4g5UM=
+		6oYxBNVm8rlu9NnBiYE/xK400Zs=
 		</data>
 		<key>Modules/RealmSwift.swiftmodule/Project/arm64-apple-tvos-simulator.swiftsourceinfo</key>
 		<data>
-		JGcvgwpdkYbvLRLF3YrnIvvqG1Y=
+		5UKo1D6UssPgZqjZrVMhW/hvmDw=
 		</data>
 		<key>Modules/RealmSwift.swiftmodule/Project/x86_64-apple-tvos-simulator.swiftsourceinfo</key>
 		<data>
-		xktQWwVfKWmwvEu1wHU/Al+Xw74=
+		aKR74tMZGcbZN+t78Hwp7UTjRnA=
 		</data>
 		<key>Modules/RealmSwift.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/RealmSwift.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		3ppK4iFUVfv+OgEhMXf/RgPJLFY=
+		ZKc8twAZ5J6+3cgdXefVhNKvLKU=
 		</data>
 		<key>Modules/RealmSwift.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		+0iC7oJcyynCZQc6ROPGPHTh1jE=
+		Iug4BHQ5H3FPweYzk2xG4sB4XM4=
 		</data>
 		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<data>
@@ -38,15 +38,19 @@
 		</data>
 		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		wdnmIzOXqNdgP79WtHU6RLuwjEg=
+		IabIDuJ2D31D8hvSHvy4wKtJ4Is=
 		</data>
 		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		TdSBOS63JP20UoYNg6bKi+Zy2dg=
+		hmK6vHkoLmOmHRE96jQGpEsKKQY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		IXqtE49GMw2XlMvW/BV8T8CvAUI=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		Rqi7obUAZTcbQXF8a5X94NQxhbQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,21 +59,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R7UTtK85xpvxJUN1vpceuPOXeEhtTvgY/mzD2K8KmI8=
+			D/TWilc9BJ9XdBu5bzB8Ti2geKXt2CLt4KJ6ZqK81zs=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/Project/arm64-apple-tvos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			72ByVKvZWB4XYJOiWB7+DQa3mluBkTdxSOAFXR5KU5c=
+			zOg5zNbiOFHlhbv/QOv2jtOvG5wi3dkKKP7R0kurBAw=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/Project/x86_64-apple-tvos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/oR+EM37cWXTsN6ZRMwXctCLcSdu4rjcEVHcnUxTAe4=
+			G0XHvhvHmSGsiGmX40w79P/DHXDL+DFzen5Vn3WEjQQ=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
@@ -83,14 +87,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qC+n8bUUKDzfzIHYQ4jA/7kB4Tmiz+K4cyIVA5Jxbj4=
+			AKU5o5Ag6YJ2xVKfqQppNIzXHKYyqyGkajYYo89cc+4=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jpsvgRwW5Bp7xR1WjMZnBulnS8IzXJaZlDPewzgPZys=
+			ZZQhcFgwoulWk3UMrOXTDjQGijOkeiFcGSHrS4uhtq8=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
@@ -104,14 +108,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eJy4C47XIypS/tkb24IuteqbgFRJs1JzeyHL1AqNflg=
+			y2gzSD7S2oT0kp6lKpgQ7kLc0P+zyP44gS7FsfWTcaU=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FfhKXCcLeiJAHp9bZ6SHYX1KgMVA+1ihSed/P1wUrFY=
+			xhFbyjoRX30vjX6dYZXmR1q7mNuOMm7fcA8+efNVlxI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -119,6 +123,13 @@
 			<key>hash2</key>
 			<data>
 			Zfv2ZSs6d6XBckKRFjW5jDoJ/AIcJok4zix6ZQgi7dg=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g1eTYkX9jkNUpHNetdb+DWoCoZMdH51E1dF2UmycZQE=
 			</data>
 		</dict>
 	</dict>

@@ -8,16 +8,19 @@
             "id": "JUD.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dc63e495d0d0de262a4",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.1",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:14.519Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:02.138Z",
         "number": "1",
-        "reference": "Revelation 1",
-        "updatedAt": "2022-06-02T15:47:14.519Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.1.mp3"
+        "reference": "Apocalypse 1",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:02.138Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -28,16 +31,19 @@
             "id": "REV.9",
             "number": "9"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dca3e495d0d0de27087",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.10",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:16.702Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:06.110Z",
         "number": "10",
-        "reference": "Revelation 10",
-        "updatedAt": "2022-06-02T15:47:16.702Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.10.mp3"
+        "reference": "Apocalypse 10",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:06.110Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.10.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -48,16 +54,19 @@
             "id": "REV.10",
             "number": "10"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dca3e495d0d0de271f5",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.11",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:16.899Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:06.504Z",
         "number": "11",
-        "reference": "Revelation 11",
-        "updatedAt": "2022-06-02T15:47:16.899Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.11.mp3"
+        "reference": "Apocalypse 11",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:06.504Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.11.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -68,16 +77,19 @@
             "id": "REV.11",
             "number": "11"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dca3e495d0d0de27375",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.12",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:17.107Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:06.938Z",
         "number": "12",
-        "reference": "Revelation 12",
-        "updatedAt": "2022-06-02T15:47:17.107Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.12.mp3"
+        "reference": "Apocalypse 12",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:06.938Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.12.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -88,16 +100,19 @@
             "id": "REV.12",
             "number": "12"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dcb3e495d0d0de274cd",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.13",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:17.363Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:07.372Z",
         "number": "13",
-        "reference": "Revelation 13",
-        "updatedAt": "2022-06-02T15:47:17.363Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.13.mp3"
+        "reference": "Apocalypse 13",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:07.372Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.13.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -108,16 +123,19 @@
             "id": "REV.13",
             "number": "13"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dcb3e495d0d0de2761f",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.14",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:17.565Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:07.771Z",
         "number": "14",
-        "reference": "Revelation 14",
-        "updatedAt": "2022-06-02T15:47:17.565Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.14.mp3"
+        "reference": "Apocalypse 14",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:07.771Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.14.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -128,16 +146,19 @@
             "id": "REV.14",
             "number": "14"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dcc3e495d0d0de277b8",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.15",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:17.815Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:08.170Z",
         "number": "15",
-        "reference": "Revelation 15",
-        "updatedAt": "2022-06-02T15:47:17.815Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.15.mp3"
+        "reference": "Apocalypse 15",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:08.170Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.15.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -148,16 +169,19 @@
             "id": "REV.15",
             "number": "15"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dcc3e495d0d0de278b7",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.16",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:18.031Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:08.569Z",
         "number": "16",
-        "reference": "Revelation 16",
-        "updatedAt": "2022-06-02T15:47:18.031Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.16.mp3"
+        "reference": "Apocalypse 16",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:08.569Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.16.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -168,16 +192,19 @@
             "id": "REV.16",
             "number": "16"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dcd3e495d0d0de279e0",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.17",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:18.259Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:08.972Z",
         "number": "17",
-        "reference": "Revelation 17",
-        "updatedAt": "2022-06-02T15:47:18.259Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.17.mp3"
+        "reference": "Apocalypse 17",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:08.972Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.17.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -188,16 +215,19 @@
             "id": "REV.17",
             "number": "17"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dcd3e495d0d0de27b24",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.18",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:18.506Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:09.380Z",
         "number": "18",
-        "reference": "Revelation 18",
-        "updatedAt": "2022-06-02T15:47:18.506Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.18.mp3"
+        "reference": "Apocalypse 18",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:09.380Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.18.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -208,16 +238,19 @@
             "id": "REV.18",
             "number": "18"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dcd3e495d0d0de27c60",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.19",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:18.920Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:09.827Z",
         "number": "19",
-        "reference": "Revelation 19",
-        "updatedAt": "2022-06-02T15:47:18.920Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.19.mp3"
+        "reference": "Apocalypse 19",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:09.827Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.19.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -228,16 +261,19 @@
             "id": "REV.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dc63e495d0d0de2641c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.2",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:14.765Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:02.597Z",
         "number": "2",
-        "reference": "Revelation 2",
-        "updatedAt": "2022-06-02T15:47:14.765Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.2.mp3"
+        "reference": "Apocalypse 2",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:02.597Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -248,16 +284,19 @@
             "id": "REV.19",
             "number": "19"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dce3e495d0d0de27e47",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.20",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:19.135Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:10.254Z",
         "number": "20",
-        "reference": "Revelation 20",
-        "updatedAt": "2022-06-02T15:47:19.135Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.20.mp3"
+        "reference": "Apocalypse 20",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:10.254Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.20.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -268,32 +307,38 @@
             "id": "REV.20",
             "number": "20"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dce3e495d0d0de27f70",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.21",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:19.382Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:10.671Z",
         "number": "21",
-        "reference": "Revelation 21",
-        "updatedAt": "2022-06-02T15:47:19.383Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.21.mp3"
+        "reference": "Apocalypse 21",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:10.671Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.21.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "previous": {
             "id": "REV.21",
             "number": "21"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dcf3e495d0d0de28117",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.22",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:19.639Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:11.165Z",
         "number": "22",
-        "reference": "Revelation 22",
-        "updatedAt": "2022-06-02T15:47:19.639Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.22.mp3"
+        "reference": "Apocalypse 22",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:11.165Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.22.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -304,16 +349,19 @@
             "id": "REV.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dc73e495d0d0de26594",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.3",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:15.019Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:03.022Z",
         "number": "3",
-        "reference": "Revelation 3",
-        "updatedAt": "2022-06-02T15:47:15.019Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.3.mp3"
+        "reference": "Apocalypse 3",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:03.022Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -324,16 +372,19 @@
             "id": "REV.3",
             "number": "3"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dc73e495d0d0de26737",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.4",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:15.268Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:03.453Z",
         "number": "4",
-        "reference": "Revelation 4",
-        "updatedAt": "2022-06-02T15:47:15.268Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.4.mp3"
+        "reference": "Apocalypse 4",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:03.453Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -344,16 +395,19 @@
             "id": "REV.4",
             "number": "4"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dc73e495d0d0de268f8",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.5",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:15.516Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:03.905Z",
         "number": "5",
-        "reference": "Revelation 5",
-        "updatedAt": "2022-06-02T15:47:15.516Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.5.mp3"
+        "reference": "Apocalypse 5",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:03.905Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -364,16 +418,19 @@
             "id": "REV.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dc83e495d0d0de26a69",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.6",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:15.766Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:04.340Z",
         "number": "6",
-        "reference": "Revelation 6",
-        "updatedAt": "2022-06-02T15:47:15.766Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.6.mp3"
+        "reference": "Apocalypse 6",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:04.340Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -384,16 +441,19 @@
             "id": "REV.6",
             "number": "6"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dc83e495d0d0de26bd9",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.7",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:16.015Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:04.751Z",
         "number": "7",
-        "reference": "Revelation 7",
-        "updatedAt": "2022-06-02T15:47:16.015Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.7.mp3"
+        "reference": "Apocalypse 7",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:04.751Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -404,16 +464,19 @@
             "id": "REV.7",
             "number": "7"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dc93e495d0d0de26d91",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.8",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:16.225Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:05.194Z",
         "number": "8",
-        "reference": "Revelation 8",
-        "updatedAt": "2022-06-02T15:47:16.225Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.8.mp3"
+        "reference": "Apocalypse 8",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:05.194Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.8.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     },
     {
         "next": {
@@ -424,15 +487,18 @@
             "id": "REV.8",
             "number": "8"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83dc93e495d0d0de26ef2",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "REV.9",
+        "__v": 0,
         "bookId": "REV",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:47:16.442Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:23:05.663Z",
         "number": "9",
-        "reference": "Revelation 9",
-        "updatedAt": "2022-06-02T15:47:16.442Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/REV/REV.9.mp3"
+        "reference": "Apocalypse 9",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:23:05.663Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/REV/REV.9.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/REV.png"
     }
 ]

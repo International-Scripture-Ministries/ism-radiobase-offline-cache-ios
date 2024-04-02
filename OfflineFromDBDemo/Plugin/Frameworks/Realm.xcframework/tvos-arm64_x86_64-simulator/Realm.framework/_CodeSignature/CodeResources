@@ -6,7 +6,7 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<data>
-		pntIdh/bsNskT//s2uYiTHFnPJw=
+		IHs4Vur9eM2EXDuT403u/IViHgg=
 		</data>
 		<key>Headers/NSError+RLMSync.h</key>
 		<data>
@@ -76,6 +76,10 @@
 		<data>
 		nVYUhdeFVo2/ogMj0swOyCup1LY=
 		</data>
+		<key>Headers/RLMGeospatial.h</key>
+		<data>
+		Kwnm2N46zapI8Hmlr+ucq4R8yvA=
+		</data>
 		<key>Headers/RLMLogger.h</key>
 		<data>
 		xRxc1g20RrrsSVEhSHPTjV7wUrM=
@@ -142,7 +146,7 @@
 		</data>
 		<key>Headers/RLMRealmConfiguration.h</key>
 		<data>
-		tACtbQrCi+eN56JH+gH60N0lXOQ=
+		B+CHu2i/c/yU+cE3VUrc5HZVglA=
 		</data>
 		<key>Headers/RLMRealm_Dynamic.h</key>
 		<data>
@@ -182,7 +186,7 @@
 		</data>
 		<key>Headers/RLMSyncSession.h</key>
 		<data>
-		ENN75q8RC4BNpH67LE7NiUtO08U=
+		E417LvOXVfKWPJeWgH+c+o1JP7o=
 		</data>
 		<key>Headers/RLMSyncSubscription.h</key>
 		<data>
@@ -210,11 +214,11 @@
 		</data>
 		<key>Headers/Realm.h</key>
 		<data>
-		fDREEG2URHEbKjZ2nfKq+7M/7m8=
+		oYB2UlokCT6S+rMjm2cLyF0Qod8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cq7uZjBY2jC2uy+yecM2imyO2o4=
+		n77/LZx7wyqDcUOxMScWn0tf7f0=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -222,7 +226,11 @@
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		A28J5rfl2ooZX6nLmKAtWsKyoFg=
+		7e44l1Mj3UJRMjiQszKNqTZNN88=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		Wm+mRD+0/ehvnywccxW30wqWLyk=
 		</data>
 		<key>PrivateHeaders/RLMAccessor.h</key>
 		<data>
@@ -242,7 +250,7 @@
 		</data>
 		<key>PrivateHeaders/RLMBSON_Private.hpp</key>
 		<data>
-		Ku6rvqGFX5xk7aXxX4/93IoUJIw=
+		nXt9WYcJ/+hbJPdox+o3vEoriSo=
 		</data>
 		<key>PrivateHeaders/RLMCollection_Private.h</key>
 		<data>
@@ -298,7 +306,7 @@
 		</data>
 		<key>PrivateHeaders/RLMRealm_Private.h</key>
 		<data>
-		FQ45UlPks0oI4fN23S8KH3+cY4U=
+		LbVaWJILGxu4rz7aO0I85/aW6jc=
 		</data>
 		<key>PrivateHeaders/RLMResults_Private.h</key>
 		<data>
@@ -347,7 +355,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fYwNmN7aYNk0v/PhzKlCAFeNIAbpqXuEneGsR/eHTmE=
+			1waQVhXGszYuaXW2IuI9eLjen0OlaNSYKsUmDqO4I1s=
 			</data>
 		</dict>
 		<key>Headers/NSError+RLMSync.h</key>
@@ -469,6 +477,13 @@
 			P8MSaPFACOtAPsGYinSqt6NMIsXKcWkHpFTlly2GBYo=
 			</data>
 		</dict>
+		<key>Headers/RLMGeospatial.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CheVLb9hDkY8pgjTqjGK+Q6ZhYjy1vIr2eDhokKbrZw=
+			</data>
+		</dict>
 		<key>Headers/RLMLogger.h</key>
 		<dict>
 			<key>hash2</key>
@@ -585,7 +600,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j5GiT0/nxORHqliXnJv/kkbOOqZX33xDbk8OTR7zDwU=
+			HbgTIo/0epDO97aWSwwnNSgQXc0eo2ymNXrlSmjTcpk=
 			</data>
 		</dict>
 		<key>Headers/RLMRealm_Dynamic.h</key>
@@ -655,7 +670,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nvtBHH3xJsThO0B4IC70G3oFD2TAm3ylKbmewSOosI4=
+			K7XgD5hk87fsRFQQXhrO7dSRVmA/IMWcilDX2GO5uxo=
 			</data>
 		</dict>
 		<key>Headers/RLMSyncSubscription.h</key>
@@ -704,7 +719,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kjoP0TvFhg49q7sxVEgPoNFg+zqo9bCE2Uh0YOpDpbE=
+			c6yLUFJuP2y4uDs6fY93PEdcM1HEMZwA4qZbqYG8p1g=
 			</data>
 		</dict>
 		<key>LICENSE</key>
@@ -718,7 +733,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KdpbsAGrxax/jx81TZ93YswnCwT1BZTor6VwIHvgRUs=
+			lOw6aKGjI0t7bbzMMNpP19RjPD25OD5/TUbck0nocNY=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s64weEDWcaA+VrWYxYVUPY4Vzzjp9C5CMTghk1exuuw=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RLMAccessor.h</key>
@@ -753,7 +775,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BbwPX5lPL+B+5GRik9KiI5HcYoKNH/Tsciqyo3dZwBw=
+			GQF6jvvDmm5u6B+aUU9FFnFX5QpeqP51tCJeEGV9ZPk=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RLMCollection_Private.h</key>
@@ -851,7 +873,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Iwvw9zZudHE58doxwpdgpZqHaiCFT0Vn256EkmeFzIw=
+			Njk+hMY6Y2417jM/aRljCoinIzUGKXcorOATAq/X9TQ=
 			</data>
 		</dict>
 		<key>PrivateHeaders/RLMResults_Private.h</key>

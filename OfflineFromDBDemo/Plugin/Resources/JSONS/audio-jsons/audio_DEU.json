@@ -8,16 +8,19 @@
             "id": "NUM.36",
             "number": "36"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bf93e495d0d0ddba1d0",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.1",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:21.301Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:21.576Z",
         "number": "1",
-        "reference": "Deut. 1",
-        "updatedAt": "2022-06-02T15:42:21.301Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.1.mp3"
+        "reference": "Deutéronome 1",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:21.576Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -28,16 +31,19 @@
             "id": "DEU.9",
             "number": "9"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bfd3e495d0d0ddbb3d7",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.10",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:24.138Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:25.624Z",
         "number": "10",
-        "reference": "Deut. 10",
-        "updatedAt": "2022-06-02T15:42:24.138Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.10.mp3"
+        "reference": "Deutéronome 10",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:25.624Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.10.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -48,16 +54,19 @@
             "id": "DEU.10",
             "number": "10"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bfe3e495d0d0ddbb509",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.11",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:24.350Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:26.023Z",
         "number": "11",
-        "reference": "Deut. 11",
-        "updatedAt": "2022-06-02T15:42:24.350Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.11.mp3"
+        "reference": "Deutéronome 11",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:26.023Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.11.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -68,16 +77,19 @@
             "id": "DEU.11",
             "number": "11"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bfe3e495d0d0ddbb696",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.12",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:24.609Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:26.438Z",
         "number": "12",
-        "reference": "Deut. 12",
-        "updatedAt": "2022-06-02T15:42:24.609Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.12.mp3"
+        "reference": "Deutéronome 12",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:26.438Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.12.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -88,16 +100,19 @@
             "id": "DEU.12",
             "number": "12"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bfe3e495d0d0ddbb83e",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.13",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:24.862Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:26.878Z",
         "number": "13",
-        "reference": "Deut. 13",
-        "updatedAt": "2022-06-02T15:42:24.862Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.13.mp3"
+        "reference": "Deutéronome 13",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:26.878Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.13.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -108,16 +123,19 @@
             "id": "DEU.13",
             "number": "13"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bff3e495d0d0ddbb9d1",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.14",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:25.139Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:27.324Z",
         "number": "14",
-        "reference": "Deut. 14",
-        "updatedAt": "2022-06-02T15:42:25.139Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.14.mp3"
+        "reference": "Deutéronome 14",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:27.324Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.14.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -128,16 +146,19 @@
             "id": "DEU.14",
             "number": "14"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bff3e495d0d0ddbbb2f",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.15",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:25.396Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:27.737Z",
         "number": "15",
-        "reference": "Deut. 15",
-        "updatedAt": "2022-06-02T15:42:25.397Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.15.mp3"
+        "reference": "Deutéronome 15",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:27.737Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.15.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -148,16 +169,19 @@
             "id": "DEU.15",
             "number": "15"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c003e495d0d0ddbbd06",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.16",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:25.601Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:28.174Z",
         "number": "16",
-        "reference": "Deut. 16",
-        "updatedAt": "2022-06-02T15:42:25.601Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.16.mp3"
+        "reference": "Deutéronome 16",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:28.174Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.16.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -168,16 +192,19 @@
             "id": "DEU.16",
             "number": "16"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c003e495d0d0ddbbe2e",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.17",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:25.844Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:28.613Z",
         "number": "17",
-        "reference": "Deut. 17",
-        "updatedAt": "2022-06-02T15:42:25.844Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.17.mp3"
+        "reference": "Deutéronome 17",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:28.613Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.17.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -188,16 +215,19 @@
             "id": "DEU.17",
             "number": "17"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c013e495d0d0ddbbf82",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.18",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:26.097Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:29.037Z",
         "number": "18",
-        "reference": "Deut. 18",
-        "updatedAt": "2022-06-02T15:42:26.097Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.18.mp3"
+        "reference": "Deutéronome 18",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:29.037Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.18.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -208,16 +238,19 @@
             "id": "DEU.18",
             "number": "18"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c013e495d0d0ddbc0bc",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.19",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:26.340Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:29.478Z",
         "number": "19",
-        "reference": "Deut. 19",
-        "updatedAt": "2022-06-02T15:42:26.340Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.19.mp3"
+        "reference": "Deutéronome 19",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:29.478Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.19.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -228,16 +261,19 @@
             "id": "DEU.1",
             "number": "1"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bfa3e495d0d0ddba351",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.2",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:21.561Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:22.010Z",
         "number": "2",
-        "reference": "Deut. 2",
-        "updatedAt": "2022-06-02T15:42:21.561Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.2.mp3"
+        "reference": "Deutéronome 2",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:22.010Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -248,16 +284,19 @@
             "id": "DEU.19",
             "number": "19"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c013e495d0d0ddbc1ea",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.20",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:26.584Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:29.901Z",
         "number": "20",
-        "reference": "Deut. 20",
-        "updatedAt": "2022-06-02T15:42:26.584Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.20.mp3"
+        "reference": "Deutéronome 20",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:29.901Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.20.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -268,16 +307,19 @@
             "id": "DEU.20",
             "number": "20"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c023e495d0d0ddbc394",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.21",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:26.792Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:30.288Z",
         "number": "21",
-        "reference": "Deut. 21",
-        "updatedAt": "2022-06-02T15:42:26.792Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.21.mp3"
+        "reference": "Deutéronome 21",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:30.288Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.21.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -288,16 +330,19 @@
             "id": "DEU.21",
             "number": "21"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c023e495d0d0ddbc55c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.22",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:27.047Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:30.727Z",
         "number": "22",
-        "reference": "Deut. 22",
-        "updatedAt": "2022-06-02T15:42:27.047Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.22.mp3"
+        "reference": "Deutéronome 22",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:30.727Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.22.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -308,16 +353,19 @@
             "id": "DEU.22",
             "number": "22"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c033e495d0d0ddbc6cf",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.23",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:27.301Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:31.136Z",
         "number": "23",
-        "reference": "Deut. 23",
-        "updatedAt": "2022-06-02T15:42:27.301Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.23.mp3"
+        "reference": "Deutéronome 23",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:31.136Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.23.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -328,16 +376,19 @@
             "id": "DEU.23",
             "number": "23"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c033e495d0d0ddbc898",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.24",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:27.556Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:31.575Z",
         "number": "24",
-        "reference": "Deut. 24",
-        "updatedAt": "2022-06-02T15:42:27.556Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.24.mp3"
+        "reference": "Deutéronome 24",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:31.575Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.24.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -348,16 +399,19 @@
             "id": "DEU.24",
             "number": "24"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c043e495d0d0ddbca14",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.25",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:27.809Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:32.031Z",
         "number": "25",
-        "reference": "Deut. 25",
-        "updatedAt": "2022-06-02T15:42:27.809Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.25.mp3"
+        "reference": "Deutéronome 25",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:32.031Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.25.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -368,16 +422,19 @@
             "id": "DEU.25",
             "number": "25"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c043e495d0d0ddbcba0",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.26",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:28.078Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:32.457Z",
         "number": "26",
-        "reference": "Deut. 26",
-        "updatedAt": "2022-06-02T15:42:28.078Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.26.mp3"
+        "reference": "Deutéronome 26",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:32.457Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.26.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -388,16 +445,19 @@
             "id": "DEU.26",
             "number": "26"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c043e495d0d0ddbccea",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.27",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:28.428Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:32.873Z",
         "number": "27",
-        "reference": "Deut. 27",
-        "updatedAt": "2022-06-02T15:42:28.428Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.27.mp3"
+        "reference": "Deutéronome 27",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:32.873Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.27.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -408,16 +468,19 @@
             "id": "DEU.27",
             "number": "27"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c053e495d0d0ddbce3c",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.28",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:28.719Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:33.238Z",
         "number": "28",
-        "reference": "Deut. 28",
-        "updatedAt": "2022-06-02T15:42:28.719Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.28.mp3"
+        "reference": "Deutéronome 28",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:33.238Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.28.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -428,16 +491,19 @@
             "id": "DEU.28",
             "number": "28"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c053e495d0d0ddbcfe2",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.29",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:28.962Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:33.711Z",
         "number": "29",
-        "reference": "Deut. 29",
-        "updatedAt": "2022-06-02T15:42:28.962Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.29.mp3"
+        "reference": "Deutéronome 29",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:33.711Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.29.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -448,16 +514,19 @@
             "id": "DEU.2",
             "number": "2"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bfa3e495d0d0ddba583",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.3",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:21.814Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:22.473Z",
         "number": "3",
-        "reference": "Deut. 3",
-        "updatedAt": "2022-06-02T15:42:21.814Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.3.mp3"
+        "reference": "Deutéronome 3",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:22.473Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -468,16 +537,19 @@
             "id": "DEU.29",
             "number": "29"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c063e495d0d0ddbd163",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.30",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:29.219Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:34.125Z",
         "number": "30",
-        "reference": "Deut. 30",
-        "updatedAt": "2022-06-02T15:42:29.219Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.30.mp3"
+        "reference": "Deutéronome 30",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:34.125Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.30.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -488,16 +560,19 @@
             "id": "DEU.30",
             "number": "30"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c063e495d0d0ddbd2f6",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.31",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:29.569Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:34.591Z",
         "number": "31",
-        "reference": "Deut. 31",
-        "updatedAt": "2022-06-02T15:42:29.569Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.31.mp3"
+        "reference": "Deutéronome 31",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:34.591Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.31.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -508,16 +583,19 @@
             "id": "DEU.31",
             "number": "31"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c073e495d0d0ddbd482",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.32",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:29.872Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:35.023Z",
         "number": "32",
-        "reference": "Deut. 32",
-        "updatedAt": "2022-06-02T15:42:29.872Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.32.mp3"
+        "reference": "Deutéronome 32",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:35.023Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.32.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -528,16 +606,19 @@
             "id": "DEU.32",
             "number": "32"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c073e495d0d0ddbd62a",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.33",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:30.359Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:35.442Z",
         "number": "33",
-        "reference": "Deut. 33",
-        "updatedAt": "2022-06-02T15:42:30.359Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.33.mp3"
+        "reference": "Deutéronome 33",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:35.442Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.33.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -548,16 +629,19 @@
             "id": "DEU.33",
             "number": "33"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83c073e495d0d0ddbd78e",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.34",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:30.621Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:35.868Z",
         "number": "34",
-        "reference": "Deut. 34",
-        "updatedAt": "2022-06-02T15:42:30.621Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.34.mp3"
+        "reference": "Deutéronome 34",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:35.868Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.34.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -568,16 +652,19 @@
             "id": "DEU.3",
             "number": "3"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bfa3e495d0d0ddba7d5",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.4",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:22.072Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:22.913Z",
         "number": "4",
-        "reference": "Deut. 4",
-        "updatedAt": "2022-06-02T15:42:22.072Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.4.mp3"
+        "reference": "Deutéronome 4",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:22.913Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -588,16 +675,19 @@
             "id": "DEU.4",
             "number": "4"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bfb3e495d0d0ddbaa9e",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.5",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:22.292Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:23.384Z",
         "number": "5",
-        "reference": "Deut. 5",
-        "updatedAt": "2022-06-02T15:42:22.292Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.5.mp3"
+        "reference": "Deutéronome 5",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:23.384Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -608,16 +698,19 @@
             "id": "DEU.5",
             "number": "5"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bfb3e495d0d0ddbac66",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.6",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:23.190Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:23.813Z",
         "number": "6",
-        "reference": "Deut. 6",
-        "updatedAt": "2022-06-02T15:42:23.190Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.6.mp3"
+        "reference": "Deutéronome 6",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:23.813Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -628,16 +721,19 @@
             "id": "DEU.6",
             "number": "6"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bfc3e495d0d0ddbae54",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.7",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:23.394Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:24.257Z",
         "number": "7",
-        "reference": "Deut. 7",
-        "updatedAt": "2022-06-02T15:42:23.394Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.7.mp3"
+        "reference": "Deutéronome 7",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:24.257Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -648,16 +744,19 @@
             "id": "DEU.7",
             "number": "7"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bfc3e495d0d0ddbb047",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.8",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:23.645Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:24.736Z",
         "number": "8",
-        "reference": "Deut. 8",
-        "updatedAt": "2022-06-02T15:42:23.645Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.8.mp3"
+        "reference": "Deutéronome 8",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:24.736Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.8.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     },
     {
         "next": {
@@ -668,15 +767,18 @@
             "id": "DEU.8",
             "number": "8"
         },
-        "bibleId": "5dd1a42b02d2dee6-01",
+        "_id": "62c83bfd3e495d0d0ddbb21b",
+        "bibleId": "33b5bcad40b778e7-01",
         "id": "DEU.9",
+        "__v": 0,
         "bookId": "DEU",
-        "copyright": "The Listener’s Bible®: NIV Edition Audio Copyright ℗ 2011 by Max McLean Used by permission. All rights reserved worldwide. The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® All rights reserved worldwide.",
-        "createdAt": "2022-06-02T15:42:23.895Z",
+        "copyright": "La Bible du SemeurCopyright © 1992, 1999, 2015 by Biblica, Inc.®Used by permission. All rights reserved worldwide.La Bible du SemeurCopyright © 1992, 1999, 2015 par Biblica, Inc.®Avec permission. Tous droits réservés dans le monde entier. La Bible du SemeurAudio Copyright ℗ 2016 by Biblica, Inc. ®Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available in electronic format for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These Scriptures are not public domain",
+        "createdAt": "2022-07-08T14:15:25.163Z",
         "number": "9",
-        "reference": "Deut. 9",
-        "updatedAt": "2022-06-02T15:42:23.895Z",
-        "audioBible": "62840e087999137613026a9d",
-        "url": "https://cdn-cmp-audio.thruthebible.io/5dd1a42b02d2dee6-01/DEU/DEU.9.mp3"
+        "reference": "Deutéronome 9",
+        "resourceUrl": "",
+        "updatedAt": "2022-07-08T14:15:25.163Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/33b5bcad40b778e7-01/DEU/DEU.9.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/DEU.png"
     }
 ]
