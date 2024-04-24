@@ -1,18 +1,25 @@
 [
     {
-        "_id": "6419e5ac42143a1670bf5d09",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "LAM.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "JOS.24",
+            "number": "24"
+        },
+        "_id": "6603022bdf6bde15eb87f577",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "JUD.1",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "JUD",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:13:16.464Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:15.049Z",
         "number": "1",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B26___01_Jude________THATSVN1DA.mp3?x-amz-transaction=2362781&Expires=1679505196&Signature=atVvcJ~aTBFccQv6u43ODGSrY0dLUBMnb7g9Ttaz4IqljyX1YGeGi0o53YXiq4Aw9y2dWG6r-t4IVsstanjVDNJXTg~tRnauWOX26rXJbXczp6tcLC26TAMxMRLA~mMyaVWoNLKidV7ZBlkUbzAqxhyHuV3W0JSYBK1gSqOFmKKpDw3KqwylShR~ELbV4U6y4u9kktrDtGVTrV~pkfPhwkrzZVgVAUbXxU8JO3TESHMFLlYhQULVngcEvsYy0HLUzxFT3AaR1OA3R5UeEox3KVwluAJl~xTOlAZPjMvovIKR1KyqjkfNh-k~NoJdZXEq5ftKTTKkhKMcynUJ9PRZIA__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:13:16.464Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/JUD/JUD.1.mp3",
+        "reference": "Иуды 1",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JUD/JUD_001.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476795&Signature=RvceLMER03OlA82hV2V2c88ePL0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:13:15.049Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JUD/JUD.1.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JUD.png"
     }
 ]

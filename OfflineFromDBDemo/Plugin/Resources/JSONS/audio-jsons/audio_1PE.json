@@ -1,82 +1,117 @@
 [
     {
-        "_id": "6419e5a942143a1670bf540a",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "1PE.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "1KI.22",
+            "number": "22"
+        },
+        "_id": "66030118df6bde15eb87c90b",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "1PE.1",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "1PE",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:13:12.974Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:08:40.275Z",
         "number": "1",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B21___01_1Peter______THATSVN1DA.mp3?x-amz-transaction=3390562&Expires=1679505192&Signature=Cdy0NYjnJ3XSa3eo~rdfIwr0USHIL580QmLFyN9jYHBprwQXvhhD~JP3L2~OZZW3tihNE6JQS-06Ayu5qaeruhnfY2SblvldI3TIsh5~cE5TTyDmCWv1BUnQYijFw0DgpHwbSzMI9b277olxp~eKPzqwpk5ynCWLDSRVx9ku6ZVr2EatdqNv03aWR7gPn~F5Yy8CSEkSZONOWAR~8TdZKpXnALb6MhT55jrflWakrv2HU7ycK-axPWH-5Hr1AF4ZHz8mCcr0yvNTHB6qA02SzSoDoq8ULKNz-~i-pZQoay~CvvH9LQsNKK0F4UDmf9pVd4JTg4XUQvzZvVwNuWgTMQ__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:13:12.974Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/1PE/1PE.1.mp3",
+        "reference": "1 Петра 1",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/1PE/1PE_001.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476520&Signature=KZg7VUuQ11G6HOuHSAljZ6kjaZw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:08:40.275Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/1PE/1PE.1.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1PE.png"
     },
     {
-        "_id": "6419e5a942143a1670bf54be",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "1PE.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "1PE.1",
+            "number": "1"
+        },
+        "_id": "66030118df6bde15eb87c91f",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "1PE.2",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "1PE",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:13:13.205Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:08:40.613Z",
         "number": "2",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B21___02_1Peter______THATSVN1DA.mp3?x-amz-transaction=8376160&Expires=1679505193&Signature=f5yyAOCVZb3-vma614owHb6Cj1zihkVi1v40m9cI~iaTWa2Ojxn7Nwq~TmxsWQRXJfFnrMl-9u67LkWdKwG8aKUqTR7g82HZCeeQWC5B1JeGj5ZOKvbEOyMA~fqU93jPWrA7aMR1B4ERudAdOPVcRqHgsR4u2msI2bZzIgACA-fvTbLrCL8LvVBurJVhpEoOw6QAaLqqqJZnXD5fnT17WSdoEeNzZjGA3hkm0-KvbFl2JoqCFsYzQqFvP3vMKGxPEdzG6wSd3yn7Jj-GvwKM~-M49EWhwmkxIAwaE9qY0Wvvsf09c0ppGJraFVcrCDvuwjG-yA2-LsYqyWOPrJknOg__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:13:13.206Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/1PE/1PE.2.mp3",
+        "reference": "1 Петра 2",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/1PE/1PE_002.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476520&Signature=yqPAefaj1wCzwewFKWXIIZFPLzE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:08:40.613Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/1PE/1PE.2.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1PE.png"
     },
     {
-        "_id": "6419e5a942143a1670bf54e1",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "1PE.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "1PE.2",
+            "number": "2"
+        },
+        "_id": "66030119df6bde15eb87c92d",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "1PE.3",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "1PE",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:13:13.397Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:08:40.971Z",
         "number": "3",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B21___03_1Peter______THATSVN1DA.mp3?x-amz-transaction=2587696&Expires=1679505193&Signature=BhAwEarn7gEzR822fGv0GJizz7uSiw41epZ5mNysFZPSouvPD~DZhRdHgetGJGVvrbQmg2Go8ILLLKhm8U93PU4f4EGMIWIlDnrqFhEKsCTIfYNEe0XLAsm713BMxFdvhFT78uO7ab9uYe2SXVjr~am-w8fsv~v1H7VemeRWHKi6RbUUl6mxYjt~6uY5JIj6yCDfbv0i88XlDEFZg21g2cosDGtMH0XpKBZvJRJmpGrq9IgaJ2bwiMnoKe1yC3-QSLio57pKLKSsl4Em-jScomjRd1tGnOpoJf52T59O-j0jbBZ03tPvxCIMuS~tfXB0B8GgTa-q3IH9YSPfUIyS7Q__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:13:13.397Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/1PE/1PE.3.mp3",
+        "reference": "1 Петра 3",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/1PE/1PE_003.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476520&Signature=J9c5P13blEViCG2VwEe%2BAHBMTG0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:08:40.971Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/1PE/1PE.3.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1PE.png"
     },
     {
-        "_id": "6419e5a942143a1670bf554f",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "1PE.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "1PE.3",
+            "number": "3"
+        },
+        "_id": "66030119df6bde15eb87c938",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "1PE.4",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "1PE",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:13:13.649Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:08:41.333Z",
         "number": "4",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B21___04_1Peter______THATSVN1DA.mp3?x-amz-transaction=84731&Expires=1679505193&Signature=L9XgCIej0oEuourd1F3yKYZ3oo243gh3zpMg2i4FVU1BhV139eD9vLof2gedOHGDiRFF1SlRueDUm4UoGnWrgSn6lvIkoK~M0wpn-MkOBLXt011fryI7TFG0rm8jJQfFmb3pzhIdAHtJkfzJtynLJlQIq6gomFTJtPIgxsjL4zA~f7rJzvyJdzQGTu6SaxWp6TG4Ms8l1g8oL3tPoKevjR6iPI9zsdw-a4qzAoNwvxtV4pVKYSGpLi37gZZuOZqKXWGRiVirX3rnCbrqkhknUl-6yTD-1ASaCEh~i-Par9yhx5ZT39PpTYZ~YwL-1qIu29oeZ-mGSLphzR52kYxqIg__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:13:13.649Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/1PE/1PE.4.mp3",
+        "reference": "1 Петра 4",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/1PE/1PE_004.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476521&Signature=NEQeG2Pu3R9aU11orC8E3617zzM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:08:41.333Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/1PE/1PE.4.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1PE.png"
     },
     {
-        "_id": "6419e5a942143a1670bf55f7",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "1SA.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "1PE.4",
+            "number": "4"
+        },
+        "_id": "66030119df6bde15eb87c94d",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "1PE.5",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "1PE",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:13:13.812Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:08:41.705Z",
         "number": "5",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B21___05_1Peter______THATSVN1DA.mp3?x-amz-transaction=9992172&Expires=1679505193&Signature=IktvHGEowdat2EqyLFI1poyNNhTIkEzDHCscx2MlWR3SBOAb9Tzv3TFBwzmZDGv6H2TcjSgs~iQJ~aNfyj9rBwoptAPA--jhpvOgoo2Tz2ytHPWcS7lAub~pfwv-j0y16qz9GGftcwQlu7xqRQJvYkx~ob8YSuujpCkHCIWnv5gkfUKw03oujQhr6eZacRfvoyNhy6ZZZBqy1F8P7Lte~fiOnNCFTzjzvROcCkKOw9NRfsfnnOGeKmcWUhj6fWlf2AjsF-fXG3rmhK1nl4KijANVNZUHz4EiVhunOshgnVX09gae3GENkFRQjoaJFy-hFBfrSN~M4XqR1wYfdOjAMQ__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:13:13.812Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/1PE/1PE.5.mp3",
+        "reference": "1 Петра 5",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/1PE/1PE_005.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476521&Signature=kCsMY3Efz2g7zrU8X3qUdM303fw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:08:41.706Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/1PE/1PE.5.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/1PE.png"
     }
 ]

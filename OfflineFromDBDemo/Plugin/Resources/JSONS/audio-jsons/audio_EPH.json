@@ -1,98 +1,140 @@
 [
     {
-        "_id": "6419e59d42143a1670bf352c",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "EPH.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "ECC.12",
+            "number": "12"
+        },
+        "_id": "6603017fdf6bde15eb87d957",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "EPH.1",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "EPH",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:13:01.163Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:10:23.200Z",
         "number": "1",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B10___01_Ephesians___THATSVN1DA.mp3?x-amz-transaction=4805450&Expires=1679505181&Signature=DKJkHb1ZAm7R8Bw1h99IEe3e6mZZLkuaU7JVUiXDfvkrAqCtGwcD79l8RzAOQvJpxKjXH60lI-cS~IQhx4H8T5ly2viFQJeMWJrv5RyOLNzbfvehBNcrjzbTAcmRDE4gvO~JS8WTsgwEgDCceR5VaUgLfjxVxMIJYPcAER2waOYfScAjKlmEkeE2EO2I1jTIZTR0cw3RL5V6JUbpcN38sxhKc6MGLx38UT~V3~PaS6WKhcbW0v~-z3MufmWQJlNrrK9bK1LzQM-RxC-S0S0W0uQNZlqgTCm8Qw~oOMys9KsyoOIZ5ICa4K0IPznbWuPIVXLlPMQZappDUKNtmvLTOg__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:13:01.163Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/EPH/EPH.1.mp3",
+        "reference": "Эфесянам 1",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/EPH/EPH_001.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476623&Signature=BuiDd%2Bcb2GJwtrGpcc4Xsc6V63Y%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:10:23.200Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/EPH/EPH.1.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EPH.png"
     },
     {
-        "_id": "6419e59d42143a1670bf354f",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "EPH.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "EPH.1",
+            "number": "1"
+        },
+        "_id": "6603017fdf6bde15eb87d96a",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "EPH.2",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "EPH",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:13:01.320Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:10:23.594Z",
         "number": "2",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B10___02_Ephesians___THATSVN1DA.mp3?x-amz-transaction=1385972&Expires=1679505181&Signature=O058mWGp6D10~VC38wWvDtmhrBDhn3Fpjut6FLLgjnOwnF3N4jh4DKiGyHsB5TJzQ8gqYGh3jML-GJzB4elIkzPq~hAn~5l~TjkGP2nGFqNo6xgRn4PSmH9bEjRcaBARHifk1TqocaF7TbP2rHf26JZFjghDYRtiV-4EGaWVzbBNdb0BO~iQltPAzAgs2QZjXsiealb-R6K4Blidl2hMbcyEgf20LH3LiU712XLkgn5~WrlwLlYmnO3~W1M~0tI~fM3IqwuQ~j1PXOHmh1dIXMcff41zXTWA4MX2HPg5jhMAxKfsMBjdCjXSHRERGcyGu3Sh5i-Z0-pNI1TgotIMmg__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:13:01.320Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/EPH/EPH.2.mp3",
+        "reference": "Эфесянам 2",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/EPH/EPH_002.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476623&Signature=RrMksqu5rsYhvR%2FgAtcEYKTLGtc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:10:23.594Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/EPH/EPH.2.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EPH.png"
     },
     {
-        "_id": "6419e59d42143a1670bf3563",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "EPH.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "EPH.2",
+            "number": "2"
+        },
+        "_id": "6603017fdf6bde15eb87d974",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "EPH.3",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "EPH",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:13:01.480Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:10:23.963Z",
         "number": "3",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B10___03_Ephesians___THATSVN1DA.mp3?x-amz-transaction=1223442&Expires=1679505181&Signature=K9vE04bvBcuDPDMP15nDTwLd7A-OgFGw14jbdodQnEY2UU~MoWr0y250bRaFZjdIiIiAyPq1Ln8l-pzSPm7uEECcD2bLUWWwC-xv2FYKJZ0NyL6uigMtis1Ol~hSH8FuzMcSipqFwCnCkuSZiEjlPSZKn7cZ9ky02T7K0oL1yoxxGV0flhxxiqT4HrqZVW0r5O~BlXG-gj0iFFHMKgQj7haRYonwfjPGydraJ3YjZuFGUkYLkP99N8w8p5Abi7ZFKpaqxnIUu9bbwYNgZSWZl-uNdWK-c0bVFp~LH7PtszV8vgVQwkbtpPF~VkNasO8iK-rkJNgP3I-s0ikkqaOu0w__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:13:01.480Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/EPH/EPH.3.mp3",
+        "reference": "Эфесянам 3",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/EPH/EPH_003.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476623&Signature=B5pM6KnRmc85ji64nK4UK%2Fa7LVo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:10:23.963Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/EPH/EPH.3.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EPH.png"
     },
     {
-        "_id": "6419e59d42143a1670bf3587",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "EPH.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "EPH.3",
+            "number": "3"
+        },
+        "_id": "66030180df6bde15eb87d97f",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "EPH.4",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "EPH",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:13:01.648Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:10:24.327Z",
         "number": "4",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B10___04_Ephesians___THATSVN1DA.mp3?x-amz-transaction=8811184&Expires=1679505181&Signature=c65BA7AfUqzvNT-NIHDwBzNkDw8RcAaC-DVeu8nP5yb00d335stLM~FoS7kUTvFobn5syqFoiD7PLY8ql~JELY-zRtH9cm93k9~iPINOCYdJsKP9iHHEF-sX0aaYtRotbeIihjCTV6ZMG~Cllw4qcEfs95ht3zyAScTZA5IPBSL8vTyrftzKzNFUlgHkoZB2OfFjCkawy395ArbJOpMeuxXheaZgLuJ5A1EB6bvrn5WpEOxxI76caHYbrkeNuqFuSP0WZav2qreSN-I3v5AHw6lZD5FLzJBra9AuE-Wk~LXyQjwp2DKywE~kqLKLkUoOQy1UtY2p9XONHwUdMuipTQ__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:13:01.648Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/EPH/EPH.4.mp3",
+        "reference": "Эфесянам 4",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/EPH/EPH_004.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476624&Signature=sr8QXlcf7ObBYY8pYwHiqp1k9LA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:10:24.327Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/EPH/EPH.4.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EPH.png"
     },
     {
-        "_id": "6419e59d42143a1670bf36ae",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "EPH.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "EPH.4",
+            "number": "4"
+        },
+        "_id": "66030180df6bde15eb87d991",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "EPH.5",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "EPH",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:13:01.826Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:10:24.687Z",
         "number": "5",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B10___05_Ephesians___THATSVN1DA.mp3?x-amz-transaction=9569875&Expires=1679505181&Signature=SFowqZ6hvrO-A3HQNXrgF09B6P~tnQ4QBZbZySo2GPqNc8d9TO9WeLLrijiAvWwUNJKlqeiFaAs9dmqSOhfMAullipFlfk8XgHI5AQIv-8jsnYs8qzZMDu1vx610G0W7jTotbV777Tl-8pHWn6XvlODESuP9DPlPpjaL15VoN2-L~CDbFfm9OM3twCy6uuBt4KLIMENH4V2ip8oQUA9UfC1lzNoi8tqJnpywWphOaYdDjVfORSOAB8kL7fqwGzMNadKTBfr8ZJ3PWXhzQon4d5oI0cJEbkMT27or2OI1VnfoD611Kdha8Fi09-VWi4kmi6XcdAA-zgZlsQoUGL2riA__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:13:01.826Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/EPH/EPH.5.mp3",
+        "reference": "Эфесянам 5",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/EPH/EPH_005.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476624&Signature=E3LiSiwSfg8nm5YcguGpPlcU9%2FI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:10:24.687Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/EPH/EPH.5.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EPH.png"
     },
     {
-        "_id": "6419e59f42143a1670bf3a54",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "EST.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "EPH.5",
+            "number": "5"
+        },
+        "_id": "66030181df6bde15eb87d99c",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "EPH.6",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "EPH",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:13:03.236Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:10:25.076Z",
         "number": "6",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B10___06_Ephesians___THATSVN1DA.mp3?x-amz-transaction=6281939&Expires=1679505183&Signature=M~hregzWNMt1tjEKI~XteMBy1BA57uaBeY~33MtkoMqaMSURkh~GOa3mHl8j2hMJjbY7FFWgMMtri~NT3ETyKjiZYjuCNlzp5ZcHKyzHGC8X79lU6TLF7wh3cZbRPsfzoHSLsawH2JeWVSSHXiX2n9cWwAjLGg~S3-sIZ9liDtggUDKAJg5iOuMMpY87W4KKYU02vLcMaoFoW5AB4ht52U-0mw~LUEgmTM4~GrwwNRkmmVGHtQFtTR7L16~zGGoFSX0DxZkp~PIX-2Bniowv9cxS0IiHSRfbPWbFjwpFGA4ElXs9XSlLmNpenq3CGz~fcjH64MZb~aS69TrKgUX3Aw__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:13:03.236Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/EPH/EPH.6.mp3",
+        "reference": "Эфесянам 6",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/EPH/EPH_006.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476625&Signature=7BcD6RWFQbaR7V6QrBNCfIoc%2F78%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:10:25.076Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/EPH/EPH.6.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/EPH.png"
     }
 ]

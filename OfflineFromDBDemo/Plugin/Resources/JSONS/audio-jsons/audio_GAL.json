@@ -1,98 +1,140 @@
 [
     {
-        "_id": "6419e59b42143a1670bf2ec9",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "GAL.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "EZR.10",
+            "number": "10"
+        },
+        "_id": "660301abdf6bde15eb87e08a",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "GAL.1",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "GAL",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:12:59.486Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:11:07.706Z",
         "number": "1",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B09___01_Galatians___THATSVN1DA.mp3?x-amz-transaction=2903477&Expires=1679505179&Signature=dZzbTXowLzTorXfrmzQLNpcSTLzzKnaNlfIR3kF6PvvGRwnoyAUOtL5YN2QtxOmVSMStqSLkY1bTW4MP6FT9DlX0nOX1~Q220G5aE3Q3yLUd7h73MSFwntcb6rAXmmqhVjXxiuApBMIS~FokOQKCAGv~Lzyqt5bWe~thhDkeieJgIuhaRzwAAn01YacoxFyg0JaI0-JeYs52LUgGCaWwxDVvOQgS8VDvsuVu~9Nuot3xiR~LBAuMCR-DDpLjM~PlDItTt74Qt1BHA6Ce3Js8ZLR1iGp628hvKl9g7CR2xfIib50NIz78mX6waNIdqH7snHv2BveW1CA8s4hhFCsKKg__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:12:59.486Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/GAL/GAL.1.mp3",
+        "reference": "Галатам 1",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/GAL/GAL_001.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476667&Signature=zql81XomiR1vGW3T%2Fhf%2F61jtrNc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:11:07.706Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/GAL/GAL.1.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GAL.png"
     },
     {
-        "_id": "6419e59b42143a1670bf2f2d",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "GAL.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "GAL.1",
+            "number": "1"
+        },
+        "_id": "660301acdf6bde15eb87e097",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "GAL.2",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "GAL",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:12:59.731Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:11:08.067Z",
         "number": "2",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B09___02_Galatians___THATSVN1DA.mp3?x-amz-transaction=9307553&Expires=1679505179&Signature=e0AOG5sCrs8ysEMBlNXHVtRV6Gt6pBYCh3xlNZXsUcdf3QHhQRNzhqQpvh1OYXxD-qnYLRbHKxR9Go90y3U3GsLeKHp96vhENVv6PUlaCNnhgo2v6-IlkAU-UoZgOxAicVCfbNyNg-LQFSNkGJ~7sgMNpDutEeI-H0d3T50F3sQjcsO8f5z~O0gViU6uPo-wtQ8U5~B~cj5MvMWShjQGMAIcJpcP~ox3FSXSFDLU87JORNvI7Q-VUwn7gxDMnx5rAAqSe4iuA6uql7djWYpLDQArhoNdhYNAtl54R-5ppQNMm8o0DfMuvDA2eZMpff38tJrp-mMl96xyqrc7wLaKNQ__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:12:59.731Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/GAL/GAL.2.mp3",
+        "reference": "Галатам 2",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/GAL/GAL_002.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476668&Signature=%2F55FEF%2FV%2FV1BtK%2BnnU%2F6i4gkfyc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:11:08.067Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/GAL/GAL.2.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GAL.png"
     },
     {
-        "_id": "6419e59b42143a1670bf3176",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "GAL.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "GAL.2",
+            "number": "2"
+        },
+        "_id": "660301acdf6bde15eb87e0a6",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "GAL.3",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "GAL",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:12:59.908Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:11:08.462Z",
         "number": "3",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B09___03_Galatians___THATSVN1DA.mp3?x-amz-transaction=9038746&Expires=1679505179&Signature=PPfCRurvb5uCIX6JdejD5TxbvwvnEl94Rydcvs8THv~CFOkBnK~uZB33JOQJonqXXDKGPGXRkR9BgtWsQ72TwxC6dKn~SxGoRdzH3kreonOLNq~a8Uy4346HjBle5Sbx42Z-yWoL6HkQKK~UPaAZ9ZtXrXtm8qqCpLS9e07UHhloOrA5WO7XJtUGjsMeirfgck76YazaUVcIYZY8v~04fAKF-jyVIqZs~MFS0Apg72XcVnV9QesYrbmcZtF8k~EIi3zKTpopYJDEXFg7LZ-8mxqvbIVYBfsAjwZxizUVgbNE64H6pl0lebbaP82MeTVQzcC2wP~kzQ7KMvgLxfP1bg__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:12:59.908Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/GAL/GAL.3.mp3",
+        "reference": "Галатам 3",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/GAL/GAL_003.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476668&Signature=kH4uRRz2%2F28AJm%2FxlaaZxkoDEwM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:11:08.462Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/GAL/GAL.3.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GAL.png"
     },
     {
-        "_id": "6419e59c42143a1670bf325e",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "GAL.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "GAL.3",
+            "number": "3"
+        },
+        "_id": "660301acdf6bde15eb87e0b8",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "GAL.4",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "GAL",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:13:00.184Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:11:08.907Z",
         "number": "4",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B09___04_Galatians___THATSVN1DA.mp3?x-amz-transaction=8006044&Expires=1679505180&Signature=KdXwRmqpIHODpUgVgTPHbKNdpPXh6xGZf7VpfVhdJT1RnTlizJ22zP4znIZUAp~vwWQX9rF-HujVeakApQZSbgOgHvaCSZJx4FaNuyTD3bDGd3i3JruWY0P3jOW05YeLsn4QCd~ipgO-ej~RfDMqqCvDb1cUkisDR1x~X07wGP~5GKGi~1iwZTLyZm~5LmxrE39b6UUB77kuYJKMrxgNMbV~c7aJXqmyqHMH3TJiaw5oniJ91dgB8CxFpst8BUX-k-4EE9ajNZve2D2INt02QHz-emnXyhL~4Vl2hLfz~1TV6Fif2WSOQQmPKwtIkusUy9NoryCNWrJX1vWBSnkjPg__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:13:00.184Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/GAL/GAL.4.mp3",
+        "reference": "Галатам 4",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/GAL/GAL_004.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476668&Signature=iXpi19IJbHs8UaajL0bYPaNUf9c%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:11:08.907Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/GAL/GAL.4.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GAL.png"
     },
     {
-        "_id": "6419e59c42143a1670bf328a",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "GAL.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "GAL.4",
+            "number": "4"
+        },
+        "_id": "660301addf6bde15eb87e0c4",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "GAL.5",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "GAL",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:13:00.427Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:11:09.318Z",
         "number": "5",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B09___05_Galatians___THATSVN1DA.mp3?x-amz-transaction=8438896&Expires=1679505180&Signature=G2S1KvxXfOTJyr5d6Pzn8UqjipJzEOPzaZqSmJ0wqXPteHMiO1~b123GqqjqvwQ7ZpqD6HGxdYvPLBPob6KAsJ8sPUD1oEhgJv5RDQgIsGUPK242tgNkhtmqzDlxnqSDzcrr5Xbp~QD0m~rnrXi-tWvtURuI0vOVrnDNtKgEQPXBz00FjWJMq3ELAuU1JKpaMq6~9Fbpj0oQh0dACAtV4TA69wFikWaTtZ7puPEblAAJuSJTL-3OcTZyZLFodyqG2Ahkhbyd9~dP80dz8JS7XkCbjOwki6eTG0aBhXBcIgjccOaRTMILxK7glEZyBFKqyKtBV6Nf6HCORgfdMn3tfQ__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:13:00.427Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/GAL/GAL.5.mp3",
+        "reference": "Галатам 5",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/GAL/GAL_005.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476669&Signature=2gVukiNUm2scoLO7S%2FCn4dXKqE0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:11:09.318Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/GAL/GAL.5.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GAL.png"
     },
     {
-        "_id": "6419e59c42143a1670bf32aa",
-        "bibleId": "1ce5e1a2-c9bf-4505-809b-f2474bb83571",
+        "next": {
+            "id": "GEN.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "GAL.5",
+            "number": "5"
+        },
+        "_id": "660301addf6bde15eb87e0d6",
+        "bibleId": "474740aae4fc08b6-01",
         "id": "GAL.6",
         "__v": 0,
-        "audioBible": "6419e53b42143a1670be2064",
         "bookId": "GAL",
-        "copyright": "",
-        "createdAt": "2023-03-21T17:13:00.579Z",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:11:09.668Z",
         "number": "6",
-        "reference": "",
-        "resourceUrl": "https://content.cdn.dbp-prod.dbp4.org/audio/THATSV/THATSVN1DA/B09___06_Galatians___THATSVN1DA.mp3?x-amz-transaction=1106006&Expires=1679505180&Signature=ZzTGxKSSvptYzg5ckBBtXUEJcjno3N9C4Sjo75NlxQT1uFw22cvxi2YBu8zJVxBpas5xWb8N~ZUCfdwi8gFfA9ftczIxveIffwqthL-dep5ctLyg5LG6yZeNJIIGhJUKagCgwH8KGuJe1aegk5L44hMWXslmkkW0I2GXfEInKEb8Hm9bqP-j~~iH5yAC-rznXnIAnoZLDZvaNDhRZTuRZHn0xc425fRqLraR20EQ~7d01mzt5VHxN5~nq0cSwrxof0UUIDwQttYCYSfSHR6ly8Fxxm-JNvkjXTn4zQsRwgYee7mLjrDLULUjZ9awoNqXHot3t~4Urq2jvUMAq6oU6g__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
-        "updatedAt": "2023-03-21T17:13:00.579Z",
-        "url": "https://cdn-cmp-audio.thruthebible.io/1ce5e1a2-c9bf-4505-809b-f2474bb83571/GAL/GAL.6.mp3",
+        "reference": "Галатам 6",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/GAL/GAL_006.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476669&Signature=EQT7mr%2FtAUDkMzCzU%2B%2BPDk%2Frg9M%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:11:09.668Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/GAL/GAL.6.mp3",
         "art_url": "https://cdn-cmp-audio.thruthebible.io/art/GAL.png"
     }
 ]
