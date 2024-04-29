@@ -8,8 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		290D65F22B6D4F9B0026740C /* default.realm in Resources */ = {isa = PBXBuildFile; fileRef = 290D65F12B6D4F9B0026740C /* default.realm */; };
-		29323C722BBC9F9200D57E22 /* RealmSwift.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29323C712BBC9F9200D57E22 /* RealmSwift.xcframework */; };
-		29323C772BBCA00B00D57E22 /* Realm.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29323C762BBCA00B00D57E22 /* Realm.xcframework */; };
+		2977DFEB2BDF8ED1005713BD /* RealmSwift.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2977DFEA2BDF8ED1005713BD /* RealmSwift.xcframework */; };
+		2977DFED2BDF8EDF005713BD /* Realm.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2977DFEC2BDF8EDF005713BD /* Realm.xcframework */; };
 		29C8305B2BD9B0530067F05B /* audio_2PE.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C830192BD9B0500067F05B /* audio_2PE.json */; };
 		29C8305C2BD9B0530067F05B /* audio_MAL.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C8301A2BD9B0500067F05B /* audio_MAL.json */; };
 		29C8305D2BD9B0530067F05B /* audio_3JN.json in Resources */ = {isa = PBXBuildFile; fileRef = 29C8301B2BD9B0500067F05B /* audio_3JN.json */; };
@@ -230,8 +230,8 @@
 
 /* Begin PBXFileReference section */
 		290D65F12B6D4F9B0026740C /* default.realm */ = {isa = PBXFileReference; lastKnownFileType = file; path = default.realm; sourceTree = "<group>"; };
-		29323C712BBC9F9200D57E22 /* RealmSwift.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = RealmSwift.xcframework; sourceTree = "<group>"; };
-		29323C762BBCA00B00D57E22 /* Realm.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Realm.xcframework; sourceTree = "<group>"; };
+		2977DFEA2BDF8ED1005713BD /* RealmSwift.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = RealmSwift.xcframework; sourceTree = "<group>"; };
+		2977DFEC2BDF8EDF005713BD /* Realm.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = Realm.xcframework; sourceTree = "<group>"; };
 		29C830192BD9B0500067F05B /* audio_2PE.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_2PE.json; sourceTree = "<group>"; };
 		29C8301A2BD9B0500067F05B /* audio_MAL.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_MAL.json; sourceTree = "<group>"; };
 		29C8301B2BD9B0500067F05B /* audio_3JN.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = audio_3JN.json; sourceTree = "<group>"; };
@@ -458,8 +458,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				29CCD2BF2AE58A18002F6570 /* ObjectMapper-iOS.xcframework in Frameworks */,
-				29323C722BBC9F9200D57E22 /* RealmSwift.xcframework in Frameworks */,
-				29323C772BBCA00B00D57E22 /* Realm.xcframework in Frameworks */,
+				2977DFEB2BDF8ED1005713BD /* RealmSwift.xcframework in Frameworks */,
+				2977DFED2BDF8EDF005713BD /* Realm.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -766,8 +766,8 @@
 		29CCD2692AE58A18002F6570 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				29323C762BBCA00B00D57E22 /* Realm.xcframework */,
-				29323C712BBC9F9200D57E22 /* RealmSwift.xcframework */,
+				2977DFEC2BDF8EDF005713BD /* Realm.xcframework */,
+				2977DFEA2BDF8ED1005713BD /* RealmSwift.xcframework */,
 				29CCD26C2AE58A18002F6570 /* ObjectMapper-iOS.xcframework */,
 			);
 			path = Frameworks;
