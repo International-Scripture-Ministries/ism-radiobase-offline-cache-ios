@@ -1,0 +1,1198 @@
+[
+    {
+        "next": {
+            "id": "JER.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "JDG.21",
+            "number": "21"
+        },
+        "_id": "660301f2df6bde15eb87ec5a",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.1",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:18.107Z",
+        "number": "1",
+        "reference": "Иеремия 1",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_001.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476738&Signature=H2zhD0aWsPUL2rCZSVz3ICPV%2BHY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:18.107Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "JER.9",
+            "number": "9"
+        },
+        "_id": "660301f5df6bde15eb87ecda",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.10",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:21.440Z",
+        "number": "10",
+        "reference": "Иеремия 10",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_010.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476741&Signature=6PwYTs9ndzmUJ%2F3UA8wD98SVPHI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:21.440Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.10.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "JER.10",
+            "number": "10"
+        },
+        "_id": "660301f5df6bde15eb87eced",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.11",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:21.791Z",
+        "number": "11",
+        "reference": "Иеремия 11",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_011.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476741&Signature=BJcr1K80Ox5L6r35Kj3yqFky%2FYI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:21.791Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.11.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.13",
+            "number": "13"
+        },
+        "previous": {
+            "id": "JER.11",
+            "number": "11"
+        },
+        "_id": "660301f6df6bde15eb87ecfa",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.12",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:22.149Z",
+        "number": "12",
+        "reference": "Иеремия 12",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_012.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476742&Signature=xG8vGzFjXA1EPp863Y51Bf9%2BCbM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:22.150Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.12.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.14",
+            "number": "14"
+        },
+        "previous": {
+            "id": "JER.12",
+            "number": "12"
+        },
+        "_id": "660301f6df6bde15eb87ed06",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.13",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:22.512Z",
+        "number": "13",
+        "reference": "Иеремия 13",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_013.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476742&Signature=cJU%2FoK32lPiIkGfC5lg3G8%2FKHak%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:22.512Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.13.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.15",
+            "number": "15"
+        },
+        "previous": {
+            "id": "JER.13",
+            "number": "13"
+        },
+        "_id": "660301f6df6bde15eb87ed19",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.14",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:22.872Z",
+        "number": "14",
+        "reference": "Иеремия 14",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_014.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476742&Signature=HDLrOYDIsIhtp5wq8C1petSwGVw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:22.872Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.14.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.16",
+            "number": "16"
+        },
+        "previous": {
+            "id": "JER.14",
+            "number": "14"
+        },
+        "_id": "660301f7df6bde15eb87ed24",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.15",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:23.262Z",
+        "number": "15",
+        "reference": "Иеремия 15",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_015.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476743&Signature=d%2BX18YWdnEpoY1iY%2B3iuDkGQv6c%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:23.262Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.15.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.17",
+            "number": "17"
+        },
+        "previous": {
+            "id": "JER.15",
+            "number": "15"
+        },
+        "_id": "660301f7df6bde15eb87ed2f",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.16",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:23.626Z",
+        "number": "16",
+        "reference": "Иеремия 16",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_016.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476743&Signature=8ptsi6h6hcunVfeebA7uwBn77q8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:23.626Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.16.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.18",
+            "number": "18"
+        },
+        "previous": {
+            "id": "JER.16",
+            "number": "16"
+        },
+        "_id": "660301f8df6bde15eb87ed41",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.17",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:24.026Z",
+        "number": "17",
+        "reference": "Иеремия 17",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_017.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476743&Signature=HCBAnQCjgx8mnd60mYFc8cJvJ1I%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:24.026Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.17.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.19",
+            "number": "19"
+        },
+        "previous": {
+            "id": "JER.17",
+            "number": "17"
+        },
+        "_id": "660301f8df6bde15eb87ed4c",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.18",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:24.433Z",
+        "number": "18",
+        "reference": "Иеремия 18",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_018.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476744&Signature=ClisHWm9Pki0SB3KyC4llPYZKhE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:24.433Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.18.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.20",
+            "number": "20"
+        },
+        "previous": {
+            "id": "JER.18",
+            "number": "18"
+        },
+        "_id": "660301f8df6bde15eb87ed5e",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.19",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:24.836Z",
+        "number": "19",
+        "reference": "Иеремия 19",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_019.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476744&Signature=24AzfvQZ%2BcELFD%2FoJP8NVfGb41k%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:24.836Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.19.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "JER.1",
+            "number": "1"
+        },
+        "_id": "660301f2df6bde15eb87ec67",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.2",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:18.463Z",
+        "number": "2",
+        "reference": "Иеремия 2",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_002.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476738&Signature=LHCpNx5BmEnMwLPZv1UMOrPBrt8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:18.463Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.21",
+            "number": "21"
+        },
+        "previous": {
+            "id": "JER.19",
+            "number": "19"
+        },
+        "_id": "660301f9df6bde15eb87ed69",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.20",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:25.226Z",
+        "number": "20",
+        "reference": "Иеремия 20",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_020.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476745&Signature=5pnkZgd4y7ls%2BMibs0MnkIrE6F8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:25.226Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.20.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.22",
+            "number": "22"
+        },
+        "previous": {
+            "id": "JER.20",
+            "number": "20"
+        },
+        "_id": "660301f9df6bde15eb87ed77",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.21",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:25.574Z",
+        "number": "21",
+        "reference": "Иеремия 21",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_021.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476745&Signature=90A%2B0WgdrmFp%2B%2FsVszNczFTU6wU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:25.574Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.21.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.23",
+            "number": "23"
+        },
+        "previous": {
+            "id": "JER.21",
+            "number": "21"
+        },
+        "_id": "660301f9df6bde15eb87ed8a",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.22",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:25.926Z",
+        "number": "22",
+        "reference": "Иеремия 22",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_022.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476745&Signature=UQMpxoetJSlZ9KG%2BGspQGwYtIos%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:25.926Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.22.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.24",
+            "number": "24"
+        },
+        "previous": {
+            "id": "JER.22",
+            "number": "22"
+        },
+        "_id": "660301fadf6bde15eb87ed96",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.23",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:26.280Z",
+        "number": "23",
+        "reference": "Иеремия 23",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_023.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476746&Signature=iDEfw3IpV0x5D3gfNcxPermo4cs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:26.280Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.23.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.25",
+            "number": "25"
+        },
+        "previous": {
+            "id": "JER.23",
+            "number": "23"
+        },
+        "_id": "660301fadf6bde15eb87eda2",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.24",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:26.641Z",
+        "number": "24",
+        "reference": "Иеремия 24",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_024.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476746&Signature=oa4MzvlhZI1vo%2Bzb%2Bk5r6ljqjQY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:26.641Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.24.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.26",
+            "number": "26"
+        },
+        "previous": {
+            "id": "JER.24",
+            "number": "24"
+        },
+        "_id": "660301fbdf6bde15eb87edb4",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.25",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:27.001Z",
+        "number": "25",
+        "reference": "Иеремия 25",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_025.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476746&Signature=7WZ5rJaZ5fg7wpdVwW4dQHijMM8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:27.001Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.25.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.27",
+            "number": "27"
+        },
+        "previous": {
+            "id": "JER.25",
+            "number": "25"
+        },
+        "_id": "660301fbdf6bde15eb87edc2",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.26",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:27.357Z",
+        "number": "26",
+        "reference": "Иеремия 26",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_026.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476747&Signature=q0aosEBoh9VAFDvPmbAxYCprvXk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:27.357Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.26.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.28",
+            "number": "28"
+        },
+        "previous": {
+            "id": "JER.26",
+            "number": "26"
+        },
+        "_id": "660301fbdf6bde15eb87edd6",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.27",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:27.695Z",
+        "number": "27",
+        "reference": "Иеремия 27",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_027.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476747&Signature=nRumG7eJ9PoupLEo7ANqgy8qoxA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:27.695Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.27.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.29",
+            "number": "29"
+        },
+        "previous": {
+            "id": "JER.27",
+            "number": "27"
+        },
+        "_id": "660301fcdf6bde15eb87ede3",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.28",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:28.049Z",
+        "number": "28",
+        "reference": "Иеремия 28",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_028.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476748&Signature=oanP2oObQ%2F54zwRd9X1L4pgBQww%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:28.049Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.28.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.30",
+            "number": "30"
+        },
+        "previous": {
+            "id": "JER.28",
+            "number": "28"
+        },
+        "_id": "660301fcdf6bde15eb87edf1",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.29",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:28.456Z",
+        "number": "29",
+        "reference": "Иеремия 29",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_029.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476748&Signature=IbPUhfr8Q8bDusvSpQD%2BrbF5oxw%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:28.456Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.29.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "JER.2",
+            "number": "2"
+        },
+        "_id": "660301f2df6bde15eb87ec79",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.3",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:18.856Z",
+        "number": "3",
+        "reference": "Иеремия 3",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_003.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476738&Signature=SZJbIL54iyweOCmaLUXv3IxgqCE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:18.856Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.31",
+            "number": "31"
+        },
+        "previous": {
+            "id": "JER.29",
+            "number": "29"
+        },
+        "_id": "660301fcdf6bde15eb87ee03",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.30",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:28.837Z",
+        "number": "30",
+        "reference": "Иеремия 30",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_030.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476748&Signature=RRhoGmKWLtEvDyJSPRddb8wqPTY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:28.837Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.30.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.32",
+            "number": "32"
+        },
+        "previous": {
+            "id": "JER.30",
+            "number": "30"
+        },
+        "_id": "660301fddf6bde15eb87ee0e",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.31",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:29.240Z",
+        "number": "31",
+        "reference": "Иеремия 31",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_031.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476749&Signature=fmyhBtXLEp5X1%2F%2FwPwoK55DwED4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:29.240Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.31.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.33",
+            "number": "33"
+        },
+        "previous": {
+            "id": "JER.31",
+            "number": "31"
+        },
+        "_id": "660301fddf6bde15eb87ee19",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.32",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:29.633Z",
+        "number": "32",
+        "reference": "Иеремия 32",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_032.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476749&Signature=56%2FEBBRsg3PoMgSeMQkPpWHh2DA%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:29.633Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.32.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.34",
+            "number": "34"
+        },
+        "previous": {
+            "id": "JER.32",
+            "number": "32"
+        },
+        "_id": "660301fedf6bde15eb87ee2b",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.33",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:30.027Z",
+        "number": "33",
+        "reference": "Иеремия 33",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_033.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476749&Signature=biH%2FwoWGXfxQtchBftDw66wkETY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:30.027Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.33.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.35",
+            "number": "35"
+        },
+        "previous": {
+            "id": "JER.33",
+            "number": "33"
+        },
+        "_id": "660301fedf6bde15eb87ee37",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.34",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:30.399Z",
+        "number": "34",
+        "reference": "Иеремия 34",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_034.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476750&Signature=XEja4dPlHLuKum%2FuwNEkHW4BXeg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:30.399Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.34.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.36",
+            "number": "36"
+        },
+        "previous": {
+            "id": "JER.34",
+            "number": "34"
+        },
+        "_id": "660301fedf6bde15eb87ee4b",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.35",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:30.800Z",
+        "number": "35",
+        "reference": "Иеремия 35",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_035.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476750&Signature=%2FjEAOPk0Z9Y6gc3hA9bL402CnSM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:30.800Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.35.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.37",
+            "number": "37"
+        },
+        "previous": {
+            "id": "JER.35",
+            "number": "35"
+        },
+        "_id": "660301ffdf6bde15eb87ee58",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.36",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:31.154Z",
+        "number": "36",
+        "reference": "Иеремия 36",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_036.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476751&Signature=sIDPc%2By6%2BdCMcxDLPY%2BihaXrj0A%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:31.154Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.36.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.38",
+            "number": "38"
+        },
+        "previous": {
+            "id": "JER.36",
+            "number": "36"
+        },
+        "_id": "660301ffdf6bde15eb87ee64",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.37",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:31.552Z",
+        "number": "37",
+        "reference": "Иеремия 37",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_037.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476751&Signature=1xKCT6qqz%2Fd%2B8eRFBl4L8NZuyzk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:31.552Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.37.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.39",
+            "number": "39"
+        },
+        "previous": {
+            "id": "JER.37",
+            "number": "37"
+        },
+        "_id": "660301ffdf6bde15eb87ee79",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.38",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:31.937Z",
+        "number": "38",
+        "reference": "Иеремия 38",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_038.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476751&Signature=cSOQJRuMwe6N16nik8iqE1PyOOI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:31.937Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.38.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.40",
+            "number": "40"
+        },
+        "previous": {
+            "id": "JER.38",
+            "number": "38"
+        },
+        "_id": "66030200df6bde15eb87ee85",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.39",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:32.319Z",
+        "number": "39",
+        "reference": "Иеремия 39",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_039.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476752&Signature=wy3itJdyuFp1%2BtRCPAr9Lac4r7o%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:32.319Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.39.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "JER.3",
+            "number": "3"
+        },
+        "_id": "660301f3df6bde15eb87ec84",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.4",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:19.219Z",
+        "number": "4",
+        "reference": "Иеремия 4",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_004.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476739&Signature=rq%2Fz12XvVGy3ynJGEOHpTYjJ0Xc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:19.219Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.41",
+            "number": "41"
+        },
+        "previous": {
+            "id": "JER.39",
+            "number": "39"
+        },
+        "_id": "66030200df6bde15eb87ee98",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.40",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:32.705Z",
+        "number": "40",
+        "reference": "Иеремия 40",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_040.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476752&Signature=qtAYR6Wi%2F59zDSjEPVv9eLC8lmI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:32.705Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.40.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.42",
+            "number": "42"
+        },
+        "previous": {
+            "id": "JER.40",
+            "number": "40"
+        },
+        "_id": "66030201df6bde15eb87eea3",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.41",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:33.053Z",
+        "number": "41",
+        "reference": "Иеремия 41",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_041.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476753&Signature=rV%2BHEeEUeEHRJ67LSIQ7iivQBuQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:33.053Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.41.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.43",
+            "number": "43"
+        },
+        "previous": {
+            "id": "JER.41",
+            "number": "41"
+        },
+        "_id": "66030201df6bde15eb87eeaf",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.42",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:33.421Z",
+        "number": "42",
+        "reference": "Иеремия 42",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_042.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476753&Signature=4M6vUooJsyawjQ8ePBtozqNt2Yk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:33.421Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.42.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.44",
+            "number": "44"
+        },
+        "previous": {
+            "id": "JER.42",
+            "number": "42"
+        },
+        "_id": "66030201df6bde15eb87eec1",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.43",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:33.765Z",
+        "number": "43",
+        "reference": "Иеремия 43",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_043.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476753&Signature=x6UkG0WW51adFVWKFKhJqNVh0Vg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:33.765Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.43.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.45",
+            "number": "45"
+        },
+        "previous": {
+            "id": "JER.43",
+            "number": "43"
+        },
+        "_id": "66030202df6bde15eb87eecb",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.44",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:34.175Z",
+        "number": "44",
+        "reference": "Иеремия 44",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_044.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476754&Signature=4PVeGqQwpEFiBzagLdIlbxMNAJk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:34.175Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.44.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.46",
+            "number": "46"
+        },
+        "previous": {
+            "id": "JER.44",
+            "number": "44"
+        },
+        "_id": "66030202df6bde15eb87eed6",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.45",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:34.577Z",
+        "number": "45",
+        "reference": "Иеремия 45",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_045.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476754&Signature=kLZN08zE%2FIJ7C6usSWniUCNmIng%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:34.577Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.45.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.47",
+            "number": "47"
+        },
+        "previous": {
+            "id": "JER.45",
+            "number": "45"
+        },
+        "_id": "66030202df6bde15eb87eee8",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.46",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:34.948Z",
+        "number": "46",
+        "reference": "Иеремия 46",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_046.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476754&Signature=ko5GuS3ZcLBG3Ne21BS%2B4ozGyP0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:34.948Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.46.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.48",
+            "number": "48"
+        },
+        "previous": {
+            "id": "JER.46",
+            "number": "46"
+        },
+        "_id": "66030203df6bde15eb87eef4",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.47",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:35.349Z",
+        "number": "47",
+        "reference": "Иеремия 47",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_047.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476755&Signature=6zwAsq8Ht0RW%2BeT3rPG21ZNnDWs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:35.349Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.47.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.49",
+            "number": "49"
+        },
+        "previous": {
+            "id": "JER.47",
+            "number": "47"
+        },
+        "_id": "66030203df6bde15eb87ef09",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.48",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:35.703Z",
+        "number": "48",
+        "reference": "Иеремия 48",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_048.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476755&Signature=LF9tpnYT9MjSfpz5cNXYeOS%2B7Bs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:35.703Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.48.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.50",
+            "number": "50"
+        },
+        "previous": {
+            "id": "JER.48",
+            "number": "48"
+        },
+        "_id": "66030204df6bde15eb87ef14",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.49",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:36.103Z",
+        "number": "49",
+        "reference": "Иеремия 49",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_049.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476756&Signature=ftgk3MgVM1L%2BB0bEVWXYU35qiJ8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:36.103Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.49.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "JER.4",
+            "number": "4"
+        },
+        "_id": "660301f3df6bde15eb87ec8f",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.5",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:19.575Z",
+        "number": "5",
+        "reference": "Иеремия 5",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_005.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476739&Signature=6p%2Bb6lmcVgzmfL8yTIDvNty%2FP5M%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:19.575Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.51",
+            "number": "51"
+        },
+        "previous": {
+            "id": "JER.49",
+            "number": "49"
+        },
+        "_id": "66030204df6bde15eb87ef22",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.50",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:36.461Z",
+        "number": "50",
+        "reference": "Иеремия 50",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_050.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476756&Signature=Qr7jSgdPvSHy80Q4bRBhzIBVfeo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:36.461Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.50.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.52",
+            "number": "52"
+        },
+        "previous": {
+            "id": "JER.50",
+            "number": "50"
+        },
+        "_id": "66030204df6bde15eb87ef34",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.51",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:36.818Z",
+        "number": "51",
+        "reference": "Иеремия 51",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_051.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476756&Signature=L%2Bzr1UgjJnryiPTTPoym08wy5mo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:36.818Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.51.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JHN.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "JER.51",
+            "number": "51"
+        },
+        "_id": "66030205df6bde15eb87ef41",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.52",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:37.212Z",
+        "number": "52",
+        "reference": "Иеремия 52",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_052.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476757&Signature=2%2BeWSDAQ3Iq3oKT9TJDD1%2FD0gr0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:37.212Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.52.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "JER.5",
+            "number": "5"
+        },
+        "_id": "660301f4df6bde15eb87eca1",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.6",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:19.985Z",
+        "number": "6",
+        "reference": "Иеремия 6",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_006.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476739&Signature=V6PmWWMpmM95DMC7pV28yKr%2Bn7Y%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:19.985Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "JER.6",
+            "number": "6"
+        },
+        "_id": "660301f4df6bde15eb87ecad",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.7",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:20.357Z",
+        "number": "7",
+        "reference": "Иеремия 7",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_007.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476740&Signature=PzxMK25V8M%2Ft4WOVCwMpIV8sdh4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:20.357Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "JER.7",
+            "number": "7"
+        },
+        "_id": "660301f4df6bde15eb87ecc1",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.8",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:20.708Z",
+        "number": "8",
+        "reference": "Иеремия 8",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_008.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476740&Signature=DxidKWZsVsW8tQhwDFfaTriT8E8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:20.708Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.8.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    },
+    {
+        "next": {
+            "id": "JER.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "JER.8",
+            "number": "8"
+        },
+        "_id": "660301f5df6bde15eb87eccd",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JER.9",
+        "__v": 0,
+        "bookId": "JER",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:21.080Z",
+        "number": "9",
+        "reference": "Иеремия 9",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JER/JER_009.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476741&Signature=qidXTJ9bszLiLtCANvUM%2FmD8qw8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:21.080Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JER/JER.9.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JER.png"
+    }
+]

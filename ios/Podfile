@@ -5,12 +5,26 @@ def capacitor_pods
   use_frameworks!
   pod 'Capacitor', :path => '../node_modules/@capacitor/ios'
   pod 'CapacitorCordova', :path => '../node_modules/@capacitor/ios'
+  pod 'ObjectMapper'
+  pod 'RealmSwift', '~>10'
 end
 
 target 'Plugin' do
   capacitor_pods
 end
 
+target 'OfflineDB' do
+  capacitor_pods
+end
+
 target 'PluginTests' do
   capacitor_pods
+end
+
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    target.build_configurations.each do |config|
+      config.build_settings["IPHONEOS_DEPLOYMENT_TARGET"] = "13.0"
+    end
+  end
 end

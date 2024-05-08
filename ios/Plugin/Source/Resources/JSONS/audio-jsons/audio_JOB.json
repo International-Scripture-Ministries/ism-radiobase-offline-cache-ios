@@ -1,0 +1,968 @@
+[
+    {
+        "next": {
+            "id": "JOB.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "JHN.21",
+            "number": "21"
+        },
+        "_id": "6603020edf6bde15eb87f09a",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.1",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:46.116Z",
+        "number": "1",
+        "reference": "Иов 1",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_001.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476766&Signature=t%2BR35KRTuFQdenFmMD%2BA46%2FnUKg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:46.116Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "JOB.9",
+            "number": "9"
+        },
+        "_id": "66030211df6bde15eb87f11f",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.10",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:49.475Z",
+        "number": "10",
+        "reference": "Иов 10",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_010.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476769&Signature=xz%2BtI1DhGgNcXKA%2B6bAK21PJgE4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:49.475Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.10.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "JOB.10",
+            "number": "10"
+        },
+        "_id": "66030211df6bde15eb87f131",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.11",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:49.898Z",
+        "number": "11",
+        "reference": "Иов 11",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_011.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476769&Signature=Uey6IUsaf0Qk2EAfuf5HwwVaaFg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:49.898Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.11.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.13",
+            "number": "13"
+        },
+        "previous": {
+            "id": "JOB.11",
+            "number": "11"
+        },
+        "_id": "66030212df6bde15eb87f13d",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.12",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:50.301Z",
+        "number": "12",
+        "reference": "Иов 12",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_012.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476770&Signature=whvyrUpRZKmMQ59hA7epQGm46RI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:50.301Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.12.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.14",
+            "number": "14"
+        },
+        "previous": {
+            "id": "JOB.12",
+            "number": "12"
+        },
+        "_id": "66030212df6bde15eb87f151",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.13",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:50.665Z",
+        "number": "13",
+        "reference": "Иов 13",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_013.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476770&Signature=7N4SSN3838zzTSFHq%2BMCXpSSVE4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:50.665Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.13.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.15",
+            "number": "15"
+        },
+        "previous": {
+            "id": "JOB.13",
+            "number": "13"
+        },
+        "_id": "66030213df6bde15eb87f15c",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.14",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:51.052Z",
+        "number": "14",
+        "reference": "Иов 14",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_014.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476771&Signature=ejXUPkqszGv%2F64mkH2kyoIBUYmc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:51.052Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.14.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.16",
+            "number": "16"
+        },
+        "previous": {
+            "id": "JOB.14",
+            "number": "14"
+        },
+        "_id": "66030213df6bde15eb87f169",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.15",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:51.404Z",
+        "number": "15",
+        "reference": "Иов 15",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_015.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476771&Signature=hajHD5GowG0ym7Y37h6oeVZFUsk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:51.404Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.15.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.17",
+            "number": "17"
+        },
+        "previous": {
+            "id": "JOB.15",
+            "number": "15"
+        },
+        "_id": "66030213df6bde15eb87f17d",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.16",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:51.748Z",
+        "number": "16",
+        "reference": "Иов 16",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_016.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476771&Signature=cjsOzSzFbASkCYOcumjZZDZmzB4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:51.748Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.16.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.18",
+            "number": "18"
+        },
+        "previous": {
+            "id": "JOB.16",
+            "number": "16"
+        },
+        "_id": "66030214df6bde15eb87f189",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.17",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:52.093Z",
+        "number": "17",
+        "reference": "Иов 17",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_017.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476772&Signature=j%2FQc86rXuKBMjt81MWLIPYzgpN0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:52.093Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.17.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.19",
+            "number": "19"
+        },
+        "previous": {
+            "id": "JOB.17",
+            "number": "17"
+        },
+        "_id": "66030214df6bde15eb87f195",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.18",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:52.452Z",
+        "number": "18",
+        "reference": "Иов 18",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_018.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476772&Signature=B7EFlfWghepyJbIdvoFgJBFtHyo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:52.452Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.18.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.20",
+            "number": "20"
+        },
+        "previous": {
+            "id": "JOB.18",
+            "number": "18"
+        },
+        "_id": "66030214df6bde15eb87f1a9",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.19",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:52.808Z",
+        "number": "19",
+        "reference": "Иов 19",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_019.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476772&Signature=nW3z4nJ2Kh9o4N923XNruTbx6fk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:52.808Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.19.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "JOB.1",
+            "number": "1"
+        },
+        "_id": "6603020edf6bde15eb87f0a8",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.2",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:46.511Z",
+        "number": "2",
+        "reference": "Иов 2",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_002.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476766&Signature=L%2BWF5dW9LHDAehIkKCT0ere2EHg%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:46.511Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.21",
+            "number": "21"
+        },
+        "previous": {
+            "id": "JOB.19",
+            "number": "19"
+        },
+        "_id": "66030215df6bde15eb87f1b3",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.20",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:53.217Z",
+        "number": "20",
+        "reference": "Иов 20",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_020.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476773&Signature=gTIr5d%2FbVvk%2F9MlERFMaMpeCF1k%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:53.217Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.20.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.22",
+            "number": "22"
+        },
+        "previous": {
+            "id": "JOB.20",
+            "number": "20"
+        },
+        "_id": "66030215df6bde15eb87f1bf",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.21",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:53.572Z",
+        "number": "21",
+        "reference": "Иов 21",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_021.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476773&Signature=uKakd91HRqTJL9uGgTTxcIbZEj0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:53.572Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.21.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.23",
+            "number": "23"
+        },
+        "previous": {
+            "id": "JOB.21",
+            "number": "21"
+        },
+        "_id": "66030216df6bde15eb87f1d1",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.22",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:54.000Z",
+        "number": "22",
+        "reference": "Иов 22",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_022.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476773&Signature=mqzZR50DRqWTK9JZMop7CqFbeO0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:54.000Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.22.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.24",
+            "number": "24"
+        },
+        "previous": {
+            "id": "JOB.22",
+            "number": "22"
+        },
+        "_id": "66030216df6bde15eb87f1dc",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.23",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:54.418Z",
+        "number": "23",
+        "reference": "Иов 23",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_023.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476774&Signature=f0OpXnZwGN4Foe8Lm9OAC2eay3Y%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:54.418Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.23.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.25",
+            "number": "25"
+        },
+        "previous": {
+            "id": "JOB.23",
+            "number": "23"
+        },
+        "_id": "66030216df6bde15eb87f1ee",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.24",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:54.813Z",
+        "number": "24",
+        "reference": "Иов 24",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_024.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476774&Signature=HzUaBdDV1%2Bd48GdK%2B6xdswzfYlM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:54.813Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.24.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.26",
+            "number": "26"
+        },
+        "previous": {
+            "id": "JOB.24",
+            "number": "24"
+        },
+        "_id": "66030217df6bde15eb87f1f9",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.25",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:55.219Z",
+        "number": "25",
+        "reference": "Иов 25",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_025.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476775&Signature=WBT65FAbUn6NCFQ8TQAj01qDiSU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:55.219Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.25.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.27",
+            "number": "27"
+        },
+        "previous": {
+            "id": "JOB.25",
+            "number": "25"
+        },
+        "_id": "66030217df6bde15eb87f207",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.26",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:55.618Z",
+        "number": "26",
+        "reference": "Иов 26",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_026.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476775&Signature=yFyDthvJcW9Y79TYsc67kLGieAk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:55.618Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.26.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.28",
+            "number": "28"
+        },
+        "previous": {
+            "id": "JOB.26",
+            "number": "26"
+        },
+        "_id": "66030218df6bde15eb87f21a",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.27",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:55.995Z",
+        "number": "27",
+        "reference": "Иов 27",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_027.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476775&Signature=odT6uy5TBcsaKwgkVJJgdS25if8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:55.995Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.27.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.29",
+            "number": "29"
+        },
+        "previous": {
+            "id": "JOB.27",
+            "number": "27"
+        },
+        "_id": "66030218df6bde15eb87f226",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.28",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:56.336Z",
+        "number": "28",
+        "reference": "Иов 28",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_028.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476776&Signature=RnpFwQd8sOB%2B3rElKVgfedDiWjo%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:56.336Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.28.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.30",
+            "number": "30"
+        },
+        "previous": {
+            "id": "JOB.28",
+            "number": "28"
+        },
+        "_id": "66030218df6bde15eb87f23a",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.29",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:56.746Z",
+        "number": "29",
+        "reference": "Иов 29",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_029.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476776&Signature=Lcgml6MtoFSfDIcJKhYoOTBUow4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:56.746Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.29.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "JOB.2",
+            "number": "2"
+        },
+        "_id": "6603020edf6bde15eb87f0ba",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.3",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:46.876Z",
+        "number": "3",
+        "reference": "Иов 3",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_003.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476766&Signature=MBwNcEe6G99Tl3GdK2FnpRAdhx0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:46.876Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.31",
+            "number": "31"
+        },
+        "previous": {
+            "id": "JOB.29",
+            "number": "29"
+        },
+        "_id": "66030219df6bde15eb87f255",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.30",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:57.099Z",
+        "number": "30",
+        "reference": "Иов 30",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_030.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476777&Signature=vlS%2B%2FL4BDB4y%2F2PgeWlf2%2BILdp4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:57.099Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.30.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.32",
+            "number": "32"
+        },
+        "previous": {
+            "id": "JOB.30",
+            "number": "30"
+        },
+        "_id": "66030219df6bde15eb87f263",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.31",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:57.489Z",
+        "number": "31",
+        "reference": "Иов 31",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_031.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476777&Signature=Sf9%2Fp6d%2FfeecIbArP5zxMYr9WjU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:57.489Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.31.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.33",
+            "number": "33"
+        },
+        "previous": {
+            "id": "JOB.31",
+            "number": "31"
+        },
+        "_id": "66030219df6bde15eb87f276",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.32",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:57.838Z",
+        "number": "32",
+        "reference": "Иов 32",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_032.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476777&Signature=%2Bzlvm6cgFlhtHH%2FtzegAoRPwjwc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:57.838Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.32.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.34",
+            "number": "34"
+        },
+        "previous": {
+            "id": "JOB.32",
+            "number": "32"
+        },
+        "_id": "6603021adf6bde15eb87f286",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.33",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:58.220Z",
+        "number": "33",
+        "reference": "Иов 33",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_033.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476778&Signature=ASdcn6RthuSTaOPmINqYcLNQ7oM%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:58.220Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.33.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.35",
+            "number": "35"
+        },
+        "previous": {
+            "id": "JOB.33",
+            "number": "33"
+        },
+        "_id": "6603021adf6bde15eb87f291",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.34",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:58.556Z",
+        "number": "34",
+        "reference": "Иов 34",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_034.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476778&Signature=WqblsP%2BzScNZVPICYeBtClO%2FoxQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:58.556Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.34.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.36",
+            "number": "36"
+        },
+        "previous": {
+            "id": "JOB.34",
+            "number": "34"
+        },
+        "_id": "6603021adf6bde15eb87f2a3",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.35",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:58.909Z",
+        "number": "35",
+        "reference": "Иов 35",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_035.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476778&Signature=CN2G0ihdYPBr151Zx24iIH%2BQASE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:58.909Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.35.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.37",
+            "number": "37"
+        },
+        "previous": {
+            "id": "JOB.35",
+            "number": "35"
+        },
+        "_id": "6603021bdf6bde15eb87f2ae",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.36",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:59.283Z",
+        "number": "36",
+        "reference": "Иов 36",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_036.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476779&Signature=0U4tSd%2Bzq%2BekDpXmL8fvJ18cyH8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:12:59.283Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.36.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.38",
+            "number": "38"
+        },
+        "previous": {
+            "id": "JOB.36",
+            "number": "36"
+        },
+        "_id": "6603021bdf6bde15eb87f2b9",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.37",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:59.659Z",
+        "number": "37",
+        "reference": "Иов 37",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_037.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476779&Signature=Ni%2Bw%2BkF4wJERoAzzrqvC1feH2D0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:59.659Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.37.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.39",
+            "number": "39"
+        },
+        "previous": {
+            "id": "JOB.37",
+            "number": "37"
+        },
+        "_id": "6603021cdf6bde15eb87f2cc",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.38",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:00.075Z",
+        "number": "38",
+        "reference": "Иов 38",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_038.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476780&Signature=q0%2F1YNloHyPgc%2FLJFvWO0ykzzSU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:13:00.075Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.38.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.40",
+            "number": "40"
+        },
+        "previous": {
+            "id": "JOB.38",
+            "number": "38"
+        },
+        "_id": "6603021cdf6bde15eb87f2d7",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.39",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:00.462Z",
+        "number": "39",
+        "reference": "Иов 39",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_039.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476780&Signature=yMW%2FSnrqM%2Bh2KkxwbzaBII02hM4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:13:00.462Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.39.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "JOB.3",
+            "number": "3"
+        },
+        "_id": "6603020fdf6bde15eb87f0c7",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.4",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:47.236Z",
+        "number": "4",
+        "reference": "Иов 4",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_004.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476767&Signature=vqthd9RNG3NNtSoVZy6gM2%2Ft%2BFI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:12:47.236Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.41",
+            "number": "41"
+        },
+        "previous": {
+            "id": "JOB.39",
+            "number": "39"
+        },
+        "_id": "6603021cdf6bde15eb87f34b",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.40",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:00.806Z",
+        "number": "40",
+        "reference": "Иов 40",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_040.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476780&Signature=Kfjg9jR9aGLQcn8cY1FQc88BeKE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:13:00.806Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.40.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.42",
+            "number": "42"
+        },
+        "previous": {
+            "id": "JOB.40",
+            "number": "40"
+        },
+        "_id": "6603021ddf6bde15eb87f358",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.41",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:01.258Z",
+        "number": "41",
+        "reference": "Иов 41",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_041.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476781&Signature=tpMSZcuOwJegNMgPxsKkSr9Vx74%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:13:01.258Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.41.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOL.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "JOB.41",
+            "number": "41"
+        },
+        "_id": "6603021ddf6bde15eb87f36d",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.42",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:01.705Z",
+        "number": "42",
+        "reference": "Иов 42",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_042.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476781&Signature=jU74uZcBc1D1Kvbb5IamwFkMuSs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:13:01.705Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.42.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "JOB.4",
+            "number": "4"
+        },
+        "_id": "6603020fdf6bde15eb87f0d4",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.5",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:47.596Z",
+        "number": "5",
+        "reference": "Иов 5",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_005.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476767&Signature=zcs5ceor%2FRTpr0arvST%2B0lh%2B3is%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:47.596Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "JOB.5",
+            "number": "5"
+        },
+        "_id": "66030210df6bde15eb87f0e7",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.6",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:47.973Z",
+        "number": "6",
+        "reference": "Иов 6",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_006.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476767&Signature=Ea4i929weAVIf4vDyUGKWoQWBlc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:47.973Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "JOB.6",
+            "number": "6"
+        },
+        "_id": "66030210df6bde15eb87f0f7",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.7",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:48.365Z",
+        "number": "7",
+        "reference": "Иов 7",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_007.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476768&Signature=wQZ6%2BXbE7C5NXTk%2BGLve4SNO3CU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:48.365Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "JOB.7",
+            "number": "7"
+        },
+        "_id": "66030210df6bde15eb87f109",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.8",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:48.730Z",
+        "number": "8",
+        "reference": "Иов 8",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_008.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476768&Signature=bclVAlQ9nE2Vf3QWSWHfOnuvtUQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:12:48.730Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.8.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    },
+    {
+        "next": {
+            "id": "JOB.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "JOB.8",
+            "number": "8"
+        },
+        "_id": "66030211df6bde15eb87f114",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "JOB.9",
+        "__v": 0,
+        "bookId": "JOB",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:12:49.080Z",
+        "number": "9",
+        "reference": "Иов 9",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/JOB/JOB_009.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476769&Signature=HInDAGMCsVHEhJvpbUBcESGqmhU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:12:49.080Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/JOB/JOB.9.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/JOB.png"
+    }
+]

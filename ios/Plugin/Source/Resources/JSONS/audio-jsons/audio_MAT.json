@@ -1,0 +1,646 @@
+[
+    {
+        "next": {
+            "id": "MAT.2",
+            "number": "2"
+        },
+        "previous": {
+            "id": "MAL.4",
+            "number": "4"
+        },
+        "_id": "66030243df6bde15eb87f938",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.1",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:39.760Z",
+        "number": "1",
+        "reference": "Матфея 1",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_001.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476819&Signature=NOT1xsuJfxMYEyJ1Onorfysn1HY%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:13:39.760Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.1.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.11",
+            "number": "11"
+        },
+        "previous": {
+            "id": "MAT.9",
+            "number": "9"
+        },
+        "_id": "66030247df6bde15eb87f9ca",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.10",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:43.120Z",
+        "number": "10",
+        "reference": "Матфея 10",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_010.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476823&Signature=ynXAUyraS%2FpZmPG5RqG76hHKhEk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:13:43.120Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.10.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.12",
+            "number": "12"
+        },
+        "previous": {
+            "id": "MAT.10",
+            "number": "10"
+        },
+        "_id": "66030247df6bde15eb87f9d6",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.11",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:43.509Z",
+        "number": "11",
+        "reference": "Матфея 11",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_011.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476823&Signature=HByQ2vVq4WSuxfjN4o8dp69gc2w%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:13:43.509Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.11.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.13",
+            "number": "13"
+        },
+        "previous": {
+            "id": "MAT.11",
+            "number": "11"
+        },
+        "_id": "66030247df6bde15eb87f9e8",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.12",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:43.867Z",
+        "number": "12",
+        "reference": "Матфея 12",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_012.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476823&Signature=UB6GaBwNxYpf3gvf9uLaXnsrui4%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:13:43.867Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.12.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.14",
+            "number": "14"
+        },
+        "previous": {
+            "id": "MAT.12",
+            "number": "12"
+        },
+        "_id": "66030248df6bde15eb87f9f3",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.13",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:44.273Z",
+        "number": "13",
+        "reference": "Матфея 13",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_013.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476824&Signature=reCwwD5pHA1MLFz5JDAlS2%2Bll4I%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:13:44.273Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.13.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.15",
+            "number": "15"
+        },
+        "previous": {
+            "id": "MAT.13",
+            "number": "13"
+        },
+        "_id": "66030248df6bde15eb87f9fd",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.14",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:44.663Z",
+        "number": "14",
+        "reference": "Матфея 14",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_014.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476824&Signature=g8ZZPMB8i14VbH4ncBFZQ%2B5E544%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:13:44.663Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.14.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.16",
+            "number": "16"
+        },
+        "previous": {
+            "id": "MAT.14",
+            "number": "14"
+        },
+        "_id": "66030249df6bde15eb87fa0f",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.15",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:45.062Z",
+        "number": "15",
+        "reference": "Матфея 15",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_015.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476825&Signature=D3gWjGCIXN78W4gKlZeNyI9uKkc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:13:45.062Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.15.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.17",
+            "number": "17"
+        },
+        "previous": {
+            "id": "MAT.15",
+            "number": "15"
+        },
+        "_id": "66030249df6bde15eb87fa1b",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.16",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:45.404Z",
+        "number": "16",
+        "reference": "Матфея 16",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_016.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476825&Signature=IlWhMhdoWktOttddOxnGItTYESk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:13:45.404Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.16.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.18",
+            "number": "18"
+        },
+        "previous": {
+            "id": "MAT.16",
+            "number": "16"
+        },
+        "_id": "66030249df6bde15eb87fa6d",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.17",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:45.755Z",
+        "number": "17",
+        "reference": "Матфея 17",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_017.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476825&Signature=QxxZBzCZUBlWVG4vDELTgnQRZIc%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:13:45.755Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.17.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.19",
+            "number": "19"
+        },
+        "previous": {
+            "id": "MAT.17",
+            "number": "17"
+        },
+        "_id": "6603024adf6bde15eb87fa9b",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.18",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:46.100Z",
+        "number": "18",
+        "reference": "Матфея 18",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_018.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476826&Signature=ptKRBPmhHe2QUTEFhi9KoCR2aK8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:13:46.100Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.18.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.20",
+            "number": "20"
+        },
+        "previous": {
+            "id": "MAT.18",
+            "number": "18"
+        },
+        "_id": "6603024adf6bde15eb87faa9",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.19",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:46.498Z",
+        "number": "19",
+        "reference": "Матфея 19",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_019.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476826&Signature=cuiQUT4pTeXFLIHXaguPet9IFz8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:13:46.498Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.19.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.3",
+            "number": "3"
+        },
+        "previous": {
+            "id": "MAT.1",
+            "number": "1"
+        },
+        "_id": "66030244df6bde15eb87f943",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.2",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:40.127Z",
+        "number": "2",
+        "reference": "Матфея 2",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_002.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476820&Signature=nxLTSSNXtdrZPn5xBLNk9Utrf3o%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:13:40.127Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.2.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.21",
+            "number": "21"
+        },
+        "previous": {
+            "id": "MAT.19",
+            "number": "19"
+        },
+        "_id": "6603024adf6bde15eb87fabb",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.20",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:46.897Z",
+        "number": "20",
+        "reference": "Матфея 20",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_020.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476826&Signature=Cb76WWGXhjBtU7lFGOnrX9pwdhE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:13:46.897Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.20.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.22",
+            "number": "22"
+        },
+        "previous": {
+            "id": "MAT.20",
+            "number": "20"
+        },
+        "_id": "6603024bdf6bde15eb87fac8",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.21",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:47.283Z",
+        "number": "21",
+        "reference": "Матфея 21",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_021.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476827&Signature=mDGr6JYkhLr%2FblT13HsXB2jhF4A%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:13:47.284Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.21.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.23",
+            "number": "23"
+        },
+        "previous": {
+            "id": "MAT.21",
+            "number": "21"
+        },
+        "_id": "6603024bdf6bde15eb87fad5",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.22",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:47.680Z",
+        "number": "22",
+        "reference": "Матфея 22",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_022.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476827&Signature=ThAmxVSNFcJbhgL7CpBN4d5phxI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:13:47.680Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.22.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.24",
+            "number": "24"
+        },
+        "previous": {
+            "id": "MAT.22",
+            "number": "22"
+        },
+        "_id": "6603024cdf6bde15eb87faeb",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.23",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:48.091Z",
+        "number": "23",
+        "reference": "Матфея 23",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_023.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476828&Signature=10tN8LVgUNA40jRFBmK2y4mJo%2BQ%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:13:48.091Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.23.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.25",
+            "number": "25"
+        },
+        "previous": {
+            "id": "MAT.23",
+            "number": "23"
+        },
+        "_id": "6603024cdf6bde15eb87faf8",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.24",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:48.466Z",
+        "number": "24",
+        "reference": "Матфея 24",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_024.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476828&Signature=si1zsCS3c93CF3ZJ2%2F5zX1yEsZs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:13:48.466Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.24.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.26",
+            "number": "26"
+        },
+        "previous": {
+            "id": "MAT.24",
+            "number": "24"
+        },
+        "_id": "6603024cdf6bde15eb87fb0a",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.25",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:48.873Z",
+        "number": "25",
+        "reference": "Матфея 25",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_025.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476828&Signature=%2Fd%2FqrZyDGChURxOt2b%2FASOhEkLU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:13:48.873Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.25.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.27",
+            "number": "27"
+        },
+        "previous": {
+            "id": "MAT.25",
+            "number": "25"
+        },
+        "_id": "6603024ddf6bde15eb87fb15",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.26",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:49.279Z",
+        "number": "26",
+        "reference": "Матфея 26",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_026.mp3?AWSAccessKeyId=ASIAW3FERPLDJQZWOQ3Q&Expires=1711476829&Signature=xFe5rJjfsPxqkPibmdvkcBM8KCU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDdlJBV6wjX7TJt6W60uCEEjvooUvkBfF%2Byoo54ag1WOgIgMghNN7zZ6kDO%2Bmz8p0GCn2LmFSD7o0ZB12EjehA7Jk0qwwUIp%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDApARuPXmQ7fFc8ITSqXBXHiwm7WEjVHeMuvAMGxJ5o%2BFPkCiuXdzXqZYntiE7JUP39FN6JX6EAsLovRkIJf7vFFPOqftOdE57B6wbk44TTDF42Ct72QwDGaXuySR25fl3ShAYCd9%2F1T83oHDdCnbIEFh1tWcElS7G8ATl4q0pkrf4NPs5ulqncKD9aOJyZgFh3P25zfyvrNe%2FaOu3Y46eHfJ4riPUw%2BLmrjs2Q6CXJob0Kqwxy7zjZxJWyFa%2FvOehfb2mV2afhFWfHH1noO%2BNaCWAmcCmKjHrFD5kBQ5wQs3yYhHXvpVWttuUhBC7iWEE5AQjEf8eL55QioJWGrNez17CuTGk8%2Bpo%2BdBDEW5wZfmGZgAwjsZkna%2F6ClaHiNk4HMCe5%2F1qLVJ%2FeMfghfku4Se%2FEeqb6PgUvczrNrr4aG8hFBgZ14jYNwynPCcEZGh%2BcKua2KQBwEBXE0OI1t1eEiBZ21WhMDFgdKMTWSQIGgOzrvdPUgZSxdlD2czO9xP43gqvlyQEfFaEWFDKNiW2xykpWlU7Rvge03g7G5RgHA1hoxjO8kbt%2FnKQPvvPE%2Fx5C0tRMDfNvhqbK1wJdfPfUyl23v1g8i5%2Fvt3lQ9RhGUywZJhWzZFZj7xoTi5dbA8KYQq9Sv7ti5Iysn2PktzbGiwny1VkLHfxHzjDSslOlZDuY3H5lwYt%2Bvo4UhdPq7MuNwBUcioYl4d%2F5ZsFq50epZggSET3G7crW59ivwYyZ4qRy%2FZVYNsJvHnmrSiJ%2FB7hpXzzHkwDjkUruxuUAmtmnOq%2BXlGQMQ0RlaFNMd9t6elPyyOgomw1BqnTYExeAXTepZWgzCDdaK3v7NQeLKIJXupyCs7yui6QDh%2FePTEcA1YmAcaElLYhH4GRo%2BFtyM6MPHo2LOlTCloYuwBjqxAcRixpuds%2Bqph%2FVaetzfvbxHBLZFHHlJAhAx4xst7Z60NM8TTV1qkxMzYRC1JROkAYq8N868M%2BdY3tstSu2w07p3MWqgbmfouK3D6S9D9qTUjh4R4EMKRD6upuhoyZhkcU4RWCOhQR9tRcqR2rVccODRYY0IHdGS0PNMLInapXY40l33dayzRXZhAEDiUEmGrXQGM%2Fux3N4jL2uli1DzPWhYcqHv9U9WqP1mnjaYpCLmtQ%3D%3D",
+        "updatedAt": "2024-03-26T17:13:49.279Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.26.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.28",
+            "number": "28"
+        },
+        "previous": {
+            "id": "MAT.26",
+            "number": "26"
+        },
+        "_id": "6603024ddf6bde15eb87fb20",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.27",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:49.632Z",
+        "number": "27",
+        "reference": "Матфея 27",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_027.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476829&Signature=GyEd8yzdZZZ6HsIMd5Pe4oZhUBs%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:13:49.632Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.27.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MIC.1",
+            "number": "1"
+        },
+        "previous": {
+            "id": "MAT.27",
+            "number": "27"
+        },
+        "_id": "6603024edf6bde15eb87fb32",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.28",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:49.997Z",
+        "number": "28",
+        "reference": "Матфея 28",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_028.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476829&Signature=RYeiADm7X3M7EfeBcDRZKZMNs2c%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:13:49.997Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.28.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.4",
+            "number": "4"
+        },
+        "previous": {
+            "id": "MAT.2",
+            "number": "2"
+        },
+        "_id": "66030244df6bde15eb87f94e",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.3",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:40.490Z",
+        "number": "3",
+        "reference": "Матфея 3",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_003.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476820&Signature=4YjTV6qOWMs3lvWJW2%2B6HihV2j8%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:13:40.490Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.3.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.5",
+            "number": "5"
+        },
+        "previous": {
+            "id": "MAT.3",
+            "number": "3"
+        },
+        "_id": "66030244df6bde15eb87f962",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.4",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:40.876Z",
+        "number": "4",
+        "reference": "Матфея 4",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_004.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476820&Signature=NTTnGgYR20sL22zqomfPDPT6B6Q%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:13:40.876Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.4.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.6",
+            "number": "6"
+        },
+        "previous": {
+            "id": "MAT.4",
+            "number": "4"
+        },
+        "_id": "66030245df6bde15eb87f96f",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.5",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:41.278Z",
+        "number": "5",
+        "reference": "Матфея 5",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_005.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476821&Signature=8%2FLZYw2JgjM8wUrCnbaVw%2F5gjKE%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:13:41.278Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.5.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.7",
+            "number": "7"
+        },
+        "previous": {
+            "id": "MAT.5",
+            "number": "5"
+        },
+        "_id": "66030245df6bde15eb87f97b",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.6",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:41.633Z",
+        "number": "6",
+        "reference": "Матфея 6",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_006.mp3?AWSAccessKeyId=ASIAW3FERPLDMRTHJGNN&Expires=1711476821&Signature=2dMXkp3uu5VEdMJuTv5YkiOvgHU%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICxFTpNDZJL6Q%2FKndhmVZEBT3O4bHijUiqcHXV%2FrV5g2AiEAjGeWu8DVuCikBse2TCCYIX2PkL0Cp%2FafJ4AlrQlLVRwqxAUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDJmCemrM1RoZEYRagCqYBZIYSLAD0IhgKawS6TUQWVH7sw0792mKArGCHyDtAPXfhwtUGyUUKXO0mSxxumMaHgj5htsvMLOxABtHVldAEuPp1rTjDqD9k1b6Z6RHTDJzGJytNas10LglVO%2Bd3bci2hmpexmRZCVCApAGwtkR3wKEhmuNMbiUDuqRUdPzggLteilhbJu3QyFCSLtpPOEyABMQRbTSqvYgtQlhtF%2FMv7jvxAQPbl4u%2FFOhckuyjMHub6ECY%2BfvHiiYnJ6j6lNpClP6QSdMmyCDaVjrw7TyyqBEvYgleLnfsSMAnO%2BdzoDq2fenzZdICFs%2Fjm4NCsj%2BXXRHi62MK4WMP4fK3XgTiK5TABcVm5aa5cfOzyPxTJkZ7i9Ol1VKjAP%2FRh%2FGdmXu9R7XCXyanQUASiMQ0fYIPnHUSakByW48YO0CMWdIJ%2BxX9zdTd2jbu%2F57dqh0DuM3DMJQ2SFBFKmDNEIJfx1pOhcDH4B3%2BEY2I8mcYTphwQM%2BKua0PXwNMdqzqSRYvyIIQg9k0OB%2BTNlJMxjcZlOyFQhn2J6ugVSAydzOg12n8QQICRxuyefKjPql%2FdjBCQ1vEUHluwu5RcR1nGF6kDNxhZWvVZzBlnGTqsa%2FKvnFfWtW2sA%2FKL63ELsBw9Yw%2FvnSOs6grvH17tOctOrSeaZah4e9a0ytmw66G%2FUKdulKBlMWXT5%2BDgQ%2BymEgtrNzlOVwNabaRZyskqLR82jZrNxBMq7JGYEBAkk80GHHXSlvaOrd8uE%2BtrvCalexhkMZZBj5h0apHIlUST7f8alwyhHMg7SkwKrEydR%2FJUGdu%2F7qgM%2F8ZPcXeNNoQ9nFvrbCezBOG6LPHXZszkKa6hf7%2B44aElQp6LCVElyNuTxHIK5M5zr6MatzVdvdC%2Bkw6f2KsAY6sQFEL%2FSUKwFg1Lx9LEZGpZ0YhcDqrjseeOrwVvuGPnmOGm%2BIQdYfgGYef3OTdamoTFUVp2dD7OMm88MH6hYxhfsd1NYR%2FScc1O8b7lPbiuoFvn0eLwycPSD8wSVTfZxAfBBVj6Ee6Bb6dxLEA6OyII0i8Nphai%2FVBvAy%2F9JiAYOrr7kwUefVa4xRmJZfk50VZ4WUy0rZRyJ%2FNLb0ldVk%2FNORxgvTypMq26OUCd4%2FI4dVp3Y%3D",
+        "updatedAt": "2024-03-26T17:13:41.633Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.6.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.8",
+            "number": "8"
+        },
+        "previous": {
+            "id": "MAT.6",
+            "number": "6"
+        },
+        "_id": "66030246df6bde15eb87f990",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.7",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:41.985Z",
+        "number": "7",
+        "reference": "Матфея 7",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_007.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476821&Signature=NB1R7U4wZUGoYD56%2Bol2hp0hxSk%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:13:41.985Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.7.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.9",
+            "number": "9"
+        },
+        "previous": {
+            "id": "MAT.7",
+            "number": "7"
+        },
+        "_id": "66030246df6bde15eb87f9ab",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.8",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:42.358Z",
+        "number": "8",
+        "reference": "Матфея 8",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_008.mp3?AWSAccessKeyId=ASIAW3FERPLDPFCJIOCJ&Expires=1711476822&Signature=pkwh67gxW7a%2BqWCYpzMdzvZbI3I%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEI7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDoM2CnviuDIfAFK7MniFS%2ByvZiQ8mZLspbfXaqH5HsKwIhAJIVWNlspmrQki%2FUT8HgYNRmxLjxtMsb8LPtkdSzqSUpKsMFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQABoMNDcwNjQzOTk3MzgyIgxQggNe7xG5CFOtkzQqlwUeNCZwOV6oqYlS9U6TJxdtsUsfgtUl2880fIMOJvtjDEHBK64AP3mmxnOYdR5Z5SkvyIZzkvZKc7dTXLznZO3w3LDw6xbblBLlJogdficm2D85J7ukKqyVibZaDWU1u0pHO3CmAaHGLxjj0WEsz4OJSmK9ETuoloGmrLNgWmWETI74ja3R%2BZoHOLkQMxrDroZSz6EKsJYFkTgR9MiC3vPymxD%2BtsC58zFm4lMr4wo6RHlTKWH26qU6IdLhQd%2FP%2B7nbrroru5CcqLdkR58w6NNpbHwcTzjrtncIUKtTrfnziB61HhOJttiHtzMRStmQWE738FpC1PP6QuMgUbn5UoBxGtAPSKRT8E3qKAGn3kPhDrySiG6axAlZ5Mx5q1n4ix05UtVRAz5F%2BzoGES9iDg7gjPS8g7sdy6L12AusT1gNXwpwQGsYPRD1r9auN%2BGAB%2B2uhIBjzAFHIisE8Jef8UXdUqt8PejIxu367vAtZScsLvZEel43WeMYn07X6PRjdPYLOx7pcMvGoZuxclgtq5VDo3TKs%2Bg0oLOZbQrdGi3g6pAUeqK17mYMG8Ewi4siBXUPBlDepF3dGzV1eLeg0wEInquJkS0qKKi8NwroG3xTEfJiQuT9ByvLeNlqPEQx0El2Z6emKCH%2FHyQ3yqAYyBst61O6MrXCVdI7t%2Fud%2FKoLnGx8CXkfpx8fS66CW7VEmmT9RqQBtZ2ENWRpAzq7rXbDSPXzPSXPwiYuuktiabsFoLsMR1mIn6c4vjSQ8%2F3BHQiV5WQ%2B5GfItLawz821DqPT3FlSbUgaj%2B2GuXQA87zQavZsD7xNBwW%2B8xEpgwnoSG9xdezMb9buTJcHyb5G7bGCnhamghWEbDM3HX21YFLoF%2FwKOj2%2FKNMwsKmLsAY6sAEZRzGFuQwIJ7Q8YzFOuK%2BZYJWru4ww4OaEOLqxPdh635v7jNOVqlDB8PomdVmurd85fCCmcPs8OgFXiheguw5q%2B43etr1Fehue1qM960qgMEKmxVueyiNEdLm6lvhY%2BoDT1cwJ0BZ7OP66Lsjsl8VOdo5LCVjch5xjwTqlGQK8veosU6uYyAWsap%2Bo5aGPFWWtdBejBfi3Fr1cHnKdzxuha%2FwCm0wVg8qK9JvAGwk5fA%3D%3D",
+        "updatedAt": "2024-03-26T17:13:42.358Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.8.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    },
+    {
+        "next": {
+            "id": "MAT.10",
+            "number": "10"
+        },
+        "previous": {
+            "id": "MAT.8",
+            "number": "8"
+        },
+        "_id": "66030246df6bde15eb87f9bf",
+        "bibleId": "474740aae4fc08b6-01",
+        "id": "MAT.9",
+        "__v": 0,
+        "bookId": "MAT",
+        "copyright": "New Russian Translation, Audio Edition Audio Copyright ℗ 2013 by Biblica, Inc.®.Used by permission. All rights reserved worldwide. Святая Библия, Новый Русский Перевод © Biblica, Inc.®, 2006, 2010, 2012, 2014 Используется с разрешения. Все права защищены по всему миру. Holy Bible, New Russian Translation Copyright © 2006, 2010, 2012, 2014 by Biblica, Inc.® Used by permission. All rights reserved worldwide. These Scriptures are copyrighted and have been made available on the internet for your personal use only. Any other use including, but not limited to, copying or reposting on the internet is prohibited. These Scriptures may not be altered or modified in any form and must remain in their original context. These Scriptures may not be sold or otherwise offered for sale. These Scriptures are not shareware and may not be duplicated. These scriptures are not public domain.",
+        "createdAt": "2024-03-26T17:13:42.715Z",
+        "number": "9",
+        "reference": "Матфея 9",
+        "resourceUrl": "https://api-bible-audio-assets-prod.s3.amazonaws.com/474740aae4fc08b6-01/release/audio/MAT/MAT_009.mp3?AWSAccessKeyId=ASIAW3FERPLDL4GCJOLM&Expires=1711476822&Signature=WIys%2BjG5t16rXwL9OUs4ifnY7%2FI%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEJD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIChIqkKThR6iYIgGs6iRbsRp1fnM0VI%2BxTS%2BTAAXB1bXAiEA8BSMuULFXSt%2Bs6ZCERy587%2BKGLZWhtiNxH1Ypxfor1sqwwUIqP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw0NzA2NDM5OTczODIiDCKCJHkGkCgLs%2BzKtCqXBUHo%2BNM54DYqVoT6fCQr7t04XC3%2B5Sh9%2FHr%2BM5xvOrSnvSmNkNlu%2FlEhr84r0suTu%2BziAh1ZwwwHAL2Lf0U6%2BV0C%2FFbmg4IKN1tXu%2FYAhZjhcEvL1je%2FGA3bvyedTG3mhY8VeMJPGLcJHPznUA%2Fzvh8vYm9EepJQB0M7fjsYHzsAa36UhqO7j2IkKyl6h391HmNWal1D6mCucC0onIEb8A2m64ieUMV93H46L%2FYNuWSevrh%2FVyZYhj3OdOPozYJvAyar8Jdk1S%2BGGjJbiHk2NM%2FJ%2Byx7sxobVfozWOGqYnxFDoEybyoh38j2n2DkSd7QkYBsfSZV4zGAT7ELbNWI9csPSRw4o8HplZq%2Fsv8229hQBQqMs%2BnXX3N0MyCIb9iX7NDWmIfK1IRMttwQvLEdvAktqRG7Rpw%2FGjXCro%2B1B7jlEH%2BlkF8%2BFLC%2BIn8LmGsv%2BVDuWa6G8WDYB74wJ3zvo2K0pP3b%2Bljh%2BaLl2pBUelFfhNcwe9yG4RQzEcPbglkTN06g3DWs4gqNvqF8qaOUEvD7xNdvpjNwcF9oibmx2veQeFo4fCuraCjBTR9U3CXli%2Bov0EF9u%2FS%2BuhqwcP%2FlhyFYokA85GRULZp59f%2F2Q0Ujoz%2FoTdMczURMgJXcZW84cKZMJHMUYoWyilyvpsv1WYeP%2BroRzYdrCPC3nfnfuoNwxmS7AhTecIbMg0fsqLravCVR4XLbwUiWopo6gEs4DMt7rsCt%2FBRgDYrO2ezPWjMQ0eApWe5m3p2AOfQtsTJQnyxEUWKyLtd%2BaDN2T%2FRwh2VoN8Ull0yn8TOJmuLtTJx%2FwCUg%2Fhs4Az7xeW%2BtnewFlkTGcN%2FWltJYTJVpZafWCYbvWHYckhoTUmR7bG2qBLUfQKwEEUc16DCEzYuwBjqxAQl8SU3JtLzfV3t88kSv4GHQJHZjhiK3w%2BiNa1mr0T%2FPG9PndtqQDL1H7pTZAsY3rpQ%2FAgWYNomtppW0N4zZtobCdff0W%2BC3CDP8iJoFWVNZayIRV1o1ASrAPqbJFhhriPbB4M3OCQj2Y0bZ8c%2FbxfyL6cqlRhfPhWYZ5f0rkGprN7s%2BNoeVs9SKHyRq3QplOPht5BKYv1yVAOOhDeQL5RuP3nPqUQ7tmdukaOfKDmfgdw%3D%3D",
+        "updatedAt": "2024-03-26T17:13:42.715Z",
+        "url": "https://cdn-cmp-audio.thruthebible.io/474740aae4fc08b6-01/MAT/MAT.9.mp3",
+        "art_url": "https://cdn-cmp-audio.thruthebible.io/art/MAT.png"
+    }
+]
