@@ -527,6 +527,8 @@
 		29A6F4D42BEACAEC0043FA1B /* Source */ = {
 			isa = PBXGroup;
 			children = (
+				29A6F4F82BEC2C450043FA1B /* default.realm */,
+				29A6F9062BEE31410043FA1B /* Dummy.swift */,
 				29A6F5CA2BEC2C450043FA1B /* Manager */,
 				29A6F4F32BEC2C410043FA1B /* Models */,
 				29A6F5C62BEC2C450043FA1B /* Resources */,
@@ -564,8 +566,6 @@
 		29A6F4F92BEC2C450043FA1B /* DB */ = {
 			isa = PBXGroup;
 			children = (
-				29A6F4F82BEC2C450043FA1B /* default.realm */,
-				29A6F9062BEE31410043FA1B /* Dummy.swift */,
 			);
 			path = DB;
 			sourceTree = "<group>";
