@@ -234,8 +234,6 @@
 		29A6F9032BEC2D2D0043FA1B /* TIT.json in Resources */ = {isa = PBXBuildFile; fileRef = 29A6F83A2BEC2D2D0043FA1B /* TIT.json */; };
 		29A6F9042BEC2D2D0043FA1B /* ZEC.json in Resources */ = {isa = PBXBuildFile; fileRef = 29A6F83B2BEC2D2D0043FA1B /* ZEC.json */; };
 		29A6F9052BEC2D2D0043FA1B /* ZEP.json in Resources */ = {isa = PBXBuildFile; fileRef = 29A6F83C2BEC2D2D0043FA1B /* ZEP.json */; };
-		29A6F9072BEE31410043FA1B /* Dummy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29A6F9062BEE31410043FA1B /* Dummy.swift */; };
-		29A6F9082BEE31410043FA1B /* Dummy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29A6F9062BEE31410043FA1B /* Dummy.swift */; };
 		50ADFF92201F53D600D50D53 /* Plugin.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 50ADFF88201F53D600D50D53 /* Plugin.framework */; };
 		50ADFF97201F53D600D50D53 /* OfflineDBTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50ADFF96201F53D600D50D53 /* OfflineDBTests.swift */; };
 		50ADFF99201F53D600D50D53 /* OfflineDBPlugin.h in Headers */ = {isa = PBXBuildFile; fileRef = 50ADFF8B201F53D600D50D53 /* OfflineDBPlugin.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -473,7 +471,6 @@
 		29A6F83A2BEC2D2D0043FA1B /* TIT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TIT.json; sourceTree = "<group>"; };
 		29A6F83B2BEC2D2D0043FA1B /* ZEC.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ZEC.json; sourceTree = "<group>"; };
 		29A6F83C2BEC2D2D0043FA1B /* ZEP.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ZEP.json; sourceTree = "<group>"; };
-		29A6F9062BEE31410043FA1B /* Dummy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dummy.swift; sourceTree = "<group>"; };
 		3B2A61DA5A1F2DD4F959604D /* Pods_Plugin.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Plugin.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D7693E36B7F68A72F7218B4 /* Pods-OfflineDB.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OfflineDB.debug.xcconfig"; path = "Pods/Target Support Files/Pods-OfflineDB/Pods-OfflineDB.debug.xcconfig"; sourceTree = "<group>"; };
 		50ADFF88201F53D600D50D53 /* Plugin.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Plugin.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -527,8 +524,6 @@
 		29A6F4D42BEACAEC0043FA1B /* Source */ = {
 			isa = PBXGroup;
 			children = (
-				29A6F4F82BEC2C450043FA1B /* default.realm */,
-				29A6F9062BEE31410043FA1B /* Dummy.swift */,
 				29A6F5CA2BEC2C450043FA1B /* Manager */,
 				29A6F4F32BEC2C410043FA1B /* Models */,
 				29A6F5C62BEC2C450043FA1B /* Resources */,
@@ -566,6 +561,7 @@
 		29A6F4F92BEC2C450043FA1B /* DB */ = {
 			isa = PBXGroup;
 			children = (
+				29A6F4F82BEC2C450043FA1B /* default.realm */,
 			);
 			path = DB;
 			sourceTree = "<group>";
@@ -1369,7 +1365,6 @@
 				29A6F5CE2BEC2C450043FA1B /* Book.swift in Sources */,
 				29A6F4DE2BEC2AAA0043FA1B /* SceneDelegate.swift in Sources */,
 				29A6F76E2BEC2C450043FA1B /* BibleDataFromDB.swift in Sources */,
-				29A6F9082BEE31410043FA1B /* Dummy.swift in Sources */,
 				29A6F5D22BEC2C450043FA1B /* RealmObjectMapper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1388,7 +1383,6 @@
 				29A6F5CF2BEC2C450043FA1B /* Chapter.swift in Sources */,
 				29A6F5CB2BEC2C450043FA1B /* Audio.swift in Sources */,
 				50E1A94820377CB70090CE1A /* OfflineDBPlugin.swift in Sources */,
-				29A6F9072BEE31410043FA1B /* Dummy.swift in Sources */,
 				50ADFFA82020EE4F00D50D53 /* OfflineDBPlugin.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
