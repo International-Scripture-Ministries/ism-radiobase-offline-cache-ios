@@ -84,15 +84,16 @@ class BibleDataManager: BibleDataManagerRepresentable {
     
     private func loadUniqueTeachings() {
 
+        var teachingDicto = [String:Teaching]()
         let teachings = realm.objects(Teaching.self)
-        //  Remove duplicated teachings
         teachings.forEach { teaching in
-            if !uniqueTeachings.contains(where: { uTeaching in
-                return uTeaching.uuid == teaching.uuid
-            }) {
-                uniqueTeachings.append(teaching)
-            }
+            teachingDicto[teaching.uuid] = teaching
         }
+        self.uniqueTeachings = Array(teachingDicto.values)
+        
+        print("teachings.count: \(teachings.count)")
+        print("uniqueTeachings.count: \(uniqueTeachings.count)")
+        print("------")
     }
     
     func getAllBooks() -> [String:Any] {
