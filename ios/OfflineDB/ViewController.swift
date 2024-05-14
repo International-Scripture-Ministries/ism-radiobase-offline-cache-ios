@@ -27,12 +27,14 @@ class ViewController: UIViewController {
 //            print("getAllBooks")
 //            _ = BibleDataManager.shared.getAllBooks()
 //
-//            print("getVerses")
-//            _ = BibleDataManager.shared.getVerses(bookId: "EXO", bibleId: "f276be3571f516cb-01", chapterNumber: 5)
-//
-//            print("getBookTeaching")
-//            _ = BibleDataManager.shared.getBookTeaching(bookId: "1CH")
-//
+            print("getVerses start")
+            let verses = BibleDataManager.shared.getVerses(bookId: "GEN", bibleId: "fd1da25634593297-01", chapterNumber: 1)
+            print("verses.count: \(verses.count)")
+
+            print("getBookTeaching start")
+            let bookTeachings = BibleDataManager.shared.getBookTeaching(bookId: "1CH")
+            print("bookTeachings.count: \(bookTeachings.count)")
+
 //            print("getTeaching")
 //            _ = BibleDataManager.shared.getTeaching(bookId: "1CH", teachingUUID: "6f0c75ba-0f7c-4eea-a3d0-1869c0bea637")
 //
