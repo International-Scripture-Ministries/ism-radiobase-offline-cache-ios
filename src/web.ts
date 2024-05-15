@@ -11,63 +11,51 @@ export class OfflineDBWeb extends WebPlugin implements OfflineDBPlugin {
   async getAllBooks(): Promise<{ result: any }> {
     return { result: "" };
   }
-  async getVerses(bookId: string, bibleId: String, chapterNumber: Number): Promise<{ result: any }> {
-    console.log(bookId);
-    console.log(bibleId);
-    console.log(chapterNumber);
+  async getVerses(obj: any): Promise<{ result: any }> {
+    console.log(obj);
     return { result: "" };
   }
-  async getBookTeaching(book_id: string): Promise<{ result: any }> {
-    console.log(book_id);
+  async getBookTeaching(obj: any): Promise<{ result: any }> {
+    console.log(obj);
     return { result: "" };
   }
-  async getTeachings(bible_book: string): Promise<{ result: any }> {
-    console.log(bible_book);
+  async getTeachings(obj: any): Promise<{ result: any }> {
+    console.log(obj);
     return { result: "" };
   }
-  async getTeaching(book_id: string, teaching_uuid: string): Promise<{ result: any }> {
-    console.log(book_id);
-    console.log(teaching_uuid);
+  async getTeaching(obj: any): Promise<{ result: any }> {
+    console.log(obj);
     return { result: "" };
   }
   async getTotalDownloads(): Promise<{ result: any }> {
     return { result: "" };
   }
-  async getDownloadList(book_id: string, file_type: string): Promise<{ result: any }> {
-    console.log(book_id);
-    console.log(file_type);
+  async getDownloadList(obj: any): Promise<{ result: any }> {
+    console.log(obj);
     return { result: "" };
   }
-  async getPercentage(book_id: string, file_type: string): Promise<{ result: any }> {
-    console.log(book_id);
-    console.log(file_type);
+  async getPercentage(obj: any): Promise<{ result: any }> {
+    console.log(obj);
     return { result: "" };
   }
-  async getBookPercentage(file_type: string): Promise<{ result: any }> {
-    console.log(file_type);
+  async getBookPercentage(obj: any): Promise<{ result: any }> {
+    console.log(obj);
     return { result: "" };
   }
-  async updateDownload(file_name: string, local_path: String): Promise<{ result: any }> {
-    console.log(file_name);
-    console.log(local_path);
+  async updateDownload(obj: any): Promise<{ result: any }> {
+    console.log(obj);
     return { result: "" };
   }
-  async deleteDownloads(book_id: string, file_type: String, chapterDownloads: Boolean, studyDownloads: Boolean): Promise<{ result: any }> {
-    console.log(book_id);
-    console.log(file_type);
-    console.log(chapterDownloads);
-    console.log(studyDownloads);
+  async deleteDownloads(obj: any): Promise<{ result: any }> {
+    console.log(obj);
     return { result: "" };
   }
-  async delete(book_id: string, file_type: String, chapter_number: String, uuid: String): Promise<{ result: any }> {
-    console.log(book_id);
-    console.log(file_type);
-    console.log(chapter_number);
-    console.log(uuid);
+  async delete(obj: any): Promise<{ result: any }> {
+    console.log(obj);
     return { result: "" };
   }
-  async getBookDownloads(book_id: string): Promise<{ result: any }> {
-    console.log(book_id);
+  async getBookDownloads(obj: any): Promise<{ result: any }> {
+    console.log(obj);
     return { result: "" };
   }
 }
