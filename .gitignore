@@ -3,6 +3,7 @@ Pods
 Podfile.lock
 Build
 xcuserdata
+node_modules
 
 # macOS files
 .DS_Store
