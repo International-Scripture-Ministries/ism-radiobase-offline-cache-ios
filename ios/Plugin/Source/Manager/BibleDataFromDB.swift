@@ -41,33 +41,17 @@ class BibleDataManager: BibleDataManagerRepresentable {
 
     func setupPrepopulatedDB() -> Bool {
         
-        if self.defaults.bool(forKey: Constants.isPrepopulatedDBExtracted) {
-            print("-----------")
-            print("Pre-populated DB PATH: \(String(describing: Realm.Configuration.defaultConfiguration.fileURL))")
-            print("-----------")
-            self.realm = try! Realm()
-            self.loadUniqueTeachings()
-            return true
-        }
+        self.deleteExistingRealmFiles()
         
+        //  After deleting old realm db, we need to replace it with new one.
         guard let defaultPath = Realm.Configuration.defaultConfiguration.fileURL?.path else {
             fatalError("Can not get default path of Realm to copy db.")
         }
         let path = self.bundle.path(forResource: "default", ofType: "realm")
         
-//        if self.fileManager.fileExists(atPath: defaultPath) {
-//            try? self.fileManager.removeItem(atPath: defaultPath)
-//            let realLockPath = defaultPath + ".lock"
-//            if self.fileManager.fileExists(atPath: realLockPath) {
-//                try? self.fileManager.removeItem(atPath: realLockPath)
-//            }
-//        }
-        
-        if !self.fileManager.fileExists(atPath: defaultPath),
-           let bundledPath = path {
+        if let bundledPath = path {
             do {
                 try self.fileManager.copyItem(atPath: bundledPath, toPath: defaultPath)
-                self.defaults.set(true, forKey: Constants.isPrepopulatedDBExtracted)
                 print("-----------")
                 print("Pre-populated DB PATH: \(String(describing: Realm.Configuration.defaultConfiguration.fileURL))")
                 print("-----------")
@@ -78,10 +62,41 @@ class BibleDataManager: BibleDataManagerRepresentable {
                 fatalError("Error copying pre-populated Realm \(error)")
             }
         }
-
-        fatalError("Another Realm file exists already.")
+        
+        fatalError("Realm db does not exist. Please add default.realm file in the project directory.")
     }
     
+    private func deleteExistingRealmFiles() {
+
+        guard let realmURL = Realm.Configuration.defaultConfiguration.fileURL else {
+            print("Realm file URL not found.")
+            return
+        }
+
+        //  Existing Realm DB found. We can delete it.
+        
+        let fileManager = FileManager.default
+
+        // All related Realm files
+        let realmURLs = [
+            realmURL,
+            realmURL.appendingPathExtension("lock"),
+            realmURL.appendingPathExtension("note"),
+            realmURL.appendingPathExtension("management")
+        ]
+
+        for url in realmURLs {
+            do {
+                if fileManager.fileExists(atPath: url.path) {
+                    try fileManager.removeItem(at: url)
+                    print("Deleted Realm file at: \(url.lastPathComponent)")
+                }
+            } catch {
+                print("Failed to delete Realm file: \(url.lastPathComponent), error: \(error)")
+            }
+        }
+    }
+
     private func loadUniqueTeachings() {
 
         var teachingDicto = [String:Teaching]()
