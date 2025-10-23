@@ -39,6 +39,7 @@ class Teaching: Object, Mappable {
     @objc dynamic var scheduled_date = ""
     @objc dynamic var status = ""
     @objc dynamic var audio_path = ""
+    @objc dynamic var teaching_order = 0
     
     enum CodingKeys: String {
         case art_url
@@ -66,6 +67,7 @@ class Teaching: Object, Mappable {
         case scheduled_date
         case status
         case audio_path
+        case teaching_order
     }
     
     required public override init() {
@@ -108,6 +110,7 @@ class Teaching: Object, Mappable {
         scheduled_date <- map[CodingKeys.scheduled_date.rawValue]
         status <- map[CodingKeys.status.rawValue]
         audio_path <- map[CodingKeys.audio_path.rawValue]
+        teaching_order <- map[CodingKeys.teaching_order.rawValue]
     }
 }
 
@@ -138,6 +141,7 @@ extension Teaching {
         dicto[CodingKeys.scheduled_date.rawValue] = scheduled_date
         dicto[CodingKeys.status.rawValue] = status
         dicto[CodingKeys.audio_path.rawValue] = audio_path
+        dicto[CodingKeys.teaching_order.rawValue] = teaching_order
         return dicto
     }
     
@@ -178,6 +182,7 @@ extension Teaching {
         dicto[CodingKeys.name.rawValue] = name
         dicto[CodingKeys.scheduled_date.rawValue] = scheduled_date
         dicto[CodingKeys.audio_path.rawValue] = audio_path
+        dicto[CodingKeys.teaching_order.rawValue] = teaching_order
         return dicto
     }
 }
